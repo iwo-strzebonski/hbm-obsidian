@@ -8,7 +8,7 @@ aliases:
   - Arkthar
   - Książę Arkthar
 ---
-| **Zdjęcie**             | ![[.jpg\|200]]                                    |
+| **Zdjęcie**             | ![[../../_assets/npc/arkthar/arkthar.png\|200]]                                    |
 | ----------------------- | ------------------------------------------------- |
 | **Imię (imiona)**       | *Arkthar*                                         |
 | **Nazwisko (nazwiska)** | *Dom Tyrris*                                      |

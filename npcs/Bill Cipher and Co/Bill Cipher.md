@@ -3,7 +3,7 @@ tags:
   - npc
   - bill-cipher-and-co
 ---
-| **Zdjęcie** | ![[.jpg\|200]] |
+| **Zdjęcie** | ![[../../_assets/npc/bill-cipher/bill-cipher.webp\|200]] |
 | ---- | ---- |
 | **Imię (imiona)** | *Bill* |
 | **Nazwisko (nazwiska)** | *Cipher* |

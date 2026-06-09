@@ -9,7 +9,7 @@ aliases:
   - Zayis
   - Księżniczka Zayis
 ---
-| **Zdjęcie**             | ![[.jpg\|200]]                                    |
+| **Zdjęcie**             | ![[../../_assets/npc/zayis/zayis.png\|200]]                                    |
 | ----------------------- | ------------------------------------------------- |
 | **Imię (imiona)**       | *Zayis*                                           |
 | **Nazwisko (nazwiska)** | *Dom Veyran*                                      |

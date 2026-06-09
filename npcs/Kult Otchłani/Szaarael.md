@@ -11,7 +11,7 @@ aliases:
   - Sarah Aelle
   - Posłaniec Życia
 ---
-| **Zdjęcie**             | ![[szaarael.jpg\|200]]                                                                   |
+| **Zdjęcie**             | ![[../../_assets/npc/szaarael/szaarael.png\|200]]                                                                   |
 | ----------------------- | ---------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Szaarael (publicznie: Sarah Aelle)*                                                     |
 | **Nazwisko (nazwiska)** | *Aelle (tożsamość publiczna)*                                                            |

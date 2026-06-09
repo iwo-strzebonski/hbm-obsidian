@@ -6,7 +6,7 @@ tags:
   - planeta-xivell
 ---
 
-| **Zdjęcie**                      | ![[xivell.jpg|200]]                                                               |
+| **Zdjęcie**                      | ![[../../_assets/locations/xivell/planet.jpg\|200]]                                                               |
 | -------------------------------- | ---------------------------------------------------------------------------------- |
 | **Rodzaj**                       | *Planeta*                                                                          |
 | **Nazwa oficjalna**              | *Planeta Xivell*                                                                   |

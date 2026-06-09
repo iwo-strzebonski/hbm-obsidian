@@ -4,7 +4,7 @@ tags:
   - "#otchłań"
   - "#kult-otchłani"
 ---
-| **Zdjęcie**         | ![[tempus.jpg\|200]]                                  |
+| **Zdjęcie**         | ![[../../_assets/npc/tempus/tempus.jpg\|200]]                                  |
 | ------------------- | ----------------------------------------------------- |
 | **Imię (imiona)**   | *Tempus*                                              |
 | **Rasa**            | *n/d*                                                 |

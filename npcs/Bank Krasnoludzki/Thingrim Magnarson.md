@@ -7,7 +7,7 @@ tags:
 aliases:
   - Twarz Banku
 ---
-| **Zdjęcie**             | ![[thingrim-magnarson.png\|200]]                                                                                              |
+| **Zdjęcie**             | ![[../../_assets/characters/thingrim_magnarson.webp\|200]]                                                                                              |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Thingrim*                                                                                                                    |
 | **Nazwisko (nazwiska)** | *Magnarson*                                                                                                                   |

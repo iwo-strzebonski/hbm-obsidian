@@ -4,7 +4,7 @@ tags:
   - organizacja
   - planeta-ziemia
 ---
-| **Zdjęcie**                                | ![[british-witch-academy.png\|200]] |
+| **Zdjęcie**                                | ![[../../_assets/locations/earth/british-witch-academy.png\|200]] |
 | ------------------------------------------ | ----------------------------------- |
 | **Nazwa oficjalna**                        | *Brytyjska Akademia Wiedźm*         |
 | **Nazwa potoczna**                         | **                                  |

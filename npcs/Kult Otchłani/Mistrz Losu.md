@@ -5,7 +5,7 @@ tags:
   - kult-otchłani
 ---
 
-| **Zdjęcie**         | ![[fatemaster.jpg\|200]]                              |
+| **Zdjęcie**         | ![[../../_assets/characters/MistrzLosu_Full.webp\|200]] |200]]                              |
 | ------------------- | ----------------------------------------------------- |
 | **Imię (imiona)**   | *Mistrz Losu*                                         |
 | **Rasa**            | *n/d*                                                 |

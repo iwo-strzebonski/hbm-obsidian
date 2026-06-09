@@ -3,7 +3,7 @@ tags:
   - npc
 ---
 
-| **Zdjęcie**             | ![[syllia-orirel.jpg|200]] |
+| **Zdjęcie**             | ![[../../_assets/npc/syllia-orirel/syllia-orirel.png\|200]] |
 |------------------------|----------------------------|
 | **Imię (imiona)**      | Syllia                     |
 | **Nazwisko (nazwiska)**| Orirel                     |

@@ -6,7 +6,7 @@ tags:
   - człowiek
   - nauczyciel
 ---
-| **Zdjęcie**             | ![[.jpg\|200]]                                                                                                  |
+| **Zdjęcie**             | ![[../../_assets/npc/ursula-callistis/ursula-callistis.jpg\|200]]                                                                                                  |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Chariot*                                                                                                       |
 | **Nazwisko (nazwiska)** | *du Nord*                                                                                                       |

@@ -7,7 +7,7 @@ tags:
   - kult-otchłani
   - npc
 ---
-| **Zdjęcie**             | ![[diana-koniecpolska.jpg\|200]]                                                                                               |
+| **Zdjęcie**             | ![[../../_assets/npc/diana-koniecpolska/diana-profile.png\|200]]                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Imię (imiona)**       | *Diana*                                                                                                                        |
 | **Nazwisko (nazwiska)** | *Koniecpolska*                                                                                                                 |

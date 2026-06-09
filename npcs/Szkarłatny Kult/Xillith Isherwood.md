@@ -11,7 +11,7 @@ aliases:
 > [!note] Ujednoznacznienie
 > Ta strona dotyczy **Xillitha Isherwooda** — człowieka, syna i awatara. **Nie mylić z [[Bezimienny, Pierwszy Patriarcha|Bezimiennym / Pierwszym Patriarchą]]** — duchem, który przejął kontrolę nad jego ciałem.
 
-| **Zdjęcie**             | ![[xillith-isherwood.webp\|200]]                                                             |
+| **Zdjęcie**             | ![[../../_assets/npc/xillith-isherwood/xillith-cultist.webp\|200]]                                                             |
 | ----------------------- | -------------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Xillith*                                                                                    |
 | **Nazwisko (nazwiska)** | *Isherwood*                                                                                  |

@@ -8,7 +8,7 @@ tags:
   - sabat
 aliases: []
 ---
-| **Zdjęcie**             | ![[karolina-fey.jpg\|200]]                                                                         |
+| **Zdjęcie**             | ![[../../_assets/characters/KarolinaFey_Full.webp\|200]] ![[../../_assets/characters/KarolinaFey_Side.webp\|200]] |200]]                                                                         |
 | ----------------------- | -------------------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Karolina*                                                                                         |
 | **Nazwisko (nazwiska)** | *Fey*                                                                                              |
