@@ -41,11 +41,11 @@ Inkwizycja dysponuje unikalnymi artefaktami ochronnymi, sigilami, amuletami mask
 Każda operacja Inkwizycji wiąże się z wysokim ryzykiem – zarówno magicznym, jak i politycznym. Demony wyższych poziomów potrafią ukrywać swój potencjał, a kontakt z nimi może prowadzić do poważnych konsekwencji psychicznych i fizycznych dla personelu. Zaleca się szczegółową ocenę potencjału magicznego rozmówców, przygotowanie protokołów awaryjnych oraz dokumentowanie taktyk manipulacji.
 
 > *"Nawet najbardziej 'miłe' istoty o podobnej mocy i umiejętnościach mogą w dowolnym momencie użyć mocy w sposób destrukcyjny, zagrażając bezpieczeństwu personelu i infrastruktury."*  
-> — Notatka operacyjna po wywiadzie z demonem ósmego stopnia
+> - Notatka operacyjna po wywiadzie z demonem ósmego stopnia
 
 ### Cytaty i fragmenty raportów
 > *"Nie wolno lekceważyć ryzyka – obecne w każdym działaniu. Konsekwencje polityczne należy ważyć przy każdej decyzji. Dyskrecja pozostaje absolutnym wymogiem. Amulety i sigile są nieodzownym narzędziem, gwarancją bezpieczeństwa w terenie."*  
-> — Notatki Wielkiego Inkwizytora
+> - Notatki Wielkiego Inkwizytora
 
 ### Wskazówki dla Mistrza Gry
 Inkwizycja to organizacja, która może być zarówno sprzymierzeńcem, jak i antagonistą dla postaci graczy. Jej działania są nieprzewidywalne, a motywacje często niejasne. Wprowadzenie Inkwizycji do kampanii pozwala na budowanie intryg, śledztw i konfliktów na styku magii, polityki i tajemnicy. Każdy kontakt z Inkwizycją powinien być okazją do podkreślenia ryzyka, profesjonalizmu i bezwzględności tej organizacji.

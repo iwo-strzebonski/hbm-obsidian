@@ -84,7 +84,7 @@ description: >-
 
 
   Requiem zawsze było zarówno narzędziem destrukcji, jak i rozłamu
-  rzeczywistości — halabarda powstająca z esencji “Szkarłatnego Wymiaru” nie
+  rzeczywistości - halabarda powstająca z esencji “Szkarłatnego Wymiaru” nie
   tylko umożliwia wtargnięcie w centrum bitwy, ale natychmiast wywołuje falę
   energii dezorganizującą, rozbijającą linie wroga i uderzającą w samą
   czasoprzestrzeń. Pozostaje symbolem siły Kultu i jego destruktywnego
@@ -104,4 +104,4 @@ W miejscu wbicia tworzy się trwały energetyczny obelisk (Szkarłatny Znak), dz
 
 Uczestnicy rytuału podlegają “szkarłatnym snom” przez 7 dni, a ponadto wszystkie zaklęcia nienależące do dziedziny Magii Szkarłatu przez ten czas wymagają 3 Sukcesów więcej. “Szkarłatne sny” wpływają na zachowanie postaci (Mistrz Gry decyduje, czy da się uniknąć wykonywania poleceń “szeptów”).
 
-Requiem zawsze było zarówno narzędziem destrukcji, jak i rozłamu rzeczywistości — halabarda powstająca z esencji “Szkarłatnego Wymiaru” nie tylko umożliwia wtargnięcie w centrum bitwy, ale natychmiast wywołuje falę energii dezorganizującą, rozbijającą linie wroga i uderzającą w samą czasoprzestrzeń. Pozostaje symbolem siły Kultu i jego destruktywnego potencjału.
+Requiem zawsze było zarówno narzędziem destrukcji, jak i rozłamu rzeczywistości - halabarda powstająca z esencji “Szkarłatnego Wymiaru” nie tylko umożliwia wtargnięcie w centrum bitwy, ale natychmiast wywołuje falę energii dezorganizującą, rozbijającą linie wroga i uderzającą w samą czasoprzestrzeń. Pozostaje symbolem siły Kultu i jego destruktywnego potencjału.

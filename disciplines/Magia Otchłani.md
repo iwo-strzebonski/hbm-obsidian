@@ -8,7 +8,7 @@ tags:
 # Magia Otchłani
 
 ## Definicja
-Magia Otchłani to zakazana i niezwykle niebezpieczna dyscyplina magii czerpiąca moc bezpośrednio z Otchłani — pramaterii chaosu i nicości. Pozwala na łamanie praw rzeczywistości, manipulację czasem, przestrzenią i istnieniem, ale zawsze niesie ryzyko skażenia i szaleństwa.
+Magia Otchłani to zakazana i niezwykle niebezpieczna dyscyplina magii czerpiąca moc bezpośrednio z Otchłani - pramaterii chaosu i nicości. Pozwala na łamanie praw rzeczywistości, manipulację czasem, przestrzenią i istnieniem, ale zawsze niesie ryzyko skażenia i szaleństwa.
 
 ## Historia szkoły
 Pierwsze eksperymenty z magią Otchłani sięgają czasów Przebudzenia, gdy magowie próbowali ujarzmić siły spoza znanego świata. Większość wiedzy została zniszczona lub ukryta przez Inkwizycję po katastrofach, które niemal zniszczyły cywilizację. Obecnie praktykowana wyłącznie przez kultystów i szaleńców.
@@ -18,11 +18,11 @@ Praktycy magii Otchłani wierzą, że prawdziwa moc leży poza granicami znanego
 
 Wśród magów Otchłani istnieje fundamentalna schizma filozoficzna dotycząca sposobu obcowania z Otchłanią:
 
-**Szkoła Harmonizacji (harmonizacja)** — wyznawcy twierdzą, że Otchłań należy błagać, uspokajać i z nią współpracować. Magia polega na wygaszaniu napięcia między rzeczywistością a Otchłanią poprzez rytuały błagalne, dary i kontrakty. Podejście to jest bezpieczniejsze, lecz ogranicza zakres możliwej magii — mag staje się pośrednikiem, nie panem.
+**Szkoła Harmonizacji (harmonizacja)** - wyznawcy twierdzą, że Otchłań należy błagać, uspokajać i z nią współpracować. Magia polega na wygaszaniu napięcia między rzeczywistością a Otchłanią poprzez rytuały błagalne, dary i kontrakty. Podejście to jest bezpieczniejsze, lecz ogranicza zakres możliwej magii - mag staje się pośrednikiem, nie panem.
 
-**Szkoła Rozkazywania (komandowanie)** — wyznawcy uważają, że Otchłań należy ujarzmić i podporządkować woli maga. Zamiast prosić, narzucają swoją wolę siłom chaosu. Podejście to daje nieporównywalnie większą moc, ale grozi spaczeniem, utratą kontroli i katastrofą na skalę planetarną. Praktycy tej szkoły są znacznie rzadsi i niebezpieczniejsi.
+**Szkoła Rozkazywania (komandowanie)** - wyznawcy uważają, że Otchłań należy ujarzmić i podporządkować woli maga. Zamiast prosić, narzucają swoją wolę siłom chaosu. Podejście to daje nieporównywalnie większą moc, ale grozi spaczeniem, utratą kontroli i katastrofą na skalę planetarną. Praktycy tej szkoły są znacznie rzadsi i niebezpieczniejsi.
 
-Najbardziej jaskrawym przykładem tej schizmy jest przypadek [[Karolina Fey|Karoliny Fey]] i jej matki — harmonizatorki. Karolina odrzuciła doktrynę matki i pokonała ją metodą komandowania, unicestwiając ją dosłownie: ciało i duszę. Sabat Otchłani podąża za nią z czystego strachu.
+Najbardziej jaskrawym przykładem tej schizmy jest przypadek [[Karolina Fey|Karoliny Fey]] i jej matki - harmonizatorki. Karolina odrzuciła doktrynę matki i pokonała ją metodą komandowania, unicestwiając ją dosłownie: ciało i duszę. Sabat Otchłani podąża za nią z czystego strachu.
 
 
 ## Poddyscypliny

@@ -8,13 +8,13 @@ tags:
 # Magia Runiczna
 
 ## Definicja
-Magia Runiczna to dyscyplina oparta na tworzeniu, aktywacji i łamaniu run — magicznych symboli, pieczęci i inskrypcji. Pozwala na trwałe zaklinanie przedmiotów, ochronę miejsc, wzmacnianie zaklęć oraz tworzenie pułapek i barier.
+Magia Runiczna to dyscyplina oparta na tworzeniu, aktywacji i łamaniu run - magicznych symboli, pieczęci i inskrypcji. Pozwala na trwałe zaklinanie przedmiotów, ochronę miejsc, wzmacnianie zaklęć oraz tworzenie pułapek i barier.
 
 ## Historia szkoły
 Wywodzi się z tradycji krasnoludów i starożytnych cywilizacji, które jako pierwsze odkryły moc symboli. Z czasem runy stały się uniwersalnym językiem magii, wykorzystywanym przez magów różnych ras. Współcześnie nauczana w wielu szkołach Wielkiej Trzynastki, szczególnie wśród krasnoludów i ludzi.
 
 ## Filozofia i założenia
-Runy są postrzegane jako pierwotny język rzeczywistości — zapis praw magii i materii. Mag runiczny wierzy, że odpowiedni symbol może zmienić naturę rzeczy, a precyzja i zrozumienie są ważniejsze niż surowa moc.
+Runy są postrzegane jako pierwotny język rzeczywistości - zapis praw magii i materii. Mag runiczny wierzy, że odpowiedni symbol może zmienić naturę rzeczy, a precyzja i zrozumienie są ważniejsze niż surowa moc.
 
 ## Poddyscypliny
 - Zaklinanie przedmiotów
@@ -26,7 +26,7 @@ Runy są postrzegane jako pierwotny język rzeczywistości — zapis praw magii 
 - [[Thingrim Magnarson]] (krasnoludzki mistrz run, twórca legendarnych artefaktów)
 
 ## Status prawny (Inkwizycja)
-Magia runiczna jest legalna, ale podlega ścisłej kontroli — szczególnie w zakresie zaklinania broni, tworzenia pułapek i zabezpieczeń. Nielegalne są runy destabilizujące rzeczywistość lub łamiące bariery między światami.
+Magia runiczna jest legalna, ale podlega ścisłej kontroli - szczególnie w zakresie zaklinania broni, tworzenia pułapek i zabezpieczeń. Nielegalne są runy destabilizujące rzeczywistość lub łamiące bariery między światami.
 
 ## Mechanika
 Mag runiczny może tworzyć trwałe efekty, wzmacniać zaklęcia, zabezpieczać miejsca i przedmioty. Runy wymagają czasu, precyzji i odpowiednich materiałów. Szczegóły: patrz [[HbM RPG v3 - Księga Magii]].

@@ -265,7 +265,7 @@ Gdy przeciwnik użyje Kości Losu przeciwko postaci, postać może poświęcić 
 ---
 
 *"Los sprzyja odważnym - ale mądrzy noszą ze sobą trochę losu w kieszeni."*
-— Anonimowy hazardzista z kasyna Czerwonej Róży w Berlinie
+- Anonimowy hazardzista z kasyna Czerwonej Róży w Berlinie
 
 ---
 

@@ -7,7 +7,7 @@ tags:
   - uczeń
 ---
 
-| **Zdjęcie**             | ![[.jpg\|200]]                               |
+| **Zdjęcie**             | ![[../../_assets/characters/AnnaHeide_Full.webp\|200]] |
 | ----------------------- | -------------------------------------------- |
 | **Imię (imiona)**       | *Anna*                                       |
 | **Nazwisko (nazwiska)** | *Heide*                                      |

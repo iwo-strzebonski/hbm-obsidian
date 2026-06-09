@@ -39,15 +39,15 @@ Krasnoludy są mistrzami magii runicznej i ochronnej. Są odporne na spaczenie O
 
 ## Magia
 
-Krasnoludy mają naturalne powinowactwo z [[Magia Runiczna|Magią Runiczną]] — ich tradycja runów sięga tysięcy lat wstecz, zanim jeszcze Przebudzenie Magii dotknęło Ziemię. Runy są dla Krasnoluda czymś więcej niż zaklęciami: są pismem, historią, kontraktem z materiałem. Każdy rzemieślnik zna przynajmniej podstawowe runy wzmocnienia i trwałości; mistrzowie runów są kapłanami tak samo jak magami.
+Krasnoludy mają naturalne powinowactwo z [[Magia Runiczna|Magią Runiczną]] - ich tradycja runów sięga tysięcy lat wstecz, zanim jeszcze Przebudzenie Magii dotknęło Ziemię. Runy są dla Krasnoluda czymś więcej niż zaklęciami: są pismem, historią, kontraktem z materiałem. Każdy rzemieślnik zna przynajmniej podstawowe runy wzmocnienia i trwałości; mistrzowie runów są kapłanami tak samo jak magami.
 
-Poza Magią Runiczną, Krasnoludy rzadko specjalizują się w innych szkołach — uznają większość ludzkiej magii za „zbyt ulotną”. Wyjątkiem jest [[Rzemiosło Artefaktów]], w którym krasnoludcy mistrzowie rywalizują z najlepszymi ludzkimi artefaktorami.
+Poza Magią Runiczną, Krasnoludy rzadko specjalizują się w innych szkołach - uznają większość ludzkiej magii za „zbyt ulotną”. Wyjątkiem jest [[Rzemiosło Artefaktów]], w którym krasnoludcy mistrzowie rywalizują z najlepszymi ludzkimi artefaktorami.
 
 ## Krasnoludy w świecie HbM
 
 Na Ziemi (Sol-3-1725), Krasnoludy zamieszkują głównie podziemne obszary górskie, z największymi enklawami w Karpatach i Alpach. Zachowują neutralność polityczną, choć sprzedają swoje rzemiosło wszystkim stronom konfliktu.
 
-Na Xivell, Krasnoludy związane są z twierdzą [[Khazad-Morul]] — jednym z ostatnich bastionów klanowej tradycji w kosmosie.
+Na Xivell, Krasnoludy związane są z twierdzą [[Khazad-Morul]] - jednym z ostatnich bastionów klanowej tradycji w kosmosie.
 
 Technologicznie, Krasnoludy odpowiadają poziomowi 5–6 według [[Tabela poziomów technologii|Tabeli porównawczej poziomu technologii]], z enklawami na wyższym poziomie dzięki dostępowi do artefaktów.
 

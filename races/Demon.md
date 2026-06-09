@@ -7,10 +7,10 @@ tags:
 # Demon
 
 ## Krótki opis
-Demony to istoty pochodzące z Otchłani lub powstałe w wyniku jej wpływu na świat materialny. Są niezwykle różnorodne — od niskich impów po potężnych Książąt i Awatarów Bóstw Zła. Część demonów żyje wśród innych ras, ukrywając swoją prawdziwą naturę.
+Demony to istoty pochodzące z Otchłani lub powstałe w wyniku jej wpływu na świat materialny. Są niezwykle różnorodne - od niskich impów po potężnych Książąt i Awatarów Bóstw Zła. Część demonów żyje wśród innych ras, ukrywając swoją prawdziwą naturę.
 
 ## Biologia i morfologia
-Demony nie mają jednej formy — mogą być humanoidalne, zwierzęce lub całkowicie obce. Często posiadają rogi, ogony, skrzydła, nietypowe oczy i skórę w nienaturalnych barwach. Ich długość życia jest praktycznie nieograniczona, choć mogą zginąć w walce lub w wyniku egzorcyzmu.
+Demony nie mają jednej formy - mogą być humanoidalne, zwierzęce lub całkowicie obce. Często posiadają rogi, ogony, skrzydła, nietypowe oczy i skórę w nienaturalnych barwach. Ich długość życia jest praktycznie nieograniczona, choć mogą zginąć w walce lub w wyniku egzorcyzmu.
 
 ## Kultura
 Kultura demonów jest zróżnicowana: od dworów Książąt Otchłani po ukryte społeczności wśród ludzi. Wysoko postawione demony tworzą hierarchiczne struktury oparte na sile, magii i intrygach. Niższe demony często służą potężniejszym.
@@ -45,4 +45,4 @@ Poziom mocy może być wyższy w przypadku potomków wyżej postawionych demonó
 
 ## Hooki dla MG
 > [!gm]+ Tylko dla MG
-> Demony są idealne do wątków intryg, ukrytej tożsamości i konfliktów z egzorcystami. Poziomy demonów pozwalają na skalowanie wyzwań i fabularnych zagrożeń. Narcyza Eleness Zurbach może być zarówno sprzymierzeńcem, jak i przeciwnikiem — jej pochodzenie daje jej unikalną pozycję w świecie.
+> Demony są idealne do wątków intryg, ukrytej tożsamości i konfliktów z egzorcystami. Poziomy demonów pozwalają na skalowanie wyzwań i fabularnych zagrożeń. Narcyza Eleness Zurbach może być zarówno sprzymierzeńcem, jak i przeciwnikiem - jej pochodzenie daje jej unikalną pozycję w świecie.

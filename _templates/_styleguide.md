@@ -15,9 +15,9 @@
   Tajne informacje, spoilery, sekrety, mechanika, plot-twisty.
 - **GM callout** powinien być zawsze na końcu pliku lub sekcji, do której się odnosi.
 - **Podział treści:**
-  - concepts/ — krótkie definicje, encyklopedyczne
-  - lore/ — dłuższe eseje, narracja, głębia świata
-  - discipline/, races/, organizations/ — pełne szablony
+  - concepts/ - krótkie definicje, encyklopedyczne
+  - lore/ - dłuższe eseje, narracja, głębia świata
+  - discipline/, races/, organizations/ - pełne szablony
 - **Przykład calloutu:**
 
 > [!gm]+ Tylko dla MG
@@ -39,5 +39,5 @@ status: draft
 ---
 
 ## FAQ
-- Jeśli nie wiesz, gdzie coś umieścić — stwórz stub i oznacz status: draft.
-- Jeśli masz wątpliwości co do kanonu — sprawdź plan lore lub zapytaj głównego redaktora - człowieka.
+- Jeśli nie wiesz, gdzie coś umieścić - stwórz stub i oznacz status: draft.
+- Jeśli masz wątpliwości co do kanonu - sprawdź plan lore lub zapytaj głównego redaktora - człowieka.

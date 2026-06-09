@@ -10,7 +10,7 @@ aliases:
   - Aurora Nylabelle
   - Księżniczka Aurora
 ---
-| **Zdjęcie**             | ![[.jpg\|200]]                                                                                                                                         |
+| **Zdjęcie**             | ![[../../_assets/characters/Aurora_Full.webp\|200]] |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Imię (imiona)**       | *Aurora*                                                                                                                                               |
 | **Nazwisko (nazwiska)** | *Nylabelle*                                                                                                                                            |

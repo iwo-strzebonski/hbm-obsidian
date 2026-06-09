@@ -13,10 +13,10 @@ Otchłań to zarówno pierwotna siła kosmiczna, jak i fundamentalne prawo rzecz
 Nazwa "Otchłań" wywodzi się z dawnych mitów o bezkresnej pustce i chaosie poprzedzającym powstanie świata. W tradycji magicznej utożsamiana była z miejscem, z którego wywodzą się wszelkie moce i anomalie.
 
 ## Nowy kanon: Otchłań jako byt i prawo
-Dawniej Otchłań była pojmowana wyłącznie jako siła lub miejsce. Obecnie wiadomo, że była także świadomą istotą — pierwotną Personifikacją, która w akcie rozszczepienia podzieliła się na trzy byty:
+Dawniej Otchłań była pojmowana wyłącznie jako siła lub miejsce. Obecnie wiadomo, że była także świadomą istotą - pierwotną Personifikacją, która w akcie rozszczepienia podzieliła się na trzy byty:
 - **Nil** (Przeszłość i Przyszłość)
 - **Mundus** (Życie i Teraźniejszość)
-- **Tempus** (Czas — kierunek biegu)
+- **Tempus** (Czas - kierunek biegu)
 
 Nil, Mundus i Tempus nie są awatarami, lecz fragmentami świadomości Otchłani. Najstarszą z tych istot jest Nil, będący pozostałością pierwotnej Otchłani. Każda z Personifikacji zachowała własną wolę i domenę, a ich działania kształtują losy wszechświata.
 

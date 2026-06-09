@@ -5,17 +5,17 @@ tags:
   - kult-otchłani
 ---
 
-| **Zdjęcie**         | ![[../../_assets/characters/MistrzLosu_Full.webp\|200]] |200]]                              |
-| ------------------- | ----------------------------------------------------- |
-| **Imię (imiona)**   | *Mistrz Losu*                                         |
-| **Rasa**            | *n/d*                                                 |
-| **Wiek**            | *n/d - co najmniej kilka tysięcy lat*                 |
-| **Wzrost**          | *ok. 2 m*                                             |
-| **Dziedzina Magii** | *[[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]* |
-| **Organizacje**     | *[[Kult Otchłani]]*                                   |
-| **Pseudonim(y)**    | **                                                    |
-| **Tytuł(y)**        | **                                                    |
-| **Charakter**       | **                                                    |
+| **Zdjęcie**         | ![[../../_assets/npc/fate-loremaster/fate-loremaster.webp\|200]] |
+| ------------------- | ---------------------------------------------------------------- |
+| **Imię (imiona)**   | *Mistrz Losu*                                                    |
+| **Rasa**            | *n/d*                                                            |
+| **Wiek**            | *n/d - co najmniej kilka tysięcy lat*                            |
+| **Wzrost**          | *ok. 2 m*                                                        |
+| **Dziedzina Magii** | *[[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]*            |
+| **Organizacje**     | *[[Kult Otchłani]]*                                              |
+| **Pseudonim(y)**    | *<ul><li>Los</li></ul>*                                                               |
+| **Tytuł(y)**        | **                                                               |
+| **Charakter**       | **                                                               |
 
 Tajemniczy długowłosy szatyn w okularach o srebrnych oprawkach, czasem odziany w czarny, gwieździsty garnitur, a czasem w kalejdoskopowe szaty, który białym, iskrzącym się atramentem pisze piórem łabędzim w czarnym notatniku.
 

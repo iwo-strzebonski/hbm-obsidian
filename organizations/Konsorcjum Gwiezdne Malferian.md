@@ -13,7 +13,7 @@ aliases:
 | **Data powstania**            | *Nieznana (prehistoryczna według ludzkiego kalendarza)*                                                                                                                                                               |
 | **Założyciel(e)**             | *Cztery Wielkie Domy Malferian: Dom Tyrris, Dom Veyran, Dom Kael, Dom Serath*                                                                                                                                         |
 | **Siedziba**                  | *Homeworld Malferian (lokalizacja tajna)*                                                                                                                                                                             |
-| **Status**                    | *Aktywne — znacznie osłabione po Pierwszej Wojnie z Federacją Sol-3*                                                                                                                                                  |
+| **Status**                    | *Aktywne - znacznie osłabione po Pierwszej Wojnie z Federacją Sol-3*                                                                                                                                                  |
 | **Szacowana liczba członków** | *Do [[Pierwsza Wojna Federacji Sol-3 i Malferian\|Pierwszej Wojny]]: dwanaście układów planetarnych. Po zakończeniu: pięć układów, w tym dwa kompletnie niezdatne do zamieszkania*                                    |
 | **Przywódca(cy)**             | *Rada Czterech Domów (Dom Tyrris, Dom Veyran, Dom Kael, Dom Serath)*                                                                                                                                                  |
 | **Ważniejsi członkowie**      | *[[Princess Zayis]] (Dom Veyran), [[Prince Arkthar]] (Dom Tyrris)*                                                                                                                                                    |
@@ -27,10 +27,10 @@ Pierwsze Konsorcjum Gwiezdne Malferian to konfederacja czterech arystokratycznyc
 
 Konsorcjum rządzone jest przez cztery równorzędne Wielkie Domy, z których każdy kontroluje odrębną domenę wpływów i specjalizację magiczną:
 
-- **Dom Tyrris** — ród wojowników i strategów. Specjalizacja: magia bojowa i kontrola flot wojennych. Przedstawiciel: [[Prince Arkthar]].
-- **Dom Veyran** — ród dyplomatów i szpiegów. Specjalizacja: magia iluzji, psychomagia, wywiad. Przedstawicielka: [[Princess Zayis]].
-- **Dom Kael** — ród alchemików i badaczy. Specjalizacja: transmutacja, artefakty, wiedza starożytna.
-- **Dom Serath** — ród kapłanów i mistyków. Specjalizacja: rytuały grandiozy, kontakt z bytami z pogranicza wymiarów.
+- **Dom Tyrris** - ród wojowników i strategów. Specjalizacja: magia bojowa i kontrola flot wojennych. Przedstawiciel: [[Prince Arkthar]].
+- **Dom Veyran** - ród dyplomatów i szpiegów. Specjalizacja: magia iluzji, psychomagia, wywiad. Przedstawicielka: [[Princess Zayis]].
+- **Dom Kael** - ród alchemików i badaczy. Specjalizacja: transmutacja, artefakty, wiedza starożytna.
+- **Dom Serath** - ród kapłanów i mistyków. Specjalizacja: rytuały grandiozy, kontakt z bytami z pogranicza wymiarów.
 
 ## Pierwsza Wojna z Federacją Sol-3
 
@@ -42,7 +42,7 @@ Malferianie stoją na poziomie technologicznym 8+ (patrz: [[Tabela poziomów tec
 
 ## Relacje z innymi frakcjami
 
-Konsorcjum prowadzi ograniczoną dyplomację z [[Federacja Sol-3|Federacją Sol-3]] po zakończeniu Pierwszej Wojny. Wewnętrznie napięcia między Domami narastają — różne domy mają odmienne wizje odbudowy i ewentualnej rewanżu.
+Konsorcjum prowadzi ograniczoną dyplomację z [[Federacja Sol-3|Federacją Sol-3]] po zakończeniu Pierwszej Wojny. Wewnętrznie napięcia między Domami narastają - różne domy mają odmienne wizje odbudowy i ewentualnej rewanżu.
 
 > [!gm]+ Tylko dla MG
 >

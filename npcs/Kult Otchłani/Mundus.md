@@ -4,7 +4,7 @@ tags:
   - "#otchłań"
   - "#kult-otchłani"
 ---
-| **Zdjęcie**         | ![[../../_assets/npc/mundus/mundus.jpg\|200]]                                  |
+| **Zdjęcie**         | ![[../../_assets/npc/mundus/mundus.jpg\|200]]         |
 | ------------------- | ----------------------------------------------------- |
 | **Imię (imiona)**   | *Mundus*                                              |
 | **Rasa**            | *n/d*                                                 |

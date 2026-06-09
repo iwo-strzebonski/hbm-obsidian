@@ -7,19 +7,19 @@ tags:
 aliases:
   - Twarz Banku
 ---
-| **Zdjęcie**             | ![[../../_assets/characters/thingrim_magnarson.webp\|200]]                                                                                              |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Imię (imiona)**       | *Thingrim*                                                                                                                    |
-| **Nazwisko (nazwiska)** | *Magnarson*                                                                                                                   |
-| **Rasa**                | *[[Krasnolud]]*                                                                                                               |
-| **Wiek**                | *247 lat*                                                                                                                     |
-| **Wzrost**              | *140 cm*                                                                                                                      |
-| **Dziedzina Magii**     | *[[Magia Runiczna]], [[Rzemiosło Artefaktów]]*                                                                                |
-| **Organizacje**         | *<ul><li>[[Bank Krasnoludzki]] (Khazad-Aurum)</li><li>Klan Złotego Młota</li></ul>*                                           |
-| **Pseudonim(y)**        | *Twarz Banku*                                                                                                                 |
-| **Tytuł(y)**            | *Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, Mistrz Run*                                                           |
-| **Charakter**           | *Praworządny Neutralny / Pragmatyczny*                                                                                        |
-| **Status**              | *Żyje*                                                                                                                        |
+| **Zdjęcie**             | ![[../../_assets/npc/thingrim-magnarson/thingrim-magnarson.webp\|200]]              |
+| ----------------------- | ----------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Thingrim*                                                                          |
+| **Nazwisko (nazwiska)** | *Magnarson*                                                                         |
+| **Rasa**                | *[[Krasnolud]]*                                                                     |
+| **Wiek**                | *247 lat*                                                                           |
+| **Wzrost**              | *140 cm*                                                                            |
+| **Dziedzina Magii**     | *[[Magia Runiczna]], [[Rzemiosło Artefaktów]]*                                      |
+| **Organizacje**         | *<ul><li>[[Bank Krasnoludzki]] (Khazad-Aurum)</li><li>Klan Złotego Młota</li></ul>* |
+| **Pseudonim(y)**        | *Twarz Banku*                                                                       |
+| **Tytuł(y)**            | *Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, Mistrz Run*                 |
+| **Charakter**           | *Praworządny Neutralny / Pragmatyczny*                                              |
+| **Status**              | *Żyje*                                                                              |
 
 ## Opis
 
@@ -43,7 +43,7 @@ Thingrim jest również znanym mecenasem sztuk magicznych. Pod jego patronatem B
 > 
 > Thingrim Magnarson to kluczowy łącznik polityczno-gospodarczy w kampanii. Reprezentuje stabilność finansową i chłodną kalkulację Banku, dbając o to, by magowie i rządy Ziemi spłacały swoje zobowiązania.
 > 
-> - **Przysięga Złota (Gold Oath):** Thingrim osobiście nadzoruje magiczne rytuały Przysięgi Złota dla kluczowych kredytobiorców. Naruszenie takiej przysięgi uruchamia runy połączone z jego własną zbroją, co pozwala mu na natychmiastową lokalizację dłużnika i egzekucję należności wszelkimi niezbędnymi środkami.
+> - **Przysięga Złota:** Thingrim osobiście nadzoruje magiczne rytuały Przysięgi Złota dla kluczowych kredytobiorców. Naruszenie takiej przysięgi uruchamia runy połączone z jego własną zbroją, co pozwala mu na natychmiastową lokalizację dłużnika i egzekucję należności wszelkimi niezbędnymi środkami.
 > - **Zbroja runiczna:** Jego zbroja nie jest na pokaz. To potężny artefakt bojowy stworzony przez niego samego i mistrzów Klanu Złotego Młota, chroniący go przed magią umysłu, zamachami i bezpośrednimi atakami fizycznymi.
 > 
 > ### Hooki fabularne

@@ -7,7 +7,7 @@ tags:
 # Anioł
 
 ## Krótki opis
-Anioły to istoty pochodzące z wyższych wymiarów lub powołane przez bóstwa. Są symbolem czystości, ładu i opieki, choć nie wszystkie anioły są „dobre” — ich lojalność zależy od patrona.
+Anioły to istoty pochodzące z wyższych wymiarów lub powołane przez bóstwa. Są symbolem czystości, ładu i opieki, choć nie wszystkie anioły są „dobre” - ich lojalność zależy od patrona.
 
 ## Biologia i morfologia
 Anioły mają humanoidalną postać, często z białymi lub złotymi skrzydłami, świetlistą aurą i doskonałymi rysami twarzy. Nie starzeją się, mogą zmieniać formę, a ich ciała są odporne na większość chorób i trucizn.

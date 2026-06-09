@@ -10,7 +10,7 @@ status: draft
 Era Przebudzenia (EP) to oficjalny system datowania używany w świecie HbM RPG v3, liczony od dnia Przebudzenia Magii: 16.04.2023 (EP 0). Każdy kolejny rok to EP 1, EP 2 itd. Aktualny rok to 2026 (EP 3).
 
 ## Etymologia / Pochodzenie nazwy
-Nazwa pochodzi od przełomowego wydarzenia — Przebudzenia Magii, które odmieniło świat i zapoczątkowało nową erę w historii ludzkości.
+Nazwa pochodzi od przełomowego wydarzenia - Przebudzenia Magii, które odmieniło świat i zapoczątkowało nową erę w historii ludzkości.
 
 ## Zasady zapisu dat
 - Data zapisywana jest w formacie: DD.MM.RRRR (EP X)

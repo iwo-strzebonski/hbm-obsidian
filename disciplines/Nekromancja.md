@@ -14,7 +14,7 @@ Nekromancja to dyscyplina magii skupiona na śmierci, duszach, nieumarłych i ko
 Nekromancja wywodzi się z pradawnych rytuałów pogrzebowych i kultów przodków. Wraz z rozwojem magii, nekromanci zaczęli badać naturę duszy, śmierci i możliwości powrotu zmarłych. Współcześnie nekromancja jest nauczana w wybranych szkołach Wielkiej Trzynastki, choć jej praktyka bywa kontrowersyjna.
 
 ## Filozofia i założenia
-Nekromanci wierzą, że śmierć jest naturalną częścią cyklu istnienia, a zrozumienie jej mechanizmów pozwala lepiej chronić życie. Dla niektórych to droga do nieśmiertelności, dla innych — narzędzie do walki z nadnaturalnymi zagrożeniami.
+Nekromanci wierzą, że śmierć jest naturalną częścią cyklu istnienia, a zrozumienie jej mechanizmów pozwala lepiej chronić życie. Dla niektórych to droga do nieśmiertelności, dla innych - narzędzie do walki z nadnaturalnymi zagrożeniami.
 
 ## Poddyscypliny
 - Animacja nieumarłych

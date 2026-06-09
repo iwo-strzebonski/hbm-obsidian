@@ -8,15 +8,15 @@ status: draft
 # Posłańcy Otchłani (Harbringers of the Abyss)
 
 ## Definicja
-Posłańcy Otchłani to śmiertelnicy wybrani przez jedną z trzech Personifikacji Otchłani — Nil, Mundus lub Tempusa — jako Awatara. Każda Personifikacja Otchłani posiada zawsze dwóch Posłańców, którzy działają jako jej narzędzie, głos i wykonawca w świecie materialnym.
+Posłańcy Otchłani to śmiertelnicy wybrani przez jedną z trzech Personifikacji Otchłani - Nil, Mundus lub Tempusa - jako Awatara. Każda Personifikacja Otchłani posiada zawsze dwóch Posłańców, którzy działają jako jej narzędzie, głos i wykonawca w świecie materialnym.
 
 ## Rola i znaczenie
-Posłańcy Otchłani są pośrednikami między wolą swojej Personifikacji a światem śmiertelników. Otrzymują fragment jej mocy, wizje i zadania, które często wykraczają poza ludzkie pojmowanie. Ich działania mogą prowadzić do wielkich zmian, katastrof lub odkupienia — zależnie od natury Personifikacji i własnych wyborów.
+Posłańcy Otchłani są pośrednikami między wolą swojej Personifikacji a światem śmiertelników. Otrzymują fragment jej mocy, wizje i zadania, które często wykraczają poza ludzkie pojmowanie. Ich działania mogą prowadzić do wielkich zmian, katastrof lub odkupienia - zależnie od natury Personifikacji i własnych wyborów.
 
 ## Struktura
-- Nil — 2 Posłańców
-- Mundus — 2 Posłańców
-- Tempus — 2 Posłańców
+- Nil - 2 Posłańców
+- Mundus - 2 Posłańców
+- Tempus - 2 Posłańców
 
 
 ## Znani Posłańcy

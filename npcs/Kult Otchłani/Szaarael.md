@@ -28,17 +28,17 @@ aliases:
 
 ## Opis
 
-Publicznie znana jako **Sarah Aelle** — charyzmatyczna polityczka, wiceprezydent Stanów Zjednoczonych od 2026 roku. Jej kariera została zbudowana na platformie „postępu biologicznego”: opowiada się za swobodnym rozwojem biotechnologii, GMO nowej generacji, modyfikacją ludzkich genów w służbie długowieczności i adaptacji do zmian klimatycznych. Jej przemowy są porywające, logiczne i pełne prawdziwej troski o życie — bo Szaarael naprawdę wierzy w życie i wzrost.
+Publicznie znana jako **Sarah Aelle** - charyzmatyczna polityczka, wiceprezydent Stanów Zjednoczonych od 2026 roku. Jej kariera została zbudowana na platformie „postępu biologicznego”: opowiada się za swobodnym rozwojem biotechnologii, GMO nowej generacji, modyfikacją ludzkich genów w służbie długowieczności i adaptacji do zmian klimatycznych. Jej przemowy są porywające, logiczne i pełne prawdziwej troski o życie - bo Szaarael naprawdę wierzy w życie i wzrost.
 
-W kręgach politycznych Sarah Aelle uchodzi za jedną z najbardziej wpływowych osób drugiej połowy lat 20. XXI wieku. Jej popularność przewyższa popularność prezydenta — co jest samo w sobie bezprecedensowe. Nikt jednak nie zadaje sobie pytania, czy ta atrakcyjna, elokwentna polityczka miała kiedykolwiek przeszłość przed 2018 rokiem.
+W kręgach politycznych Sarah Aelle uchodzi za jedną z najbardziej wpływowych osób drugiej połowy lat 20. XXI wieku. Jej popularność przewyższa popularność prezydenta - co jest samo w sobie bezprecedensowe. Nikt jednak nie zadaje sobie pytania, czy ta atrakcyjna, elokwentna polityczka miała kiedykolwiek przeszłość przed 2018 rokiem.
 
-W rzeczywistości Szaarael przybyła do świata ludzi z rozkazu [[Mundus|Mundus]] jako część długoterminowego planu infiltracji Federacji Sol-3. Jej sukcubia natura sprawia, że czarowanie i manipulacja przychodzą jej naturalnie — choć sama woli myśleć o sobie jako o ambasadorze życia, nie manipulatorce.
+W rzeczywistości Szaarael przybyła do świata ludzi z rozkazu [[Mundus|Mundus]] jako część długoterminowego planu infiltracji Federacji Sol-3. Jej sukubia natura sprawia, że czarowanie i manipulacja przychodzą jej naturalnie - choć sama woli myśleć o sobie jako o ambasadorze życia, nie manipulatorce.
 
 ## Filozofia i cel
 
-Szaarael służy [[Mundus|Mundus]] — aspektowi Życia i Istnienia w Otchłani. Filozofia Mundus nie jest zła sama w sobie: głosi wzrost, płodność, transformację i ewolucję. Problem tkwi w tym, że transformacja przez Mundus jest jednostronna i nieodwracalna — świat jest przetwarzany według jej wizji, bez pytania o zgodę.
+Szaarael służy [[Mundus|Mundus]] - aspektowi Życia i Istnienia w Otchłani. Filozofia Mundus nie jest zła sama w sobie: głosi wzrost, płodność, transformację i ewolucję. Problem tkwi w tym, że transformacja przez Mundus jest jednostronna i nieodwracalna - świat jest przetwarzany według jej wizji, bez pytania o zgodę.
 
-Szaarael szczerze wierzy, że jej praca — wprowadzenie ludzkości na drogę biologicznego postępu i wzrostu — jest słuszna. Nie uważa się za złoczyńcę. Jej metody są subtelne, a cele długoterminowe: ludzkość ma stać się elementem rozrastającej się sieci życia kontrolowanej przez Mundus.
+Szaarael szczerze wierzy, że jej praca - wprowadzenie ludzkości na drogę biologicznego postępu i wzrostu - jest słuszna. Nie uważa się za złoczyńcę. Jej metody są subtelne, a cele długoterminowe: ludzkość ma stać się elementem rozrastającej się sieci życia kontrolowanej przez Mundus.
 
 ## Rola w Kulcie Otchłani
 
@@ -48,7 +48,7 @@ Jako Posłaniec Życia Szaarael jest jednym z pierwszych Heroldów [[Mundus|Mund
 >
 > ### Prawdziwa natura
 >
-> Szaarael jest sukkubicą. Jej „ludzka” tożsamość jest konstruktem: dokumenty, pamięć politycznej kariery i przeszłość zostały sfabrykowane przez [[Kult Otchłani]]. Wykrycie tego wymagałoby magicznego badania lub dostępu do akt sprzed 2018 roku.
+> Szaarael jest sukubicą. Jej „ludzka” tożsamość jest konstruktem: dokumenty, pamięć politycznej kariery i przeszłość zostały sfabrykowane przez [[Kult Otchłani]]. Wykrycie tego wymagałoby magicznego badania lub dostępu do akt sprzed 2018 roku.
 >
 > ### Dźwignia wiceprezydenta
 >
@@ -56,4 +56,4 @@ Jako Posłaniec Życia Szaarael jest jednym z pierwszych Heroldów [[Mundus|Mund
 >
 > ### Połączenie z Mundus
 >
-> Szaarael ma bezpośredni kanał komunikacji z [[Mundus|Mundus]]. Jej modlitwy/raporty są dosłownie słyszane przez Mundus. W zamian otrzymuje wskazania i wzmocnienie mocy — szczególnie jej zdolności do przyciągania i kontrolowania ludzi poprzez oddziaływanie na pragnienia życia i płodności.
+> Szaarael ma bezpośredni kanał komunikacji z [[Mundus|Mundus]]. Jej modlitwy/raporty są dosłownie słyszane przez Mundus. W zamian otrzymuje wskazania i wzmocnienie mocy - szczególnie jej zdolności do przyciągania i kontrolowania ludzi poprzez oddziaływanie na pragnienia życia i płodności.

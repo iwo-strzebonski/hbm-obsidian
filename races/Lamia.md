@@ -10,7 +10,7 @@ tags:
 Lamie to rasa półwężowych istot, znana z tajemniczości, uroku i potężnych zdolności magicznych. Ich społeczeństwa są matriarchalne, a tradycja przekazywana jest przez rody kapłanek.
 
 ## Biologia i morfologia
-Lamie mają górną część ciała humanoidalną, dolną — wężową. Ich skóra jest łuskowata, oczy pionowe, a zęby ostre. Długość życia: 120–200 lat. Są odporne na trucizny i potrafią hipnotyzować wzrokiem.
+Lamie mają górną część ciała humanoidalną, dolną - wężową. Ich skóra jest łuskowata, oczy pionowe, a zęby ostre. Długość życia: 120–200 lat. Są odporne na trucizny i potrafią hipnotyzować wzrokiem.
 
 ## Kultura
 Społeczeństwa Lamii są zorganizowane wokół świątyń i rodów kapłanek. Cenią wiedzę, magię i dyplomację. Wspólnota opiera się na hierarchii i lojalności wobec matrony rodu.
@@ -41,13 +41,13 @@ Lamie mają wrodzony talent do magii umysłu, iluzji i uzdrawiania. Są odporne 
 
 Lamie mają wrodzone powinowactwo z [[Magia Iluzji|Magią Iluzji]] i [[Magia Krwi|Magią Krwi]]. Ich naturalna zdolność do zmiany postaci jest formą instynktownej iluzji; zaawansowane Lamie potrafią rozwinąć tę zdolność do pełnoprawnej szkoły magicznej.
 
-Magia Krwi przyciąga Lamie ze względu na ich naturę drapieżnika — krew jest dla nich zarówno pokarmem jak i surowcem magicznym. Nie jest to jednak regułą; wiele Lamii odrzuca tę ścieżkę jako zbyt prymitywną.
+Magia Krwi przyciąga Lamie ze względu na ich naturę drapieżnika - krew jest dla nich zarówno pokarmem jak i surowcem magicznym. Nie jest to jednak regułą; wiele Lamii odrzuca tę ścieżkę jako zbyt prymitywną.
 
 ## Lamie w świecie HbM
 
 Lamie są nieliczne i zazwyczaj żyją wśród innych ras jako „ukryte”. Ich zdolność zmiany postaci sprawia, że mogą funkcjonować w ludzkich miastach przez dekady bez dekonspiracji.
 
-Na Ziemi (Sol-3-1725), Lamie formalnie nie istnieją w dokumentach [[Federacja Sol-3|Federacji Sol-3]] — lub istnieją pod fałszywymi tożsamościami. Inkwizycja aktywnie monitoruje podejrzanych o ukrytą Lamią tożsamość, co tworzy napięcie między tą rasą a aparatem bezpieczeństwa magicznego.
+Na Ziemi (Sol-3-1725), Lamie formalnie nie istnieją w dokumentach [[Federacja Sol-3|Federacji Sol-3]] - lub istnieją pod fałszywymi tożsamościami. Inkwizycja aktywnie monitoruje podejrzanych o ukrytą Lamią tożsamość, co tworzy napięcie między tą rasą a aparatem bezpieczeństwa magicznego.
 
 ## Znani przedstawiciele
 

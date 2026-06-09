@@ -37,8 +37,8 @@ Kult jest w konflikcie z Inkwizycją i Kultem Otchłani. Jego działania są nie
 
 ## Hooki dla MG
 > [!gm]+ Tylko dla MG
-> Szkarłatny Kult to źródło intryg, tajemnic i potężnych zagrożeń. Jego struktura pozwala na wprowadzanie zarówno politycznych, jak i magicznych konfliktów. Artefakty i rytuały kultu mogą być kluczowymi elementami kampanii, a tożsamość Patriarchy — główną tajemnicą fabularną.
+> Szkarłatny Kult to źródło intryg, tajemnic i potężnych zagrożeń. Jego struktura pozwala na wprowadzanie zarówno politycznych, jak i magicznych konfliktów. Artefakty i rytuały kultu mogą być kluczowymi elementami kampanii, a tożsamość Patriarchy - główną tajemnicą fabularną.
 >
-> **Zagrożenie wewnętrzne — Bezimienny:** [[Bezimienny, Pierwszy Patriarcha|Xillith / Bezimienny]] nie został w pełni wymazany z rzeczywistości przez Nil. Dzięki swoim artefaktom przetrwał jako głos szepczący w umysłach swoich Awatarów — i może przejąć fizyczną kontrolę nad ich ciałami. Jego celem jest odzyskanie kontroli nad Szkarłatnym Kultem, który jego uczniowie założyli po Upadku, aby zachować wiedzę taumaturgiczną. Awatary Bezimiennego mogą być wśród Pretorów lub wyższego duchowieństwa — sami nie wiedzą, kiedy przestają mówić własnymi słowami.
+> **Zagrożenie wewnętrzne - Bezimienny:** [[Bezimienny, Pierwszy Patriarcha|Xillith / Bezimienny]] nie został w pełni wymazany z rzeczywistości przez Nil. Dzięki swoim artefaktom przetrwał jako głos szepczący w umysłach swoich Awatarów - i może przejąć fizyczną kontrolę nad ich ciałami. Jego celem jest odzyskanie kontroli nad Szkarłatnym Kultem, który jego uczniowie założyli po Upadku, aby zachować wiedzę taumaturgiczną. Awatary Bezimiennego mogą być wśród Pretorów lub wyższego duchowieństwa - sami nie wiedzą, kiedy przestają mówić własnymi słowami.
 >
 > **Kult od dawna zgubił pierwotny cel:** Założono go, żeby ocalić taumaturgię. Dziś większość kultystów nie rozumie głębszych warstw rytuałów, które odprawiają. To otwiera pole na odkrycia, schizmy i konfrontację z prawdziwą historią.

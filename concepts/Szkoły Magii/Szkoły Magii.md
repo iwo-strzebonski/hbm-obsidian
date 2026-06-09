@@ -16,8 +16,8 @@ Nazwa "Wielka Trzynastka" pochodzi od liczby tych prestiżowych akademii, które
 ## Znaczenie w grze
 Szkoły Magii są miejscem edukacji bohaterów, źródłem kontaktów, rywalizacji i konfliktów. To w ich murach rodzą się nowe teorie, powstają frakcje i rozgrywają się kluczowe wydarzenia fabularne. Każda szkoła może nauczać wielu dyscyplin magii, a jej prestiż i specjalizacje zależą od tradycji i kadry.
 
-## Wielka Trzynastka — lista szkół
-Poniżej lista kanonicznych szkół (lokalizacje są jawne, nazwy własne i szczegóły — otwarte hooki):
+## Wielka Trzynastka - lista szkół
+Poniżej lista kanonicznych szkół (lokalizacje są jawne, nazwy własne i szczegóły - otwarte hooki):
 
 - Wschodnioeuropejska Szkoła Magii (okolice Krakowa, Polska)
 - Akademia Magii Nowego Jorku (USA)

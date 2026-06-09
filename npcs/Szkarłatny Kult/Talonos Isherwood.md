@@ -7,7 +7,7 @@ tags:
   - uczeń
   - szkarłatny-kult
 ---
-| **Zdjęcie**             | ![[talonos-isherwood.png\|200]]                                                                                               |
+| **Zdjęcie**             | ![[../../_assets/characters/TalonosIsherwood_Full.webp\|200]] |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Talonos*                                                                                                                     |
 | **Nazwisko (nazwiska)** | *Isherwood*                                                                                                                   |

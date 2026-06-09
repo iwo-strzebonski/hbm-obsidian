@@ -52,7 +52,7 @@ Wojna ze Zjednoczonym Królestwem Xivell, Greteron i Cimovell znacząco odbiła 
 > [!gm]+ Tylko dla MG
 > **Prawda o Robercie Zarynie i tytule Boga Krwi:**
 >
-> Robert Zaryn jest jedynym magiem krwi, który mógłby nosić tytuł Boga Krwi bez żadnych wątpliwości — jednak od czasu Upadku Xivell nie istnieje już w pełni jako jednostka. Jego ciało zostało zniszczone, a umysł roztrzaskany przez pasożyta Pierwszego Patriarchy. Tytuł „Boga Krwi" przejęli inni potężni magowie krwi na przestrzeni stuleci — żaden z nich nie dorównuje oryginałowi, choć sami o tym nie wiedzą.
+> Robert Zaryn jest jedynym magiem krwi, który mógłby nosić tytuł Boga Krwi bez żadnych wątpliwości - jednak od czasu Upadku Xivell nie istnieje już w pełni jako jednostka. Jego ciało zostało zniszczone, a umysł roztrzaskany przez pasożyta Pierwszego Patriarchy. Tytuł „Boga Krwi" przejęli inni potężni magowie krwi na przestrzeni stuleci - żaden z nich nie dorównuje oryginałowi, choć sami o tym nie wiedzą.
 >
 > Gracze mogą natknąć się na ślady Zaryna w postaci niezwykłych „snów" dotykających magów krwi, artefaktów z okresu Xivell lub kultystów przekonanych, że służą legendzie, a w rzeczywistości są narzędziem odradzającego się boga.
 
