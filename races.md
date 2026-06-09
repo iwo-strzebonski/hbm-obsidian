@@ -1,0 +1,12 @@
+---
+tags:
+  - rasa
+---
+- [[Anioł]]
+- [[Człowiek]]
+- [[Demon]]
+- [[Elf]]
+- [[Feles]]
+- [[Krasnolud]]
+- [[Lamia]]
+- [[Malferianin]]

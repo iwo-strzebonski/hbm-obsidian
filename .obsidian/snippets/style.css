@@ -1,0 +1,12 @@
+th:empty {
+  display: none;
+}
+
+th img{
+  display: block;
+  margin: auto;
+}
+
+table {
+  width: 100%;
+}

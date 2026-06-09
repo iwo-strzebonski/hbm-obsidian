@@ -1,0 +1,11 @@
+---
+tags:
+  - lokacja
+---
+- [[Hiondirs-4]]
+- [[Ziemia (Sol-3-1725)]]
+	- [[Wschodnioeuropejska Szkoła Magii]]
+	- [[Brytyjska Akademia Wiedźm]] 
+- [[Xivell (planeta)]] 
+	- [[Królestwo Xivell]]
+	- [[Królestwo Zaryn]] 

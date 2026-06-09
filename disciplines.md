@@ -1,0 +1,20 @@
+---
+tags:
+  - magia
+---
+- Dziedziny Akademickie:
+	- [[Taumaturgia]]
+		- [[Alchemia]] (do Dziedzin Taumaturgicznych należy wyłącznie [[Poddziedzina - Transmutacja|Alchemia Transmutacji]])
+		- [[Rzemiosło Artefaktów]]
+		- [[Magia Runiczna]] (nie należy do Dziedzin Akademickich)
+		- [[Golemancja]]
+		- [[Botanika]]
+	- [[Magia Sakralna]]
+	- [[Nekromancja]]
+	- [[Źródło Mocy]]
+	- [[Magia Żywiołów]]
+- [[Magia Krwi]]
+- [[Magia Iluzji]]
+- [[Magia Otchłani]]
+- [[Magia Szkarłatu]]
+- [[Wiedźmia Magia]]

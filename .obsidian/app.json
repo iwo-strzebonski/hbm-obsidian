@@ -1,0 +1,14 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    ".src/",
+    ".github/",
+    ".obsidian/",
+    ".vscode/",
+    ".env",
+    "gdrive-token.json",
+    "package.json"
+  ],
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}

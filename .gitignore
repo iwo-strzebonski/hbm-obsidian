@@ -1,0 +1,12 @@
+# Obsidian: keep config & templates, ignore noise & local-only state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# Vault assets: large binaries managed outside git
+_assets/
+tabletop-cards/
+"tabletop cards/"
