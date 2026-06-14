@@ -25,11 +25,12 @@ Wysokie Elfy posługują się językiem elenari (wysokoelficki), Leśne - sylvar
 Elfy wywodzą się z pradawnych lasów Hiondirs-4 ([[Hiondirs-4]]). Wysokie Elfy założyły pierwsze akademie magii, Leśne Elfy - sojusze z duchami natury. Kolonizacja innych światów i kontakt z ludźmi doprowadziły do podziału rasy.
 
 ## Relacje z innymi rasami
-Elfy utrzymują sojusz z ludźmi (wspólne projekty magiczno-technologiczne), szanują Krasnoludy (współpraca rzemieślnicza), są nieufne wobec Demonów i Malferian. Leśne Elfy częściej współpracują z Lamia i Feles.
+Elfy utrzymują sojusz z ludźmi (wspólne projekty magiczno-technologiczne). Leśne Elfy częściej współpracują z lamiami i Feles.
+
+Stosunki z krasnoludami są obecnie niezwykle napięte. Wynika to z faktu, że Krasnoludy odmówiły udostępnienia innym rasom swojej potężnej Magii Runicznej. W odwecie, jako że Elfy stanowią jedne z głównych sił w światowej administracji magicznej, zablokowały one dostęp krasnoludom do edukacji w szkołach wchodzących w skład **Wielkiej Trzynastki**. Elfy oficjalnie twierdzą, że "Magia Runiczna to więzienie magii i barbarzyństwo", a nieoficjalnie próbują po prostu zmusić krasnoludy do uległości gospodarczej.
 
 ## Magia i wrażliwość na Otchłań
 Elfy rodzą się z naturalną zdolnością do magii, szczególnie iluzji, magii żywiołów i druidyzmu. Są odporne na spaczenie Otchłani, ale podatne na melancholię i „chorobę wieczności”.
 
 ## Znani przedstawiciele
-- [[Princess Zayis]] (Wysoka Elfka, dyplomatka)
 - [[Kapłanka Fira]] (Leśna Elfka, mistyczka ognia)

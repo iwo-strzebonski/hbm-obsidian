@@ -19,7 +19,7 @@ tags:
 | **Organizacje**         | *<ul><li>[[Federacja Sol-3]]</li><li>[[Projekt Starlight\|Projekt "Starlight"]]</li><li>[[Wschodnioeuropejska Szkoła Magii]]</li></ul>* |
 | **Pseudonim(y)**        | *Rudy*                                                                                                                                  |
 | **Tytuł(y)**            | *<ul><li>Porucznik Federacji Sol-3</li><li>Agent Lambda [[Siły Specjalne Gaja\|Sił Specjalnych "Gaja"]]</li></ul>*                      |
-| **Charakter**           | patrz poniżej |
+| **Charakter**           | patrz poniżej                                                                                                                           |
 
 ---
 

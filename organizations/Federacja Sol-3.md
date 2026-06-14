@@ -10,7 +10,7 @@ aliases:
 | **Nazwa potoczna**            | *Federacja Sol-3*                                                                                                                                                                                                   |
 | **Data powstania**            | *W przeliczeniu na rok na [[Ziemia (Sol-3-1725)\|Sol-3-1725]]: ok. 820 r. n.e.*                                                                                                                                     |
 | **Założyciel(e)**             | *Przedstawiciele planet Sol-3-0001, Sol-3-2917 oraz Sol-3-0641*                                                                                                                                                     |
-| **Siedziba**                  | *Sol-3-0001*                                                                                                                                                                                                        |
+| **Siedziba**                  | *Sol-3-0001 (super-zaawansowana planeta-miasto, przypominająca Coruscant)*                                                                                                                                                                                                        |
 | **Status**                    | *Aktywna*                                                                                                                                                                                                           |
 | **Szacowana liczba członków** | *Koło 1000 planet członkowskich*                                                                                                                                                                                    |
 | **Przywódca(cy)**             | *Rada Najwyższa Federacji Sol-3*                                                                                                                                                                                    |
@@ -57,9 +57,13 @@ Każda planeta członkowska wnosi do Federacji Sol-3 coś wyjątkowego, niezale�
 ## Komitety i Organizacje
 
 Federacja Sol-3 charakteryzuje się złożoną i funkcjonalną strukturą organizacyjną, która umożliwia efektywne zarządzanie i reagowanie na różnorodne wyzwania. Serce tej struktury stanowią komitety, [[#Rada Najwyższa|Rada Najwyższa]] oraz szereg [[#Organizacje Cywilne i Wojskowe|organizacji cywilnych i wojskowych]], które współpracują w celu zapewnienia bezpieczeństwa, ochrony dziedzictwa oraz zdrowia obywateli Federacji.
+
 ### Komitety Federacji
 
-Komitety są kluczowymi elementami struktury Federacji Sol-3, zajmującymi się szerokim zakresem spraw, od obrony przed zagrożeniami paranormalnymi, poprzez ochronę zabytków i historii, aż po kwestie zdrowotne. Każdy z komitetów ma możliwość tworzenia organizacji zależnych, które specjalizują się w określonych obszarach działania. Od restrukturyzacji w 2011 roku, komitety działają z większą autonomią, co znacząco poprawiło efektywność zarządzania w Federacji.
+Komitety są kluczowymi elementami struktury Federacji Sol-3, zajmującymi się szerokim zakresem spraw, od obrony przed zagrożeniami paranormalnymi, poprzez ochronę zabytków i historii, aż po kwestie zdrowotne. Każdy z komitetów ma możliwość tworzenia organizacji zależnych, które specjalizują się w określonych obszarach działania.
+
+Często wspominaną przez agentów organizacją jest **Biuro ds. Identyfikacji Czasoprzestrzennej (BIC)**. Jest to agencja odpowiedzialna za rejestrowanie sobowtórów i zapobieganie paradoksom. Pracownicy BIC to w większości zwykli ludzie wyposażeni w specjalne, magiczne detektory kłamstw, którzy egzekwują absurdalnie skomplikowaną biurokrację – agenci muszą na przykład wypełniać dokumenty porównujące preferencje kulinarne swoich odpowiedników. Karą za zabicie swojego odpowiednika i przejęcie jego życia jest bezwzględna śmierć.
+
 ### Rada Najwyższa
 
 Rada Najwyższa pełni rolę nadzorczą w strukturze Federacji, mając możliwość uchylania uchwał komitetów. Restrukturyzacja ograniczyła bezpośrednie obowiązki Rady, co pozwoliło na lepsze skupienie się na sprawach strategicznych. Kadencja Rady trwa siedem lat, co zapewnia stabilność i ciągłość polityki Federacji.
@@ -68,10 +72,15 @@ Rada Najwyższa pełni rolę nadzorczą w strukturze Federacji, mając możliwo�
 W przypadkach szczególnych, takich jak wybór nowej [[#Rada Najwyższa|Rady Najwyższej]] czy odwołanie obecnej, zwoływane jest Walne Zebranie [[#Komitety Federacji|Komitetów]]. To ciało pełni rolę arbitra w sporach między komitetami a [[#Rada Najwyższa|Radą Najwyższą]] oraz decyduje o kierunkach dalszego rozwoju Federacji.
 ### Organizacje Cywilne i Wojskowe
 
-Federacja Sol-3 posiada zarówno organizacje cywilne, jak i specjalistyczne formacje wojskowe, które mogą być tworzone zarówno przez komitety, jak i przez Radę Najwyższą z zatwierdzeniem Walnego Zebrania. Przykłady takich organizacji to [[Projekt Starlight|Wojska Specjalne ds. Obrony Planet Członkowskich Federacji Sol-3]] czy [[Siły Specjalne Gaja|Siły Specjalne "Gaja"]]. Te formacje odgrywają kluczową rolę w obronie przed zewnętrznymi zagrożeniami, a także w zapewnieniu bezpieczeństwa wewnątrz Federacji.
-#### Wojsko Federacji
+Federacja Sol-3 posiada zarówno organizacje cywilne, jak i specjalistyczne formacje wojskowe, które mogą być tworzone zarówno przez komitety, jak i przez Radę Najwyższą z zatwierdzeniem Walnego Zebrania. Przykłady takich organizacji to [[Projekt Starlight|Projekt Starlight (Wojska Specjalne ds. Obrony)]] czy [[Siły Specjalne Gaja|Siły Specjalne "Gaja"]].
 
-Oprócz specjalistycznych formacji, Federacja dysponuje również regularnym, niezwykle zaawansowanym technologicznie wojskiem, które wielokrotnie broniło planet członkowskich przed inwazjami obcych. Te siły zbrojne stanowią ostateczną linię obrony Federacji, gwarantując pokój i bezpieczeństwo jej obywateli.
+Główna baza Projektu Starlight na Ziemi-1725 znajduje się pod gigantyczną metalową piramidą w Wadi Halfa (Sudan), wyposażoną w superbroń mogącą ostrzeliwać wrogie statki obcych na orbicie, a nawet uderzać w inne planety. Bezpieczeństwa bazy chronią patrole, niezwykle zaawansowany kamuflaż cyfrowo-magiczny i rozkazy typu „strzelać by zabić”. Podstawowy garnizon wynosi: dwie dywizje zmotoryzowane, dwa skrzydła lotnicze, pluton logistyczny oraz kompania piechoty. Na czele Projektu stoi pułkownik [[Serioża Żukow|Siergiej Żukow]].
+
+#### Wojsko i Waluty Federacji
+
+Oprócz specjalistycznych formacji, Federacja dysponuje również regularnym, niezwykle zaawansowanym technologicznie wojskiem, które wielokrotnie broniło planet członkowskich przed inwazjami obcych. 
+
+W handlu międzywymiarowym i w relacjach z innymi rasami (np. krasnoludami) Federacja uznaje walutę **Thrakki**, lecz wewnętrznie wszyscy pracownicy Federacji posługują się specjalnymi **Kredytami Federacji (FC)**.
 
 ## Suwerenność i Współpraca z Planetami Członkowskimi
 
@@ -111,9 +120,12 @@ Choć Federacja zrzesza około tysiąca planet, tylko niewielki odsetek z nich p
 ### Technologiczne Adaptacje Magii
 
 Fakt, że większość planet Federacji nie posiada dostępu do magii, nie stanowił przeszkody dla federacyjnych naukowców, którzy opracowali technologie umożliwiające korzystanie z magii nawet na planetach, gdzie nie występuje ona naturalnie. Taka innowacja jest dowodem na zdolności adaptacyjne Federacji i jej gotowość do włączania różnorodnych systemów wiedzy i mocy do ogólnego korpusu technologicznego.
-### Ziemia (Sol-3-1725) jako Kluczowy Członek
+Wyjątkowy charakter [[Ziemia (Sol-3-1725)|Ziemi (Sol-3-1725)]], gdzie magia jest silnie obecna i rozwijana, sprawił, że planeta ta szybko została objęta patronatem Federacji. To podkreśla wartość, jaką Federacja przywiązuje do różnorodności, zwłaszcza gdy wiele innych "Ziem" całkowicie się od siebie różni:
+- **Sol-3-0641:** Dystopia teokratyczna, gdzie rządzące Kolegium wykreowało sztucznego "Boga", a heretycy są paleni żywcem.
+- **Sol-3-2917:** Świat cyberpunkowy odcięty od magii potężną barierą. Z tego powodu uważa się, że to doskonałe miejsce dla baz operacyjnych, i popularne fast foody ("Gruby Kurczak Sandwich Bar").
+- **Sol-3-1012:** Ziemia, na której ZSRR nigdy nie upadło, rządzona przez Antonova Andrei Dmitrievicha, z której zresztą pochodzi dowódca Projektu Starlight - [[Serioża Żukow|Siergiej Konstantynowicz Żukow]].
 
-Wyjątkowy charakter [[Ziemia (Sol-3-1725)|Ziemi (Sol-3-1725)]], gdzie magia jest obecna i rozwijana, sprawił, że planeta ta szybko została przyjęta do Federacji. To podkreśla wartość, jaką Federacja przywiązuje do różnorodności i potencjału, jaki magia może wnosić do ogólnego rozwoju technologicznego i kulturowego. [[Ziemia (Sol-3-1725)|Ziemia]] wnosi do Federacji unikalne perspektywy i możliwości, które mogą być wykorzystywane w różnych dziedzinach, od nauki po obronność. Dodatkowo do niezwykłości tej planety wymienić by można również fakt, że sama Rada Najwyższa była zainteresowana tą planetą, [[Kult Otchłani|choć oficjalnych przyczyn nigdy nie podała]].
+[[Ziemia (Sol-3-1725)|Ziemia]] wnosi do Federacji unikalne perspektywy i możliwości. Dodatkowo Rada Najwyższa od lat interesuje się jej aktywnością magiczną, [[Kult Otchłani|choć oficjalnych przyczyn nigdy nie podała]].
 
 > [!gm]+ Tylko dla MG - Prawda o Wojnie Malferiańskiej i Xivell
 >
@@ -121,4 +133,4 @@ Wyjątkowy charakter [[Ziemia (Sol-3-1725)|Ziemi (Sol-3-1725)]], gdzie magia jes
 >
 > **Prawdziwy cel kolonizacji Xivell:** Oficjalnie: wartości strategiczne i surowcowe. W rzeczywistości: wywiad Federacji odkrył ślady starożytnej wiedzy magicznej zakopane na Xivell (pozostałości po cywilizacji sprzed Upadku). Poza tym pozycja Xivell ma znaczenie strategiczne w galaktyce. Plaga pasożyta Xivell jest traktowana jako „akceptowalny koszt operacyjny".
 >
-> **Szaarael / Wiceprezydent USA:** Wiceprezydent Stanów Zjednoczonych na Ziemi (Sol-3-1725) to [[Szaarael]] - sukkubica będąca [[Posłańcy|Posłańcem Życia]] Mundusa. Jej obecność w strukturach władzy ma na celu rozszerzenie wpływów Mundusa na ludzkie społeczeństwo poprzez kontrolę nad emocjami, pożądaniem i więzami społecznymi. Rada Najwyższa Federacji jest tego nieświadoma.
+> **Szaarael / Wiceprezydent USA:** Wiceprezydent Stanów Zjednoczonych na Ziemi (Sol-3-1725) to [[Szaarael]] - sukkubica będąca [[Posłańcy|Posłańcem Życia]] Mundus. Jej obecność w strukturach władzy ma na celu rozszerzenie wpływów Mundus na ludzkie społeczeństwo poprzez kontrolę nad emocjami, pożądaniem i więzami społecznymi. Rada Najwyższa Federacji jest tego nieświadoma.

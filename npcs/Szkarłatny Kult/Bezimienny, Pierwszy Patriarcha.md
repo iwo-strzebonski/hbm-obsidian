@@ -5,12 +5,12 @@ tags:
   - taumaturg
   - patriarcha
   - avatar
-aliases:
+aliases: 
   - Pierwszy Patriarcha
   - Bezimienny
 ---
 > [!note] Ujednoznacznienie
-> Ta strona dotyczy postaci zwanej **Bezimiennym** lub **Pierwszym Patriarchą** - ducha/głosu taumaturga, który przejął kontrolę nad ciałem awatara. **Nie mylić z [[Xillith Isherwood]]** - osobą, której ciało służy mu za awatara.
+> Ta strona dotyczy postaci zwanej **Bezimiennym** lub **Pierwszym Patriarchą** (którego prawdziwe imię brzmiało **Xillith**, dawny Nadworny Taumaturg Xivell). Nie mylić z **[[Xillith Isherwood]]** (uczniem WeSM), którego ciało służy mu za współczesnego awatara z powodu noszenia przeklętej halabardy.
 
 | **Zdjęcie**             | ![[../../_assets/characters/Bezimienny_Full.webp\|200]] |
 | ----------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -29,11 +29,11 @@ aliases:
 
 ## Opis
 
-Bezimienny - znany również jako **Pierwszy Patriarcha** - jest postacią owianą tajemnicą. Większość historyków magii i członków [[Szkarłatny Kult|Szkarłatnego Kultu]] traktuje go wyłącznie jako legendę: założyciela [[Taumaturgia|taumaturgi]] na planecie [[Xivell (planeta)|Xivell]], geniusza, który stworzył dyscyplinę magiczną łączącą biologię z siłami wyższymi. Jego imię przepadło w mrokach czasu - uczniowie zaczęli nazywać go Bezimiennym właśnie dlatego, że sam nigdy nie używał własnego imienia, twierdząc, że imię ogranicza człowieka.
+Bezimienny - znany również jako **Pierwszy Patriarcha** - jest postacią owianą tajemnicą. Większość historyków magii i członków [[Szkarłatny Kult|Szkarłatnego Kultu]] traktuje go wyłącznie jako legendę: założyciela [[Taumaturgia|taumaturgi]] na planecie [[Xivell (planeta)|Xivell]], geniusza, który stworzył dyscyplinę magiczną łączącą biologię z siłami wyższymi. Jego prawdziwe imię brzmiało **Xillith**, był Nadwornym Taumaturgiem Królestwa Xivell. Został jednak wymazany z rzeczywistości przez Nil, co sprawiło, że jego imię zatarło się w ludzkiej pamięci i zaczął być znany jako Bezimienny.
 
-Według dostępnych zapisów Bezimienny stworzył na Xivell zupełnie nową gałąź magii i zgromadził wokół siebie grupę uczniów, którym przekazał swoją wiedzę. Pewnego dnia jednak zniknął, pozostawiając po sobie jedynie urywki nauk i zniszczoną planetę. Ocalali uczniowie założzyli [[Szkarłatny Kult]], by przechowywać jego dziedzictwo i czekać na jego powrót. Przez wieki postać Pierwszego Patriarchy urasta do rangi mitu - duchowego patrona kultu.
+Według dostępnych zapisów Bezimienny stworzył na Xivell zupełnie nową gałąź magii - [[Botanika|Botanikę]] (i zabójczego pasożyta). Po przegranym pojedynku z Nil, jego uczniowie uciekli do subwymiaru, zakładając [[Szkarłatny Kult]], by przechowywać jego dziedzictwo i czekać na jego powrót w Domenie Szkarłatu.
 
-Co ważne: Bezimienny nie pojawia się w żadnym dokumencie pod własnym nazwiskiem. Wszystkie przekazy mówią wyłącznie o tytule lub przydomku. Osoby, które go spotkały, opisują go jako mężczyznę o szerokich ramionach i przeszywającym spojrzeniu - opis pasujący do jego obecnego awatara, [[Xillith Isherwood|Xillitha Isherwooda]].
+Obecnie dusza Pierwszego Patriarchy jest przywiązana do artefaktu nazywanego **"Bronią Szkarłatnego Patriarchy"** (potężnej halabardy). Broń ta znajduje się obecnie w posiadaniu jego młodego imiennika – [[Xillith Isherwood|Xillitha Isherwooda]]. Przez ten artefakt dusza Patriarchy szepcze do ucznia, a czasem nawet w pełni przejmuje nad nim kontrolę podczas walki.
 
 ## Rola w kampanii
 
@@ -45,19 +45,19 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 >
 > ### Prawdziwa tożsamość
 >
-> Bezimienny to w rzeczywistości **duch/głos dawnego taumaturga**, który przeżył własną śmierć biologiczną. Jego prawdziwe imię jest nieznane nawet jemu samemu - pamięć uległa fragmentacji. To, co przetrwało, to więcej instynkt i cel niż tożsamość.
+> Bezimienny to w rzeczywistości **Xillith, Nadworny Taumaturg Xivell**. Po przegranym pojedynku z Nil, został wymazany z rzeczywistości, ale jego dusza przetrwała uwięziona w Halabardzie.
 > 
 > ### Mechanika awatara
 >
-> Bezimienny nie ma własnego ciała - przetrwał jako głos, strzęp świadomości zakorzeniony w strukturach taumaturgicznych. Przejął fizyczną kontrolę nad ciałem **[[Xillith Isherwood|Xillitha Isherwooda]]** (ojca Talonosa), posługując się nim jako awatarem.
+> Bezimienny nie ma własnego ciała - przetrwał jako duch w "Broni Szkarłatnego Patriarchy". Dzierżący ją **[[Xillith Isherwood|Xillith Isherwood]]** (uczeń WeSM) staje się jego awatarem.
 >
-> - Gdy Bezimienny jest „aktywny”, ciało Xillitha zachowuje się inaczej niż zwykle: jest bardziej opanowane, mówi archaicznym językiem i wykazuje wiedzę niemożliwą dla młodego mężczyzny.
-> - Xillith Isherwood (prawdziwa osoba) ma momenty „Przebłysków” świadomości - krótkie chwile, w których odzyskuje kontrolę nad ciałem. Są to cenne momenty fabularne (patrz [[Xillith Isherwood]]).
+> - Gdy Bezimienny jest „aktywny” i przejmuje kontrolę przez broń, ciało ucznia zachowuje się inaczej niż zwykle: jest bardziej opanowane, mówi archaicznym językiem i wykazuje potężną wiedzę taumaturgiczną.
+> - Xillith Isherwood (prawdziwa osoba) czasem tylko słyszy szepty Patriarchy, a czasem całkowicie traci kontrolę podczas bitwy.
 > - MG powinien subtelnie różnicować sposób mówienia postaci zależnie od tego, kto aktualnie „steruje”.
 >
 > ### Sekret broni biologicznej
 >
-> Bezimienny stworzył pasożyta Xivell - broń biologiczną opartą na taumaturgi, która miała oczyścić planetę z wrogów. Wymknęła się spod kontroli i zdzieşikowała całą cywilizację Xivell. To właśnie ten wypadek był przyczyną jego biologicznej śmierci - ciało uległo zniszczeniu, ale świadomość przeżyła w sieciach magicznych.
+> Bezimienny stworzył pasożyta z Xivell - broń biologiczną opartą na taumaturgii. Pasożyt wymknął się spod kontroli, zamieniając wszystko co żyje w niemożliwy do zniszczenia, zmutowany rój. To on zniszczył cywilizację Xivell.
 >
 > Żaden członek [[Szkarłatny Kult|Szkarłatnego Kultu]] nie wie o jego roli w zagładzie Xivell. Kult czci go jako herosa - prawda mogłaby go zniszczyć od wewnątrz.
 >

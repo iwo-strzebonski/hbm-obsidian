@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - organizacja
   - otchłań
@@ -10,13 +10,20 @@ aliases:
 # Zakon Otwartego Oka (Kult Otchłani)
 
 ## Krótki opis
-Zakon Otwartego Oka, znany potocznie jako Kult Otchłani, to tajemnicza organizacja czcicieli Otchłani i jej Personifikacji: Nil, Mundus i Tempus. Kult skupia się na zrozumieniu i akceptacji prawdziwej natury rzeczywistości, prowadząc rytuały, badania i praktyki magiczne na granicy szaleństwa i oświecenia.
+Zakon Otwartego Oka, znany potocznie jako Kult Otchłani, to tajemnicza organizacja czcicieli Otchłani i jej Personifikacji: Nil, Mundus i Tempus. Kult skupia się na zrozumieniu i akceptacji prawdziwej natury rzeczywistości, prowadząc rytuały, badania i praktyki magiczne. **Należy kategorycznie odróżnić Kult Otchłani od [[Szkarłatny Kult|Szkarłatnego Kultu]]** – to dwie zupełnie różne organizacje o odmiennych celach i wierzeniach. Wewnętrznie Zakon Otwartego Oka jest podzielony na frakcje czczące poszczególne Personifikacje, które walczą między sobą o to, które bóstwo jest ważniejsze.
 
 ## Historia i pochodzenie
 Kult powstał wokół objawień Personifikacji Otchłani. Jego członkowie wierzą, że Nil, Mundus i Tempus są nie tylko źródłem magii, ale i kluczem do zrozumienia cyklu istnienia, zniszczenia i zmiany. Zakon działa od czasów Przebudzenia, a jego struktura i cele ewoluowały wraz z kolejnymi falami kontaktu z Otchłanią.
 
-## Struktura
-Na czele kultu stoją [[Posłańcy]] wybrani przez Personifikacje. Kult nie ma klasycznej hierarchii - lokalne zgromadzenia są autonomiczne, a jedność zapewniają wspólne rytuały i objawienia. Najważniejsze postacie to Nil, Mundus i Tempus (jako byty), a w świecie materialnym - ich Posłańcy (np. [[Diana Koniecpolska]]).
+## Struktura i Frakcje
+Kult nie ma jednej, spójnej hierarchii. Głównym celem Zakonu było sprowadzenie fizycznych manifestacji swoich bogów na Ziemię. Rytuał ten zakończył się jednak katastrofą – za niekompetencję Nil srodze ukarała i zniszczyła strukturę Zakonu (przy okazji dla rozrywki zrzucając agenta Federacji Sol-3, [[Pelagius Caudex|Pelagiusa Caudexa]], na stanowisko dyrektora WeSM w miejsce dawnego kultysty, [[Klaus von Übertropp|Klausa von Übertroppa]]).
+
+Obecnie frakcje prezentują się następująco:
+- **Kult Mundus:** Najbardziej agresywna i aktywna obecnie frakcja na Ziemi.
+- **Kult Nil:** Praktycznie wymarł po tym, jak z powodów znanych tylko sobie, Nil zaczęła pozbywać się i mordować swoich własnych kultystów.
+- **Kult Tempusa:** Praktycznie nieistniejący na Ziemi Sol-3-1725.
+
+Najważniejszymi postaciami w świecie materialnym są Posłańcy – awatary woli bóstw (np. [[Diana Koniecpolska]], Szaarael, Yssariel).
 
 ## Filozofia i rytuały
 Kult głosi, że Otchłań nie jest złem, lecz prawem i fundamentem istnienia. Rytuały mają na celu zbliżenie się do prawdziwej natury rzeczywistości, akceptację chaosu i zmian oraz kontakt z Personifikacjami. Kluczowe są rytuały przywołania, medytacje nad obsydianowymi obeliskami i studiowanie Wielkiej Księgi Obrzędów (artefakt).
@@ -25,7 +32,7 @@ Kult głosi, że Otchłań nie jest złem, lecz prawem i fundamentem istnienia. 
 Kult praktykuje Magię Otchłani (patrz: [[Magia Otchłani]]), w tym Magię Aspektów i Pierwotną Magię. Członkowie dążą do przekroczenia granic znanych dziedzin, często ryzykując spaczenie lub szaleństwo. Wielka Księga Obrzędów jest zarówno magicznym fokusem, jak i narzędziem inicjacji.
 
 ## Personifikacje i Posłańcy
-Nil, Mundus i Tempus są czczone jako świadomości Otchłani (patrz: [[Personifikacje Otchłani]]). Każda wybiera własnych Posłańców, którzy stają się głosem i narzędziem kultu w świecie materialnym. Przykłady: [[Diana Koniecpolska]], Szaarael, Yssariel.
+Nil, Mundus i Tempus są czczone jako świadomości Otchłani (patrz: [[Personifikacje Otchłani]]). Każda wybiera własnych Posłańców, którzy stają się głosem i narzędziem kultu w świecie materialnym. Przykłady: [[Diana Koniecpolska]], [[Szaarael]], [[Yssariel]].
 
 ## Lokalizacje i symbole
 Główne miejsca kultu to obsydianowe obeliski, miejsca styku rzeczywistości z Otchłanią. Siedziby są ukryte, a zgromadzenia odbywają się w miejscach o silnej anomalii magicznej. Symbolem kultu jest otwarte oko wpisane w spiralę.
@@ -35,6 +42,9 @@ Główne miejsca kultu to obsydianowe obeliski, miejsca styku rzeczywistości z 
 - [[Mundus]] (Personifikacja Istnienia)
 - [[Tempus]] (Personifikacja Czasu)
 - [[Diana Koniecpolska]] (Posłaniec Nil)
+- [[Szaarael]] (Posłaniec Mundus)
+- [[Yssariel]] (Posłaniec Tempusa)
+- [[Syllia Orirel]] (Wyrocznia "pobłogosławiona" przez Mundus)
 
 ## Artefakty
 - **Wielka Księga Obrzędów** - unikalny artefakt powstały z woli Nil, zawierający fragment oryginalnego dzieła Pierwszego Patriarchy, ale przepisany i przeklęty przez Otchłań. Księga jest śmiertelnie niebezpieczna: każdy kultysta Szkarłatu, który jej dotknie, natychmiast zamienia się w pył (z nielicznymi wyjątkami). Pozwala właścicielowi ukrywać ślad magiczny, rzucać zaklęcia automatycznie lub z dodatkowymi efektami, a jej posiadacz uznawany jest za Wybrańca Patriarchy. Studiowanie Księgi daje dostęp do zakazanej wiedzy, ale grozi natychmiastową śmiercią lub spaczeniem. Jej obecność wpływa na losy Szkarłatnego Kultu i Otchłani, a jej zniszczenie lub połączenie z innymi artefaktami może zmienić strukturę magii w świecie HbM.
@@ -48,5 +58,5 @@ Kult Otchłani jest w konflikcie z Inkwizycją i Szkarłatnym Kultem. Jego dzia�
 >
 > **Diana Koniecpolska - tożsamość ukryta:** Gracze wchodzący w interakcję z Kultem mogą usłyszeć o „Posłańcu Przeszłości" jako o tajemniczej, bezosobowej figurze. Reveal, że to Diana - uczennica szkoły magii, rzemieślniczka artefaktów, niegdyś przewodnicząca szkolnego kółka - powinien być stopniowy i uderzający. Diana sama może jeszcze w pełni nie rozumieć swojej przemiany.
 >
-> **Szaarael i Yssariel:** Szaarael (Posłaniec Życia Mundusa) jest znana wśród wyższych kręgów kultu; jej rola jako wiceprezydenta USA to dla wtajemniczonych skandalicznie śmieszna ironia (Mundus rozciąga się przez miłość i więzi społeczne - czemu nie przez urząd USA?). Yssariel (Posłaniec Cofnięcia Tempusa) jest bardziej wycofana - jej działania odczuwa się jako nagłe cofnięcia czasu w lokalnych obszarach.
+> **Szaarael i Yssariel:** Szaarael (Posłaniec Życia Mundus) jest znana wśród wyższych kręgów kultu; jej rola jako wiceprezydenta USA to dla wtajemniczonych skandalicznie śmieszna ironia (Mundus rozciąga się przez miłość i więzi społeczne - czemu nie przez urząd USA?). Yssariel (Posłaniec Cofnięcia Tempusa) jest bardziej wycofana - jej działania odczuwa się jako nagłe cofnięcia czasu w lokalnych obszarach.
 

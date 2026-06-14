@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - rasa
   - demon
@@ -7,16 +7,16 @@ tags:
 # Demon
 
 ## Krótki opis
-Demony to istoty pochodzące z Otchłani lub powstałe w wyniku jej wpływu na świat materialny. Są niezwykle różnorodne - od niskich impów po potężnych Książąt i Awatarów Bóstw Zła. Część demonów żyje wśród innych ras, ukrywając swoją prawdziwą naturę.
+Demony to istoty pochodzące z tzw. Galaktyki Demonów (potocznie nazywanej "Piekłem"), która de facto pełni rolę zaświatów w uniwersum. Są niezwykle różnorodne - od niskich impów po potężnych Książąt i Awatarów Bóstw Zła. Część demonów żyje wśród innych ras na różnych planetach (jak Ziemia), ukrywając swoją prawdziwą naturę. Co ważne, dla demonów korzystanie z magii to rzecz całkowicie naturalna, a nie jakiś mityczny dar.
 
 ## Biologia i morfologia
 Demony nie mają jednej formy - mogą być humanoidalne, zwierzęce lub całkowicie obce. Często posiadają rogi, ogony, skrzydła, nietypowe oczy i skórę w nienaturalnych barwach. Ich długość życia jest praktycznie nieograniczona, choć mogą zginąć w walce lub w wyniku egzorcyzmu.
 
-## Kultura
-Kultura demonów jest zróżnicowana: od dworów Książąt Otchłani po ukryte społeczności wśród ludzi. Wysoko postawione demony tworzą hierarchiczne struktury oparte na sile, magii i intrygach. Niższe demony często służą potężniejszym.
+## Kultura i Polityka
+W Galaktyce Demonów **nie ma jednego, absolutnego władcy**. Potężni Lordowie Demonów władają własnymi planetami i księżycami, rywalizując ze sobą o wpływy i dusze śmiertelników. Przez to cała polityka Piekła przypomina permanentną, cichą (lub głośną) wojnę domową. Wysoko postawione demony tworzą wokół siebie hierarchiczne dwory oparte na sile, magii i intrygach. Niższe demony często służą potężniejszym. Co ciekawe, w przeciwieństwie do innych rozwiniętych ras w galaktyce (np. Malferian), demony **nie budują statków kosmicznych**. Ich naturalna biegłość w magii sprawia, że przemieszczają się między planetami za pomocą teleportacji.
 
 ## Religia i duchowość
-Demony czczą potężne byty Otchłani, własnych władców lub same siebie. Wśród demonów popularne są kulty siły, chaosu i wolności. Niektóre demony, zwłaszcza te żyjące wśród ludzi, przyjmują elementy religii świata materialnego.
+Demony czczą potężne byty, Grzechy Główne, własnych władców lub same siebie. Wśród demonów popularne są kulty siły, chaosu i wolności. Demony chętnie reagują na przywołania przez śmiertelników z innych planet (np. Ziemi) w zamian za ich dusze i krew, traktując te planety jako pola bitwy o wpływy między swoimi demonami-lordami.
 
 ## Język
 Posługują się demonicznym (Inferis), pełnym archaizmów i zaklęć. Znają lingua magica oraz języki ras, wśród których żyją.

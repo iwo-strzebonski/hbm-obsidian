@@ -20,7 +20,7 @@ status: kanoniczna
 
 Wielka Trzynastka to zbiorcza nazwa trzynastu założycielskich szkół magii na Ziemi, powstałych po Przebudzeniu w 2023 roku (EP 0). Każda szkoła ma własną lokalizację, specjalizację i strukturę, a razem tworzą sieć edukacyjną kształcącą magów wszystkich ras i narodowości. Najbardziej znana jest [[Wschodnioeuropejska Szkoła Magii]], ale pozostałe szkoły również odgrywają kluczową rolę w polityce i rozwoju magii na Ziemi.
 
-### Lista szkół (lokacje kanoniczne)
+### Lista szkół
 
 - Wschodnioeuropejska Szkoła Magii (okolice Krakowa, Polska)
 - Akademia Magii Nowego Jorku (USA)
