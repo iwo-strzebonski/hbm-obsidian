@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - magia
   - magia-otchłani
@@ -39,6 +39,6 @@ Najbardziej jaskrawym przykładem tej schizmy jest przypadek [[Karolina Fey|Karo
 Magia Otchłani jest absolutnie zakazana. Każdy przejaw jej użycia jest ścigany z najwyższą surowością. Praktykowanie grozi natychmiastową egzekucją lub wieczystym zamknięciem w Otchłani.
 
 ## Mechanika
-Otchłannik może korzystać z potężnych, ale nieprzewidywalnych efektów, przywoływać byty z Otchłani, manipulować czasem i przestrzenią, ale zawsze ryzykuje utratę kontroli i skażenie. Szczegóły: patrz [[Klątwa Otchłani]], [[HbM RPG v3 - Księga Magii]].
+Otchłannik może korzystać z potężnych, ale nieprzewidywalnych efektów, przywoływać byty z Otchłani, manipulować czasem i przestrzenią, ale zawsze ryzykuje utratę kontroli i skażenie. Szczegóły: patrz [[02. Klątwa Otchłani|Klątwa Otchłani]], [[01. Księga Magii]].
 
 ## [[Poddziedzina - Pierwotna Magia]]

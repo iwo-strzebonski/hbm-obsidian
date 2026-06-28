@@ -36,4 +36,4 @@ Alchemicy wierzą, że wszystko można przemienić, jeśli zna się odpowiednie 
 Alchemia jest legalna, ale eksperymenty z niebezpiecznymi substancjami i transmutacją ludzi są zakazane. Wymagane są zgłoszenia badań nad nowymi eliksirami.
 
 ## Mechanika
-Alchemik może tworzyć eliksiry, transmutować materiały, badać nowe substancje i eksperymentować z przemianami. Szczegóły: patrz [[HbM RPG v3 - Księga Magii]].
+Alchemik może tworzyć eliksiry, transmutować materiały, badać nowe substancje i eksperymentować z przemianami. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].

@@ -20,7 +20,7 @@ Równowaga jest narzędziem fabularnym do wprowadzania zagrożeń, konsekwencji 
 ## Powiązania
 - [[Otchłań]]
 - [[Personifikacje Otchłani]]
-- [[Klątwa Otchłani]]
+- [[02. Klątwa Otchłani|Klątwa Otchłani]]
 - [[Era Przebudzenia]]
 
 > [!gm]+ Tylko dla MG

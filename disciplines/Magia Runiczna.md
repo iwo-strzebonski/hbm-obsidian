@@ -29,7 +29,7 @@ Runy są postrzegane jako pierwotny język rzeczywistości - zapis praw magii i 
 Magia runiczna jest legalna, ale podlega ścisłej kontroli - szczególnie w zakresie zaklinania broni, tworzenia pułapek i zabezpieczeń. Nielegalne są runy destabilizujące rzeczywistość lub łamiące bariery między światami.
 
 ## Mechanika
-Mag runiczny może tworzyć trwałe efekty, wzmacniać zaklęcia, zabezpieczać miejsca i przedmioty. Runy wymagają czasu, precyzji i odpowiednich materiałów. Szczegóły: patrz [[HbM RPG v3 - Księga Magii]].
+Mag runiczny może tworzyć trwałe efekty, wzmacniać zaklęcia, zabezpieczać miejsca i przedmioty. Runy wymagają czasu, precyzji i odpowiednich materiałów. Szczegóły: patrz [[02. Klątwa Otchłani|Klątwa Otchłani]].
 
 > [!gm]+ Tylko dla MG
 > Magia runiczna jest kluczowa dla krasnoludów i twórców artefaktów. Pozwala na budowanie intryg wokół ukrytych pieczęci, starożytnych zabezpieczeń i zakazanych symboli. Thingrim Magnarson to postać centralna dla tej dyscypliny.

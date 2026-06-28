@@ -20,7 +20,7 @@ Personifikacje Otchłani nie są bogami ani awatarami - to świadomości, które
 ## Powiązania
 - [[Otchłań]]
 - [[Posłańcy]]
-- [[Klątwa Otchłani]]
+- [[02. Klątwa Otchłani|Klątwa Otchłani]]
 - [[Era Przebudzenia]]
 
 > [!gm]+ Tylko dla MG

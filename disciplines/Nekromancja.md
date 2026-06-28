@@ -30,7 +30,7 @@ Nekromanci wierzą, że śmierć jest naturalną częścią cyklu istnienia, a z
 Nekromancja jest ściśle regulowana. Legalna wyłącznie dla licencjonowanych magów i pod nadzorem Inkwizycji. Praktyki zakazane: tworzenie nieumarłych bez zgody, nekromancja bojowa, eksperymenty na żywych.
 
 ## Mechanika
-Nekromancja pozwala na przywoływanie i kontrolę nieumarłych, rzucanie klątw, komunikację z duchami oraz manipulację energią śmierci. Szczegóły: patrz [[HbM RPG v3 - Księga Magii]].
+Nekromancja pozwala na przywoływanie i kontrolę nieumarłych, rzucanie klątw, komunikację z duchami oraz manipulację energią śmierci. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
 
 > [!gm]+ Tylko dla MG
 > Nekromancja jest źródłem wielu konfliktów fabularnych: od zakazanych eksperymentów, przez walkę z plagą nieumarłych, po polityczne intrygi wokół nieśmiertelności. Robert Zaryn i jego spuścizna są kluczowym elementem tej dyscypliny.

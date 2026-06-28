@@ -1,7 +1,12 @@
 [
-  "obsidian-html-tags-autocomplete",
   "various-complements",
-  "obsidian-plugin-toc",
   "obsidian-advanced-uri",
-  "file-ignore"
+  "file-ignore",
+  "sheets",
+  "automatic-table-of-contents",
+  "table-editor-obsidian",
+  "extended-markdown-syntax",
+  "obsidian-html-tags-autocomplete",
+  "templater-obsidian",
+  "obsidian-git"
 ]

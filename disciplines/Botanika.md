@@ -38,7 +38,7 @@ Botanicy wierzą, że natura jest źródłem mocy i inspiracji. Cenią harmonię
 Botanika jest legalna, ale niektóre eksperymenty (np. tworzenie roślin trujących lub agresywnych) wymagają zgłoszenia i nadzoru. Zakazane jest tworzenie roślin o cechach istot rozumnych.
 
 ## Mechanika
-Botanik może tworzyć i modyfikować rośliny, przyspieszać ich wzrost, tworzyć eliksiry i wywary, korzystać z magii natury. Szczegóły: patrz [[HbM RPG v3 - Księga Magii]].
+Botanik może tworzyć i modyfikować rośliny, przyspieszać ich wzrost, tworzyć eliksiry i wywary, korzystać z magii natury. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
 
 > [!gm]+ Tylko dla MG
 > Botanika pozwala na wprowadzanie do gry magicznych ogrodów, zagadek przyrodniczych i fabularnych dylematów ekologicznych. Rośliny mogą być zarówno sprzymierzeńcami, jak i zagrożeniem, a ich niekontrolowany rozwój to klasyczny motyw przygodowy.

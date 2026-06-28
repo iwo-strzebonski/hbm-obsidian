@@ -29,8 +29,6 @@ Kult działa na całym świecie, lecz jego główne siedziby i miejsca zgromadze
 
 ## Znani członkowie
 - [[Bezimienny, Pierwszy Patriarcha]] (założyciel, wymazany taumaturg)
-- [[Arcykapłanka Virella]] (obecna przywódczyni kapłańska)
-- [[Narcyza Eleness Zurbach]] (księżniczka Piekieł, arcysukkub, sojuszniczka lub przeciwniczka kultu)
 
 ## Powiązania i zagrożenia
 Kult jest w konflikcie z Inkwizycją i Kultem Otchłani. Jego działania są nieprzewidywalne, a wpływy sięgają wielu światów. Wewnętrzne walki o władzę oraz wpływ Otchłani stanowią stałe zagrożenie dla stabilności organizacji.

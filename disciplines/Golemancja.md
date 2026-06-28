@@ -36,4 +36,4 @@ Golemancja opiera się na przekonaniu, że magia może nadać formę i funkcję 
 Golemancja jest legalna, ale podlega ścisłej kontroli. Zakazane jest tworzenie golemów o cechach istot rozumnych oraz używanie ich do działań wojennych bez zgody władz.
 
 ## Mechanika
-Goleman może tworzyć i kontrolować golemy, naprawiać je, programować runicznie oraz eksperymentować z nowymi typami konstrukcji. Szczegóły: patrz [[HbM RPG v3 - Księga Magii]].
+Goleman może tworzyć i kontrolować golemy, naprawiać je, programować runicznie oraz eksperymentować z nowymi typami konstrukcji. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].

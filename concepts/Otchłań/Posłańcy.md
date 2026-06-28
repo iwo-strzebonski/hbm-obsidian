@@ -56,7 +56,7 @@ Tożsamość pozostałych Posłańców pozostaje otwarta jako hook fabularny.
 ## Powiązania
 - [[Personifikacje Otchłani]]
 - [[Otchłań]]
-- [[Klątwa Otchłani]]
+- [[02. Klątwa Otchłani|Klątwa Otchłani]]
 
 > [!gm]+ Tylko dla MG
 > Posłańcy Otchłani są kluczowymi figurami w kampaniach związanych z Otchłanią. Ich wybór, upadek lub odkupienie może być osią fabularną. Każda Personifikacja wybiera Posłańców według własnych, często niepojętych kryteriów.

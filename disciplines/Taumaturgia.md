@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - magia
   - taumaturgia
@@ -34,7 +34,7 @@ Taumaturdzy wierzą, że każda magia ma wspólne fundamenty, a zrozumienie ich 
 Taumaturgia jest legalna, ale eksperymenty wymagają zgłoszenia i nadzoru. Zakazane są badania nad destabilizacją rzeczywistości, tworzeniem zaklęć masowego rażenia i manipulacją Otchłanią bez zgody.
 
 ## Mechanika
-Taumaturg może analizować, łączyć i modyfikować zaklęcia, rozbrajać efekty magiczne, prowadzić badania nad nowymi formami magii. Szczegóły: patrz [[HbM RPG v3 - Księga Magii]].
+Taumaturg może analizować, łączyć i modyfikować zaklęcia, rozbrajać efekty magiczne, prowadzić badania nad nowymi formami magii. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
 
 > [!gm]+ Tylko dla MG
 > Taumaturgia to domena teoretyków, wynalazców i szalonych naukowców. Pozwala na wprowadzanie eksperymentalnych efektów, nieprzewidywalnych konsekwencji i fabularnych twistów. Klub „Koło Wzajemnej Pomocy dla Uczniów Słabiej Utalentowanych Magicznie" to humorystyczny element tej dyscypliny.
