@@ -9,7 +9,7 @@
   - aliases: []
   - status: draft/complete
 - **Daty:** DD.MM.RRRR (EP X), np. 16.04.2023 (EP 0)
-- **Wikilinki:** zawsze [[Nazwa Strony]] bez ścieżek.
+- **Wikilinki:** zawsze [[<Nazwa Strony>]] bez ścieżek.
 - **Callouty dla MG:**
   > [!gm]+ Tylko dla MG
   Tajne informacje, spoilery, sekrety, mechanika, plot-twisty.

@@ -9,3 +9,6 @@ tags:
 - [[Xivell (planeta)]] 
 	- [[Królestwo Xivell]]
 	- [[Królestwo Zaryn]] 
+- [[Domena Szkarłatu]]
+	- [[Twierdze Szkarłatnego Kultu]]
+	- [[Szkarłatne Pustkowia]]

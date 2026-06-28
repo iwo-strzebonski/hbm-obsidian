@@ -12,7 +12,7 @@ tags:
 | **Imię (imiona)**       | *Diana*                                                                                                                        |
 | **Nazwisko (nazwiska)** | *Koniecpolska*                                                                                                                 |
 | **Rasa**                | *[[Człowiek]]*                                                                                                                 |
-| **Wiek**                | *24 lata*                                                                                                                      |
+| **Wiek**                | *24 lata (2025)*                                                                                                               |
 | **Wzrost**              | *173 cm*                                                                                                                       |
 | **Dziedzina Magii**     | *[[Rzemiosło Artefaktów]], [[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]*                                                |
 | **Organizacje**         | *<ul><li>Uczenica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] ([[Klasa Pi rok 2024-2025]])</li><li>[[Kult Otchłani]]</li></ul>* |

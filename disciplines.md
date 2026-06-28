@@ -16,5 +16,7 @@ tags:
 - [[Magia Krwi]]
 - [[Magia Iluzji]]
 - [[Magia Otchłani]]
+	- [[Poddziedzina - Magia Aspektów]]
 - [[Magia Szkarłatu]]
 - [[Wiedźmia Magia]]
+- [[Dzika Wiedźmia Magia]]

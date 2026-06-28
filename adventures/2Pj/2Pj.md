@@ -1,11 +1,13 @@
 ```table-of-contents
 ```
+## Informacje ogólne
+- Rok rozpoczęcia: 2025/26
 
-## Postacie
+### Postacie
 - 
 
-## Nauczyciele
-
+### Nauczyciele
+- [[Diana Koniecpolska]]
 
 ## Plan Zajęć
 

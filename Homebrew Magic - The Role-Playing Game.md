@@ -8,28 +8,26 @@ Witaj w głównym kompendium wiedzy o Homebrew Magic RPG! Poniżej znajdują si�
 
 ## 📖 Podręczniki i Mechanika
 - [[Zasady Gry]]
-- [[classes]]
-- [[disciplines]]
-- [[Dzika Wiedźmia Magia]]
-- [[Poddziedzina - Magia Aspektów]]
+- [[classes|Klasy]]
+- [[disciplines|Dziedziny Magii]]
 
 ## 🌍 Świat i Lore
-- [[locations]]
+- [[locations|Lokacje]]
 - [[Kraków]]
 - [[Zürich]]
 - [[Obsydianowe Obeliski]]
-- [[organizations]]
+- [[organizations|Organizacje]]
 - [[Sekty]]
 - [[XCOM]]
-- [[conflicts]]
+- [[conflicts|Konflikty]]
 - [[Panteon]]
 - [[Siedem Grzechów]]
-- [[concepts]]
-- [[races]]
+- [[concepts|Koncepty]]
+- [[races|Rasy]]
 
 ## 👤 Bohaterowie i NPC
-- [[npcs]]
-- [[player-characters]]
+- [[npcs|NPC]]
+- [[player-characters|Postacie Graczy]]
 
 ## 🛡️ Ekwipunek
 - [[Przedmioty]]

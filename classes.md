@@ -8,3 +8,6 @@ tags:
 ## Rok rozpoczęcia 2025
 - [[Klasa Pa rok 2025-2026]]
 - [[Klasa Pd rok 2025-2026]]
+
+## Rok rozpoczęcia 2026
+- [[Klasa Pj rok 2026-2027]]
