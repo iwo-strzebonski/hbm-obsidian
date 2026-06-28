@@ -1,22 +1,23 @@
 ---
-tags:
-	- organizacja
-	- taumaturgia
-	- komedia
+tags: 
+    - organizacja
+    - taumaturgia
+    - komedia
 ---
-| **Zdjęcie**                   | ![[kolo-wzajemnej-pomocy.jpg|200]] |
-|-------------------------------|----|
-| **Nazwa oficjalna**           | Koło Wzajemnej Pomocy dla Uczniów Słabiej Utalentowanych Magicznie |
-| **Nazwa potoczna**            | Zakon Taumaturgów, Klub Taumaturgów |
-| **Data powstania**            | 2024 (RP 1) |
-| **Założyciel(e)**             | Grupa uczniów Wschodnioeuropejskiej Szkoły Magii |
-| **Siedziba**                  | Wschodnioeuropejska Szkoła Magii, sala nr 17 (piwnica) |
-| **Status**                    | Aktywny, klub uczniowski |
-| **Szacowana liczba członków** | 30-60 (zależnie od roku szkolnego) |
-| **Przywódca(cy)**             | Przewodniczący Koła (wybierany co semestr) |
-| **Data upadku**               | - |
-| **Ważniejsi członkowie**      | Zofia „Zonk” Zawadzka, „Mikrofalka” Nowak |
-| **Powiązane organizacje**     | Wschodnioeuropejska Szkoła Magii |
+
+| **Zdjęcie**                   | ![[kolo-wzajemnej-pomocy.jpg\|200]]                                |     |
+| ----------------------------- | ------------------------------------------------------------------ | --- |
+| **Nazwa oficjalna**           | Koło Wzajemnej Pomocy dla Uczniów Słabiej Utalentowanych Magicznie |     |
+| **Nazwa potoczna**            | Zakon Taumaturgów, Klub Taumaturgów                                |     |
+| **Data powstania**            | 2024 (RP 1)                                                        |     |
+| **Założyciel(e)**             | Grupa uczniów Wschodnioeuropejskiej Szkoły Magii                   |     |
+| **Siedziba**                  | Wschodnioeuropejska Szkoła Magii, sala nr 17 (piwnica)             |     |
+| **Status**                    | Aktywny, klub uczniowski                                           |     |
+| **Szacowana liczba członków** | 30-60 (zależnie od roku szkolnego)                                 |     |
+| **Przywódca(cy)**             | Przewodniczący Koła (wybierany co semestr)                         |     |
+| **Data upadku**               | -                                                                  |     |
+| **Ważniejsi członkowie**      | Zofia „Zonk” Zawadzka, „Mikrofalka” Nowak                          |     |
+| **Powiązane organizacje**     | Wschodnioeuropejska Szkoła Magii                                   |     |
 
 ## Opis organizacji
 

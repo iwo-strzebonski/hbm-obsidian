@@ -1,22 +1,34 @@
 ```table-of-contents
 ```
+
+## Postacie
+- 
+
+## Nauczyciele
+
+
 ## Plan Zajęć
 
-|        \#         |    Godziny     | Poniedziałek | Wtorek | Środa | Czwartek | Piątek | Sobota |
-| :---------------: | :------------: | :----------: | :----: | :---: | :------: | :----: | :----: |
-|         1         |  7:30 \- 8:30  |              |        |       |          |        |        |
-|         2         |  8:35 \- 9:35  |              |        |       |          |        |        |
-|         3         | 9:40 \- 10:40  |              |        |       |          |        |        |
-| Przerwa lunchowa  |       <        |      <       |   <    |   <   |    <     |   <    |   <    |
-|         4         | 11:10 \- 12:10 |              |        |       |          |        |        |
-|         5         | 12:15 \- 13:15 |              |        |       |          |        |        |
-|         6         | 13:20 \- 13:20 |              |        |       |          |        |        |
-|         7         | 14:25 \- 15:25 |              |        |       |          |        |        |
-| Przerwa obiadowa  |       <        |      <       |   <    |   <   |    <     |   <    |   <    |
-|         8         | 16:30 \- 17:30 |              |        |       |          |        |        |
-|         9         | 17:35 \- 18:35 |              |        |       |          |        |        |
-| Przerwa kolacyjna |       <        |      <       |   <    |   <   |    <     |   <    |   <    |
-|        10         | 19:05 \- 20:05 |              |        |       |          |        |        |
-|        11         | 20:10 \- 21:10 |              |        |       |          |        |        |
-|        12         | 21:15 \- 22:15 |              |        |       |          |        |        |
-\* Tygodnie parzyste - grupa I; tygodnie nieparzyste - grupa II
+|        \#         |    Godziny     |            Poniedziałek             |                                              Wtorek                                               |                                                                Środa                                                                 |                                         Czwartek                                         |            Piątek             |         Sobota          |
+|:-----------------:|:--------------:|:-----------------------------------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:-----------------------------:|:-----------------------:|
+|         1         |  7:30 \- 8:30  | =={green}[[Rzemiosło Artefaktów]]== | =={green}[[Botanika]]==<br><br>=={green}[[Magia Żywiołów\|Praktyczne Zajęcia z Magii Żywiołów]]== | =={green}[[Poddziedzina - Transmutacja\|Transmutacja]]==<br><br>=={green}[[Poddziedzina - Warzenie Eliksirów\|Warzenie Eliksirów]]== | =={green}[[Źródło Mocy\|Przepływ Magii II]]==<br><br>=={green}[[Magia Iluzji\|Iluzja]]== | =={green}[[Magia Sakralna]]== |  *Cech Rzemieślników*   |
+|         2         |  8:35 \- 9:35  | =={green}[[Rzemiosło Artefaktów]]== | =={green}[[Botanika]]==<br><br>=={green}[[Magia Żywiołów\|Praktyczne Zajęcia z Magii Żywiołów]]== | =={green}[[Poddziedzina - Transmutacja\|Transmutacja]]==<br><br>=={green}[[Poddziedzina - Warzenie Eliksirów\|Warzenie Eliksirów]]== | =={green}[[Źródło Mocy\|Przepływ Magii II]]==<br><br>=={green}[[Magia Iluzji\|Iluzja]]== | =={green}[[Magia Sakralna]]== |  *Cech Rzemieślników*   |
+|         3         | 9:40 \- 10:40  | =={green}[[Rzemiosło Artefaktów]]== | =={green}[[Botanika]]==<br><br>=={green}[[Magia Żywiołów\|Praktyczne Zajęcia z Magii Żywiołów]]== | =={green}[[Poddziedzina - Transmutacja\|Transmutacja]]==<br><br>=={green}[[Poddziedzina - Warzenie Eliksirów\|Warzenie Eliksirów]]== | =={green}[[Źródło Mocy\|Przepływ Magii II]]==<br><br>=={green}[[Magia Iluzji\|Iluzja]]== | =={green}[[Magia Sakralna]]== |  *Cech Rzemieślników*   |
+| Przerwa lunchowa  |       <        |                  <                  |                                                 <                                                 |                                                                  <                                                                   |                                            <                                             |               <               |            <            |
+|         4         | 11:10 \- 12:10 |          ==Teoria Magii==           |                           ==Wiedza o Magicznych Miejscach i Rytuałach==                           |                                                         **Starożytne Runy**                                                          |                                    ==Historia Magii==                                    |         ==Zaklęcia==          |    *Klub Fechtunku*     |
+|         5         | 12:15 \- 13:15 |          ==Teoria Magii==           |                           ==Wiedza o Magicznych Miejscach i Rytuałach==                           |                                                         **Starożytne Runy**                                                          |                                    ==Historia Magii==                                    |         ==Zaklęcia==          |    *Klub Fechtunku*     |
+|         6         | 13:20 \- 13:20 |          ==Teoria Magii==           |                                        **Ziołolecznictwo**                                        |                                                            **Zielarstwo**                                                            |                                    ==Historia Magii==                                    | =={pink}Pojedynki Magiczne==  |                         |
+|         7         | 14:25 \- 15:25 |          ==Teoria Magii==           |                                        **Ziołolecznictwo**                                        |                                                            **Zielarstwo**                                                            |                                    ==Historia Magii==                                    | =={pink}Pojedynki Magiczne==  |                         |
+| Przerwa obiadowa  |       <        |                  <                  |                                                 <                                                 |                                                                  <                                                                   |                                            <                                             |               <               |            <            |
+|         8         | 16:30 \- 17:30 |       *Koło Gier faularnych*        |                                         *Koło Teatralne*                                          |                                                ==Opieka nad Magicznymi Zwierzętami==                                                 |                              **Wróżbiarstwo i Numerologia**                              |                               | *[[Zakon Taumaturgów]]* |
+|         9         | 17:35 \- 18:35 |       *Koło Gier faularnych*        |                                         *Koło Teatralne*                                          |                                                ==Opieka nad Magicznymi Zwierzętami==                                                 |                              **Wróżbiarstwo i Numerologia**                              |                               | *[[Zakon Taumaturgów]]* |
+| Przerwa kolacyjna |       <        |                  <                  |                                                 <                                                 |                                                                  <                                                                   |                                            <                                             |               <               |            <            |
+|        10         | 19:05 \- 20:05 |       *Koło Gier faularnych*        |                                         *Koło Teatralne*                                          |                                                                                                                                      |                                                                                          |                               |                         |
+|        11         | 20:10 \- 21:10 |                                     |                                                                                                   |                                                     **Astronomia i Astrologia**                                                      |                                                                                          |                               |                         |
+|        12         | 21:15 \- 22:15 |                                     |                                                                                                   |                                                     **Astronomia i Astrologia**                                                      |                                                                                          |                               |                         |
+
+==Zajęcia obowiązkowe==
+=={pink}Zajęcia obowiązkowe z podziałem na grupy. Tygodnie parzyste - grupa I; tygodnie nieparzyste - grupa II==
+=={green}Zajęcia z Dziedziny Magii==
+**Zajęcia obieralne dodatkowe**
+*Zajęcia dodatkowe*
