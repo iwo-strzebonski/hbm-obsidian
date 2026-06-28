@@ -7,18 +7,18 @@ tags:
   - kult-otchłani
   - npc
 ---
-| **Zdjęcie**             | ![[../../_assets/npc/diana-koniecpolska/diana-profile.png\|200]]                                                               |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Imię (imiona)**       | *Diana*                                                                                                                        |
-| **Nazwisko (nazwiska)** | *Koniecpolska*                                                                                                                 |
-| **Rasa**                | *[[Człowiek]]*                                                                                                                 |
-| **Wiek**                | *24 lata (2025)*                                                                                                               |
-| **Wzrost**              | *173 cm*                                                                                                                       |
-| **Dziedzina Magii**     | *[[Rzemiosło Artefaktów]], [[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]*                                                |
-| **Organizacje**         | *<ul><li>Uczenica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] ([[Klasa Pi rok 2024-2025]])</li><li>[[Kult Otchłani]]</li></ul>* |
-| **Pseudonim(y)**        | **                                                                                                                             |
-| **Tytuł(y)**            | *Najwybitniejsza Uczennica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] 2025-2026*                                               |
-| **Charakter**           | **                                                                                                                             |
+| **Zdjęcie**             | ![[../../_assets/npc/diana-koniecpolska/diana-profile.png\|200]]                                                                                                                                                                                   |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Diana*                                                                                                                                                                                                                                            |
+| **Nazwisko (nazwiska)** | *Koniecpolska*                                                                                                                                                                                                                                     |
+| **Rasa**                | *[[Człowiek]]*                                                                                                                                                                                                                                     |
+| **Wiek**                | *24 lata (2025)*                                                                                                                                                                                                                                   |
+| **Wzrost**              | *173 cm*                                                                                                                                                                                                                                           |
+| **Dziedzina Magii**     | *[[Rzemiosło Artefaktów]], [[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]*                                                                                                                                                                    |
+| **Organizacje**         | - Uczenica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] ([[Klasa Pi rok 2024-2025]])<br>- Nauczyciel [[Wschodnioeuropejska Szkoła Magii\|WeSM]] (Wychowawczyni: [[Klasa Pj rok 2026-2027]], Nauczycielka: Przepływ Magii III)<br>- [[Kult Otchłani]] |
+| **Pseudonim(y)**        | **                                                                                                                                                                                                                                                 |
+| **Tytuł(y)**            | - *Najwybitniejsza Uczennica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] 2025-2026*<br>- Mistrzyni Magii ([[Rzemiosło Artefaktów]])                                                                                                                 |
+| **Charakter**           | **                                                                                                                                                                                                                                                 |
 
 Uczennica [[Klasa Pi rok 2024-2025|klasy Pi (rok 2024-2025)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]].
 
@@ -32,7 +32,7 @@ Ostatnio zainteresowała się zagadnieniem *pamięci kamienia* - przekonaniem, �
 
 ## Relacje
 
-- **[[Nauczyciele/...]]** - Diana jest grzeczna i sumienna wobec nauczycieli, ale rzadko im ufa. Uważa, że akademickie podejście do artefaktów jest zbyt zachowawcze.
+- **[[npcs/Nauczyciele|Nauczyciele/...]]** - Diana jest grzeczna i sumienna wobec nauczycieli, ale rzadko im ufa. Uważa, że akademickie podejście do artefaktów jest zbyt zachowawcze.
 - **[[Kult Otchłani]]** - Diana jest formalnie powiązana z Kultem, choć sama siebie nie uważa za "kultystę". Dla niej to po prostu środowisko badawcze z dostępem do starożytnych źródeł.
 - **[[Nil]]** - Diana zaczyna "słyszeć" coś w snach. Nie rozumie jeszcze, co to jest.
 
