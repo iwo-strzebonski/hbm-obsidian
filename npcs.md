@@ -8,6 +8,7 @@ tags:
 - [[Anna Heide]], uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 - [[Narcyza Eleness Zurbach]], arcysukkubica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 - [[Klara]], anielica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Kiara]], Feles, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 
 ## Nauczyciele i Pracownicy Szkół
 - [[Pelagius Caudex]], nauczyciel [[Rzemiosło Artefaktów|Rzemiosła Artefaktów]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], Agent Specjalny [[Federacja Sol-3|Federacji Sol-3]]
