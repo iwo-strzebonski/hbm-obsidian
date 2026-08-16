@@ -19,3 +19,11 @@ tags:
 | **Pseudonim(y)**        | **                                                                                                                            |
 | **Tytuł(y)**            | *Wysoki Kapłan Szkarłatnego Kultu*                                                                                            |
 | **Charakter**           | **                                                                                                                            |
+
+## Opis
+
+Talonos Isherwood urodził się, podobnie jak jego starszy brat [[Xillith Isherwood|Xillith]], już w [[Szkarłatny Kult|Szkarłatnym Kulcie]] - ich rodzice do niego dołączyli. Obaj bracia zostali szybko odebrani rodzicom i od najmłodszych lat indoktrynowani przez Kult. Przez lata służby byli od siebie mocno oddaleni - dopiero w [[Wschodnioeuropejska Szkoła Magii|WeSM]] mogą wreszcie być razem.
+
+## Relacje
+
+- **[[Xillith Isherwood]]** - starszy brat. Mimo że po latach rozłąki są sobie teraz bliżsi niż kiedykolwiek, Xillith kilkukrotnie wyzywał go na pojedynek za same różnice zdań.
