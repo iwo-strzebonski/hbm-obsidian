@@ -27,6 +27,9 @@ tags:
 ## Zakon Taumaturgów
 
 
+## Inkwizycja
+- [[Tena Lindemann]], Starsza Inkwizytor, sekretnie lisz
+
 ## Szkarłatny Kult
 - [[Bezimienny, Pierwszy Patriarcha]]
 - [[Talonos Isherwood]]
