@@ -27,7 +27,8 @@ components:
   material: ''
   symbols: []
 requirements:
-  race: []
+  race:
+    - Anioł
   talent: []
   discipline:
     - sacred

@@ -84,6 +84,8 @@ description: >-
 ---
 # Destrukcja
 
+**Wymagania:** Mistrzostwo (dowolna Dziedzina)
+
 Znane potocznie jako “nuke spell”, to potężne zaklęcie pochłania olbrzymią ilość Many, która następnie jest wyzwalana w wybranym przez maga miejscu. Nagłe wyzwolenie tak dużej ilości Many powoduje eksplozję, której moc jest porównywalna do mocy broni nuklearnej - stąd właśnie ta nazwa potoczna.
 
 Zaklęcie po rzuceniu “przenosi” Manę do wybranego przez maga miejsca w promieniu 100 m od niego, która następnie jest wyzwalana, wywołując potężną eksplozję o promieniu 50 m. W miejscu eksplozji powstaje krater, a w promieniu 10 km widać smugi zakrzywionej Many, które wskazują na miejsce wybuchu. “Dzika” mana, która powstaje po wybuchu, ma własności podobne do odpadów promieniotwórczych (oczywiście działają na innych zasadach), w związku z czym część rzeczy i istot, na które trafi, mutuje bądź jest zamieniana w odpady alchemiczne.

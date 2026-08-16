@@ -27,7 +27,8 @@ components:
   material: ''
   symbols: []
 requirements:
-  race: []
+  race:
+    - Człowiek
   talent: []
   discipline:
     - sacred

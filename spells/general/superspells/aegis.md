@@ -73,6 +73,8 @@ description: >-
 ---
 # Aegis
 
+**Wymagania:** Mistrzostwo (dowolna Dziedzina)
+
 Czasem najpotężniejsze osłony przygotowywane przez lata nie wystarczają, a czasem takich brakuje.
 
 Kilku elfickich magów, w trakcie Apokalipsy gdy stolica była oblegana przez orki, skończyło opracowywać zaklęcie, które ochroniłoby całe miasto nie tylko przed najeźdźcami, ale także przed Apokalipsą. Niestety nie przewidzieli trzech rzeczy - tarcza nikogo nie wypuści, więc zamknięci pod kopułą cywile zostali wymordowani przez przebywające pod kopułą orki; tarcza nikogo nie wpuści, więc wojsko elfickie nie było w stanie przyjść z pomocą; ich życie ucięło się znienacka przez miesiące życia, które oddali, aby ta potężna magiczna bariera zadziałała.

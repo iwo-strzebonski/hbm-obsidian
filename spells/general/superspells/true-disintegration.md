@@ -86,6 +86,8 @@ description: >-
 ---
 # Prawdziwa Dezintegracja
 
+**Wymagania:** Mistrzostwo (dowolna Dziedzina)
+
 Niektóre istoty są tak potężne, że najpotężniejsi i najmądrzejsi magowie wolą przed nimi uciekać - umiejętności wypaczające rzeczywistość, rozszarpujące duszę, czy sprawiające tak olbrzymie cierpienie że wszystkie piekielne tortury są przy nim niczym to tylko jedne z nielicznych rzeczy, które sprawiały, że wszystkie ekspedycje mające na celu zgładzenie lub zbadanie takiej istoty znikały bez śladu.
 
 Jednak pewnego dnia jednemu magowi, który stracił poczytalność po spotkaniu z jedną z takich istot, udało się uciec i przeżyć. Dzięki bardzo długim i wymagającym próbom i obliczeniom udało się mu wymyślić zaklęcie wzorowane na jednej z umiejętności istoty, którą napotkał.
