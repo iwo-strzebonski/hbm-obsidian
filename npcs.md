@@ -16,6 +16,7 @@ tags:
 
 ## Federacja Sol-3
  - [[Syllia Orirel]], Wyrocznia i Agentka Specjalna [[Federacja Sol-3|Federacji Sol-3]] 
+ - [[Joe Cox]], Porucznik, dowódca 1. Plutonu [[XCOM|Sił Specjalnych "XCOM"]]
 ### Projekt "Starlight"
  - [[Norbert Goch]], porucznik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], służący bezpośrednio pod [[Serioża Żukow|Seriożą Żukowem]]
  - [[Serioża Żukow]], pułkownik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], wchodzących w skład [[Projekt Starlight|Projektu "Starlight"]]
