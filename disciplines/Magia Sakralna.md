@@ -22,10 +22,6 @@ Praktycy magii sakralnej wierzą, że moc pochodzi od bóstw i wymaga oddania or
 - Ochrona przed złymi duchami
 - Leczenie i oczyszczanie
 
-## Znani praktycy
-- [[Arcykapłan Serapion]] (przywódca Zakonu Taumaturgów)
-- [[Siostra Mirra]] (uzdrowicielka i egzorcystka)
-
 ## Status prawny (Inkwizycja)
 Magia Sakralna jest legalna, ale podlega ścisłej kontroli organizacji religijnych i Inkwizycji. Nadużycia (np. fałszywe błogosławieństwa) są surowo karane.
 

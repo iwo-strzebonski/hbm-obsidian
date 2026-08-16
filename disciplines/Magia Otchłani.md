@@ -33,7 +33,6 @@ Najbardziej jaskrawym przykładem tej schizmy jest przypadek [[Karolina Fey|Karo
 
 ## Znani praktycy
 - [[Kult Otchłani]] (tajne stowarzyszenie czcicieli Otchłani)
-- [[Mistrzyni Cieni Lirael]] (legendarna czarownica Otchłani)
 
 ## Status prawny (Inkwizycja)
 Magia Otchłani jest absolutnie zakazana. Każdy przejaw jej użycia jest ścigany z najwyższą surowością. Praktykowanie grozi natychmiastową egzekucją lub wieczystym zamknięciem w Otchłani.

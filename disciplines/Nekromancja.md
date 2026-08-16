@@ -24,7 +24,6 @@ Nekromanci wierzą, że śmierć jest naturalną częścią cyklu istnienia, a z
 
 ## Znani praktycy
 - [[Robert Zaryn]] (pierwotny „Bóg Krwi”, mistrz nekromancji i magii krwi)
-- [[Aelindra]] (elfia nekromantka, badaczka dusz)
 
 ## Status prawny (Inkwizycja)
 Nekromancja jest ściśle regulowana. Legalna wyłącznie dla licencjonowanych magów i pod nadzorem Inkwizycji. Praktyki zakazane: tworzenie nieumarłych bez zgody, nekromancja bojowa, eksperymenty na żywych.

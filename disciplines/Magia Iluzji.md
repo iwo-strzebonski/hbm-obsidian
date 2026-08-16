@@ -22,10 +22,6 @@ Iluzjoniści wierzą, że rzeczywistość jest względna, a percepcja może być
 - Maskowanie i kamuflaż
 - Tworzenie fałszywych wspomnień
 
-## Znani praktycy
-- [[Mistrz Iluzji Veyron]] (twórca największych spektakli iluzjonistycznych)
-- [[Czarodziejka Mirielle]] (szpieg i mistrzyni kamuflażu)
-
 ## Status prawny (Inkwizycja)
 Magia Iluzji jest legalna, ale jej nadużywanie (np. do oszustw, manipulacji politycznej) jest ścigane. Nauczanie podlega ścisłej kontroli.
 
