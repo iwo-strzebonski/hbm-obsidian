@@ -23,3 +23,5 @@ Bywa nazywana różnie - Abyss, Początek i Koniec, Alfa i Omega czy Nicość  t
 Nil jest odpowiedzialna za niszczenie światów i tworzenie zalążków nowych.
 
 Jej Heroldzi odpowiadają za odpowiednio Przeszłość i Przyszłość, jako że Nil zna wszystkie przeszłe ścieżki oraz wszystkie przyszłe możliwości.
+
+Ze wszystkich trzech Personifikacji Nil jest najstarsza - a właściwie jest tym, co pozostało z pierwotnej, niepodzielonej [[Abyss|Otchłani]] po tym, jak wyłoniły się z niej [[Mundus]] i [[Tempus]]. Zachowuje w sobie nieznacznie więcej z pierwotnego bytu niż jej rodzeństwo, przez co bywa uznawana za tę najbliższą oryginałowi - stąd imię "Abyss" wciąż bywa używane wymiennie z jej właściwym imieniem.

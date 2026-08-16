@@ -25,3 +25,5 @@ Jednak pomimo tego czym jest, i jej obecność zwiastuje koniec. Jak Nil dąży 
 Mundus jest odpowiedzialna za egzystencję, ewolucję, ale również za mutacje i wypaczenie.
 
 Jej pierwszy Herold włada życiem, zaś drugi - mutacjami.
+
+Mundus jest pierwszą z Personifikacji, która wyłoniła się z pierwotnej, niepodzielonej [[Abyss|Otchłani]] - jeszcze zanim istniał jakikolwiek wszechświat. To właśnie jej narodziny sprawiły, że istnienie w ogóle stało się możliwe.
