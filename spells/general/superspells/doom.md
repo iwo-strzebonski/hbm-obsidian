@@ -11,8 +11,8 @@ manaCost: 30
 bloodCost: 0
 complexityLevel: 0
 isSuperspell: true
-requiresGroupCast: false
-minCasters: 1
+requiresGroupCast: true
+minCasters: 4
 nonCombatOnly: false
 damageBase: ''
 damageType: ''
@@ -109,6 +109,8 @@ description: >-
   ---
 ---
 # Zagłada
+
+**Wymagania:** Mistrzostwo (dowolna Dziedzina), co najmniej 3 dodatkowych magów biorących udział w rytuale (wszyscy muszą znać Zagładę) - ponadto żaden mag biorący udział w rytuale nie może być Źródłem Mocy
 
 Zagłada jest ostatecznym superzaklęciem unicestwienia, stworzonym jako rytuał, który nie tylko zabija, ale też wymazuje wszelką nadzieję na odwrócenie skutków. W przeciwieństwie do Destrukcji, która „tylko” eksploduje nagromadzoną manę, Zagłada celowo splata ją z samą strukturą życia istot w zasięgu.
 ​

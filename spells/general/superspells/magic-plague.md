@@ -85,6 +85,8 @@ description: >-
 ---
 # Magiczna Plaga
 
+**Wymagania:** Mistrzostwo (Botanika, Magia Wiedźm, Alchemia (Warzenie Eliksirów) lub Magia Otchłani)
+
 Zakazana Wiedza nie bez powodu jest nazywana w ten sposób. Są po prostu rzeczy, które nigdy nie powinny ujrzeć światła dziennego, rzeczy, które sprawiają, że Jeźdźcy Apokalipsy zdają się być dziećmi w przebraniach - jednym z zaklęć powstałych dzięki tej wiedzy jest superzaklęcie Magicznej Plagi.
 
 W trakcie nowiu spotkała się wiedźma, botanik i alchemik, cała trójka studiująca Otchłań. Chcąc zasiać zniszczenie w mieście, które ich wygnało, przez całą noc opracowywali zemstę - coś, co zniszczy chlubę tego miasta, czyli magiczną akademię. Stworzyli zarazę, która bardzo szybko się rozprzestrzeniła, zabijając najpierw wszystkich uczniów, następnie pozostałych magów, a na końcu ich samych.
