@@ -32,6 +32,7 @@ Ostatnio zainteresowała się zagadnieniem *pamięci kamienia* - przekonaniem, �
 
 ## Relacje
 
+- **[[Narcyza Eleness Zurbach]]** - bliska znajoma; Narcyza uszyła ręcznie część jej garderoby.
 - **[[npcs/Nauczyciele|Nauczyciele/...]]** - Diana jest grzeczna i sumienna wobec nauczycieli, ale rzadko im ufa. Uważa, że akademickie podejście do artefaktów jest zbyt zachowawcze.
 - **[[Kult Otchłani]]** - Diana jest formalnie powiązana z Kultem, choć sama siebie nie uważa za "kultystę". Dla niej to po prostu środowisko badawcze z dostępem do starożytnych źródeł.
 - **[[Nil]]** - Diana zaczyna "słyszeć" coś w snach. Nie rozumie jeszcze, co to jest.

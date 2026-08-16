@@ -6,6 +6,8 @@ tags:
 - [[Diana Koniecpolska]], uczennica [[Klasa Pi rok 2024-2025|klasy Pi (2024/25)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 - [[Aurora|Aurora Nylabelle]], uczennica [[Klasa Pd rok 2025-2026|klasy Pd (2025/26)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 - [[Anna Heide]], uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Narcyza Eleness Zurbach]], arcysukkubica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Klara]], anielica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 
 ## Nauczyciele i Pracownicy Szkół
 - [[Pelagius Caudex]], nauczyciel [[Rzemiosło Artefaktów|Rzemiosła Artefaktów]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], Agent Specjalny [[Federacja Sol-3|Federacji Sol-3]]
@@ -30,6 +32,7 @@ tags:
 
 
 ## Kult Otchłani
+- [[Abyss]], pierwotny, niepodzielony byt sprzed Nil, Mundus i Tempusa
 - [[Nil]], Początek i Koniec
 - [[Mundus]], Istnienie
 - [[Tempus]], Czas
