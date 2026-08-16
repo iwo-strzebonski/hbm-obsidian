@@ -36,19 +36,19 @@ Ostatnio zainteresowała się zagadnieniem *pamięci kamienia* - przekonaniem, �
 - **[[Kiara]]** - luźny związek; Kiara jest rok wyżej od Diany w WeSM.
 - **[[npcs/Nauczyciele|Nauczyciele/...]]** - Diana jest grzeczna i sumienna wobec nauczycieli, ale rzadko im ufa. Uważa, że akademickie podejście do artefaktów jest zbyt zachowawcze.
 - **[[Kult Otchłani]]** - Diana jest formalnie powiązana z Kultem, choć sama siebie nie uważa za "kultystę". Dla niej to po prostu środowisko badawcze z dostępem do starożytnych źródeł.
-- **[[Nil]]** - Diana zaczyna "słyszeć" coś w snach. Nie rozumie jeszcze, co to jest.
+- **[[Nil]]** - w przeszłości na pewien czas przejęła kontrolę nad ciałem Diany i próbowała zabić jej przyjaciół, zanim została pokonana. Diana wciąż dźwiga emocjonalne skutki tego wydarzenia.
+- **[[Pelagius Caudex]]** - po klęsce Nil zlitował się nad złamaną tym doświadczeniem Dianą i zaoferował jej stanowisko nauczycielki-praktykantki w WeSM, uważając, że to, co ją spotkało, było niesprawiedliwe.
 
 > [!gm]+ Tylko dla MG
-> **Prawda o Dianie i ścieżce ku Posłańcowi:**
+> **Prawda o Dianie i przejęciu przez Nil:**
 >
-> [[Nil]] - Personifikacja Przeszłości/Otchłani - zaczęła kontaktować się z Dianą przez sny. Na razie to tylko fragmenty: obrazy starożytnych świątyń na Xivell, wzory artefaktów, które Diana "wie jak zbudować" bez żadnego wcześniejszego badania.
+> [[Nil]] - Personifikacja Przeszłości/Otchłani - w ramach nieudanej próby sprowadzenia się w pełni do materialnego świata (tej samej, za którą [[Klaus von Übertropp]] został usunięty z rzeczywistości) na pewien czas przejęła ciało Diany i, jako Diana, zaatakowała jej przyjaciół (graczy). Ostatecznie Nil została pokonana/wyparta z ciała Diany, ale sama Diana wyszła z tego doświadczenia załamana.
 >
-> Diana jest predestynowana do roli **[[Posłańcy|Posłańca Przeszłości]]**. Nil wybrała ją ze względu na jej naturalne powinowactwo z pamięcią, trwałością i strukturą - cechy dominujące w jej podejściu do rzemiosła artefaktów.
+> To właśnie to wydarzenie skłoniło [[Pelagius Caudex|Pelagiusa Caudexa]] do zaoferowania jej stanowiska nauczycielki-praktykantki - z jednej strony chce jej to zrekompensować, z drugiej trzyma ją bliżej siebie, by móc na nią uważać.
 >
 > **Jak to rozegrać:**
-> - Diana nie wie jeszcze, czym się staje. Jej "obsesja" na punkcie świątynnych generatorów to Nil prowadząca ją ku rytuałom inicjacyjnym.
-> - Stopniowo Diana będzie "wiedzieć rzeczy" - lokalizacje zaginionych artefaktów, rytuały, które "po prostu rozumie". To dar Nil.
-> - Docelowo Diana przejdzie inicjację jako Posłaniec Przeszłości - ale to może być wielomiesięczny lub wieloletni proces.
-> - Gracze mogą zauważyć zmianę w jej zachowaniu: coraz bardziej oderwana, coraz więcej czasu spędza sama, jej artefakty zaczynają mieć "ten sam styl" co starożytne relikty z Xivell.
+> - Diana może nie pamiętać wszystkiego z okresu, gdy Nil kontrolowała jej ciało - albo pamiętać aż za dużo.
+> - Jej wcześniejsza "obsesja" na punkcie świątynnych generatorów i wzorów artefaktów, które "po prostu wiedziała, jak zbudować", była Nil prowadzącą ją ku rytuałom inicjacyjnym poprzedzającym przejęcie.
+> - Relacja Diany z przyjaciółmi, których zaatakowała pod kontrolą Nil, to bogate źródło napięcia fabularnego - wina, nieufność, próby odbudowania zaufania.
 >
-> **Powiązanie z organizacją:** Diana działa w Kulcie Otchłani, ale jej bezpośrednim "patronem" jest Nil, nie żaden ludzki lider Kultu. To tworzy potencjalne napięcie - Kult może chcieć kontrolować Posłańca Przeszłości, ale Nil jest potężniejsza niż jakikolwiek ludzki hierarcha.
+> **Powiązanie z organizacją:** Diana wciąż formalnie działa w Kulcie Otchłani, ale jej bezpośrednim "patronem" była Nil, nie żaden ludzki lider Kultu - co czyni jej pozycję w Kulcie po wydarzeniach z przejęciem niejasną i otwartą do dalszego rozwijania.
