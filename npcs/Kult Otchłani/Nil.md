@@ -25,3 +25,5 @@ Nil jest odpowiedzialna za niszczenie światów i tworzenie zalążków nowych.
 Jej Heroldzi odpowiadają za odpowiednio Przeszłość i Przyszłość, jako że Nil zna wszystkie przeszłe ścieżki oraz wszystkie przyszłe możliwości.
 
 Ze wszystkich trzech Personifikacji Nil jest najstarsza - a właściwie jest tym, co pozostało z pierwotnej, niepodzielonej [[Abyss|Otchłani]] po tym, jak wyłoniły się z niej [[Mundus]] i [[Tempus]]. Zachowuje w sobie nieznacznie więcej z pierwotnego bytu niż jej rodzeństwo, przez co bywa uznawana za tę najbliższą oryginałowi - stąd imię "Abyss" wciąż bywa używane wymiennie z jej właściwym imieniem.
+
+Nil dysponuje mocą, o ile wiadomo, niedostępną dla pozostałych Personifikacji: może całkowicie *usunąć* istotę z rzeczywistości - wymazać ją zarówno z istnienia, jak i z pamięci świata o niej. To coś więcej niż zabicie; to coś bliższego unicestwieniu. Wykorzystała tę moc na przykład na [[Klaus von Übertropp|Klausie von Übertroppie]].
