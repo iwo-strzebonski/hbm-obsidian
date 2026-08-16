@@ -9,7 +9,6 @@ tags:
 - [[#Historia szkoły|Historia szkoły]]
 - [[#Filozofia i założenia|Filozofia i założenia]]
 - [[#Poddyscypliny|Poddyscypliny]]
-- [[#Znani praktycy|Znani praktycy]]
 - [[#Status prawny (Inkwizycja)|Status prawny (Inkwizycja)]]
 - [[#Mechanika|Mechanika]]
  

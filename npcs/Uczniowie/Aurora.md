@@ -22,3 +22,7 @@ aliases:
 | **Pseudonim(y)**        | **                                                                                                                                                     |
 | **Tytuł(y)**            | *Księżniczka Nylabelle*                                                                                                                                |
 | **Charakter**           | **                                                                                                                                                     |
+
+## Relacje
+
+- **[[Maedinitia]]** - jej służąca; towarzyszy Aurorze w WeSM, dokąd Aurora uczęszcza głównie z powodów politycznych.
