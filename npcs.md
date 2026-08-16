@@ -13,6 +13,7 @@ tags:
 ## Nauczyciele i Pracownicy Szkół
 - [[Pelagius Caudex]], nauczyciel [[Rzemiosło Artefaktów|Rzemiosła Artefaktów]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], Agent Specjalny [[Federacja Sol-3|Federacji Sol-3]]
 - [[Urszula Callistis]], nauczycielka Wiedzy o Magicznych Miejscach i Rytuałach
+- [[Leopold von Karma]], nauczyciel [[Nekromancja|Nekromancji]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 
 ## Federacja Sol-3
  - [[Syllia Orirel]], Wyrocznia i Agentka Specjalna [[Federacja Sol-3|Federacji Sol-3]] 
