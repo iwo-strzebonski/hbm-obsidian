@@ -26,7 +26,7 @@ Iluzjoniści wierzą, że rzeczywistość jest względna, a percepcja może być
 Magia Iluzji jest legalna, ale jej nadużywanie (np. do oszustw, manipulacji politycznej) jest ścigane. Nauczanie podlega ścisłej kontroli.
 
 ## Mechanika
-Iluzjonista może tworzyć złudzenia, manipulować zmysłami, ukrywać się i wpływać na emocje. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
+Iluzjonista może tworzyć złudzenia, manipulować zmysłami, ukrywać się i wpływać na emocje. Szczegóły: patrz [Księga Magii](../rules/01.%20Księga%20Magii.md).
 
 > [!gm]+ Tylko dla MG
 > Magia Iluzji pozwala na wprowadzanie do gry zagadek percepcyjnych, intryg i fabularnych twistów. Iluzje mogą być zarówno narzędziem, jak i zagrożeniem, a ich wykrycie to wyzwanie dla graczy.

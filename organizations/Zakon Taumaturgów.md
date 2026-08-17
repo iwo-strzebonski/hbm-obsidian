@@ -5,7 +5,7 @@ tags:
     - komedia
 ---
 
-| **Zdjęcie**                   | ![[kolo-wzajemnej-pomocy.jpg\|200]]                                |     |
+| **Zdjęcie**                   | <img src="kolo-wzajemnej-pomocy.jpg" width="200" alt="kolo-wzajemnej-pomocy.jpg">                                |     |
 | ----------------------------- | ------------------------------------------------------------------ | --- |
 | **Nazwa oficjalna**           | Koło Wzajemnej Pomocy dla Uczniów Słabiej Utalentowanych Magicznie |     |
 | **Nazwa potoczna**            | Zakon Taumaturgów, Klub Taumaturgów                                |     |
@@ -21,7 +21,7 @@ tags:
 
 ## Opis organizacji
 
-**Koło Wzajemnej Pomocy dla Uczniów Słabiej Utalentowanych Magicznie** (pot. Zakon Taumaturgów) to stowarzyszenie uczniów Wschodnioeuropejskiej Szkoły Magii, powstałe z myślą o wsparciu tych, którym magia sprawia największe trudności. Klub nie posiada realnej władzy ani wpływów - jego działalność ogranicza się do wspólnego rozwiązywania zadań domowych, organizowania korepetycji i wymyślania absurdalnych „innowacji” magicznych, które rzadko działają zgodnie z planem. Ciekawostką jest, że przez pewien czas przewodniczącą Koła była [[Diana Koniecpolska]], która zdecydowanie NIE należy do słabo utalentowanych magicznie, lecz z własnej inicjatywy wspierała klub i jego członków.
+**Koło Wzajemnej Pomocy dla Uczniów Słabiej Utalentowanych Magicznie** (pot. Zakon Taumaturgów) to stowarzyszenie uczniów Wschodnioeuropejskiej Szkoły Magii, powstałe z myślą o wsparciu tych, którym magia sprawia największe trudności. Klub nie posiada realnej władzy ani wpływów - jego działalność ogranicza się do wspólnego rozwiązywania zadań domowych, organizowania korepetycji i wymyślania absurdalnych „innowacji” magicznych, które rzadko działają zgodnie z planem. Ciekawostką jest, że przez pewien czas przewodniczącą Koła była [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md), która zdecydowanie NIE należy do słabo utalentowanych magicznie, lecz z własnej inicjatywy wspierała klub i jego członków.
 
 ### Struktura i działalność
 Koło liczy kilkudziesięciu członków, którzy spotykają się w piwnicznej sali nr 17. Przewodniczący wybierany jest co semestr, a funkcje są czysto honorowe. Klub prowadzi kronikę nieudanych eksperymentów, a jego członkowie słyną z poczucia humoru i dystansu do własnych niepowodzeń.

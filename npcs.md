@@ -3,64 +3,64 @@ tags:
   - npc
 ---
 ## Uczniowie
-- [[Diana Koniecpolska]], uczennica [[Klasa Pi rok 2024-2025|klasy Pi (2024/25)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [[Nil]]
-- [[Aurora|Aurora Nylabelle]], uczennica [[Klasa Pd rok 2025-2026|klasy Pd (2025/26)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
-- [[Anna Heide]], uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
-- [[Narcyza Eleness Zurbach]], arcysukkubica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
-- [[Klara]], anielica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
-- [[Kiara]], Feles, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
-- [[Maedinitia]], maginia wody, służąca [[Aurora|Aurory Nylabelle]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [Diana Koniecpolska](npcs/Uczniowie/Diana%20Koniecpolska.md), uczennica [klasy Pi (2024/25)](classes/Klasa%20Pi%20rok%202024-2025.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [Nil](npcs/Kult%20Otchłani/Nil.md)
+- [Aurora Nylabelle](npcs/Uczniowie/Aurora.md), uczennica [klasy Pd (2025/26)](classes/Klasa%20Pd%20rok%202025-2026.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Anna Heide](npcs/Uczniowie/Anna%20Heide.md), uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Narcyza Eleness Zurbach](npcs/Narcyza%20Eleness%20Zurbach.md), arcysukkubica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Klara](npcs/Klara.md), anielica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Kiara](npcs/Uczniowie/Kiara.md), Feles, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Maedinitia](npcs/Uczniowie/Maedinitia.md), maginia wody, służąca [Aurory Nylabelle](npcs/Uczniowie/Aurora.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 
 ## Nauczyciele i Pracownicy Szkół
-- [[Pelagius Caudex]], nauczyciel [[Rzemiosło Artefaktów|Rzemiosła Artefaktów]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], Agent Specjalny [[Federacja Sol-3|Federacji Sol-3]]
-- [[Urszula Callistis]], nauczycielka Wiedzy o Magicznych Miejscach i Rytuałach
-- [[Leopold von Karma]], nauczyciel [[Nekromancja|Nekromancji]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
-- [[Klaus von Übertropp]], były Dyrektor [[Wschodnioeuropejska Szkoła Magii|WeSM]] (do listopada 2026), usunięty z rzeczywistości przez [[Nil]]
+- [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), nauczyciel [Rzemiosła Artefaktów](disciplines/Rzemiosło%20Artefaktów.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), Agent Specjalny [Federacji Sol-3](organizations/Federacja%20Sol-3.md)
+- [Urszula Callistis](npcs/Nauczyciele/Urszula%20Callistis.md), nauczycielka Wiedzy o Magicznych Miejscach i Rytuałach
+- [Leopold von Karma](npcs/Nauczyciele/Leopold%20von%20Karma.md), nauczyciel [Nekromancji](disciplines/Nekromancja.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Klaus von Übertropp](npcs/Klaus%20von%20Übertropp.md), były Dyrektor [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (do listopada 2026), usunięty z rzeczywistości przez [Nil](npcs/Kult%20Otchłani/Nil.md)
 
 ## Federacja Sol-3
- - [[Syllia Orirel]], Wyrocznia i Agentka Specjalna [[Federacja Sol-3|Federacji Sol-3]] 
- - [[Joe Cox]], Porucznik, dowódca 1. Plutonu [[XCOM|Sił Specjalnych "XCOM"]]
- - [[Nicodemus Florens]], Agent Gamma, Naczelny Dowódca [[Siły Specjalne X|Sił Specjalnych X]] - w tajemnicy również Arcykapłan [[Szkarłatny Kult|Szkarłatnego Kultu]]
+ - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Wyrocznia i Agentka Specjalna [Federacji Sol-3](organizations/Federacja%20Sol-3.md) 
+ - [Joe Cox](npcs/Federacja%20Sol-3/Joe%20Cox.md), Porucznik, dowódca 1. Plutonu [Sił Specjalnych "XCOM"](organizations/Federacja%20Sol-3/XCOM.md)
+ - [Nicodemus Florens](npcs/Federacja%20Sol-3/Nicodemus%20Florens.md), Agent Gamma, Naczelny Dowódca [Sił Specjalnych X](Siły%20Specjalne%20X.md) - w tajemnicy również Arcykapłan [Szkarłatnego Kultu](organizations/Szkarłatny%20Kult.md)
 ### Projekt "Starlight"
- - [[Norbert Goch]], porucznik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], służący bezpośrednio pod [[Serioża Żukow|Seriożą Żukowem]]
- - [[Serioża Żukow]], pułkownik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], wchodzących w skład [[Projekt Starlight|Projektu "Starlight"]]
+ - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), porucznik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), służący bezpośrednio pod [Seriożą Żukowem](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)
+ - [Serioża Żukow](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), pułkownik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), wchodzących w skład [Projektu "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)
 
 ## Brytyjska Akademia Wiedźm
-- [[Croix Meridies]], dawna przyjaciółka [[Urszula Callistis|Urszuli Callistis]], obecnie w nieznanym miejscu
+- [Croix Meridies](npcs/Brytyjska%20Akademia%20Wiedźm/Croix%20Meridies.md), dawna przyjaciółka [Urszuli Callistis](npcs/Nauczyciele/Urszula%20Callistis.md), obecnie w nieznanym miejscu
 
 ## Zakon Taumaturgów
 
 
 ## Inkwizycja
-- [[Tena Lindemann]], Starsza Inkwizytor, sekretnie lisz
+- [Tena Lindemann](npcs/Inkwizycja/Tena%20Lindemann.md), Starsza Inkwizytor, sekretnie lisz
 
 ## Szkarłatny Kult
-- [[Bezimienny, Pierwszy Patriarcha]]
-- [[Talonos Isherwood]]
-- [[Xillith Isherwood]]
+- [Bezimienny, Pierwszy Patriarcha](npcs/Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md)
+- [Talonos Isherwood](npcs/Szkarłatny%20Kult/Talonos%20Isherwood.md)
+- [Xillith Isherwood](npcs/Szkarłatny%20Kult/Xillith%20Isherwood.md)
 
 ## Bank Krasnoludzki
-- [[Thingrim Magnarson]], Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, Mistrz Run
+- [Thingrim Magnarson](npcs/Bank%20Krasnoludzki/Thingrim%20Magnarson.md), Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, Mistrz Run
 
 
 ## Kult Otchłani
-- [[Abyss]], pierwotny, niepodzielony byt sprzed Nil, Mundus i Tempusa
-- [[Nil]], Początek i Koniec
-- [[Mundus]], Istnienie
-- [[Tempus]], Czas
-- [[Mistrz Losu]]
-- [[Szaarael]], Sukkubica, Posłaniec Życia, Wiceprezydent USA
-- [[Yssariel]], Elfka, Posłaniec Cofnięcia
-- [[Karolina Fey]], Człowiek, Wiedma Sabatu
+- [Abyss](npcs/Kult%20Otchłani/Abyss.md), pierwotny, niepodzielony byt sprzed Nil, Mundus i Tempusa
+- [Nil](npcs/Kult%20Otchłani/Nil.md), Początek i Koniec
+- [Mundus](npcs/Kult%20Otchłani/Mundus.md), Istnienie
+- [Tempus](npcs/Kult%20Otchłani/Tempus.md), Czas
+- [Mistrz Losu](npcs/Kult%20Otchłani/Mistrz%20Losu.md)
+- [Szaarael](npcs/Kult%20Otchłani/Szaarael.md), Sukkubica, Posłaniec Życia, Wiceprezydent USA
+- [Yssariel](npcs/Kult%20Otchłani/Yssariel.md), Elfka, Posłaniec Cofnięcia
+- [Karolina Fey](npcs/Federacja%20Sol-3/Karolina%20Fey.md), Człowiek, Wiedma Sabatu
 
 ## Konsorcjum Gwiezdne Malferian
-- [[Princess Zayis]], Malferianin, dyplomata i szpieg
-- [[Prince Arkthar]], Malferianin, wojownik
+- [Princess Zayis](npcs/Konsorcjum%20Gwiezdne%20Malferian/Princess%20Zayis.md), Malferianin, dyplomata i szpieg
+- [Prince Arkthar](npcs/Konsorcjum%20Gwiezdne%20Malferian/Prince%20Arkthar.md), Malferianin, wojownik
 
 ## Magowie Krwi
-- [[Ten, Który jest Mroczny]], Bóg Krwi, Król Królestwa Zaryn
+- [Ten, Który jest Mroczny](npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md), Bóg Krwi, Król Królestwa Zaryn
 
 ## Bill Cipher and Co
-- [[Bill Cipher]]
+- [Bill Cipher](npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)
 
 <iframe src="https://sketchfab.com/models/12054645e5b24a44afbecd5eb809007c/embed?autostart=1&internal=1&tracking=0&ui_ar=0&ui_infos=0&ui_snapshots=1&ui_stop=0&ui_theatre=1&ui_watermark=0" height="300" width="300" />

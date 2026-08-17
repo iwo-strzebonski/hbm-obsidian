@@ -22,7 +22,7 @@ Elfy czczą Personifikacje Otchłani, duchy natury i przodków. Wysokie Elfy pra
 Wysokie Elfy posługują się językiem elenari (wysokoelficki), Leśne - sylvari (leśnoelficki). Oba dialekty są melodyjne i trudne do opanowania przez obcych. Elfy znają też lingua magica.
 
 ## Historia
-Elfy wywodzą się z pradawnych lasów Hiondirs-4 ([[Hiondirs-4]]). Wysokie Elfy założyły pierwsze akademie magii, Leśne Elfy - sojusze z duchami natury. Kolonizacja innych światów i kontakt z ludźmi doprowadziły do podziału rasy.
+Elfy wywodzą się z pradawnych lasów Hiondirs-4 ([Hiondirs-4](../locations/Hiondirs-4/Hiondirs-4.md)). Wysokie Elfy założyły pierwsze akademie magii, Leśne Elfy - sojusze z duchami natury. Kolonizacja innych światów i kontakt z ludźmi doprowadziły do podziału rasy.
 
 ## Relacje z innymi rasami
 Elfy utrzymują sojusz z ludźmi (wspólne projekty magiczno-technologiczne). Leśne Elfy częściej współpracują z lamiami i Feles.

@@ -21,10 +21,10 @@ Nazwa pochodzi od przełomowego wydarzenia - Przebudzenia Magii, które odmieni�
 System EP porządkuje wydarzenia fabularne, pozwala łatwo określić czas akcji i odróżnić okresy przed i po Przebudzeniu.
 
 ## Powiązania
-- [[Przebudzenie Magii]]
-- [[Otchłań]]
-- [[Federacja Sol-3]]
-- [[Kalendarz]]
+- [Przebudzenie Magii](Przebudzenie%20Magii.md)
+- [Otchłań](Otchłań/Otchłań.md)
+- [Federacja Sol-3](../organizations/Federacja%20Sol-3.md)
+- [Kalendarz](Kalendarz.md)
 
 ## Dalsze lektury
 - lore/10. Przewodnik Ludzkości po Magicznym Świecie.md

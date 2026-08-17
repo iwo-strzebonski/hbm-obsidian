@@ -8,7 +8,7 @@ Ten folder stanowi samodzielne repozytorium git (`hbm-obsidian`), przechowujące
 
 ## 📁 Struktura Vaulta
 
-Głównym punktem wejścia do bazy wiedzy jest plik **[[Homebrew Magic - The Role-Playing Game]]** (główny indeks MOC).
+Głównym punktem wejścia do bazy wiedzy jest plik **[Homebrew Magic - The Role-Playing Game](Homebrew%20Magic%20-%20The%20Role-Playing%20Game.md)** (główny indeks MOC).
 
 ```
 ObsidianNotes/

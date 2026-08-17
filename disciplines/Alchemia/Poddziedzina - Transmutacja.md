@@ -8,7 +8,7 @@ tags:
 aliases:
   - Alchemia (Transmutacja)
 ---
-Transmutacja to dziedzina [[Alchemia|Alchemii]] zajmująca się przemianą jednych materiałów w drugie za pomocą przeróżnych instrumentów, wśród których najpopularniejszym jest Alchematorium.
+Transmutacja to dziedzina [Alchemii](../Alchemia.md) zajmująca się przemianą jednych materiałów w drugie za pomocą przeróżnych instrumentów, wśród których najpopularniejszym jest Alchematorium.
 
 Dzięki Transmutacji można przekształcić żelazo w każdy dowolny metal (nawet złoto!), jednak proces ten nie jest pozbawiony wad - po pierwsze, w trakcie procesu ubywa materii, która zamieniana jest w odpady alchemiczne, których nie da się nijak przywrócić do stanu poprzedniego. Po drugie w uzyskanym materiale pozostają smugi magii.
 

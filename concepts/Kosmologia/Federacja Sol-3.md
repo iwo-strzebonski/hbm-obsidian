@@ -6,8 +6,8 @@ status: stub
 
 # Federacja Sol-3
 
-Stub. Zobacz [[organizations/Federacja Sol-3]].
+Stub. Zobacz [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md).
 
 ## Powiązania
-- [[organizations/Federacja Sol-3]]
-- [[Era Przebudzenia]]
+- [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)
+- [Era Przebudzenia](../Era%20Przebudzenia.md)

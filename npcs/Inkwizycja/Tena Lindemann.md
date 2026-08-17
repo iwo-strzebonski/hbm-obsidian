@@ -10,9 +10,9 @@ tags:
 | ----------------------- | ------------------------------------------------------------------ |
 | **Imię (imiona)**       | *Tena*                                                             |
 | **Nazwisko (nazwiska)** | *Lindemann*                                                        |
-| **Rasa**                | *Lisz (dawniej [[Człowiek]], z innego świata)*                     |
-| **Dziedzina Magii**     | *[[Nekromancja]]*                                                  |
-| **Organizacje**         | *[[Inkwizycja|Święta Inkwizycja]]*                                 |
+| **Rasa**                | *Lisz (dawniej [Człowiek](../../races/Człowiek.md), z innego świata)*                     |
+| **Dziedzina Magii**     | *[Nekromancja](../../disciplines/Nekromancja.md)*                                                  |
+| **Organizacje**         | *[Święta Inkwizycja](../../organizations/Inkwizycja.md)*                                 |
 | **Tytuł(y)**            | *Starsza Inkwizytor*                                               |
 | **Status**              | *Nieumarła (lisz)*                                                 |
 
@@ -20,11 +20,11 @@ tags:
 
 Tena Lindemann urodziła się jako zwyczajna, niemagiczna dziewczyna na innym świecie. Uwięziona przez dwadzieścia lat w jaskini nasyconej energią nekromantyczną, powoli i nieodwracalnie przemieniła się w lisza - nie w wyniku świadomego rytuału, lecz stopniowego, wielo­letniego oddziaływania magii śmierci na jej ciało i duszę.
 
-Po opuszczeniu jaskini trafiła na Ziemię i wstąpiła do [[Inkwizycja|Świętej Inkwizycji]], gdzie z czasem awansowała do rangi starszej inkwizytor - dochodzenie do tej pozycji zajęło jej lata służby.
+Po opuszczeniu jaskini trafiła na Ziemię i wstąpiła do [Świętej Inkwizycji](../../organizations/Inkwizycja.md), gdzie z czasem awansowała do rangi starszej inkwizytor - dochodzenie do tej pozycji zajęło jej lata służby.
 
 ## Relacje
 
-- **[[Inkwizycja|Święta Inkwizycja]]** - służy w jej szeregach jako starsza inkwizytor.
+- **[Święta Inkwizycja](../../organizations/Inkwizycja.md)** - służy w jej szeregach jako starsza inkwizytor.
 
 > [!gm]+ Tylko dla MG
 > **Ironia sytuacji:**

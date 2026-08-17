@@ -7,15 +7,15 @@ tags:
 book: Arcanum Sanguinis
 ---
 ## Spis Treści
-- [[#Wstęp|Wstęp]]
-- [[#Rozdział I - Magia Krwi a Otchłań|Rozdział I - Magia Krwi a Otchłań]]
-- [[#Rozdział II - Bóg Krwi|Rozdział II - Bóg Krwi]]
-	- [[#Rozdział II - Bóg Krwi#Robert Zaryn|Robert Zaryn]]
+- [Wstęp](#wstęp)
+- [Rozdział I - Magia Krwi a Otchłań](#rozdział-i---magia-krwi-a-otchłań)
+- [Rozdział II - Bóg Krwi](#rozdział-ii---bóg-krwi)
+	- [Robert Zaryn](#robert-zaryn)
 
 ---
 ## Wstęp
 
-Zasady Magii Krwi można znaleźć w dokumencie [[04. Arcanum Sanguinis]].
+Zasady Magii Krwi można znaleźć w dokumencie [04. Arcanum Sanguinis](../rules/04.%20Arcanum%20Sanguinis.md).
 
 ---
 ## Rozdział I - Magia Krwi a Otchłań

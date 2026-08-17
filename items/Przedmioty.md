@@ -4,34 +4,34 @@ tags: [moc, hub, items]
 ---
 # Przedmioty i Ekwipunek
 
-- [[Artefakt przechowujący manę]]
-- [[Artefakt skupiający magię]]
-- [[Bicz]]
-- [[Broń dwuręczna]]
-- [[Broń jednoręczna lub półtoraręczna]]
-- [[Karty do gry]]
-- [[Kociołek]]
-- [[Księga Taumaturgii]]
-- [[Laska_Quarterstaff]]
-- [[Miecz treningowy]]
-- [[Miecz świetlny]]
-- [[Miotacz Entropii]]
-- [[Pancerz Ciężki]]
-- [[Pancerz Lekki]]
-- [[Pancerz Średni]]
-- [[Przedmioty do wróżenia]]
-- [[Przybory do golemancji]]
-- [[Przybory do tworzenia artefatów]]
-- [[Shinai]]
-- [[Szklana fiolka]]
-- [[Sztandar Szkarłatnego Kultu]]
-- [[Sztylet]]
-- [[Tablica Ouija]]
-- [[Tarcza]]
-- [[Teleskop]]
-- [[Wielka Księga Obrzędów]]
-- [[Włócznia]]
-- [[Zestaw do rytuałów]]
-- [[Łuk Bloczkowy]]
-- [[Łuk Elfi]]
-- [[Łuk Klasyczny]]
+- [Artefakt przechowujący manę](gear/Artefakt%20przechowujący%20manę.md)
+- [Artefakt skupiający magię](gear/Artefakt%20skupiający%20magię.md)
+- [Bicz](weapons/Bicz.md)
+- [Broń dwuręczna](weapons/Broń%20dwuręczna.md)
+- [Broń jednoręczna lub półtoraręczna](weapons/Broń%20jednoręczna%20lub%20półtoraręczna.md)
+- [Karty do gry](gear/Karty%20do%20gry.md)
+- [Kociołek](gear/Kociołek.md)
+- [Księga Taumaturgii](Księga%20Taumaturgii.md)
+- [Laska_Quarterstaff](weapons/Laska_Quarterstaff.md)
+- [Miecz treningowy](gear/Miecz%20treningowy.md)
+- [Miecz świetlny](gear/Miecz%20świetlny.md)
+- [Miotacz Entropii](Miotacz%20Entropii.md)
+- [Pancerz Ciężki](armor/Pancerz%20Ciężki.md)
+- [Pancerz Lekki](armor/Pancerz%20Lekki.md)
+- [Pancerz Średni](armor/Pancerz%20Średni.md)
+- [Przedmioty do wróżenia](gear/Przedmioty%20do%20wróżenia.md)
+- [Przybory do golemancji](gear/Przybory%20do%20golemancji.md)
+- [Przybory do tworzenia artefatów](gear/Przybory%20do%20tworzenia%20artefatów.md)
+- [Shinai](gear/Shinai.md)
+- [Szklana fiolka](gear/Szklana%20fiolka.md)
+- [Sztandar Szkarłatnego Kultu](Sztandar%20Szkarłatnego%20Kultu.md)
+- [Sztylet](weapons/Sztylet.md)
+- [Tablica Ouija](gear/Tablica%20Ouija.md)
+- [Tarcza](armor/Tarcza.md)
+- [Teleskop](gear/Teleskop.md)
+- [Wielka Księga Obrzędów](Wielka%20Księga%20Obrzędów.md)
+- [Włócznia](weapons/Włócznia.md)
+- [Zestaw do rytuałów](gear/Zestaw%20do%20rytuałów.md)
+- [Łuk Bloczkowy](weapons/Łuk%20Bloczkowy.md)
+- [Łuk Elfi](weapons/Łuk%20Elfi.md)
+- [Łuk Klasyczny](weapons/Łuk%20Klasyczny.md)

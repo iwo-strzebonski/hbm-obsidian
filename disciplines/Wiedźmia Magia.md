@@ -4,14 +4,14 @@ tags:
   - wiedźmia-magia
 ---
 Spis treści
-- [[#Wstęp]]
-- [[#Mechanika|Mechanika]]
-	- [[#Mechanika#Wymagania|Wymagania]]
-	- [[#Mechanika#Darmowy Talent - *Arytmetyczna Koncentracja*|Darmowy Talent - *Arytmetyczna Koncentracja*]]
-	- [[#Mechanika#Sugerowany Atrybut|Sugerowany Atrybut]]
-	- [[#Mechanika#Sugerowane Umiejętności|Sugerowane Umiejętności]]
-- [[#Rozróżnienie terminologiczne w Polsce|Rozróżnienie terminologiczne w Polsce]]
-- [[#Podstawy Wiedźmiej Magii|Podstawy Wiedźmiej Magii]]
+- [Wstęp](#wstęp)
+- [Mechanika](#mechanika)
+	- [Wymagania](#wymagania)
+	- [Darmowy Talent - *Arytmetyczna Koncentracja*](#darmowy-talent---arytmetyczna-koncentracja)
+	- [Sugerowany Atrybut](#sugerowany-atrybut)
+	- [Sugerowane Umiejętności](#sugerowane-umiejętności)
+- [Rozróżnienie terminologiczne w Polsce](#rozróżnienie-terminologiczne-w-polsce)
+- [Podstawy Wiedźmiej Magii](#podstawy-wiedźmiej-magii)
 
 ---
 ## Wstęp

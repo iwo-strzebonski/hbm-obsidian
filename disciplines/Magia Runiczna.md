@@ -23,13 +23,13 @@ Runy są postrzegane jako pierwotny język rzeczywistości - zapis praw magii i 
 - Łamanie i rozbrajanie run
 
 ## Znani praktycy
-- [[Thingrim Magnarson]] (krasnoludzki mistrz run, twórca legendarnych artefaktów)
+- [Thingrim Magnarson](../npcs/Bank%20Krasnoludzki/Thingrim%20Magnarson.md) (krasnoludzki mistrz run, twórca legendarnych artefaktów)
 
 ## Status prawny (Inkwizycja)
 Magia runiczna jest legalna, ale podlega ścisłej kontroli - szczególnie w zakresie zaklinania broni, tworzenia pułapek i zabezpieczeń. Nielegalne są runy destabilizujące rzeczywistość lub łamiące bariery między światami.
 
 ## Mechanika
-Mag runiczny może tworzyć trwałe efekty, wzmacniać zaklęcia, zabezpieczać miejsca i przedmioty. Runy wymagają czasu, precyzji i odpowiednich materiałów. Szczegóły: patrz [[03. Złoto, Stal i Magia|Złoto, Stal i Magia]].
+Mag runiczny może tworzyć trwałe efekty, wzmacniać zaklęcia, zabezpieczać miejsca i przedmioty. Runy wymagają czasu, precyzji i odpowiednich materiałów. Szczegóły: patrz [Złoto, Stal i Magia](../rules/03.%20Złoto,%20Stal%20i%20Magia.md).
 
 > [!gm]+ Tylko dla MG
 > Magia runiczna jest kluczowa dla krasnoludów i twórców artefaktów. Pozwala na budowanie intryg wokół ukrytych pieczęci, starożytnych zabezpieczeń i zakazanych symboli. Thingrim Magnarson to postać centralna dla tej dyscypliny.

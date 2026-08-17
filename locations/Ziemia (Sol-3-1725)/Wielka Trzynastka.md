@@ -9,7 +9,7 @@ aliases:
   - Trzynaście Szkół Magii
 status: kanoniczna
 ---
-| **Zdjęcie**                      | ![[trzynastka.jpg|200]] |
+| **Zdjęcie**                      | <img src="trzynastka.jpg" width="200" alt="trzynastka.jpg"> |
 | -------------------------------- | ------------------------- |
 | **Rodzaj**                       | *Gazetteer*               |
 | **Planeta**                      | *Ziemia (Sol-3-1725)*     |
@@ -18,7 +18,7 @@ status: kanoniczna
 
 ## Opis
 
-Wielka Trzynastka to zbiorcza nazwa trzynastu założycielskich szkół magii na Ziemi, powstałych po Przebudzeniu w 2023 roku (EP 0). Każda szkoła ma własną lokalizację, specjalizację i strukturę, a razem tworzą sieć edukacyjną kształcącą magów wszystkich ras i narodowości. Najbardziej znana jest [[Wschodnioeuropejska Szkoła Magii]], ale pozostałe szkoły również odgrywają kluczową rolę w polityce i rozwoju magii na Ziemi.
+Wielka Trzynastka to zbiorcza nazwa trzynastu założycielskich szkół magii na Ziemi, powstałych po Przebudzeniu w 2023 roku (EP 0). Każda szkoła ma własną lokalizację, specjalizację i strukturę, a razem tworzą sieć edukacyjną kształcącą magów wszystkich ras i narodowości. Najbardziej znana jest [Wschodnioeuropejska Szkoła Magii](Wschodnioeuropejska%20Szkoła%20Magii.md), ale pozostałe szkoły również odgrywają kluczową rolę w polityce i rozwoju magii na Ziemi.
 
 ### Lista szkół
 

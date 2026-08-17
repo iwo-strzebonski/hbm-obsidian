@@ -6,8 +6,8 @@ status: stub
 
 # Przebudzenie Magii
 
-Stub. Zobacz [[Era Przebudzenia]].
+Stub. Zobacz [Era Przebudzenia](Era%20Przebudzenia.md).
 
 ## Powiązania
-- [[Era Przebudzenia]]
-- [[Otchłań]]
+- [Era Przebudzenia](Era%20Przebudzenia.md)
+- [Otchłań](Otchłań/Otchłań.md)

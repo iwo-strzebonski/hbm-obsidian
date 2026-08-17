@@ -4,4 +4,4 @@ tags: [placeholder, todo]
 ---
 # Chiny
 
-This is an empty placeholder note created from a broken link in [[Konflikt o Tajwan]].
+This is an empty placeholder note created from a broken link in [Konflikt o Tajwan](Konflikt%20o%20Tajwan.md).

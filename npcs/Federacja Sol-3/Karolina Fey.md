@@ -8,15 +8,15 @@ tags:
   - sabat
 aliases: []
 ---
-| **Zdjęcie**             | ![[../../_assets/npc/karolina-fey/student/karolina-fey-student.webp\|200]] ![[../../_assets/npc/karolina-fey/agent/karolina-fey-agent.webp\|200]] |
+| **Zdjęcie**             | <img src="../../_assets/npc/karolina-fey/student/karolina-fey-student.webp" width="200" alt="karolina-fey-student.webp"> <img src="../../_assets/npc/karolina-fey/agent/karolina-fey-agent.webp" width="200" alt="karolina-fey-agent.webp"> |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Karolina*                                                                                                                                        |
 | **Nazwisko (nazwiska)** | *Fey*                                                                                                                                             |
-| **Rasa**                | *[[Człowiek]]*                                                                                                                                    |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                                                                    |
 | **Wiek**                | *27 lat*                                                                                                                                          |
 | **Wzrost**              | *165 cm*                                                                                                                                          |
-| **Dziedzina Magii**     | *[[Dzika Wiedźmia Magia]]*                                                                                                                        |
-| **Organizacje**         | *<ul><li>[[Federacja Sol-3]]</li><li>[[Siły Specjalne Gaja]]</li><li>Sabat Otchłani</li></ul>*                                                    |
+| **Dziedzina Magii**     | *[Dzika Wiedźmia Magia](../../disciplines/Dzika%20Wiedźmia%20Magia.md)*                                                                                                                        |
+| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)</li><li>[Siły Specjalne Gaja](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>Sabat Otchłani</li></ul>*                                                    |
 | **Pseudonim(y)**        | *Agentka Beta*                                                                                                                                    |
 | **Tytuł(y)**            | *Baba Jaga Sabatu Otchłani*                                                                                                                       |
 | **Charakter**           | *nieznany*                                                                                                                                        |
@@ -26,7 +26,7 @@ aliases: []
 
 Karolina Fey jest człowiekiem - i na tym podobieństwa do przeciętnego człowieka się kończą. Młoda, zimna, precyzyjna. Mówią o niej „najzimniejsza kobieta w Sabacie” - i mówią to z lękiem. Karolina nie jest ogarnięta pasją ani gniewem - jej okrucieństwo jest kalkulowane, metodyczne, i dlatego właśnie tak przerażające.
 
-Aktualnie przebywa na tajnej misji, podając się za studentkę we [[Wschodnioeuropejska Szkoła Magii|Wschodnioeuropejskiej Szkole Magii]] (WeSM).
+Aktualnie przebywa na tajnej misji, podając się za studentkę we [Wschodnioeuropejskiej Szkole Magii](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (WeSM).
 
 Członkowie Sabatu podążają za nią ze strachu - nie z lojalności. Karolina nie zabiega o uczucia. Zabiega o wyniki.
 
@@ -49,4 +49,4 @@ Jej działania uważa się za jeden z decydujących czynników przełomu w wojni
 * **Przełamanie zasad kosmologicznych**: Metody Karoliny Fey wykraczały poza granice dopuszczalne w prawie konsorcyjnym i strukturach rytualnych Malferian. Ponieważ ich magia opierała się na przewidywalnych ramach prawnych i sformalizowanych paktach, Malferianie nie byli w stanie odpowiedzieć symetrycznie na jej niekonwencjonalne i destrukcyjne działania.
 
 ### Relacje z Dowództwem
-* **[[Syllia Orirel]] (Wyrocznia)**: Karolina (Agentka Beta) pała do Syllii szczerą niechęcią. Wynika to z powiązań Syllii z Otchłanią - faktu, że Syllia otrzymała dar od Mundus, który uczynił ją „Wyrocznią” i Dyrektorem ds. Nadprzyrodzonych. Karolina, będąca zwolenniczką całkowitego poskramiania i eksploatowania Otchłani, gardzi taką formą paktowania.
+* **[Syllia Orirel](Syllia%20Orirel.md) (Wyrocznia)**: Karolina (Agentka Beta) pała do Syllii szczerą niechęcią. Wynika to z powiązań Syllii z Otchłanią - faktu, że Syllia otrzymała dar od Mundus, który uczynił ją „Wyrocznią” i Dyrektorem ds. Nadprzyrodzonych. Karolina, będąca zwolenniczką całkowitego poskramiania i eksploatowania Otchłani, gardzi taką formą paktowania.

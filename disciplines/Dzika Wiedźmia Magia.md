@@ -3,11 +3,11 @@ tags:
   - magia
   - dzika-wiedźmia-magia
 ---
-- [[#Sabaty i hierarchia|Sabaty i hierarchia]]
-	- [[#Sabaty i hierarchia#Sabat Otchłani|Sabat Otchłani]]
-	- [[#Sabaty i hierarchia#Inne sabaty|Inne sabaty]]
-- [[#Relacje z czarownicami akademickimi|Relacje z czarownicami akademickimi]]
-- [[#Społeczne postrzeganie dzikich wiedźm|Społeczne postrzeganie dzikich wiedźm]]
+- [Sabaty i hierarchia](#sabaty-i-hierarchia)
+	- [Sabat Otchłani](#sabat-otchłani)
+	- [Inne sabaty](#inne-sabaty)
+- [Relacje z czarownicami akademickimi](#relacje-z-czarownicami-akademickimi)
+- [Społeczne postrzeganie dzikich wiedźm](#społeczne-postrzeganie-dzikich-wiedźm)
 
 
 Dzika magia wiedźm jest antytezą uporządkowanej, akademickiej dziedziny wiedźm-czarownic. 
@@ -20,9 +20,9 @@ Dzika magia rozwija się w grupach zwanych sabatami. Każdy sabat skupia wiedźm
 
 ### Sabat Otchłani
 
-Sabat Otchłani to jedno z najstarszych i najpotężniejszych zgromadzeń dzikich wiedźm. Pierwotnie jego celem było utrzymanie równowagi i neutralności w świecie magii, kontrola przepływu dzikiej energii i zachowanie porządku między sabatami. Jednak działania [[Karolina Fey|Karoliny Fey]], córki ówczesnej Baby Jagi Sabatu Otchłani, doprowadziły do dramatycznych zmian: poprzez swoje wpływy i brutalne działania zdestabilizowała Sabat, prowadząc do śmierci wielu wiedźm i agentów Federacji Sol-3. W pojedynku z matką, który trwał kilkanaście dni, wygrała, lecz zamiast przejąć wiedzę poprzedniczki, rozszarpała i rozproszyła jej duszę, niszcząc dziedzictwo przeszłych Baby Jagi.
+Sabat Otchłani to jedno z najstarszych i najpotężniejszych zgromadzeń dzikich wiedźm. Pierwotnie jego celem było utrzymanie równowagi i neutralności w świecie magii, kontrola przepływu dzikiej energii i zachowanie porządku między sabatami. Jednak działania [Karoliny Fey](../npcs/Federacja%20Sol-3/Karolina%20Fey.md), córki ówczesnej Baby Jagi Sabatu Otchłani, doprowadziły do dramatycznych zmian: poprzez swoje wpływy i brutalne działania zdestabilizowała Sabat, prowadząc do śmierci wielu wiedźm i agentów Federacji Sol-3. W pojedynku z matką, który trwał kilkanaście dni, wygrała, lecz zamiast przejąć wiedzę poprzedniczki, rozszarpała i rozproszyła jej duszę, niszcząc dziedzictwo przeszłych Baby Jagi.
 
-Od tego czasu Sabat Otchłani porzucił neutralność i stał się strażnikiem przeciw wpływom Personifikacji Otchłani, posługując się najdzikszą i najniebezpieczniejszą odmianą magii – Magią Otchłani. Adeptki tego sabatu nie proszą Otchłani o błogosławieństwo, lecz nakazują jej podporządkowanie się ich woli - w przeciwieństwie do rytualistycznych praktyk Magów Otchłani. Choć praktyki są zakazane i niezwykle ryzykowne, nikt nie zdołał ich powstrzymać, a sama [[Karolina Fey]] pozostaje potężnym i cennym zasobem w szeregach Federacji Sol-3.
+Od tego czasu Sabat Otchłani porzucił neutralność i stał się strażnikiem przeciw wpływom Personifikacji Otchłani, posługując się najdzikszą i najniebezpieczniejszą odmianą magii – Magią Otchłani. Adeptki tego sabatu nie proszą Otchłani o błogosławieństwo, lecz nakazują jej podporządkowanie się ich woli - w przeciwieństwie do rytualistycznych praktyk Magów Otchłani. Choć praktyki są zakazane i niezwykle ryzykowne, nikt nie zdołał ich powstrzymać, a sama [Karolina Fey](../npcs/Federacja%20Sol-3/Karolina%20Fey.md) pozostaje potężnym i cennym zasobem w szeregach Federacji Sol-3.
 
 ### Inne sabaty
 

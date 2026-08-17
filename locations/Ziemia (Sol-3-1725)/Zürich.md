@@ -9,7 +9,7 @@ aliases:
   - Zurych
 status: kanoniczna
 ---
-| **Zdjęcie**                      | ![[zurich.jpg|200]] |
+| **Zdjęcie**                      | <img src="zurich.jpg" width="200" alt="zurich.jpg"> |
 | -------------------------------- | ------------------------- |
 | **Rodzaj**                       | *Miasto*                  |
 | **Planeta**                      | *Ziemia (Sol-3-1725)*     |

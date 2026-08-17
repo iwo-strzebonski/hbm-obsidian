@@ -6,9 +6,9 @@ status: stub
 
 # Dyscypliny Magii
 
-Stub. Zobacz [[Szkoły Magii]] oraz pliki w folderze disciplines/.
+Stub. Zobacz [Szkoły Magii](Szkoły%20Magii.md) oraz pliki w folderze disciplines/.
 
 ## Powiązania
-- [[Szkoły Magii]]
-- [[Magiczna Edukacja]]
-- [[Otchłań]]
+- [Szkoły Magii](Szkoły%20Magii.md)
+- [Magiczna Edukacja](Magiczna%20Edukacja.md)
+- [Otchłań](../Otchłań/Otchłań.md)

@@ -31,7 +31,7 @@ Feles są ciekawscy i otwarci, ale nieufni wobec Malferian i Demonów. Dobrze do
 Feles mają naturalny talent do magii iluzji, kamuflażu i snów. Są odporni na spaczenie, ale podatni na wpływ silnych emocji i magii umysłu.
 
 ## Znani przedstawiciele
-- [[Kiara]], uczennica [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [Kiara](../npcs/Uczniowie/Kiara.md), uczennica [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 
 ## Hooki dla MG
 > [!gm]+ Tylko dla MG

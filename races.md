@@ -2,11 +2,11 @@
 tags:
   - rasa
 ---
-- [[Anioł]]
-- [[Człowiek]]
-- [[Demon]]
-- [[Elf]]
-- [[Feles]]
-- [[Krasnolud]]
-- [[Lamia]]
-- [[Malferianin]]
+- [Anioł](races/Anioł.md)
+- [Człowiek](races/Człowiek.md)
+- [Demon](races/Demon.md)
+- [Elf](races/Elf.md)
+- [Feles](races/Feles.md)
+- [Krasnolud](races/Krasnolud.md)
+- [Lamia](races/Lamia.md)
+- [Malferianin](races/Malferianin.md)

@@ -29,17 +29,17 @@ Otchłań jest więc jednocześnie:
 Otchłań jest kluczowym elementem fabuły, źródłem mocy i zagrożeń. Jej wpływ odczuwają wszyscy użytkownicy magii, a jej tajemnice są przedmiotem badań i konfliktów. Personifikacje Otchłani wybierają Posłańców, którzy stają się narzędziami ich woli w świecie materialnym.
 
 ## Powiązania
-- [[Nil]]
-- [[Mundus]]
-- [[Tempus]]
-- [[Posłańcy]]
-- [[Personifikacje Otchłani]]
-- [[Równowaga]]
-- [[02. Otchłań i Magia]]
+- [Nil](../../npcs/Kult%20Otchłani/Nil.md)
+- [Mundus](../../npcs/Kult%20Otchłani/Mundus.md)
+- [Tempus](../../npcs/Kult%20Otchłani/Tempus.md)
+- [Posłańcy](Posłańcy.md)
+- [Personifikacje Otchłani](Personifikacje%20Otchłani.md)
+- [Równowaga](../Równowaga.md)
+- [02. Otchłań i Magia](../../lore/02.%20Otchłań%20i%20Magia.md)
 
 ## Dalsze lektury
-- [[02. Otchłań i Magia]]
-- [[10. Przewodnik Ludzkości po Magicznym Świecie]]
+- [02. Otchłań i Magia](../../lore/02.%20Otchłań%20i%20Magia.md)
+- [10. Przewodnik Ludzkości po Magicznym Świecie](../../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md)
 
 > [!gm]+ Tylko dla MG
 > Prawdziwa natura Otchłani i jej rozszczepienia jest znana tylko nielicznym. Większość magów i badaczy zna jedynie fragmenty prawdy. Posłańcy Personifikacji są kluczowymi figurami w wielkich konfliktach świata HbM, a ich wybór i działania mogą zmienić bieg historii.

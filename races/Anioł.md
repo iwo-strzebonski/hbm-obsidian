@@ -31,7 +31,7 @@ Anioły są szanowane przez ludzi i elfy, nieufne wobec demonów i Malferian. Cz
 Anioły są naturalnie utalentowane w magii sakralnej, ochronnej i uzdrawiającej. Są odporne na spaczenie Otchłani, ale podatne na konflikty wewnętrzne i kryzysy wiary.
 
 ## Znani przedstawiciele
-- [[Serapion]] (arcykapłan, anioł opiekun Inkwizycji)
+- [Serapion](Serapion.md) (arcykapłan, anioł opiekun Inkwizycji)
 
 ## Hooki dla MG
 > [!gm]+ Tylko dla MG

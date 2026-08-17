@@ -7,15 +7,15 @@ tags:
 aliases:
   - Twarz Banku
 ---
-| **Zdjęcie**             | ![[../../_assets/npc/thingrim-magnarson/thingrim-magnarson.webp\|200]]              |
+| **Zdjęcie**             | <img src="../../_assets/npc/thingrim-magnarson/thingrim-magnarson.webp" width="200" alt="thingrim-magnarson.webp">              |
 | ----------------------- | ----------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Thingrim*                                                                          |
 | **Nazwisko (nazwiska)** | *Magnarson*                                                                         |
-| **Rasa**                | *[[Krasnolud]]*                                                                     |
+| **Rasa**                | *[Krasnolud](../../races/Krasnolud.md)*                                                                     |
 | **Wiek**                | *247 lat*                                                                           |
 | **Wzrost**              | *140 cm*                                                                            |
-| **Dziedzina Magii**     | *[[Magia Runiczna]], [[Rzemiosło Artefaktów]]*                                      |
-| **Organizacje**         | *<ul><li>[[Bank Krasnoludzki]] (Khazad-Aurum)</li><li>Klan Złotego Młota</li></ul>* |
+| **Dziedzina Magii**     | *[Magia Runiczna](../../disciplines/Magia%20Runiczna.md), [Rzemiosło Artefaktów](../../disciplines/Rzemiosło%20Artefaktów.md)*                                      |
+| **Organizacje**         | *<ul><li>[Bank Krasnoludzki](Bank%20Krasnoludzki.md) (Khazad-Aurum)</li><li>Klan Złotego Młota</li></ul>* |
 | **Pseudonim(y)**        | *Twarz Banku*                                                                       |
 | **Tytuł(y)**            | *Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, Mistrz Run*                 |
 | **Charakter**           | *Praworządny Neutralny / Pragmatyczny*                                              |
@@ -23,17 +23,17 @@ aliases:
 
 ## Opis
 
-Thingrim Magnarson to jedna z najbardziej wyrazistych i rozpoznawalnych postaci w mediach społeczno-ekonomicznych na Ziemi. Pełni funkcję Głównego Przedstawiciela **[[Bank Krasnoludzki|Banku Krasnoludzkiego]]** (Khazad-Aurum) na Ziemię. Licząc sobie 247 lat, jest uznawany za stosunkowo młodego krasnoluda, lecz jego stuletnie doświadczenie w finansach i dyplomacji międzywymiarowej czyni go bezwzględnie skutecznym negocjatorem.
+Thingrim Magnarson to jedna z najbardziej wyrazistych i rozpoznawalnych postaci w mediach społeczno-ekonomicznych na Ziemi. Pełni funkcję Głównego Przedstawiciela **[Banku Krasnoludzkiego](Bank%20Krasnoludzki.md)** (Khazad-Aurum) na Ziemię. Licząc sobie 247 lat, jest uznawany za stosunkowo młodego krasnoluda, lecz jego stuletnie doświadczenie w finansach i dyplomacji międzywymiarowej czyni go bezwzględnie skutecznym negocjatorem.
 
 Thingrim łączy profesjonalizm bankiera z tradycyjną, wojowniczą estetyką krasnoludów. Rzadko pojawia się publicznie bez swojej ceremonialnej, pełnej zbroi płytowej wykonanej z legendarnej **krasnoludzkiej stali** (materiał ten wciąż opiera się analizom ziemskich metalurgów). Zbroja zdobiona jest złotymi intarsjami przedstawiającymi dzieje Klanu Złotego Młota, a jej powierzchnię pokrywają delikatne, aktywne runy ochronne. Jego pas zdobi gęsta, ruda broda spleciona w ceremonialny warkocz.
 
 Dzięki swojej charyzmie i medialności stał się prawdziwym celebrytą – występuje w programach śniadaniowych, na międzynarodowych szczytach gospodarczych oraz konferencjach technologicznych. Dla większości ludzi to właśnie on stanowi pierwszy punkt kontaktu z kulturą krasnoludów.
 
-Thingrim jest również znanym mecenasem sztuk magicznych. Pod jego patronatem Bank Krasnoludzki stał się głównym sponsorem **Wielkiego Turnieju Magicznego** w **[[Wschodnioeuropejska Szkoła Magii|WeSM]]**, fundując stypendia i unikalne artefakty dla najzdolniejszych adeptów.
+Thingrim jest również znanym mecenasem sztuk magicznych. Pod jego patronatem Bank Krasnoludzki stał się głównym sponsorem **Wielkiego Turnieju Magicznego** w **[WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)**, fundując stypendia i unikalne artefakty dla najzdolniejszych adeptów.
 
 ## Relacje
 
-- **[[Bank Krasnoludzki]] (Khazad-Aurum)** – Thingrim jest lojalnym sługą Banku i Zjednoczonych Klanów. Reprezentuje ich interesy na Ziemi, dbając o nienaganny wizerunek i stabilność finansową.
+- **[Bank Krasnoludzki](Bank%20Krasnoludzki.md) (Khazad-Aurum)** – Thingrim jest lojalnym sługą Banku i Zjednoczonych Klanów. Reprezentuje ich interesy na Ziemi, dbając o nienaganny wizerunek i stabilność finansową.
 - **Klan Złotego Młota** – jego rodowy klan, którego historię dumnie nosi wyrytą na swojej zbroi. Chroni interesy klanu i dba o to, by ich tradycje rzemieślnicze były szanowane.
 - **Święta Inkwizycja** – utrzymuje z nimi chłodne, lecz poprawne i wysoce pragmatyczne stosunki. Oficjalnie wspiera działania Inkwizycji i odprowadza "dziesięcinę" w postaci certyfikowanych artefaktów, co zapewnia spokój dla operacji Banku.
 

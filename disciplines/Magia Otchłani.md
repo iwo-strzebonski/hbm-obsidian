@@ -22,7 +22,7 @@ Wśród magów Otchłani istnieje fundamentalna schizma filozoficzna dotycząca 
 
 **Szkoła Rozkazywania (komandowanie)** - wyznawcy uważają, że Otchłań należy ujarzmić i podporządkować woli maga. Zamiast prosić, narzucają swoją wolę siłom chaosu. Podejście to daje nieporównywalnie większą moc, ale grozi spaczeniem, utratą kontroli i katastrofą na skalę planetarną. Praktycy tej szkoły są znacznie rzadsi i niebezpieczniejsi.
 
-Najbardziej jaskrawym przykładem tej schizmy jest przypadek [[Karolina Fey|Karoliny Fey]] i jej matki - harmonizatorki. Karolina odrzuciła doktrynę matki i pokonała ją metodą komandowania, unicestwiając ją dosłownie: ciało i duszę. Sabat Otchłani podąża za nią z czystego strachu.
+Najbardziej jaskrawym przykładem tej schizmy jest przypadek [Karoliny Fey](../npcs/Federacja%20Sol-3/Karolina%20Fey.md) i jej matki - harmonizatorki. Karolina odrzuciła doktrynę matki i pokonała ją metodą komandowania, unicestwiając ją dosłownie: ciało i duszę. Sabat Otchłani podąża za nią z czystego strachu.
 
 
 ## Poddyscypliny
@@ -32,12 +32,12 @@ Najbardziej jaskrawym przykładem tej schizmy jest przypadek [[Karolina Fey|Karo
 - Manipulacja rzeczywistością
 
 ## Znani praktycy
-- [[Kult Otchłani]] (tajne stowarzyszenie czcicieli Otchłani)
+- [Kult Otchłani](../organizations/Kult%20Otchłani.md) (tajne stowarzyszenie czcicieli Otchłani)
 
 ## Status prawny (Inkwizycja)
 Magia Otchłani jest absolutnie zakazana. Każdy przejaw jej użycia jest ścigany z najwyższą surowością. Praktykowanie grozi natychmiastową egzekucją lub wieczystym zamknięciem w Otchłani.
 
 ## Mechanika
-Otchłannik może korzystać z potężnych, ale nieprzewidywalnych efektów, przywoływać byty z Otchłani, manipulować czasem i przestrzenią, ale zawsze ryzykuje utratę kontroli i skażenie. Szczegóły: patrz [[02. Klątwa Otchłani|Klątwa Otchłani]], [[01. Księga Magii]].
+Otchłannik może korzystać z potężnych, ale nieprzewidywalnych efektów, przywoływać byty z Otchłani, manipulować czasem i przestrzenią, ale zawsze ryzykuje utratę kontroli i skażenie. Szczegóły: patrz [Klątwa Otchłani](../rules/02.%20Klątwa%20Otchłani.md), [01. Księga Magii](../rules/01.%20Księga%20Magii.md).
 
-## [[Poddziedzina - Pierwotna Magia]]
+## [Poddziedzina - Pierwotna Magia](Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)

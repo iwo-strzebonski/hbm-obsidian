@@ -5,14 +5,14 @@ tags:
   - kult-otchłani
 ---
 
-| **Zdjęcie**         | ![[../../_assets/npc/fate-loremaster/fate-loremaster.webp\|200]] |
+| **Zdjęcie**         | <img src="../../_assets/npc/fate-loremaster/fate-loremaster.webp" width="200" alt="fate-loremaster.webp"> |
 | ------------------- | ---------------------------------------------------------------- |
 | **Imię (imiona)**   | *Mistrz Losu*                                                    |
 | **Rasa**            | *n/d*                                                            |
 | **Wiek**            | *n/d - co najmniej kilka tysięcy lat*                            |
 | **Wzrost**          | *ok. 2 m*                                                        |
-| **Dziedzina Magii** | *[[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]*            |
-| **Organizacje**     | *[[Kult Otchłani]]*                                              |
+| **Dziedzina Magii** | *[Pierwotna Magia](../../disciplines/Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)*            |
+| **Organizacje**     | *[Kult Otchłani](../../organizations/Kult%20Otchłani.md)*                                              |
 | **Pseudonim(y)**    | *<ul><li>Los</li></ul>*                                                               |
 | **Tytuł(y)**        | **                                                               |
 | **Charakter**       | **                                                               |

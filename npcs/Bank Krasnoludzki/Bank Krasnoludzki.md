@@ -4,4 +4,4 @@ tags: [placeholder, todo]
 ---
 # Bank Krasnoludzki
 
-This is an empty placeholder note created from a broken link in [[Thingrim Magnarson]].
+This is an empty placeholder note created from a broken link in [Thingrim Magnarson](Thingrim%20Magnarson.md).

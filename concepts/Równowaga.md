@@ -18,10 +18,10 @@ Równowaga (Equilibrium) to fundamentalna zasada magicznego świata HbM, określ
 Równowaga jest narzędziem fabularnym do wprowadzania zagrożeń, konsekwencji działań graczy i motywacji antagonistów. Pozwala na budowanie napięcia, wątków katastroficznych i moralnych wyborów.
 
 ## Powiązania
-- [[Otchłań]]
-- [[Personifikacje Otchłani]]
-- [[02. Klątwa Otchłani|Klątwa Otchłani]]
-- [[Era Przebudzenia]]
+- [Otchłań](Otchłań/Otchłań.md)
+- [Personifikacje Otchłani](Otchłań/Personifikacje%20Otchłani.md)
+- [Klątwa Otchłani](../rules/02.%20Klątwa%20Otchłani.md)
+- [Era Przebudzenia](Era%20Przebudzenia.md)
 
 > [!gm]+ Tylko dla MG
 > Równowaga może być mierzona mechanicznie (np. punkty równowagi świata) lub traktowana narracyjnie. Jej naruszenie to pretekst do wprowadzenia nowych zagrożeń, zmian w świecie i eskalacji konfliktów.

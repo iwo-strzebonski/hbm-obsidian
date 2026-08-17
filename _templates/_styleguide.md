@@ -9,7 +9,8 @@
   - aliases: []
   - status: draft/complete
 - **Daty:** DD.MM.RRRR (EP X), np. 16.04.2023 (EP 0)
-- **Wikilinki:** zawsze [[<Nazwa Strony>]] bez ścieżek.
+- **Linki wewnętrzne:** standardowe linki Markdown, np. `[Nazwa Strony](sciezka/do/Nazwa%20Strony.md)`, ze ścieżką względną liczoną od bieżącego pliku (nie wikilinki `[[...]]`) - dla zgodności z Obsidianem, zwykłymi czytnikami Markdown i mniej zaawansowanymi AI. Ustawienie Obsidiana "Use [[Wikilinks]]" jest wyłączone (`.obsidian/app.json`: `useMarkdownLinks: true`), więc nowe linki tworzone w Obsidianie też będą w tym formacie.
+- **Osadzanie obrazków:** `<img src="sciezka" width="200" alt="...">` (dla obrazków z rozmiarem) lub `![alt](sciezka)` (bez rozmiaru) zamiast `![[...]]`.
 - **Callouty dla MG:**
   > [!gm]+ Tylko dla MG
   Tajne informacje, spoilery, sekrety, mechanika, plot-twisty.

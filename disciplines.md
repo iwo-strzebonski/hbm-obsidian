@@ -3,20 +3,20 @@ tags:
   - magia
 ---
 - Dziedziny Akademickie:
-	- [[Taumaturgia]]
-		- [[Alchemia]] (do Dziedzin Taumaturgicznych należy wyłącznie [[Poddziedzina - Transmutacja|Alchemia Transmutacji]])
-		- [[Rzemiosło Artefaktów]]
-		- [[Magia Runiczna]] (nie należy do Dziedzin Akademickich)
-		- [[Golemancja]]
-		- [[Botanika]]
-	- [[Magia Sakralna]]
-	- [[Nekromancja]]
-	- [[Źródło Mocy]]
-	- [[Magia Żywiołów]]
-- [[Magia Krwi]]
-- [[Magia Iluzji]]
-- [[Magia Otchłani]]
-	- [[Poddziedzina - Magia Aspektów]]
-- [[Magia Szkarłatu]]
-- [[Wiedźmia Magia]]
-- [[Dzika Wiedźmia Magia]]
+	- [Taumaturgia](disciplines/Taumaturgia.md)
+		- [Alchemia](disciplines/Alchemia.md) (do Dziedzin Taumaturgicznych należy wyłącznie [Alchemia Transmutacji](disciplines/Alchemia/Poddziedzina%20-%20Transmutacja.md))
+		- [Rzemiosło Artefaktów](disciplines/Rzemiosło%20Artefaktów.md)
+		- [Magia Runiczna](disciplines/Magia%20Runiczna.md) (nie należy do Dziedzin Akademickich)
+		- [Golemancja](disciplines/Golemancja.md)
+		- [Botanika](disciplines/Botanika.md)
+	- [Magia Sakralna](disciplines/Magia%20Sakralna.md)
+	- [Nekromancja](disciplines/Nekromancja.md)
+	- [Źródło Mocy](disciplines/Źródło%20Mocy.md)
+	- [Magia Żywiołów](disciplines/Magia%20Żywiołów.md)
+- [Magia Krwi](disciplines/Magia%20Krwi.md)
+- [Magia Iluzji](disciplines/Magia%20Iluzji.md)
+- [Magia Otchłani](disciplines/Magia%20Otchłani.md)
+	- [Poddziedzina - Magia Aspektów](disciplines/Magia%20Otchłani/Poddziedzina%20-%20Magia%20Aspektów.md)
+- [Magia Szkarłatu](disciplines/Magia%20Szkarłatu.md)
+- [Wiedźmia Magia](disciplines/Wiedźmia%20Magia.md)
+- [Dzika Wiedźmia Magia](disciplines/Dzika%20Wiedźmia%20Magia.md)
