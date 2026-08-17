@@ -70,3 +70,7 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 > ### Motywacja
 >
 > Bezimienny chce wyczyścić Xivell z pasożyta, który sam stworzył. Uważa, że [[Federacja Sol-3]] posiada zasoby i technologię, które mogą mu w tym pomóc - dlatego manipuluje wydarzeniami tak, by Federacja zainteresowała się planetą.
+>
+> ### Interwencja podczas rytuału Nil
+>
+> To właśnie Bezimienny, działając przez ciało Xillitha Isherwooda, wraz z [[Ten, Który jest Mroczny|Robertem Zarynem]] przerwał [[Nil]] opętującą ciało [[Diana Koniecpolska|Diany Koniecpolskiej]] podczas nieudanej próby jej pełnej manifestacji na Ziemi, umożliwiając graczom ucieczkę i przerwanie rytuału. Czy zrobił to celowo, czy przypadkiem, walcząc w tym samym miejscu i czasie co Zaryn (jego jedyny żyjący wróg), pozostaje otwarte do ustalenia.

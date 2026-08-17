@@ -3,7 +3,7 @@ tags:
   - npc
 ---
 ## Uczniowie
-- [[Diana Koniecpolska]], uczennica [[Klasa Pi rok 2024-2025|klasy Pi (2024/25)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Diana Koniecpolska]], uczennica [[Klasa Pi rok 2024-2025|klasy Pi (2024/25)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [[Nil]]
 - [[Aurora|Aurora Nylabelle]], uczennica [[Klasa Pd rok 2025-2026|klasy Pd (2025/26)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 - [[Anna Heide]], uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 - [[Narcyza Eleness Zurbach]], arcysukkubica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]

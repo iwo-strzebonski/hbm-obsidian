@@ -67,3 +67,5 @@ Ten, Który jest Mroczny jest antagonistą działającym w tle - nie bezpośredn
 > **Plan z Federacją:** Zaryn pracuje nad długoterminową manipulacją [[Federacja Sol-3|Federacji Sol-3]] - chce, żeby Federacja zbombardowała lub oczyściła Xivell z pasożyta biologicznego (nie wiedząc, że pasożyt to broń biologiczna stworzona przez Bezimiennego). To wyeliminowałoby źródło pasożyta i osłabiło Pierwszego Patriarchę.
 >
 > **Paradoks:** Zaryn i gracze mogą mieć wspólnych wrogów - ale Zaryn jest zbyt niebezpieczny i zbyt zdesperowany, by być prawdziwym sojusznikiem. Jego plan „oczyszczenia Xivell” mógłby zabić miliony niewinnych.
+>
+> **Interwencja podczas rytuału Nil:** to właśnie Zaryn, wraz z Pierwszym Patriarchą (w ciele [[Xillith Isherwood|Xillitha Isherwooda]]), przerwał [[Nil]] opętującą ciało [[Diana Koniecpolska|Diany Koniecpolskiej]] podczas nieudanej próby jej pełnej manifestacji na Ziemi, umożliwiając graczom ucieczkę i przerwanie rytuału. Motywacje Zaryna w tym starciu - czy działał przeciw Nil z własnych powodów, czy przypadkiem skrzyżowały się tam jego plany z planami Pierwszego Patriarchy - pozostają otwarte do ustalenia.

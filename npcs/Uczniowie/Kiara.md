@@ -20,4 +20,4 @@ Feleska o długich, fioletowych włosach, uczennica WeSM rok wyżej niż [[Diana
 
 ## Relacje
 
-- **[[Diana Koniecpolska]]** - luźny związek.
+- **[[Diana Koniecpolska]]** - luźny związek, przyjaźń z korzyściami trwająca od pierwszych ferii zimowych Diany w WeSM.
