@@ -88,7 +88,7 @@ W wolnym czasie dużo czyta - głównie tanie powieści romansowe (w tym te pika
 
 - **[[Narcyza Eleness Zurbach]]** - bliska znajoma; Narcyza uszyła ręcznie część jej garderoby. Diana zna prawdę o klątwie drenującej moce Narcyzy, ale za namową Nil nigdy jej o tym nie powiedziała - zamiast tego, wciąż o tym nie wiedząc, Narcyza pomagała Dianie przepuszczać eldrycką magię Nil przez klątwę.
 - **[[Kiara]]** - przyjaźń z korzyściami, trwająca od pierwszych ferii zimowych w WeSM; Kiara jest rok wyżej od Diany.
-- **[[Aurora|Aurora Nylabelle]]** - związek romantyczny, zaczęty podczas aukcji artefaktów na rodzinnym świecie Aurory.
+- **[[Aurora|Aurora Nylabelle]]** - związek romantyczny, zaczęty podczas aukcji artefaktów na rodzinnym świecie Aurory. Aurora czasem asystuje Dianie przy jej eksperymentach - zarówno jako źródło many, jak i po to, by Diana nie zrobiła sobie krzywdy.
 - **[[Pelagius Caudex]]** - dawny mentor i sojusznik, obecnie źródło poczucia zdrady - Diana wie już, że jego przyjazd do WeSM (który uważała za swój pomysł) był ukartowany, a jego prawdziwym zadaniem było jej obserwowanie. Mimo to uczy teraz pod jego okiem jako nauczycielka-praktykantka.
 - **[[npcs/Nauczyciele|Nauczyciele/...]]** - Diana jest grzeczna i sumienna wobec nauczycieli, ale rzadko im ufa. Uważa, że akademickie podejście do artefaktów jest zbyt zachowawcze.
 - **[[Kult Otchłani]]** - Diana jest formalnie powiązana z Kultem, choć sama siebie nie uważa za "kultystkę". Dla niej to po prostu środowisko badawcze z dostępem do starożytnych źródeł.
@@ -110,3 +110,5 @@ W wolnym czasie dużo czyta - głównie tanie powieści romansowe (w tym te pika
 > **Próba samobójcza:** eksperyment, który latem 2026 zniszczył wzrok Diany, był celowo zaprojektowaną przez nią próbą samobójczą, wywołaną nieznośnym poczuciem winy. Nil (uzdrawiając ją, ale nie rozumiejąc ludzkiej biologii) niechcący pogorszyła jej wzrok do +12/+12, po czym w tajemnicy podarowała jej zaklęte okulary za pośrednictwem Aurory, przedstawiając je jako "prezent od elfów".
 >
 > **Stan obecny:** Diana jest rozdarta między poczuciem zdrady (przez Pelagiusa i Nil) a wciąż odczuwanym obowiązkiem Posłańca wobec Nil. Jej magia jest niestabilna - potencjalna oś fabularna to droga do jej ponownego zaufania Nil (lub jego braku) oraz to, czy kiedykolwiek odkryje, że "dziecko-kostka śluzu" to w istocie sama Nil.
+>
+> **Aurora podczas "eksperymentu":** Aurora zwykle asystuje Dianie przy jej eksperymentach właśnie po to, by zapobiec takiej sytuacji jak próba samobójcza latem 2026 - to, czy i dlaczego jej wtedy przy Dianie nie było, pozostaje otwartym pytaniem fabularnym.

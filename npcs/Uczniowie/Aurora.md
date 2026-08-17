@@ -33,4 +33,4 @@ Na początku związku z [[Diana Koniecpolska|Dianą Koniecpolską]] Aurora obawi
 ## Relacje
 
 - **[[Maedinitia]]** - jej służąca; towarzyszy Aurorze w WeSM, dokąd Aurora uczęszcza głównie z powodów politycznych.
-- **[[Diana Koniecpolska]]** - związek romantyczny, zaczęty podczas aukcji artefaktów na rodzinnym świecie Aurory, gdzie obie się poznały. To właśnie Aurora - nieświadoma prawdziwego nadawcy - przekazała Dianie zaklęte okulary "w prezencie od elfów", w rzeczywistości podarowane przez [[Nil]].
+- **[[Diana Koniecpolska]]** - związek romantyczny, zaczęty podczas aukcji artefaktów na rodzinnym świecie Aurory, gdzie obie się poznały. To właśnie Aurora - nieświadoma prawdziwego nadawcy - przekazała Dianie zaklęte okulary "w prezencie od elfów", w rzeczywistości podarowane przez [[Nil]]. Aurora czasem pomaga Dianie przy jej eksperymentach - zarówno jako źródło many, jak i po to, by Diana nie zrobiła sobie krzywdy.
