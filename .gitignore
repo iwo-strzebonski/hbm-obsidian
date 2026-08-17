@@ -2,9 +2,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache
-.obsidian/plugins/*/data.json
-.obsidian/plugins/*/main.js
-.obsidian/plugins/*/styles.css
+.obsidian/plugins
 
 # Vault assets: large binaries managed outside git
 _assets/
