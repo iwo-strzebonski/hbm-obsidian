@@ -42,7 +42,7 @@ Karolina jest przywódcą  Sabatu Otchłani. Zajęła tę pozycję po „elimina
 
 ## Rola w Federacji Sol-3 (Agentka Beta)
 
-Karolina Fey odegrała kluczową rolę w Pierwszej Wojnie Federacji Sol-3 i Malferian, działając jako cywilna współpracowniczka Sił Specjalnych X o statusie tymczasowego agenta pod pseudonimem **Agentka Beta**. 
+Karolina Fey odegrała kluczową rolę w Pierwszej Wojnie Federacji Sol-3 i Malferian, działając jako cywilna współpracowniczka [Sił Specjalnych X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md) o statusie tymczasowego agenta pod pseudonimem **Agentka Beta**. 
 
 Jej działania uważa się za jeden z decydujących czynników przełomu w wojnie:
 * **Zniszczenie planet Konsorcjum**: Przypisuje się jej zniszczenie kilku planet Konsorcjum Gwiezdnego Malferian. Według niejawnych raportów planety te stanowiły zagrożenie ekologiczne i egzystencjalne - część z nich była wypaczona przez Otchłań, a inne stanowiły siedlisko śmiercionośnego patogenu. Federacja oficjalnie dementuje te doniesienia, zaś Malferianie, pogrążeni w głębokiej żałobie, nie przeprowadzili w tej sprawie niezależnych badań.

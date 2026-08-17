@@ -34,6 +34,7 @@ Thingrim jest również znanym mecenasem sztuk magicznych. Pod jego patronatem B
 ## Relacje
 
 - **[Bank Krasnoludzki](Bank%20Krasnoludzki.md) (Khazad-Aurum)** – Thingrim jest lojalnym sługą Banku i Zjednoczonych Klanów. Reprezentuje ich interesy na Ziemi, dbając o nienaganny wizerunek i stabilność finansową.
+- **[Brogir Vane](Brogir%20Vane.md)** – Dyrektor Generalny Banku na Ziemi; podczas gdy Thingrim jest publiczną "Twarzą Banku", to Brogir faktycznie zarządza jego operacjami.
 - **Klan Złotego Młota** – jego rodowy klan, którego historię dumnie nosi wyrytą na swojej zbroi. Chroni interesy klanu i dba o to, by ich tradycje rzemieślnicze były szanowane.
 - **Święta Inkwizycja** – utrzymuje z nimi chłodne, lecz poprawne i wysoce pragmatyczne stosunki. Oficjalnie wspiera działania Inkwizycji i odprowadza "dziesięcinę" w postaci certyfikowanych artefaktów, co zapewnia spokój dla operacji Banku.
 

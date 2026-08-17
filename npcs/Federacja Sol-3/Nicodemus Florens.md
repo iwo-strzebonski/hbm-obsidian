@@ -12,14 +12,14 @@ aliases: []
 | **Imię (imiona)**       | *Nicodemus*                                                                                       |
 | **Nazwisko (nazwiska)** | *Florens*                                                                                          |
 | **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                     |
-| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md), [Siły Specjalne X](Siły%20Specjalne%20X.md)</li><li>[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md)</li></ul>*          |
+| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md), [Siły Specjalne X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)</li><li>[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md)</li></ul>*          |
 | **Pseudonim(y)**        | *Agent Gamma*                                                                                      |
-| **Tytuł(y)**            | *<ul><li>Naczelny Dowódca [Sił Specjalnych X](Siły%20Specjalne%20X.md)</li><li>Arcykapłan Szkarłatnego Kultu, dowódca największego zamku w Domenie Szkarłatu</li></ul>* |
+| **Tytuł(y)**            | *<ul><li>Naczelny Dowódca [Sił Specjalnych X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)</li><li>Arcykapłan Szkarłatnego Kultu, dowódca największego zamku w Domenie Szkarłatu</li></ul>* |
 | **Status**              | *Żyje*                                                                                             |
 
 ## Opis
 
-Nicodemus Florens prowadzi podwójne życie, o którym wie jedynie wąskie grono decydentów Federacji Sol-3. Oficjalnie jest Naczelnym Dowódcą [Sił Specjalnych X](Siły%20Specjalne%20X.md) - najbardziej niejawnej jednostki operacyjnej Federacji, powołanej w 2020 roku do zwalczania zagrożeń pozaziemskich wykraczających poza możliwości standardowych sił zbrojnych. Jako "Agent Gamma" sprawuje pełnię władzy nad taktycznymi i strategicznymi decyzjami jednostki, integrując nowatorskie technologie łączące magię i technikę.
+Nicodemus Florens prowadzi podwójne życie, o którym wie jedynie wąskie grono decydentów Federacji Sol-3. Oficjalnie jest Naczelnym Dowódcą [Sił Specjalnych X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md) - najbardziej niejawnej jednostki operacyjnej Federacji, powołanej w 2020 roku do zwalczania zagrożeń pozaziemskich wykraczających poza możliwości standardowych sił zbrojnych. Jako "Agent Gamma" sprawuje pełnię władzy nad taktycznymi i strategicznymi decyzjami jednostki, integrując nowatorskie technologie łączące magię i technikę.
 
 Jego drugą tożsamością jest rola Arcykapłana [Szkarłatnego Kultu](../../organizations/Szkarłatny%20Kult.md) - najwyższej rangi w kapłańskiej gałęzi Kultu - dowodzącego największym zamkiem w całej Domenie Szkarłatu. Dla samego Kultu jest potężnym, budzącym respekt przywódcą religijnym. W rzeczywistości jest tajnym agentem Federacji, zinfiltrowanym w szeregi kultystów, starającym się od wewnątrz powstrzymywać ich najniebezpieczniejsze zapędy - z ograniczonym skutkiem, gdyż otwarte próby nawiązania kontaktu z Kultem zwykle kończą się morderstwem i krwawymi obrzędami.
 

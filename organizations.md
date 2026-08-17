@@ -5,6 +5,7 @@ tags:
 - [Federacja Sol-3](organizations/Federacja%20Sol-3.md)
 	- [Projekt "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)
 	- [Siły Specjalne "Gaja"](organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)
+	- [Siły Specjalne X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)
 	- ["Wybrańcy Herosów"](organizations/Federacja%20Sol-3/Wybrańcy%20Herosów.md)
 - [Inkwizycja](organizations/Inkwizycja.md)
 - [Konsorcjum Gwiezdne Malferian](organizations/Konsorcjum%20Gwiezdne%20Malferian.md)

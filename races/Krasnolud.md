@@ -25,7 +25,7 @@ Posługują się krasnoludzkim (khazdul), językiem pełnym twardych spółgłos
 Krasnoludy wywodzą się z górskich twierdz i podziemnych miast. Przetrwały liczne wojny z Malferianami i Demonami. Ich migracje doprowadziły do powstania nowych klanów na innych światach.
 
 ## Relacje z innymi rasami
-Krasnoludy współpracują z ludźmi przede wszystkim na polu handlu i bankowości. Szwajcaria na Ziemi (Sol-3-1725) to w rzeczywistości państwo zarządzane przez krasnoludy. Bank Szwajcarski to w zasadzie Międzywymiarowy Bank Krasnoludzki, na czele którego na Ziemi stoi prezes **[Brogir Vane](Brogir%20Vane.md)**.
+Krasnoludy współpracują z ludźmi przede wszystkim na polu handlu i bankowości. Szwajcaria na Ziemi (Sol-3-1725) to w rzeczywistości państwo zarządzane przez krasnoludy. Bank Szwajcarski to w zasadzie Międzywymiarowy Bank Krasnoludzki, na czele którego na Ziemi stoi prezes **[Brogir Vane](../npcs/Bank%20Krasnoludzki/Brogir%20Vane.md)**.
 
 Stosunki z Elfami są lodowate. Krasnoludy nie chcą dzielić się z nikim **Magią Runiczną**, traktując ją jako swoją absolutną przewagę gospodarczą (tajemnicę korporacyjną). W odwecie Elfy, korzystając ze swoich politycznych wpływów, zablokowały krasnoludom dostęp do edukacji w najbardziej prestiżowych szkołach magii, czyli słynnej **Wielkiej Trzynastce**.
 
@@ -34,7 +34,7 @@ Krasnoludy są mistrzami magii runicznej i ochronnej. Są odporne na spaczenie O
 
 ## Znani przedstawiciele
 - [Thingrim Magnarson](../npcs/Bank%20Krasnoludzki/Thingrim%20Magnarson.md) (Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, mistrz run)
-- [Brogir Vane](Brogir%20Vane.md) (Dyrektor Generalny Międzywymiarowego Banku Krasnoludzkiego na Ziemi)
+- [Brogir Vane](../npcs/Bank%20Krasnoludzki/Brogir%20Vane.md) (Dyrektor Generalny Międzywymiarowego Banku Krasnoludzkiego na Ziemi)
 
 ## Hooki dla MG
 > [!gm]+ Tylko dla MG
