@@ -27,20 +27,20 @@ Federacja Sol-3 jest unikalną organizacją międzyplanetarną, która zrzesza p
 	- [Rada Najwyższa](#rada-najwyższa)
 	- [Walne Zebranie Komitetów](#walne-zebranie-komitetów)
 	- [Organizacje Cywilne i Wojskowe](#organizacje-cywilne-i-wojskowe)
-		- [[#Organizacje Cywilne i Wojskowe#Wojsko Federacji|Wojsko Federacji]]
+		- [Wojsko i Waluty Federacji](#wojsko-i-waluty-federacji)
 - [Suwerenność i Współpraca z Planetami Członkowskimi](#suwerenność-i-współpraca-z-planetami-członkowskimi)
 	- [Suwerenność i Autonomia](#suwerenność-i-autonomia)
 	- [Wsparcie w Sytuacjach Kryzysowych](#wsparcie-w-sytuacjach-kryzysowych)
 	- [Rozwój Technologiczny](#rozwój-technologiczny)
 	- [Przyjęcie Nowych Członków](#przyjęcie-nowych-członków)
-- [[#Rola Federacji Sol-3 a Podbój Kosmosu|Rola Federacji Sol-3 a Podbój Kosmosu]]
+- [Rola Federacji Sol-3 w Podbój Kosmosu](#rola-federacji-sol-3-w-podbój-kosmosu)
 	- [Misje Kolonizacyjne](#misje-kolonizacyjne)
 		- ["Sterany" - Pionierski Statek Kolonizacyjny](#sterany---pionierski-statek-kolonizacyjny)
 	- [Znaczenie Strategiczne i Ekonomiczne](#znaczenie-strategiczne-i-ekonomiczne)
 - [Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3](#integracja-nadprzyrodzonych-zjawisk-w-federacji-sol-3)
 	- [Rzadkość Magii w Federacji](#rzadkość-magii-w-federacji)
 	- [Technologiczne Adaptacje Magii](#technologiczne-adaptacje-magii)
-	- [[#Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3#Ziemia (Sol-3-1725) jako Kluczowy Członek|Ziemia (Sol-3-1725) jako Kluczowy Członek]]
+	- [Ziemia (Sol-3-1725) jako Kluczowy Członek](#ziemia-sol-3-1725-jako-kluczowy-członek)
 
 ## Kryteria Członkostwa
 
@@ -120,6 +120,8 @@ Choć Federacja zrzesza około tysiąca planet, tylko niewielki odsetek z nich p
 ### Technologiczne Adaptacje Magii
 
 Fakt, że większość planet Federacji nie posiada dostępu do magii, nie stanowił przeszkody dla federacyjnych naukowców, którzy opracowali technologie umożliwiające korzystanie z magii nawet na planetach, gdzie nie występuje ona naturalnie. Taka innowacja jest dowodem na zdolności adaptacyjne Federacji i jej gotowość do włączania różnorodnych systemów wiedzy i mocy do ogólnego korpusu technologicznego.
+### Ziemia (Sol-3-1725) jako Kluczowy Członek
+
 Wyjątkowy charakter [Ziemi (Sol-3-1725)](../locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md), gdzie magia jest silnie obecna i rozwijana, sprawił, że planeta ta szybko została objęta patronatem Federacji. To podkreśla wartość, jaką Federacja przywiązuje do różnorodności, zwłaszcza gdy wiele innych "Ziem" całkowicie się od siebie różni:
 - **Sol-3-0641:** Dystopia teokratyczna, gdzie rządzące Kolegium wykreowało sztucznego "Boga", a heretycy są paleni żywcem.
 - **Sol-3-2917:** Świat cyberpunkowy odcięty od magii potężną barierą. Z tego powodu uważa się, że to doskonałe miejsce dla baz operacyjnych, i popularne fast foody ("Gruby Kurczak Sandwich Bar").

@@ -20,7 +20,6 @@ Ziemia, trzecia planeta od Słońca, znana również jako "Niebieska Planeta" ze
 
 ## Spis Treści
 - [Projekt "Starlight"](#projekt-starlight)
-	- [[#Projekt "Starlight"#Centrum Wsparcia Planetarnego|Centrum Wsparcia Planetarnego]]
 - [Pojawienie się magii na Ziemi](#pojawienie-się-magii-na-ziemi)
 - [Cywilizacje pozaziemskie](#cywilizacje-pozaziemskie)
 	- [Pojawienie się elfów i początki szkół magii](#pojawienie-się-elfów-i-początki-szkół-magii)
