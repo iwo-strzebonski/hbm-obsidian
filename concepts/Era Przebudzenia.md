@@ -27,8 +27,8 @@ System EP porządkuje wydarzenia fabularne, pozwala łatwo określić czas akcji
 - [Kalendarz](Kalendarz.md)
 
 ## Dalsze lektury
-- lore/10. Przewodnik Ludzkości po Magicznym Świecie.md
-- lore/02. Otchłań i Magia.md
+- [10. Przewodnik Ludzkości po Magicznym Świecie](../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md)
+- [02. Otchłań i Magia](../lore/02.%20Otchłań%20i%20Magia.md)
 
 ## Konwersja dat
 > [!gm]+ Tylko dla MG

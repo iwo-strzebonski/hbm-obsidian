@@ -1,2 +1,4 @@
 - [Pelagius Caudex](Nauczyciele/Pelagius%20Caudex.md)
 - [Urszula Callistis](Nauczyciele/Urszula%20Callistis.md)
+- [Leopold von Karma](Nauczyciele/Leopold%20von%20Karma.md)
+- [Diana Koniecpolska](Uczniowie/Diana%20Koniecpolska.md) (nauczycielka-praktykantka)
