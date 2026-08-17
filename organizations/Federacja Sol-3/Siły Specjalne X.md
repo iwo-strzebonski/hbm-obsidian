@@ -6,17 +6,17 @@ tags:
 aliases:
   - Task Force X
 ---
-| **Zdjęcie**                   | **                                                                                             |
-| ----------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Nazwa oficjalna**           | *Siły Specjalne X*                                                                                |
-| **Nazwa potoczna**            | *Siły Specjalne X*                                                                                |
-| **Data powstania**            | *2020 r.*                                                                                          |
-| **Założyciel(e)**             | *Rada Najwyższa [Federacji Sol-3](../Federacja%20Sol-3.md)*                                        |
-| **Siedziba**                  | *Niszczyciel gwiezdny "Aeternus" (mobilna baza operacyjna)*                                        |
-| **Status**                    | *Aktywna, ściśle tajna*                                                                            |
-| **Przywódca(cy)**             | *[Nicodemus Florens](../../npcs/Federacja%20Sol-3/Nicodemus%20Florens.md), Agent Gamma, Naczelny Dowódca* |
-| **Ważniejsi członkowie**      | *<ul><li>Alarielle Sylveranis, Mistrzyni Finansów i Koordynatorka Operacyjna</li><li>[Karolina Fey](../../npcs/Federacja%20Sol-3/Karolina%20Fey.md), cywilna współpracowniczka o statusie tymczasowego agenta</li></ul>* |
-| **Powiązane organizacje**     | *[Federacja Sol-3](../Federacja%20Sol-3.md)*                                                       |
+| **Zdjęcie**               | **                                                                                                                                                                                                                       |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nazwa oficjalna**       | *Siły Specjalne do Eliminacji Obcych Najeźdźców*                                                                                                                                                                         |
+| **Nazwa potoczna**        | *Siły Specjalne X*                                                                                                                                                                                                       |
+| **Data powstania**        | *2020 r.*                                                                                                                                                                                                                |
+| **Założyciel(e)**         | *Rada Najwyższa [Federacji Sol-3](../Federacja%20Sol-3.md)*                                                                                                                                                              |
+| **Siedziba**              | *Niszczyciel gwiezdny "Aeternus" (mobilna baza operacyjna)*                                                                                                                                                              |
+| **Status**                | *Aktywna, ściśle tajna*                                                                                                                                                                                                  |
+| **Przywódca(cy)**         | *[Nicodemus Florens](../../npcs/Federacja%20Sol-3/Nicodemus%20Florens.md), Agent Gamma, Naczelny Dowódca*                                                                                                                |
+| **Ważniejsi członkowie**  | *<ul><li>Alarielle Sylveranis, Mistrzyni Finansów i Koordynatorka Operacyjna</li><li>[Karolina Fey](../../npcs/Federacja%20Sol-3/Karolina%20Fey.md), cywilna współpracowniczka o statusie tymczasowego agenta</li></ul>* |
+| **Powiązane organizacje** | *[Federacja Sol-3](../Federacja%20Sol-3.md)*                                                                                                                                                                             |
 
 ## Opis
 

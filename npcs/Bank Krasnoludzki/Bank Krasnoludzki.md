@@ -9,15 +9,15 @@ aliases:
   - Międzywymiarowy Bank Krasnoludzki
   - Bank Szwajcarski
 ---
-| **Zdjęcie**                   | **                                                                                     |
-| ------------------------------ | ---------------------------------------------------------------------------------------- |
-| **Nazwa oficjalna**            | *Międzywymiarowy Bank Krasnoludzki (Khazad-Aurum)*                                       |
-| **Nazwa potoczna**             | *Bank Krasnoludzki, "Bank Szwajcarski"*                                                  |
-| **Siedziba (Ziemia)**          | *Alpy - podziemne skarbce pod terytorium Szwajcarii, państwa faktycznie zarządzanego przez krasnoludy* |
-| **Status**                     | *Aktywny*                                                                                  |
-| **Przywódca(cy) na Ziemi**     | *[Brogir Vane](Brogir%20Vane.md), Dyrektor Generalny*                                      |
-| **Ważniejsi członkowie**       | *[Thingrim Magnarson](Thingrim%20Magnarson.md), Główny Przedstawiciel ("Twarz Banku"), Mistrz Run* |
-| **Powiązane organizacje**      | *[Krasnolud](../../races/Krasnolud.md), [Wschodnioeuropejska Szkoła Magii](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (sponsor)* |
+| **Zdjęcie**                | **                                                                                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nazwa oficjalna**        | *Międzywymiarowy Bank Krasnoludzki (Khazad-Aurum)*                                                                                                                       |
+| **Nazwa potoczna**         | *Bank Krasnoludzki, "Bank Szwajcarski"*                                                                                                                                  |
+| **Siedziba (Ziemia)**      | *Alpy - podziemne skarbce pod terytorium Szwajcarii, państwa faktycznie zarządzanego przez krasnoludy*                                                                   |
+| **Status**                 | *Aktywny*                                                                                                                                                                |
+| **Przywódca(cy) na Ziemi** | *[Brogir Vane](Brogir%20Vane.md), Dyrektor Generalny*                                                                                                                    |
+| **Ważniejsi członkowie**   | *[Thingrim Magnarson](Thingrim%20Magnarson.md), Główny Przedstawiciel ("Twarz Banku"), Mistrz Run*                                                                       |
+| **Powiązane organizacje**  | *[Krasnolud](../../races/Krasnolud.md), [Wschodnioeuropejska Szkoła Magii](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (sponsor)* |
 
 ## Opis
 

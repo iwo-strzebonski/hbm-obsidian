@@ -19,7 +19,7 @@ tags:
 
 ## Federacja Sol-3
  - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Wyrocznia i Agentka Specjalna [Federacji Sol-3](organizations/Federacja%20Sol-3.md) 
- - [Joe Cox](npcs/Federacja%20Sol-3/Joe%20Cox.md), Porucznik, dowódca 1. Plutonu [Sił Specjalnych "XCOM"](organizations/Federacja%20Sol-3/XCOM.md)
+ - [Joe Cox](npcs/Federacja%20Sol-3/Joe%20Cox.md), Porucznik, dowódca 1. Plutonu [Siły Specjalne X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)
  - [Nicodemus Florens](npcs/Federacja%20Sol-3/Nicodemus%20Florens.md), Agent Gamma, Naczelny Dowódca [Sił Specjalnych X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md) - w tajemnicy również Arcykapłan [Szkarłatnego Kultu](organizations/Szkarłatny%20Kult.md)
 ### Projekt "Starlight"
  - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), porucznik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), służący bezpośrednio pod [Seriożą Żukowem](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)

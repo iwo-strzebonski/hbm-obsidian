@@ -18,7 +18,7 @@ Witaj w głównym kompendium wiedzy o Homebrew Magic RPG! Poniżej znajdują si�
 - [Obsydianowe Obeliski](locations/Domena%20Szkarłatu/Obsydianowe%20Obeliski.md)
 - [Organizacje](organizations.md)
 - [Sekty](organizations/Sekty.md)
-- [XCOM](organizations/Federacja%20Sol-3/XCOM.md)
+- [Siły Specjalne X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)
 - [Konflikty](conflicts.md)
 - [Panteon](concepts/Bogowie/Panteon.md)
 - [Siedem Grzechów](concepts/Siedem%20Grzechów/Siedem%20Grzechów.md)
