@@ -25,6 +25,9 @@ tags:
  - [[Norbert Goch]], porucznik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], służący bezpośrednio pod [[Serioża Żukow|Seriożą Żukowem]]
  - [[Serioża Żukow]], pułkownik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], wchodzących w skład [[Projekt Starlight|Projektu "Starlight"]]
 
+## Brytyjska Akademia Wiedźm
+- [[Croix Meridies]], dawna przyjaciółka [[Urszula Callistis|Urszuli Callistis]], obecnie w nieznanym miejscu
+
 ## Zakon Taumaturgów
 
 
