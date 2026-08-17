@@ -13,7 +13,9 @@ aliases:
 | **Imię (imiona)**       | *Narcyza Eleness*                                                                    |
 | **Nazwisko (nazwiska)** | *Zurbach*                                                                            |
 | **Rasa**                | *[[Demon\|Arcysukkubica]]*                                                           |
-| **Wiek**                | *ponad 750 lat*                                                                      |
+| **Wiek**                | *ponad 750 lat (wygląda na osobę pod/koło trzydziestki)*                             |
+| **Wzrost**              | *163 cm*                                                                             |
+| **Wygląd**              | *Długie, lawendowe włosy; długie, cienkie i proste rogi; długie, spiczaste uszy (dłuższe niż elfie); dwie pary małych, czarnych skrzydeł wyrastających z dolnej części pleców* |
 | **Organizacje**         | *Uczennica [[Wschodnioeuropejska Szkoła Magii\|WeSM]]*                              |
 | **Pseudonim(y)**        | **                                                                                   |
 | **Tytuł(y)**            | **                                                                                   |
