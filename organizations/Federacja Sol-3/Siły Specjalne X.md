@@ -40,6 +40,8 @@ Siły Specjalne X operują przy użyciu technologii łączących magię i naukę
 
 Taka integracja paradygmatów technologicznych daje jednostce przewagę zarówno w środowiskach wysokiej anomalii, jak i strefach działania obcych pojazdów i organizmów. Operacje prowadzone są w absolutnej konspiracji, często bez wiedzy niezaangażowanych sektorów Federacji.
 
+Ze względu na wysoce eksperymentalny charakter jednostki, do walki wysyłane są niewielkie, kilkuosobowe zespoły uderzeniowe, wspierane przez jednostki autonomiczne - strata nawet jednego wyszkolonego operatora jest odczuwalna i traktowana śmiertelnie poważnie, dlatego dowództwo stara się przerzucać na roboty i drony jak najwięcej ryzyka. Każda odzyskana technologia, próbka biologiczna czy szczątki obcego uzbrojenia trafiają na pokład "Aeternus" do laboratorium eksperymentalnego, gdzie są analizowane i - o ile to możliwe - włączane do arsenału jednostki na potrzeby kolejnych misji. Ten cykl "misja - analiza - ulepszenie sprzętu - kolejna misja" jest fundamentem tego, jak Siły Specjalne X nieustannie się adaptują do nowych zagrożeń.
+
 ## Rola w konflikcie z Konsorcjum Gwiezdnym Malferian
 
 Konflikt z [Konsorcjum Gwiezdnym Malferian](../Konsorcjum%20Gwiezdne%20Malferian.md) był pierwszym, w którym działania Sił Specjalnych X odegrały decydującą rolę w wyniku wojny. Przewidywania Wyroczni - [Syllii Orirel](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) - wskazywały na możliwe naruszenie granic ze strony Malferian, lecz mimo to Federacja Sol-3 podjęła pierwsze działania ofensywne.
