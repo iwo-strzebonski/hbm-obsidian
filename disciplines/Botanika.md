@@ -9,7 +9,6 @@ tags:
 - [[#Historia szkoły|Historia szkoły]]
 - [[#Filozofia i założenia|Filozofia i założenia]]
 - [[#Poddyscypliny|Poddyscypliny]]
-- [[#Znani praktycy|Znani praktycy]]
 - [[#Status prawny (Inkwizycja)|Status prawny (Inkwizycja)]]
 - [[#Mechanika|Mechanika]]
  
@@ -29,10 +28,6 @@ Botanicy wierzą, że natura jest źródłem mocy i inspiracji. Cenią harmonię
 - Tworzenie eliksirów i wywarów
 - Magia druidyczna
 - Tworzenie magicznych nasion i sadzonek
-
-## Znani praktycy
-- [[Mistrzyni Zieleni Elowen]] (twórczyni pierwszych magicznych ogrodów)
-- [[Profesor Viridia]] (specjalistka od eliksirów roślinnych)
 
 ## Status prawny (Inkwizycja)
 Botanika jest legalna, ale niektóre eksperymenty (np. tworzenie roślin trujących lub agresywnych) wymagają zgłoszenia i nadzoru. Zakazane jest tworzenie roślin o cechach istot rozumnych.

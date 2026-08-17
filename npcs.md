@@ -3,22 +3,36 @@ tags:
   - npc
 ---
 ## Uczniowie
-- [[Diana Koniecpolska]], uczennica [[Klasa Pi rok 2024-2025|klasy Pi (2024/25)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Diana Koniecpolska]], uczennica [[Klasa Pi rok 2024-2025|klasy Pi (2024/25)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [[Nil]]
 - [[Aurora|Aurora Nylabelle]], uczennica [[Klasa Pd rok 2025-2026|klasy Pd (2025/26)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 - [[Anna Heide]], uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Narcyza Eleness Zurbach]], arcysukkubica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Klara]], anielica, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Kiara]], Feles, uczennica w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Maedinitia]], maginia wody, służąca [[Aurora|Aurory Nylabelle]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
 
 ## Nauczyciele i Pracownicy Szkół
 - [[Pelagius Caudex]], nauczyciel [[Rzemiosło Artefaktów|Rzemiosła Artefaktów]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]], Agent Specjalny [[Federacja Sol-3|Federacji Sol-3]]
 - [[Urszula Callistis]], nauczycielka Wiedzy o Magicznych Miejscach i Rytuałach
+- [[Leopold von Karma]], nauczyciel [[Nekromancja|Nekromancji]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]]
+- [[Klaus von Übertropp]], były Dyrektor [[Wschodnioeuropejska Szkoła Magii|WeSM]] (do listopada 2026), usunięty z rzeczywistości przez [[Nil]]
 
 ## Federacja Sol-3
  - [[Syllia Orirel]], Wyrocznia i Agentka Specjalna [[Federacja Sol-3|Federacji Sol-3]] 
+ - [[Joe Cox]], Porucznik, dowódca 1. Plutonu [[XCOM|Sił Specjalnych "XCOM"]]
+ - [[Nicodemus Florens]], Agent Gamma, Naczelny Dowódca [[Siły Specjalne X|Sił Specjalnych X]] - w tajemnicy również Arcykapłan [[Szkarłatny Kult|Szkarłatnego Kultu]]
 ### Projekt "Starlight"
  - [[Norbert Goch]], porucznik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], służący bezpośrednio pod [[Serioża Żukow|Seriożą Żukowem]]
  - [[Serioża Żukow]], pułkownik Sił Specjalnych [[Federacja Sol-3|Federacji Sol-3]], wchodzących w skład [[Projekt Starlight|Projektu "Starlight"]]
 
+## Brytyjska Akademia Wiedźm
+- [[Croix Meridies]], dawna przyjaciółka [[Urszula Callistis|Urszuli Callistis]], obecnie w nieznanym miejscu
+
 ## Zakon Taumaturgów
 
+
+## Inkwizycja
+- [[Tena Lindemann]], Starsza Inkwizytor, sekretnie lisz
 
 ## Szkarłatny Kult
 - [[Bezimienny, Pierwszy Patriarcha]]
@@ -30,6 +44,7 @@ tags:
 
 
 ## Kult Otchłani
+- [[Abyss]], pierwotny, niepodzielony byt sprzed Nil, Mundus i Tempusa
 - [[Nil]], Początek i Koniec
 - [[Mundus]], Istnienie
 - [[Tempus]], Czas

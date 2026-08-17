@@ -5,24 +5,76 @@ tags:
   - rzemiosło-artefaktów
   - uczeń
   - kult-otchłani
+  - posłaniec-otchłani
   - npc
 ---
 | **Zdjęcie**             | ![[../../_assets/npc/diana-koniecpolska/diana-profile.png\|200]]                                                                                                                                                                                   |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Imię (imiona)**       | *Diana*                                                                                                                                                                                                                                            |
 | **Nazwisko (nazwiska)** | *Koniecpolska*                                                                                                                                                                                                                                     |
-| **Rasa**                | *[[Człowiek]]*                                                                                                                                                                                                                                     |
-| **Wiek**                | *24 lata (2025)*                                                                                                                                                                                                                                   |
+| **Rasa**                | *[[Człowiek]] (formalnie - obecnie [[Posłańcy\|Posłaniec Otchłani]], patrz niżej)*                                                                                                                                                                 |
+| **Wiek**                | *25 lat (2026)*                                                                                                                                                                                                                                    |
 | **Wzrost**              | *173 cm*                                                                                                                                                                                                                                           |
-| **Dziedzina Magii**     | *[[Rzemiosło Artefaktów]], [[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]*                                                                                                                                                                    |
+| **Wygląd**              | *Naturalnie burgundowe włosy. Od zawsze miała wadę wzroku (+2 lewe oko, +3 prawe) - po nieudanym eksperymencie latem 2026 pogorszyła się do +12/+12. Nosi zaklęte okulary o zimnej w dotyku oprawie i znacznie cieńszych soczewkach, niż sugerowałaby ich moc - niezniszczalne i zawsze wracające do niej, gdy je zgubi.* |
+| **Dziedzina Magii**     | *[[Rzemiosło Artefaktów]], [[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]], moc Otchłani (jako Posłaniec Przeszłości)*                                                                                                                        |
 | **Organizacje**         | - Uczenica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] ([[Klasa Pi rok 2024-2025]])<br>- Nauczyciel [[Wschodnioeuropejska Szkoła Magii\|WeSM]] (Wychowawczyni: [[Klasa Pj rok 2026-2027]], Nauczycielka: Przepływ Magii III)<br>- [[Kult Otchłani]] |
 | **Pseudonim(y)**        | **                                                                                                                                                                                                                                                 |
-| **Tytuł(y)**            | - *Najwybitniejsza Uczennica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] 2025-2026*<br>- Mistrzyni Magii ([[Rzemiosło Artefaktów]])                                                                                                                 |
-| **Charakter**           | **                                                                                                                                                                                                                                                 |
+| **Tytuł(y)**            | - *Najwybitniejsza Uczennica [[Wschodnioeuropejska Szkoła Magii\|WeSM]] 2025-2026*<br>- Mistrzyni Magii ([[Rzemiosło Artefaktów]])<br>- Posłaniec Przeszłości [[Nil]] ("Harbinger of Arcane Knowledge")                                          |
+| **Charakter**           | *Genialna, ale przez większość życia zamknięta w sobie; po bolesnych doświadczeniach w pierwszym roku szkoły chłodna i zdystansowana wobec obcych, ale zdolna do szybkiej, szczerej przyjaźni. Obecnie na granicy załamania - rozdarta między poczuciem zdrady a wciąż odczuwanym obowiązkiem wobec Nil* |
 
-Uczennica [[Klasa Pi rok 2024-2025|klasy Pi (rok 2024-2025)]] w [[Wschodnioeuropejska Szkoła Magii|WeSM]].
+## Opis
 
-Przez pewien czas była przewodniczącą [[Zakon Taumaturgów|Koła Wzajemnej Pomocy dla Uczniów Słabiej Utalentowanych Magicznie]], mimo że zdecydowanie nie należy do słabo utalentowanych magicznie (słabo utalentowane osoby nie wygrywają szkolnych turniejów magicznych). Jej obecność w klubie była wyrazem wsparcia i solidarności z mniej uzdolnionymi kolegami.
+### Dzieciństwo (przed 2023)
+
+Diana urodziła się w zamożnej rodzinie. Niezwykle inteligentna już od najmłodszych lat, nie znalazła nikogo, kto by ją rozumiał, więc stała się cicha i zamknięta w sobie, spędzając większość czasu z książkami albo naprawiając skomplikowaną elektronikę. Formalnie była na nauczaniu domowym - w praktyce, gdy jej rówieśnicy uczyli się pisać, ona projektowała już złożone schematy elektroniczne i płytki PCB. Poszła na studia na Politechnice Krakowskiej, gdzie program był dla niej tak nudny, że często zasypiała na zajęciach albo w ogóle się na nie nie pojawiała - a mimo to była najlepsza na roku.
+
+### Świt magii (2023)
+
+Wszystko zmieniło się, gdy na świecie pojawiła się magia, a część konstrukcji Diany, które teoretycznie nie powinny działać, zaczęła nagle wykazywać magiczne właściwości. Eksperymentując, odkryła, że jest artificerem. Gdy powstały pierwsze projekty szkół magii, zobaczyła plany [[Wschodnioeuropejska Szkoła Magii|WeSM]] i natychmiast wiedziała, że musi tam studiować - tak długo naprzykrzała się rodzicom, aż ci zgodzili się zostać sponsorami budowy szkoły. To właśnie dlatego Diana mieszka w akademikach dla dzieci sponsorów.
+
+### Pierwszy rok w WeSM (2023-2024)
+
+Poznała wiele kultur, ludzi i ras. Z powodu początkowego braku umiejętności społecznych i talentu, którego nie potrafiła dobrze ukryć, przenoszono ją między klasami, aż w końcu trafiła do klasy pełnej wysoko urodzonych elfów, którzy patrzyli na nią z pogardą - co niby robi w klasie dla najlepszych człowiek, którego eksperymenty ciągle wybuchają?
+
+W tym czasie usłyszała o szkolnym kole [[Zakon Taumaturgów|Zakonu Taumaturgów]], dołączyła i została wybrana na przewodniczącą. Dzięki temu otworzyła się na innych ludzi - i nauczyła się ignorować zapatrzonych w siebie elfów z klasy. Niestety dla jej kariery w kole, ogłoszono szkolny turniej magiczny sponsorowany przez [[Bank Krasnoludzki]]. Diana nieco przesadziła - zbudowała broń opartą na wiedzy na granicy zakazanej, zdolną rozrywać magiczne tarcze rzucane przez uczniów, dodatkowe zabezpieczenia nauczycieli oraz destabilizować i uszkadzać osłony samej areny. Została błyskawicznie zdyskwalifikowana z turnieju, a wkrótce potem usunięta z koła (przeznaczonego dla uczniów słabiej utalentowanych magicznie). Oba wydarzenia mocno ją zraniły, a kpiny klasowych kolegów nie pomagały - stała się wycofana i chłodna.
+
+Dzięki występowi w turnieju [[Bank Krasnoludzki]] zlecił jej zaprojektowanie i zbudowanie sprzętu dla krasnoludzkich górników - co przy jej temperamencie i zamiłowaniu do niestabilnych eksperymentów było niezwykle wyczerpujące: dniami i nocami przedzierała się przez przepisy, tygodniami trwały spotkania z krasnoludzkimi prawnikami i inżynierami, podczas których nieraz się załamywała i płakała. Ostatecznie dostarczyła urządzenia, które zostały zatwierdzone przez Bank - [[Thingrim Magnarson]] osobiście powiedział jej, że jest pod wrażeniem jej pracy i dumny, że przetrwała długie starcia z krasnoludami.
+
+Prowadząc kolejne badania nad pochodzeniem magii (temat całkowicie zakazany - na tyle, że nikt nawet nie próbował jej powstrzymać), po raz pierwszy w życiu utknęła: żadne książki, żadne rozmowy z nauczycielami, żadna ilość magii nie pozwalały jej przebić się dalej. Ta paląca pasja przyciągnęła uwagę [[Nil]], która obiecała jej pomoc i naukę w zamian za służbę. Diana nie spała tygodniami, próbując podjąć decyzję - w końcu, sfrustrowana brakiem postępów, przyjęła ofertę Nil. Szybko nauczyła się tak wiele zakazanej wiedzy, że chciała się wycofać z układu - ale wiedziała, że nie może: umowa nie została zawarta z bogiem ani demonem, lecz z czymś DUŻO starszym i DUŻO potężniejszym. W tym czasie poznała innych kultystów Nil, ale ich nie polubiła - do dziś nie nazywa siebie "kultystką"; czci Nil nawet teraz, mimo że po ostatnich wydarzeniach jej nienawidzi, ale zawsze chciała wiedzy dla samej wiedzy i dla poprawy świata, nie dla własnej korzyści.
+
+Przypadkiem, ćwicząc zakazaną magię, narysowała krąg przywołania i przypadkiem przywołała nim pierwszoroczną uczennicę - [[Narcyza Eleness Zurbach|Narcyzę Eleness Zurbach]]. Sukkubica, zaskoczona brutalnym przywołaniem przez tak potężną moc, od razu próbowała zaatakować Dianę - na szczęście krąg przywołania ograniczał większość mocy Narcyzy, a klątwa dodatkowo szybko ją męczyła. Spędziły razem sporo czasu - Narcyza próbowała ją zaatakować jeszcze kilka razy, ale w końcu zrozumiała, że Diana nie chce jej skrzywdzić.
+
+Podczas ferii zimowych Diana została w szkole - tak bardzo kochała WeSM i panującą tam atmosferę, że zapomniała nawet wrócić do rodziny. W tym czasie zbliżyła się do [[Kiara|Kiary]] - relacja szybko przerodziła się w coś na kształt przyjaźni z korzyściami.
+
+Zbliżyła się też do Narcyzy na tyle, że odkryła, iż ciągła utrata mocy sukkubicy to w rzeczywistości klątwa. Chciała ją o tym ostrzec, ale powstrzymała ją Nil, która zamiast tego nauczyła Dianę, jak przepuszczać eldrycką magię przez klątwę - Nil uznała wtedy za zabawne skorumpowanie władcy demonów tą samą klątwą, która obecnie go zasila. Diana i Narcyza dokonywały więc regularnych "transferów many" - Diana z początku czuła się nieswojo, ukrywając przed Narcyzą tak istotny sekret, ale dzięki umiejętnościom i mocy Narcyzy jako arcysukkubicy szybko przestawała się tym przejmować.
+
+Podczas letnich wakacji jej elfi koledzy z klasy zaprosili ją na swój świat - po całym roku wreszcie zaczęli patrzeć na nią z szacunkiem. Diana początkowo odmówiła, mówiąc, że nie chce mieć nic wspólnego z ludźmi, którzy jej dokuczali, a teraz nagle chcą jej uwagi - ostatecznie przekonała ją wiadomość o odbywającej się tam wielkiej aukcji artefaktów.
+
+Na aukcji poznała inną pierwszoroczną uczennicę, [[Aurora|Aurorę Nylabelle]], z którą zbliżyła się w coś na kształt związku romantycznego. Poznała tam też [[Pelagius Caudex|Pelagiusa Caudexa]], wysłanego pod przykrywką przez Federację, by wycenić i zabezpieczyć kilka artefaktów - siłą lub kupnem. Udało mu się zabezpieczyć interesujące Federację (i jego samego) artefakty, przelicytowując i manipulując innymi kupcami, bez wywołania skandalu. Diana nie wiedziała wtedy, że jest tajnym agentem - myślała, że to po prostu ekscentryczny człowiek z innego świata, z jakiegoś powodu niewyobrażalnie bogaty. Szybko wyczuła, że ma ukryte motywy, ale nie naciskała. Oboje zrozumieli, że są na podobnym poziomie wiedzy - Diana po raz pierwszy mogła porozmawiać z kimś sobie równym - i to ona przekonała go, by zaczął uczyć w WeSM.
+
+### Drugi rok w WeSM i upadek (2025-2026)
+
+Te wszystkie doświadczenia nauczyły Dianę rezerwy, ale też większej wyrozumiałości. Jest chłodna wobec ludzi, których nie zna lub nie lubi, ale potrafi szybko zawierać nowe przyjaźnie. Odkryła też, że kocha uczyć innych i nauczyła się wykorzystywać zakazaną wiedzę zdobytą dzięki Nil w niezakazany sposób, co zaowocowało kontraktem z PKN Orlen. Zaczęła też bardziej ufać Nil i zaprzyjaźniła się z graczami.
+
+Potem wszystko zaczęło się sypać.
+
+Nil stawała się coraz bardziej wymagająca. Najpierw opętała Dianę podczas wymiany do [[Brytyjska Akademia Wiedźm|Brytyjskiej Akademii Wiedźm]]. Później, podczas rytuału mającego w pełni zamanifestować Nil na Ziemi, ponownie opętała ciało Diany i zablokowała ucieczkę graczy, mówiąc, że zabije ich rękami samej Diany i zmusi ją, by patrzyła, jak jej przyjaciele umierają. Na szczęście Nil w ciele Diany została przerwana przez [[Robert Zaryn|Roberta Zaryna]] oraz Pierwszego Patriarchę (w ciele [[Xillith Isherwood|Xillitha Isherwooda]]) - gracze zdołali uciec do lasu na terenie szkoły i przerwać rytuał, rozrywając Nil na części.
+
+Jedna część jest tym, co gracze obecnie znają - humanoidalne dziecko, które potrafi przeobrazić się w kostkę śluzu (i z powrotem). W tej manifestacji Nil zyskała emocje - i próbuje je zrozumieć. Wie, że Diana jej nienawidzi, więc gdy Diana jest blisko, natychmiast zmienia się w kostkę śluzu. Diana wie, że istota ma związek z Nil, ale sądzi, że to jakiś rodzaj wysłannika Nil pilnującego jej z ramienia bogini - nie podejrzewa, że to może być sama Nil.
+
+### Obecna Diana
+
+Wciąż formalnie jest uczennicą, ale Pelagius poprosił ją, by zaczęła uczyć w szkole.
+
+Diana jest na granicy załamania - czuje się zdradzona przez Pelagiusa, którego zadaniem, jak się okazało, było jej obserwowanie; zdradzona przez Nil, która obiecywała, że nic złego nie spotka jej przyjaciół; i czuje, że sama zdradziła przyjaciół, narażając ich na niebezpieczeństwo.
+
+Drugą część rozszczepionej Nil, tę, która została odcięta od Diany w trakcie długiego starcia z Bogiem Magii Krwi i Pierwszym Patriarchą oraz w trakcie załamującego się rytuału, spotkał inny los. Umysł i ciało Diany ledwo trzymały się w całości - jej własne emocje, moc Nil i ataki dwóch bogów niemal rozerwały tę biedną dziewczynę na strzępy; to i tak imponujące, że wytrzymała ponad 30 minut. Nil wiedziała, że w chwili, gdy rytuał ostatecznie zawiedzie, umysł i ciało Diany rozpadną się bezpowrotnie - uśpiła więc Dianę w środku zaklęcia i wykorzystała resztki połączenia oraz swoich mocy wciąż obecnych w ciele Diany, by przemienić ją w Posłańca Otchłani - Harbinger. Diana nie jest już śmiertelniczką, choć wciąż wygląda i zachowuje się jak jedna.
+
+To kolejny powód, dla którego Diana nienawidzi Nil. Eksperyment, który zniszczył jej wzrok, był w rzeczywistości próbą samobójczą - Diana uznała, że nie potrafi już dłużej żyć z ciężarem winy. Jej ciało zagoiło się (w większości) dzięki jej nowym mocom jako Posłańca oraz dzięki Nil, która próbuje ją chronić - odkąd zyskała emocje, Nil zaczęła czuć wyrzuty sumienia za zmuszenie Diany do tego wszystkiego i złamanie ich umowy.
+
+Ponieważ Nil, jako Personifikacja Początku, a nie życia, koncepcyjnie nie rozumie działania śmiertelnych ciał, uzdrowienie ran po eksperymencie poszło nie tak - przywróciła wzrok Diany, ale znacznie gorszy niż wcześniej (+12 na oboje oczu). Widząc Dianę w opłakanym stanie - i wiedząc, że po ostatnich wydarzeniach Diana jej nienawidzi - Nil stworzyła dla niej parę okularów i zmusiła Aurorę, by przekazała je Dianie jako "prezent od elfów". Okulary wyglądają jak jej stare, duże, kwadratowe plastikowe oprawki, ale sama oprawa jest zimna w dotyku, soczewki są dużo cieńsze, niż sugerowałaby ich moc (+12), są niezniszczalne, a gdziekolwiek Diana by ich nie zgubiła (celowo czy przez przypadek), zawsze pojawiają się gdzieś w jej pobliżu.
+
+Diana wciąż jest wewnętrznie skłócona - jest jedna Diana, która zawiodła przyjaciół i została okłamana, i druga, która wciąż czuje swój obowiązek wobec Nil, zwłaszcza jako Posłaniec. Jej magia jest teraz dość niestabilna, co może rodzić problemy - chyba że uda jej się przekonać samą siebie, by znów zaufać Nil.
 
 ## Zainteresowania i obsesje
 
@@ -30,23 +82,33 @@ Diana spędza coraz więcej wolnego czasu na projektowaniu i budowaniu skompliko
 
 Ostatnio zainteresowała się zagadnieniem *pamięci kamienia* - przekonaniem, że starożytne struktury mogą "przechować" echa przeszłych rytuałów. Jej notatki są pełne diagramów połączeń między artefaktami, które tworzą sieć przypominającą... coś żywego.
 
+W wolnym czasie dużo czyta - głównie tanie powieści romansowe (w tym te pikantniejsze), prowadzi przypadkowe badania i gra w gry wideo: Minecrafta na mocno zmodowanej instalacji (przede wszystkim modpack GregTech: New Horizons), czasem Stardew Valley razem z [[Talonos Isherwood|Talonosem Isherwoodem]], oraz uwielbia oglądać, jak [[Xillith Isherwood|Xillith Isherwood]] wścieka się na soulslike'i - śmieje się za każdym razem, gdy ginie, co jeszcze bardziej go wkurza, co z kolei czyni to wszystko jeszcze zabawniejszym. Bywa też widziana grająca w Pixel Dungeon (lub jednego z jego forków) na telefonie albo na zhakowanym szkolnym tablecie.
+
 ## Relacje
 
+- **[[Narcyza Eleness Zurbach]]** - bliska znajoma; Narcyza uszyła ręcznie część jej garderoby. Diana zna prawdę o klątwie drenującej moce Narcyzy, ale za namową Nil nigdy jej o tym nie powiedziała - zamiast tego, wciąż o tym nie wiedząc, Narcyza pomagała Dianie przepuszczać eldrycką magię Nil przez klątwę.
+- **[[Kiara]]** - przyjaźń z korzyściami, trwająca od pierwszych ferii zimowych w WeSM; Kiara jest rok wyżej od Diany.
+- **[[Aurora|Aurora Nylabelle]]** - związek romantyczny, zaczęty podczas aukcji artefaktów na rodzinnym świecie Aurory. Aurora czasem asystuje Dianie przy jej eksperymentach - zarówno jako źródło many, jak i po to, by Diana nie zrobiła sobie krzywdy.
+- **[[Pelagius Caudex]]** - dawny mentor i sojusznik, obecnie źródło poczucia zdrady - Diana wie już, że jego przyjazd do WeSM (który uważała za swój pomysł) był ukartowany, a jego prawdziwym zadaniem było jej obserwowanie. Mimo to uczy teraz pod jego okiem jako nauczycielka-praktykantka.
 - **[[npcs/Nauczyciele|Nauczyciele/...]]** - Diana jest grzeczna i sumienna wobec nauczycieli, ale rzadko im ufa. Uważa, że akademickie podejście do artefaktów jest zbyt zachowawcze.
-- **[[Kult Otchłani]]** - Diana jest formalnie powiązana z Kultem, choć sama siebie nie uważa za "kultystę". Dla niej to po prostu środowisko badawcze z dostępem do starożytnych źródeł.
-- **[[Nil]]** - Diana zaczyna "słyszeć" coś w snach. Nie rozumie jeszcze, co to jest.
+- **[[Kult Otchłani]]** - Diana jest formalnie powiązana z Kultem, choć sama siebie nie uważa za "kultystkę". Dla niej to po prostu środowisko badawcze z dostępem do starożytnych źródeł.
+- **[[Nil]]** - w przeszłości na pewien czas przejęła kontrolę nad ciałem Diany i próbowała zabić jej przyjaciół, zanim została pokonana i rozerwana na części. Diana wciąż dźwiga emocjonalne skutki tego wydarzenia i, choć ją nienawidzi, wciąż czci ją i czuje wobec niej obowiązek jako jej Posłaniec.
+- **[[Xillith Isherwood]]** - jednostronna (a może i obustronna) niechęć zabarwiona czarnym humorem; Diana uwielbia oglądać, jak wścieka się przy grach wideo.
+- **[[Talonos Isherwood]]** - spokojna, przyjacielska relacja przy okazjonalnych sesjach Stardew Valley.
+- **[[Zakon Taumaturgów]]** - była przewodnicząca koła, usunięta z niego po incydencie na szkolnym turnieju magicznym.
+- **[[Thingrim Magnarson]] / [[Bank Krasnoludzki]]** - zaprojektowała dla Banku sprzęt dla krasnoludzkich górników; Thingrim osobiście wyraził uznanie dla jej wytrwałości.
 
 > [!gm]+ Tylko dla MG
-> **Prawda o Dianie i ścieżce ku Posłańcowi:**
+> **Prawda o Dianie, opętaniu i rozszczepieniu Nil:**
 >
-> [[Nil]] - Personifikacja Przeszłości/Otchłani - zaczęła kontaktować się z Dianą przez sny. Na razie to tylko fragmenty: obrazy starożytnych świątyń na Xivell, wzory artefaktów, które Diana "wie jak zbudować" bez żadnego wcześniejszego badania.
+> [[Nil]] w ramach nieudanej próby pełnego zamanifestowania się w materialnym świecie opętała ciało Diany - najpierw krótko podczas wymiany do [[Brytyjska Akademia Wiedźm|Brytyjskiej Akademii Wiedźm]], później w pełni podczas rytuału manifestacyjnego, gdy jako Diana zaatakowała graczy i zablokowała im ucieczkę. Nil została przerwana przez [[Robert Zaryn|Roberta Zaryna]] i Pierwszego Patriarchę (w ciele Xillitha Isherwooda) - gracze zdołali uciec i przerwać rytuał, rozrywając Nil na dwie części.
 >
-> Diana jest predestynowana do roli **[[Posłańcy|Posłańca Przeszłości]]**. Nil wybrała ją ze względu na jej naturalne powinowactwo z pamięcią, trwałością i strukturą - cechy dominujące w jej podejściu do rzemiosła artefaktów.
+> **Część 1 - dziecko/kostka śluzu:** znana graczom manifestacja Nil, która zyskała emocje i próbuje je zrozumieć. Ze wstydu/żalu zmienia się w kostkę śluzu, gdy Diana jest blisko. Diana nie wie, że to naprawdę Nil - uważa to za jakiegoś rodzaju wysłannika.
 >
-> **Jak to rozegrać:**
-> - Diana nie wie jeszcze, czym się staje. Jej "obsesja" na punkcie świątynnych generatorów to Nil prowadząca ją ku rytuałom inicjacyjnym.
-> - Stopniowo Diana będzie "wiedzieć rzeczy" - lokalizacje zaginionych artefaktów, rytuały, które "po prostu rozumie". To dar Nil.
-> - Docelowo Diana przejdzie inicjację jako Posłaniec Przeszłości - ale to może być wielomiesięczny lub wieloletni proces.
-> - Gracze mogą zauważyć zmianę w jej zachowaniu: coraz bardziej oderwana, coraz więcej czasu spędza sama, jej artefakty zaczynają mieć "ten sam styl" co starożytne relikty z Xivell.
+> **Część 2 - Diana jako Posłaniec:** wiedząc, że umysł i ciało Diany rozpadną się w chwili ostatecznego niepowodzenia rytuału, Nil uśpiła ją w trakcie starcia i wykorzystała resztki połączenia i swojej mocy, by przemienić Dianę w Posłańca Otchłani (Posłańca Przeszłości) - patrz [[Posłańcy]]. Diana nie jest już śmiertelniczką, choć wciąż wygląda i zachowuje się jak jedna. Ma formę Otchłani (amorficzna, eldrycka postać śluzopodobna).
 >
-> **Powiązanie z organizacją:** Diana działa w Kulcie Otchłani, ale jej bezpośrednim "patronem" jest Nil, nie żaden ludzki lider Kultu. To tworzy potencjalne napięcie - Kult może chcieć kontrolować Posłańca Przeszłości, ale Nil jest potężniejsza niż jakikolwiek ludzki hierarcha.
+> **Próba samobójcza:** eksperyment, który latem 2026 zniszczył wzrok Diany, był celowo zaprojektowaną przez nią próbą samobójczą, wywołaną nieznośnym poczuciem winy. Nil (uzdrawiając ją, ale nie rozumiejąc ludzkiej biologii) niechcący pogorszyła jej wzrok do +12/+12, po czym w tajemnicy podarowała jej zaklęte okulary za pośrednictwem Aurory, przedstawiając je jako "prezent od elfów".
+>
+> **Stan obecny:** Diana jest rozdarta między poczuciem zdrady (przez Pelagiusa i Nil) a wciąż odczuwanym obowiązkiem Posłańca wobec Nil. Jej magia jest niestabilna - potencjalna oś fabularna to droga do jej ponownego zaufania Nil (lub jego braku) oraz to, czy kiedykolwiek odkryje, że "dziecko-kostka śluzu" to w istocie sama Nil.
+>
+> **Aurora podczas "eksperymentu":** Aurora zwykle asystuje Dianie przy jej eksperymentach właśnie po to, by zapobiec takiej sytuacji jak próba samobójcza latem 2026 - to, czy i dlaczego jej wtedy przy Dianie nie było, pozostaje otwartym pytaniem fabularnym.

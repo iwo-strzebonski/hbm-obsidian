@@ -1,7 +1,7 @@
 ---
 tags: [koncept, otchłań, byty]
 aliases: [Personifikacje Otchłani, Nil, Mundus, Tempus]
-status: draft
+status: kanoniczna
 ---
 
 # Personifikacje Otchłani
@@ -15,9 +15,12 @@ Personifikacje Otchłani to trzy aspekty, świadomości lub „fragmenty” Otch
 - **Tempus** - Czas, Zmiana, Kierunek biegu rzeczy. Najmniej uchwytna, odpowiada za upływ czasu, nieodwracalność zmian, ból i postęp.
 
 ## Rola w kanonie
-Personifikacje Otchłani nie są bogami ani awatarami - to świadomości, które powstały w wyniku podziału pierwotnej Otchłani. Każda z nich wybiera własnych Posłańców (po dwóch), przez których oddziałuje na świat materialny. Ich pojawienie się zwiastuje wielkie zmiany lub katastrofy.
+Personifikacje Otchłani nie są bogami ani awatarami - to świadomości, które powstały w wyniku Pierwotnego Rozpadu jednej, niepodzielonej Otchłani, na długo przed istnieniem jakichkolwiek wszechświatów. Jako pierwsza wyłoniła się Mundus, potem Tempus - a to, co pozostało, jest dziś znane jako Nil, dlatego to właśnie ją uznaje się za najstarszą i najbliższą oryginałowi. Pełna historia rozpadu: [[Abyss]].
+
+Każda z nich wybiera własnych Posłańców (po dwóch), przez których oddziałuje na świat materialny. Ich pojawienie się w danym świecie (odrębne zjawisko od Pierwotnego Rozpadu - patrz [[Abyss]]) zwiastuje wielkie zmiany lub katastrofy.
 
 ## Powiązania
+- [[Abyss]]
 - [[Otchłań]]
 - [[Posłańcy]]
 - [[02. Klątwa Otchłani|Klątwa Otchłani]]

@@ -29,6 +29,7 @@ Posłańcy Otchłani są pośrednikami między wolą swojej Personifikacji a św
 	- Broń: Rapier
 	- Forma Otchłani: Eldritch Slime
 	- Wygląd: młoda kobieta o przenikliwym spojrzeniu, często ubrana w praktyczne stroje wynalazczyni; w formie Otchłani jej ciało przybiera amorficzną, lepką postać.
+	- Diana stała się Posłańcem dopiero po nieudanej próbie pełnej manifestacji Nil na Ziemi, gdy Nil - opętawszy jej ciało i zostawszy przerwana przez [[Robert Zaryn|Roberta Zaryna]] i Pierwszego Patriarchę - rozerwała się na dwie części: jedna stała się osobnym, emocjonalnym bytem (dziecko/kostka śluzu), druga (przemieniona Diana) stała się właśnie tym Posłańcem. Pełna historia: [[Diana Koniecpolska]].
 - **Posłaniec Przyszłości:** (slot otwarty)
 
 **Mundus (Życie i Teraźniejszość):**

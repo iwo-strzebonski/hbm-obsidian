@@ -31,6 +31,3 @@ Stosunki z krasnoludami są obecnie niezwykle napięte. Wynika to z faktu, że K
 
 ## Magia i wrażliwość na Otchłań
 Elfy rodzą się z naturalną zdolnością do magii, szczególnie iluzji, magii żywiołów i druidyzmu. Są odporne na spaczenie Otchłani, ale podatne na melancholię i „chorobę wieczności”.
-
-## Znani przedstawiciele
-- [[Kapłanka Fira]] (Leśna Elfka, mistyczka ognia)

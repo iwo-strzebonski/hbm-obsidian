@@ -10,7 +10,7 @@ aliases:
   - Bezimienny
 ---
 > [!note] Ujednoznacznienie
-> Ta strona dotyczy postaci zwanej **Bezimiennym** lub **Pierwszym Patriarchą** (którego prawdziwe imię brzmiało **Xillith**, dawny Nadworny Taumaturg Xivell). Nie mylić z **[[Xillith Isherwood]]** (uczniem WeSM), którego ciało służy mu za współczesnego awatara z powodu noszenia przeklętej halabardy.
+> Ta strona dotyczy postaci zwanej **Bezimiennym** lub **Pierwszym Patriarchą** (którego prawdziwe imię brzmiało **Xillith**, dawny Nadworny Taumaturg Xivell). Nie mylić z **[[Xillith Isherwood]]** (uczniem WeSM), którego ciało służy mu za współczesnego awatara - a to za sprawą przynależności Isherwooda do [[Szkarłatny Kult|Szkarłatnego Kultu]] i zdobycia przez niego "Broni Szkarłatnego Patriarchy", nie z powodu wspólnego imienia. Zbieżność imion jest czystym przypadkiem.
 
 | **Zdjęcie**             | ![[../../_assets/characters/Bezimienny_Full.webp\|200]] |
 | ----------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -31,7 +31,9 @@ aliases:
 
 Bezimienny - znany również jako **Pierwszy Patriarcha** - jest postacią owianą tajemnicą. Większość historyków magii i członków [[Szkarłatny Kult|Szkarłatnego Kultu]] traktuje go wyłącznie jako legendę: założyciela [[Taumaturgia|taumaturgi]] na planecie [[Xivell (planeta)|Xivell]], geniusza, który stworzył dyscyplinę magiczną łączącą biologię z siłami wyższymi. Jego prawdziwe imię brzmiało **Xillith**, był Nadwornym Taumaturgiem Królestwa Xivell. Został jednak wymazany z rzeczywistości przez Nil, co sprawiło, że jego imię zatarło się w ludzkiej pamięci i zaczął być znany jako Bezimienny.
 
-Według dostępnych zapisów Bezimienny stworzył na Xivell zupełnie nową gałąź magii - [[Botanika|Botanikę]] (i zabójczego pasożyta). Po przegranym pojedynku z Nil, jego uczniowie uciekli do subwymiaru, zakładając [[Szkarłatny Kult]], by przechowywać jego dziedzictwo i czekać na jego powrót w Domenie Szkarłatu.
+Xillith zdobył sławę i tytuł Arcymaga jako zaledwie 21-letni mag, gdy jego badania nad modyfikowaniem roślinności magią dały początek Botanice. Zastosowanie tej wiedzy w wojnie Xivell z Królestwem Zaryn - w postaci zabójczego, magicznego pasożyta - przyniosło mu awans na Nadwornego Taumaturga, ale w ciągu roku wymknęło się spod kontroli, dziesiątkując oba królestwa i sprowadzając katastrofę znaną później jako Upadek. Pełna historia: [[10. Przewodnik Ludzkości po Magicznym Świecie]], Rozdział V.
+
+Katastrofa przyciągnęła uwagę [[Nil]]. Xillith, wraz z garstką najwierniejszych uczniów, stanął z nią do pojedynku - wygrana miała ocalić świat, przegrana miała kosztować go istnienie, a Taumaturgię rozbić na wiele mniejszych dziedzin magii. Przegrał. Część uczniów zdołała uciec do innego wymiaru, gdzie z czasem, dysponując jedynie strzępami wiedzy i coraz bardziej zacierającymi się wspomnieniami o nauczycielu, założyli [[Szkarłatny Kult]].
 
 Obecnie dusza Pierwszego Patriarchy jest przywiązana do artefaktu nazywanego **"Bronią Szkarłatnego Patriarchy"** (potężnej halabardy). Broń ta znajduje się obecnie w posiadaniu jego młodego imiennika – [[Xillith Isherwood|Xillitha Isherwooda]]. Przez ten artefakt dusza Patriarchy szepcze do ucznia, a czasem nawet w pełni przejmuje nad nim kontrolę podczas walki.
 
@@ -45,7 +47,11 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 >
 > ### Prawdziwa tożsamość
 >
-> Bezimienny to w rzeczywistości **Xillith, Nadworny Taumaturg Xivell**. Po przegranym pojedynku z Nil, został wymazany z rzeczywistości, ale jego dusza przetrwała uwięziona w Halabardzie.
+> Bezimienny to w rzeczywistości **Xillith, Nadworny Taumaturg Xivell**. Po przegranym pojedynku z Nil, został wymazany z rzeczywistości - ale nie do końca, w przeciwieństwie np. do [[Klaus von Übertropp|Klausa von Übertroppa]], który spotkał tę samą karę wieki później. W czasie pojedynku manifestacja Nil na Xivell była wyjątkowo słaba - w istocie opętała ciało dziecka, więc jej moc usuwania z Otchłani była ograniczona. Wystarczyło to, by zetrzeć imię i większość istnienia Xillitha z rzeczywistości, ale jego dusza przetrwała, uwięziona w Halabardzie.
+>
+> ### Zbieżność imion
+>
+> To, że współczesny dzierżyciel Halabardy nazywa się Xillith Isherwood, jest czystym zbiegiem okoliczności - nie ma żadnego mistycznego powodu, dla którego akurat on nosi to imię. [[Nil]] o tym wie i, zależnie od nastroju, reaguje na ten fakt albo rozbawieniem, albo furią.
 > 
 > ### Mechanika awatara
 >
@@ -64,3 +70,7 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 > ### Motywacja
 >
 > Bezimienny chce wyczyścić Xivell z pasożyta, który sam stworzył. Uważa, że [[Federacja Sol-3]] posiada zasoby i technologię, które mogą mu w tym pomóc - dlatego manipuluje wydarzeniami tak, by Federacja zainteresowała się planetą.
+>
+> ### Interwencja podczas rytuału Nil
+>
+> To właśnie Bezimienny, działając przez ciało Xillitha Isherwooda, wraz z [[Ten, Który jest Mroczny|Robertem Zarynem]] przerwał [[Nil]] opętującą ciało [[Diana Koniecpolska|Diany Koniecpolskiej]] podczas nieudanej próby jej pełnej manifestacji na Ziemi, umożliwiając graczom ucieczkę i przerwanie rytuału. Czy zrobił to celowo, czy przypadkiem, walcząc w tym samym miejscu i czasie co Zaryn (jego jedyny żyjący wróg), pozostaje otwarte do ustalenia.

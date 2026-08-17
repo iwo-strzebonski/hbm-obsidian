@@ -9,7 +9,6 @@ tags:
 - [[#Historia szkoły|Historia szkoły]]
 - [[#Filozofia i założenia|Filozofia i założenia]]
 - [[#Poddyscypliny|Poddyscypliny]]
-- [[#Znani praktycy|Znani praktycy]]
 - [[#Status prawny (Inkwizycja)|Status prawny (Inkwizycja)]]
 - [[#Mechanika|Mechanika]]
 
@@ -27,10 +26,6 @@ Golemancja opiera się na przekonaniu, że magia może nadać formę i funkcję 
 ## Poddyscypliny
 - Animacja glinianych, kamiennych i metalowych golemów
 - Tworzenie magicznych automatów
-
-## Znani praktycy
-- [[Mistrz Golemów Arkanis]] (twórca pierwszych golemów bojowych)
-- [[Profesor Lira Voss]] (specjalistka od golemów użytkowych)
 
 ## Status prawny (Inkwizycja)
 Golemancja jest legalna, ale podlega ścisłej kontroli. Zakazane jest tworzenie golemów o cechach istot rozumnych oraz używanie ich do działań wojennych bez zgody władz.

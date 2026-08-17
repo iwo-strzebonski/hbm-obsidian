@@ -27,3 +27,5 @@ Ostatni z trzech aspektów Otchłani, a przy okazji najmniej uchwytnym, jest Tem
 Nil może niszczyć to, co istnieje, Mundus może tworzyć nowe istnienie, natomiast obydwa te aspekty podlegają upływowi czasu i pętli życia i śmierci - Tempus jako jedyny jest w stanie tę pętlę kontrolować.
 
  Pierwszy Herold Czasu kontroluje przepływ czasu wstecz, a drugi - wprzód.
+
+Tempus jest drugą, ostatnią Personifikacją, która wyłoniła się z pierwotnej, niepodzielonej [[Abyss|Otchłani]] - już po narodzinach [[Mundus]], ale wciąż zanim istniał jakikolwiek wszechświat. To, co pozostało po odejściu Mundus i Tempusa, znane jest dziś jako [[Nil]]. Dzięki narodzinom Tempusa możliwy stał się upływ czasu i trwanie - światy stworzone przez Mundus mogły przetrwać dłużej niż moment swoich narodzin.

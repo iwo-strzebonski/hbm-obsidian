@@ -22,10 +22,6 @@ Magowie żywiołów wierzą w harmonię z naturą i potęgę pierwotnych sił. C
 - Magia Ognia (Ignis)
 - Magia Ziemi (Terra)
 
-## Znani praktycy
-- [[Mistrz Żywiołów Aerion]] (twórca szkoły magii powietrza)
-- [[Kapłanka Fira]] (mistyczka ognia i uzdrowicielka)
-
 ## Status prawny (Inkwizycja)
 Magia Żywiołów jest legalna, ale nadużycia (np. wywoływanie katastrof naturalnych) są surowo karane. Nauczanie podlega kontroli.
 

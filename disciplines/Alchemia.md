@@ -29,8 +29,7 @@ Alchemicy wierzą, że wszystko można przemienić, jeśli zna się odpowiednie 
 - Badania nad właściwościami magicznych substancji
 
 ## Znani praktycy
-- [[Mistrz Transmutacji Ferrus]] (twórca pierwszego kamienia filozoficznego)
-- [[Profesor Aurelia]] (specjalistka od eliksirów i mikstur)
+- [[Nemyo]] (Feles, wybitna alchemiczka, pomogła wielu poszukiwaczom przygód w zdobyciu potrzebnych eliksirów)
 
 ## Status prawny (Inkwizycja)
 Alchemia jest legalna, ale eksperymenty z niebezpiecznymi substancjami i transmutacją ludzi są zakazane. Wymagane są zgłoszenia badań nad nowymi eliksirami.
