@@ -6,7 +6,7 @@ status: draft
 
 # Teoria Jednego Wszechświata
 
-> Pełna wersja: patrz [[10. Przewodnik Ludzkości po Magicznym Świecie#Rozdział I - Teoria Jednego Wszechświata]]
+> Pełna wersja: patrz [10. Przewodnik Ludzkości po Magicznym Świecie](../../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md#rozdział-i---teoria-jednego-wszechświata)
 
 ## Definicja
 Teoria Jednego Wszechświata jest próbą uporządkowania chaosu wokół pochodzenia ras znanych Federacji Sol-3. Zakłada, że elfy, herosi i inne istoty nie przybyły z odrębnych wszechświatów, lecz wyewoluowały na różnych planetach w ramach jednego, wspólnego kosmosu.
@@ -24,10 +24,10 @@ Teoria ta podważa mit „przybyszów z innych światów” i pozwala na spójne
 > "Wieloświat Federacji i 'inne światy' ras to dwa zupełnie różne porządki pojęciowe, które przez wieki były ze sobą mylone. [...] Rasy uznawane za 'przybyszy z innych światów' nie pochodzą z tych alternatywnych wszechświatów. Są one mieszkańcami tego samego kosmosu, tej samej linii rzeczywistości, tej samej historii – tylko innych planet."
 
 ## Powiązania
-- [[10. Przewodnik Ludzkości po Magicznym Świecie]]
-- [[Era Przebudzenia]]
-- [[Otchłań]]
-- [[Federacja Sol-3]]
+- [10. Przewodnik Ludzkości po Magicznym Świecie](../../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md)
+- [Era Przebudzenia](../Era%20Przebudzenia.md)
+- [Otchłań](../Otchłań/Otchłań.md)
+- [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)
 
 > [!gm]+ Tylko dla MG
 > Pełny tekst, przykłady i analizy znajdziesz w rozdziale przewodnika. Teoria ta jest oficjalnie hipotezą roboczą, znaną głównie w zamkniętych kręgach naukowych i operacyjnych Federacji Sol-3.

@@ -10,19 +10,19 @@ aliases: []
 | ----------------------- | ------------------------------------------------------ |
 | **Imię (imiona)**       | *Leopold*                                              |
 | **Nazwisko (nazwiska)** | *von Karma*                                            |
-| **Rasa**                | *[[Człowiek]] (z innego świata)*                       |
-| **Dziedzina Magii**     | *[[Nekromancja]]*                                      |
-| **Organizacje**         | *Nauczyciel [[Wschodnioeuropejska Szkoła Magii\|WeSM]]* |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md) (z innego świata)*                       |
+| **Dziedzina Magii**     | *[Nekromancja](../../disciplines/Nekromancja.md)*                                      |
+| **Organizacje**         | *Nauczyciel [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)* |
 | **Charakter**           | *Zgorzkniały, przerażający, bezwzględnie kompetentny*  |
 | **Status**              | *Żyje*                                                 |
 
 ## Opis
 
-Leopold von Karma to człowiek z innego świata i niezwykle potężny nekromanta, który przez lata tropił [[Hept-skhes|Hept-Skhesa]] - swojego dawnego rywala z rodzinnego świata, jeszcze zanim ten pokonał kolejnych bogów śmierci i wyniósł się do boskości. Pościg za nim ostatecznie, przypadkiem, sprowadził Leopolda do roli nauczyciela w [[Wschodnioeuropejska Szkoła Magii|WeSM]].
+Leopold von Karma to człowiek z innego świata i niezwykle potężny nekromanta, który przez lata tropił [Hept-Skhesa](../../concepts/Bogowie/Hept-skhes.md) - swojego dawnego rywala z rodzinnego świata, jeszcze zanim ten pokonał kolejnych bogów śmierci i wyniósł się do boskości. Pościg za nim ostatecznie, przypadkiem, sprowadził Leopolda do roli nauczyciela w [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md).
 
 Ulubione zajęcia Leopolda w wolnym czasie to przeklinanie Hept-Skhesa oraz napędzanie strachu - zarówno wśród uczniów, jak i wśród innych nauczycieli.
 
 ## Relacje
 
-- **[[Hept-skhes|Hept-Skhes]]** - dawny rywal z rodzinnego świata, obecnie bóg nekromancji; obiekt wieloletniego pościgu Leopolda i jego nieustającej frustracji.
-- **[[Wschodnioeuropejska Szkoła Magii|WeSM]]** - nauczyciel, wbrew własnym pierwotnym planom.
+- **[Hept-Skhes](../../concepts/Bogowie/Hept-skhes.md)** - dawny rywal z rodzinnego świata, obecnie bóg nekromancji; obiekt wieloletniego pościgu Leopolda i jego nieustającej frustracji.
+- **[WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)** - nauczyciel, wbrew własnym pierwotnym planom.

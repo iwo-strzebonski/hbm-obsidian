@@ -8,7 +8,7 @@ aliases:
   - Kraków
 status: kanoniczna
 ---
-| **Zdjęcie**                      | ![[krakow.jpg|200]] |
+| **Zdjęcie**                      | <img src="krakow.jpg" width="200" alt="krakow.jpg"> |
 | -------------------------------- | ------------------------- |
 | **Rodzaj**                       | *Miasto*                  |
 | **Planeta**                      | *Ziemia (Sol-3-1725)*     |

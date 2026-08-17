@@ -7,9 +7,9 @@
 - 
 
 ### Nauczyciele
-- [[Diana Koniecpolska]] - Wychowawczyni
+- [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md) - Wychowawczyni
 
 ---
 ## Rok Szkolny 2027-2028
-### [[classes/Klasa Pj rok 2026-2027/Rok Szkolny 2027-2028/Plan Zajęć|Plan Zajęć]]
+### [Plan Zajęć](Klasa%20Pj%20rok%202026-2027/Rok%20Szkolny%202027-2028/Plan%20Zajęć.md)
 

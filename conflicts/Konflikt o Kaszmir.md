@@ -25,9 +25,9 @@ aliases:
 Konflikt zakończyła bezprecedensowa interwencja z zewnątrz – jednostki specjalne należące do tajemniczej organizacji, o której mówi się jedynie szeptem, fizycznie rozdzieliły walczące strony za pomocą potężnej magii barierowej. Kim byli ci interwenienci i na czyje polecenie działali, pozostaje niewyjaśnione.
 
 ## Powiązania fabularne
-- [[Federacja Sol-3]]
-- [[Republika Indii]]
-- [[Islamska Republika Pakistanu]]
+- [Federacja Sol-3](../organizations/Federacja%20Sol-3.md)
+- [Republika Indii](Republika%20Indii.md)
+- [Islamska Republika Pakistanu](Islamska%20Republika%20Pakistanu.md)
 
 ## Wskazówki dla MG
 > [!gm]+ Tylko dla MG

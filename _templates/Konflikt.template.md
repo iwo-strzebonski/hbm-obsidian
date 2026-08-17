@@ -1,4 +1,4 @@
-|  | ![[strona1.jpg\|200]] | ![[strona2.jpg\|200]] |
+|  | <img src="strona1.jpg" width="200" alt="strona1.jpg"> | <img src="strona2.jpg" width="200" alt="strona2.jpg"> |
 | ---- | ---- | ---- |
 | **Nazwa konfliktu** | ** | < |
 | **Data wybuchu** | ** | < |

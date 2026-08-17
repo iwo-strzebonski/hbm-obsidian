@@ -1,2 +1,2 @@
-- [[Pelagius Caudex]]
-- [[Urszula Callistis]]
+- [Pelagius Caudex](Nauczyciele/Pelagius%20Caudex.md)
+- [Urszula Callistis](Nauczyciele/Urszula%20Callistis.md)

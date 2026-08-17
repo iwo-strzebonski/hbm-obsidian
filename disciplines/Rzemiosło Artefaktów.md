@@ -6,34 +6,34 @@ tags:
   - magia-akademicka
 ---
 Spis treści
-- [[#Wstęp|Wstęp]]
-- [[#Mechanika|Mechanika]]
-	- [[#Mechanika#Darmowy Talent - *Tajemna Technologia*|Darmowy Talent - *Tajemna Technologia*]]
-	- [[#Mechanika#Sugerowany Atrybut|Sugerowany Atrybut]]
-	- [[#Mechanika#Sugerowane Umiejętności|Sugerowane Umiejętności]]
-	- [[#Mechanika#Testy związane z Dziedziną|Testy związane z Dziedziną]]
-- [[#O artefaktach i rzemieślnikach artefaktów|O artefaktach i rzemieślnikach artefaktów]]
-- [[#Artefakty|Artefakty]]
-	- [[#Artefakty#Taumiczne Okulary|Taumiczne Okulary]]
-		- [[#Taumiczne Okulary#Ulepszenie: Wspomaganie Celowania|Ulepszenie: Wspomaganie Celowania]]
-		- [[#Taumiczne Okulary#Ulepszenie: Detektor Magii|Ulepszenie: Detektor Magii]]
-	- [[#Artefakty#Magiczne Lustro|Magiczne Lustro]]
-		- [[#Magiczne Lustro#Ulepszenie: Lustro Zaklęć|Ulepszenie: Lustro Zaklęć]]
-		- [[#Magiczne Lustro#Ulepszenie: Magiczny Transport|Ulepszenie: Magiczny Transport]]
-		- [[#Magiczne Lustro#Ulepszenie: Globalne Lustra|Ulepszenie: Globalne Lustra]]
-	- [[#Artefakty#Amulet Osłony|Amulet Osłony]]
-		- [[#Amulet Osłony#Ulepszenie: Wzmocniona Osłona|Ulepszenie: Wzmocniona Osłona]]
-		- [[#Amulet Osłony#Ulepszenie: Osłona Awaryjna|Ulepszenie: Osłona Awaryjna]]
-		- [[#Amulet Osłony#Ulepszenie: Fala Magiczna|Ulepszenie: Fala Magiczna]]
-	- [[#Artefakty#Pięść Taumaturgiczna|Pięść Taumaturgiczna]]
-		- [[#Pięść Taumaturgiczna#Ulepszenie: Więcej Eliksirów|Ulepszenie: Więcej Eliksirów]]
-		- [[#Pięść Taumaturgiczna#Ulepszenie: Zaciski Pneumatyczne|Ulepszenie: Zaciski Pneumatyczne]]
-	- [[#Artefakty#Magiczna Klepsydra|Magiczna Klepsydra]]
-		- [[#Magiczna Klepsydra#Ulepszenie: Manipulacja Czasem|Ulepszenie: Manipulacja Czasem]]
-		- [[#Magiczna Klepsydra#Ulepszenie: Niewrażliwość Temporalna|Ulepszenie: Niewrażliwość Temporalna]]
-	- [[#Artefakty#Miotacz Energii|Miotacz Energii]]
-		- [[#Miotacz Energii#Ulepszenie: Większa Pojemność|Ulepszenie: Większa Pojemność]]
-		- [[#Miotacz Energii#Ulepszenie: Układ Chłodzenia|Ulepszenie: Układ Chłodzenia]]
+- [Wstęp](#wstęp)
+- [Mechanika](#mechanika)
+	- [Darmowy Talent - *Tajemna Technologia*](#darmowy-talent---tajemna-technologia)
+	- [Sugerowany Atrybut](#sugerowany-atrybut)
+	- [Sugerowane Umiejętności](#sugerowane-umiejętności)
+	- [Testy związane z Dziedziną](#testy-związane-z-dziedziną)
+- [O artefaktach i rzemieślnikach artefaktów](#o-artefaktach-i-rzemieślnikach-artefaktów)
+- [Artefakty](#artefakty)
+	- [Taumiczne Okulary](#taumiczne-okulary)
+		- [Ulepszenie: Wspomaganie Celowania](#ulepszenie-wspomaganie-celowania)
+		- [Ulepszenie: Detektor Magii](#ulepszenie-detektor-magii)
+	- [Magiczne Lustro](#magiczne-lustro)
+		- [Ulepszenie: Lustro Zaklęć](#ulepszenie-lustro-zaklęć)
+		- [Ulepszenie: Magiczny Transport](#ulepszenie-magiczny-transport)
+		- [Ulepszenie: Globalne Lustra](#ulepszenie-globalne-lustra)
+	- [Amulet Osłony](#amulet-osłony)
+		- [Ulepszenie: Wzmocniona Osłona](#ulepszenie-wzmocniona-osłona)
+		- [Ulepszenie: Osłona Awaryjna](#ulepszenie-osłona-awaryjna)
+		- [Ulepszenie: Fala Magiczna](#ulepszenie-fala-magiczna)
+	- [Pięść Taumaturgiczna](#pięść-taumaturgiczna)
+		- [Ulepszenie: Więcej Eliksirów](#ulepszenie-więcej-eliksirów)
+		- [Ulepszenie: Zaciski Pneumatyczne](#ulepszenie-zaciski-pneumatyczne)
+	- [Magiczna Klepsydra](#magiczna-klepsydra)
+		- [Ulepszenie: Manipulacja Czasem](#ulepszenie-manipulacja-czasem)
+		- [Ulepszenie: Niewrażliwość Temporalna](#ulepszenie-niewrażliwość-temporalna)
+	- [Miotacz Energii](#miotacz-energii)
+		- [Ulepszenie: Większa Pojemność](#ulepszenie-większa-pojemność)
+		- [Ulepszenie: Układ Chłodzenia](#ulepszenie-układ-chłodzenia)
 
 
 ---
@@ -277,8 +277,8 @@ Broń przegrzewa się po uzyskaniu pięciu Punktów Ciepła zamiast czterech a p
 ---
 
 > [!gm]+ Tylko dla MG - Diana Koniecpolska i ścieżka ku Posłańcowi
-> [[Diana Koniecpolska]] wydaje się być wzorową uczennicą-rzemieślniczką: turnieje, innowacje, chroniona przed naśladowcami. Jednak pod powierzchnią trwa coś głębszego. Diana spędza coraz więcej czasu na rozbudowie artefaktycznej infrastruktury przypominającej świątynne generatory energii - konstrukty przekraczające ramy standardowego rzemiosła. Nie potrafi wyjaśnić skąd przyszły pewne projekty; twierdzi, że „śniła o rozwiązaniach".
+> [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md) wydaje się być wzorową uczennicą-rzemieślniczką: turnieje, innowacje, chroniona przed naśladowcami. Jednak pod powierzchnią trwa coś głębszego. Diana spędza coraz więcej czasu na rozbudowie artefaktycznej infrastruktury przypominającej świątynne generatory energii - konstrukty przekraczające ramy standardowego rzemiosła. Nie potrafi wyjaśnić skąd przyszły pewne projekty; twierdzi, że „śniła o rozwiązaniach".
 >
-> Prawda (GM-only): [[Nil]] zaczęła nauczać Dianę przez sny, stopniowo otwierając jej umysł na percepcję Przeszłości. Ambicja Diany i obsesja na punkcie doskonałości technicznej otworzyły pęknięcie, przez które Nil rozszerzyła swój wpływ. Efektem jest [[Posłańcy|Posłaniec Przeszłości]] - Diana nie wie jeszcze w pełni, czym się staje.
+> Prawda (GM-only): [Nil](../npcs/Kult%20Otchłani/Nil.md) zaczęła nauczać Dianę przez sny, stopniowo otwierając jej umysł na percepcję Przeszłości. Ambicja Diany i obsesja na punkcie doskonałości technicznej otworzyły pęknięcie, przez które Nil rozszerzyła swój wpływ. Efektem jest [Posłaniec Przeszłości](../concepts/Otchłań/Posłańcy.md) - Diana nie wie jeszcze w pełni, czym się staje.
 >
 > Warto rozsiać wskazówki w kampanii: Miotacze Diany zawierają mikroartefakty zapisujące każdy moment swojej historii (anomalia Przeszłości), jej Lustra widują chwile, które jeszcze nie nastąpiły, a sama Diana czasem wypowiada informacje, których nie mogła znać. Gracze powinni odkryć jej przemianę stopniowo.

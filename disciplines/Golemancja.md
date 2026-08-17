@@ -5,12 +5,12 @@ tags:
   - taumaturgia
   - magia-akademicka
 ---
-- [[#Definicja|Definicja]]
-- [[#Historia szkoły|Historia szkoły]]
-- [[#Filozofia i założenia|Filozofia i założenia]]
-- [[#Poddyscypliny|Poddyscypliny]]
-- [[#Status prawny (Inkwizycja)|Status prawny (Inkwizycja)]]
-- [[#Mechanika|Mechanika]]
+- [Definicja](#definicja)
+- [Historia szkoły](#historia-szkoły)
+- [Filozofia i założenia](#filozofia-i-założenia)
+- [Poddyscypliny](#poddyscypliny)
+- [Status prawny (Inkwizycja)](#status-prawny-inkwizycja)
+- [Mechanika](#mechanika)
 
 # Golemancja
 
@@ -31,4 +31,4 @@ Golemancja opiera się na przekonaniu, że magia może nadać formę i funkcję 
 Golemancja jest legalna, ale podlega ścisłej kontroli. Zakazane jest tworzenie golemów o cechach istot rozumnych oraz używanie ich do działań wojennych bez zgody władz.
 
 ## Mechanika
-Goleman może tworzyć i kontrolować golemy, naprawiać je, programować runicznie oraz eksperymentować z nowymi typami konstrukcji. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
+Goleman może tworzyć i kontrolować golemy, naprawiać je, programować runicznie oraz eksperymentować z nowymi typami konstrukcji. Szczegóły: patrz [Księga Magii](../rules/01.%20Księga%20Magii.md).

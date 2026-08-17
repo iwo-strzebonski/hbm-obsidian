@@ -8,23 +8,23 @@ aliases:
   - Alchemia (Warzenie Eliksirów)
 ---
 Spis treści
-- [[#Wstęp|Wstęp]]
-- [[#Mechanika|Mechanika]]
-	- [[#Mechanika#Darmowy Talent - *Nadzwyczajna Odporność*|Darmowy Talent - *Nadzwyczajna Odporność*]]
-	- [[#Mechanika#Sugerowany Atrybut:|Sugerowany Atrybut:]]
-	- [[#Mechanika#Sugerowane umiejętności:|Sugerowane umiejętności:]]
-	- [[#Mechanika#Test związany z Dziedziną: *Korzystanie ze sprzętu alchemicznego*|Test związany z Dziedziną: *Korzystanie ze sprzętu alchemicznego*]]
-- [[#Eliksiry|Eliksiry]]
-	- [[#Eliksiry#Eliksir Zdrowia|Eliksir Zdrowia]]
-	- [[#Eliksiry#Eliksir Odnowienia Many|Eliksir Odnowienia Many]]
-	- [[#Eliksiry#Eliksir Osłabienia|Eliksir Osłabienia]]
-	- [[#Eliksiry#Eliksir Szybkości|Eliksir Szybkości]]
-	- [[#Eliksiry#Eliksir Prawdomówności|Eliksir Prawdomówności]]
+- [Wstęp](#wstęp)
+- [Mechanika](#mechanika)
+	- [Darmowy Talent - *Nadzwyczajna Odporność*](#darmowy-talent---nadzwyczajna-odporność)
+	- [Sugerowany Atrybut:](#sugerowany-atrybut)
+	- [Sugerowane umiejętności:](#sugerowane-umiejętności)
+	- [Test związany z Dziedziną: *Korzystanie ze sprzętu alchemicznego*](#test-związany-z-dziedziną-korzystanie-ze-sprzętu-alchemicznego)
+- [Eliksiry](#eliksiry)
+	- [Eliksir Zdrowia](#eliksir-zdrowia)
+	- [Eliksir Odnowienia Many](#eliksir-odnowienia-many)
+	- [Eliksir Osłabienia](#eliksir-osłabienia)
+	- [Eliksir Szybkości](#eliksir-szybkości)
+	- [Eliksir Prawdomówności](#eliksir-prawdomówności)
 
 ---
 ## Wstęp
 
-Warzenie Eliksirów to dziedzina [[Alchemia|Alchemii]] dotycząca tworzenia wywarów o określonych właściwościach z magicznych składników.
+Warzenie Eliksirów to dziedzina [Alchemii](../Alchemia.md) dotycząca tworzenia wywarów o określonych właściwościach z magicznych składników.
 
 Eliksiry mogą mieć mieć właściwości podobne do zwykłych wywarów leczniczych, jednak mają o wiele mocniejsze działanie.
 

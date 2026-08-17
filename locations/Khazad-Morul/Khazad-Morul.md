@@ -10,7 +10,7 @@ aliases:
   - Dom Morul
 status: kanoniczna
 ---
-| **Zdjęcie**                      | ![[khazad-morul.jpg|200]] |
+| **Zdjęcie**                      | <img src="khazad-morul.jpg" width="200" alt="khazad-morul.jpg"> |
 | -------------------------------- | ------------------------- |
 | **Rodzaj**                       | *Planeta*                 |
 | **Nazwa oficjalna**              | *Khazad-Morul*            |

@@ -23,9 +23,9 @@ aliases:
 Wojna Nilowa (marzec–czerwiec 2024) wybuchła, gdy Egipt, korzystając z nowo pozyskanych zdolności magicznych, próbował jednostronnie kontrolować przepływ Nilu, odcinając wodę Sudanowi i Etiopii. Odpowiedź była gwałtowna – koalicja państw afrykańskich, wsparta przez elfickich "obserwatorów", przeprowadziła ofensywę, która zakończyła się upadkiem egipskiego rządu. Nowy reżim w Kairze jest znacznie bardziej ugodowy, a elfy zyskały znaczące wpływy w regionie.
 
 ## Powiązania fabularne
-- [[Federacja Sol-3]]
-- [[Egipt]]
-- [[Pierwsza Wojna Federacji Sol-3 i Malferian]]
+- [Federacja Sol-3](../organizations/Federacja%20Sol-3.md)
+- [Egipt](Egipt.md)
+- [Pierwsza Wojna Federacji Sol-3 i Malferian](Pierwsza%20Wojna%20Federacji%20Sol-3%20i%20Malferian.md)
 
 ## Wskazówki dla MG
 > [!gm]+ Tylko dla MG

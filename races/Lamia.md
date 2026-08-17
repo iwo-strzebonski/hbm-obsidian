@@ -22,7 +22,7 @@ Lamie czczą boginie węży, duchy rzek i pradawne bóstwa kobiece. Rytuały są
 Posługują się lamijskim (pełnym syczących głosek), lingua magica oraz językami sąsiadujących ras. Język lamii jest trudny do opanowania przez obcych.
 
 ## Historia
-Lamie wywodzą się z pradawnych dżungli i bagien Eldrakar ([[Eldrakar]]). Przetrwały liczne prześladowania i migracje. Ich diaspora rozprzestrzeniła się na inne światy wraz z ekspansją magiczną.
+Lamie wywodzą się z pradawnych dżungli i bagien Eldrakar ([Eldrakar](Eldrakar.md)). Przetrwały liczne prześladowania i migracje. Ich diaspora rozprzestrzeniła się na inne światy wraz z ekspansją magiczną.
 
 ## Relacje z innymi rasami
 Lamie są nieufne wobec ludzi i Malferian, dobrze dogadują się z Leśnymi Elfami i Feles. Często pełnią rolę dyplomatek, szpiegów lub uzdrowicielek.
@@ -31,7 +31,7 @@ Lamie są nieufne wobec ludzi i Malferian, dobrze dogadują się z Leśnymi Elfa
 Lamie mają wrodzony talent do magii umysłu, iluzji i uzdrawiania. Są odporne na spaczenie Otchłani, ale podatne na obsesje i konflikty wewnętrzne.
 
 ## Znani przedstawiciele
-- [[Syllia Orirel]] (kapłanka, dyplomatka, mistrzyni magii umysłu)
+- [Syllia Orirel](../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) (kapłanka, dyplomatka, mistrzyni magii umysłu)
 
 ## Hooki dla MG
 > [!gm]+ Tylko dla MG
@@ -39,7 +39,7 @@ Lamie mają wrodzony talent do magii umysłu, iluzji i uzdrawiania. Są odporne 
 
 ## Magia
 
-Lamie mają wrodzone powinowactwo z [[Magia Iluzji|Magią Iluzji]] i [[Magia Krwi|Magią Krwi]]. Ich naturalna zdolność do zmiany postaci jest formą instynktownej iluzji; zaawansowane Lamie potrafią rozwinąć tę zdolność do pełnoprawnej szkoły magicznej.
+Lamie mają wrodzone powinowactwo z [Magią Iluzji](../disciplines/Magia%20Iluzji.md) i [Magią Krwi](../disciplines/Magia%20Krwi.md). Ich naturalna zdolność do zmiany postaci jest formą instynktownej iluzji; zaawansowane Lamie potrafią rozwinąć tę zdolność do pełnoprawnej szkoły magicznej.
 
 Magia Krwi przyciąga Lamie ze względu na ich naturę drapieżnika - krew jest dla nich zarówno pokarmem jak i surowcem magicznym. Nie jest to jednak regułą; wiele Lamii odrzuca tę ścieżkę jako zbyt prymitywną.
 
@@ -47,7 +47,7 @@ Magia Krwi przyciąga Lamie ze względu na ich naturę drapieżnika - krew jest 
 
 Lamie są nieliczne i zazwyczaj żyją wśród innych ras jako „ukryte”. Ich zdolność zmiany postaci sprawia, że mogą funkcjonować w ludzkich miastach przez dekady bez dekonspiracji.
 
-Na Ziemi (Sol-3-1725), Lamie formalnie nie istnieją w dokumentach [[Federacja Sol-3|Federacji Sol-3]] - lub istnieją pod fałszywymi tożsamościami. Inkwizycja aktywnie monitoruje podejrzanych o ukrytą Lamią tożsamość, co tworzy napięcie między tą rasą a aparatem bezpieczeństwa magicznego.
+Na Ziemi (Sol-3-1725), Lamie formalnie nie istnieją w dokumentach [Federacji Sol-3](../organizations/Federacja%20Sol-3.md) - lub istnieją pod fałszywymi tożsamościami. Inkwizycja aktywnie monitoruje podejrzanych o ukrytą Lamią tożsamość, co tworzy napięcie między tą rasą a aparatem bezpieczeństwa magicznego.
 
 ## Znani przedstawiciele
 

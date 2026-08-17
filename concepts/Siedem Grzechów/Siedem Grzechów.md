@@ -4,10 +4,10 @@ tags: [moc, hub, lore, sins]
 ---
 # Siedem Grzechów Głównych
 
-- [[Acedia]]
-- [[Avaritia]]
-- [[Gula]]
-- [[Invidia]]
-- [[Ira]]
-- [[Luxuria]]
-- [[Superbia]]
+- [Acedia](Acedia.md)
+- [Avaritia](Avaritia.md)
+- [Gula](Gula.md)
+- [Invidia](Invidia.md)
+- [Ira](Ira.md)
+- [Luxuria](Luxuria.md)
+- [Superbia](Superbia.md)

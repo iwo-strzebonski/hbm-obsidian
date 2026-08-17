@@ -9,28 +9,27 @@ tags:
 book: Przewodnik Ludzkości po Magicznym Świecie
 ---
 
-| **Zdjęcie**                      | ![[earth.jpg\|200]]       |
+| **Zdjęcie**                      | <img src="earth.jpg" width="200" alt="earth.jpg">       |
 | -------------------------------- | ------------------------- |
 | **Rodzaj**                       | *Planeta*                 |
 | **Nazwa oficjalna**              | *Planeta Ziemia*          |
 | **Nazwa kodowa**                 | *Sol-3-1725*              |
 | **Status**                       | *Istniejąca, zamieszkała* |
 | **Szacowana liczba mieszkańców** | *8-9 mld.*                |
-Ziemia, trzecia planeta od Słońca, znana również jako "Niebieska Planeta" ze względu na swoje rozległe oceany, stanowi kluczowy element w geopolityce międzygwiezdnej od momentu, gdy w 1974 roku wszedł w życie tajny traktat, włączający ją do [[Federacja Sol-3|Federacji Sol-3]]. To wydarzenie otworzyło nowy rozdział w historii ludzkości, umożliwiając zaawansowaną współpracę i wymianę technologiczną z innymi cywilizacjami wchodzącymi w skład tej międzywymiarowej koalicji. 
+Ziemia, trzecia planeta od Słońca, znana również jako "Niebieska Planeta" ze względu na swoje rozległe oceany, stanowi kluczowy element w geopolityce międzygwiezdnej od momentu, gdy w 1974 roku wszedł w życie tajny traktat, włączający ją do [Federacji Sol-3](../../organizations/Federacja%20Sol-3.md). To wydarzenie otworzyło nowy rozdział w historii ludzkości, umożliwiając zaawansowaną współpracę i wymianę technologiczną z innymi cywilizacjami wchodzącymi w skład tej międzywymiarowej koalicji. 
 
 ## Spis Treści
-- [[#Projekt "Starlight"|Projekt "Starlight"]]
-	- [[#Projekt "Starlight"#Centrum Wsparcia Planetarnego|Centrum Wsparcia Planetarnego]]
-- [[#Pojawienie się magii na Ziemi|Pojawienie się magii na Ziemi]]
-- [[#Cywilizacje pozaziemskie|Cywilizacje pozaziemskie]]
-	- [[#Cywilizacje pozaziemskie#Pojawienie się elfów i początki szkół magii|Pojawienie się elfów i początki szkół magii]]
-	- [[#Cywilizacje pozaziemskie#Pojawienie się Feles i ich wpływ na ekologię|Pojawienie się Feles i ich wpływ na ekologię]]
-	- [[#Cywilizacje pozaziemskie#Pojawienie się krasnoludów i ich wpływ na technologię|Pojawienie się krasnoludów i ich wpływ na technologię]]
-- [[#Relacje międzyrasowe na Ziemi|Relacje międzyrasowe na Ziemi]]
+- [Projekt "Starlight"](#projekt-starlight)
+- [Pojawienie się magii na Ziemi](#pojawienie-się-magii-na-ziemi)
+- [Cywilizacje pozaziemskie](#cywilizacje-pozaziemskie)
+	- [Pojawienie się elfów i początki szkół magii](#pojawienie-się-elfów-i-początki-szkół-magii)
+	- [Pojawienie się Feles i ich wpływ na ekologię](#pojawienie-się-feles-i-ich-wpływ-na-ekologię)
+	- [Pojawienie się krasnoludów i ich wpływ na technologię](#pojawienie-się-krasnoludów-i-ich-wpływ-na-technologię)
+- [Relacje międzyrasowe na Ziemi](#relacje-międzyrasowe-na-ziemi)
 
 ## Projekt "Starlight"
 
-Pomimo że członkostwo Ziemi w Federacji przyniosło wiele korzyści, w tym dostęp do zaawansowanych technologii i wiedzy o kosmosie, dopiero w 2019 roku rozpoczęto realizację ambitnego [[Projekt Starlight|Projektu "Starlight"]]. Projekt ten, zapoczątkowany przez przedstawicieli Ziemi już w 1986 roku, miał na celu rozwój i wdrażanie technologii pozwalających na eksplorację i kolonizację odległych światów. Jego opóźnione uruchomienie było wynikiem złożonych procesów politycznych, upadku Związku Socjalistycznych Republik Radzieckich, a także biurokracji w ramach [[Federacja Sol-3|Federacji]] przed jej restrukturyzacją.
+Pomimo że członkostwo Ziemi w Federacji przyniosło wiele korzyści, w tym dostęp do zaawansowanych technologii i wiedzy o kosmosie, dopiero w 2019 roku rozpoczęto realizację ambitnego [Projektu "Starlight"](../../organizations/Federacja%20Sol-3/Projekt%20Starlight.md). Projekt ten, zapoczątkowany przez przedstawicieli Ziemi już w 1986 roku, miał na celu rozwój i wdrażanie technologii pozwalających na eksplorację i kolonizację odległych światów. Jego opóźnione uruchomienie było wynikiem złożonych procesów politycznych, upadku Związku Socjalistycznych Republik Radzieckich, a także biurokracji w ramach [Federacji](../../organizations/Federacja%20Sol-3.md) przed jej restrukturyzacją.
 
 > **Centrum Wsparcia Planetarnego** 
 > Projekt Starlight powstał w 2019 r., by koordynować reakcje Ziemi na zagrożenia globalne i pozaziemskie. Niejawne źródła wskazują punkt lokalizacji w północnym Sudanie, w pobliżu Halfa (21.000023, 26.029503) - obszar o niskiej gęstości zaludnienia i ograniczonym dostępie.
@@ -47,7 +46,7 @@ Data 16 kwietnia 2023 roku, kiedy to po raz pierwszy zarejestrowano globalne man
 
 ### Pojawienie się elfów i początki szkół magii
 
-27 września 2023 roku zapisał się w historii Ziemi jako dzień pierwszego oficjalnego kontaktu z cywilizacją pozaziemską – elfami z planety, którą ludzie zaczęli nazywać [[Hiondirs-4]]. To niezwykłe wydarzenie wywołał ogromne emocje na całym świecie, przynosząc z sobą zarówno fascynację, jak i niepokój dotyczący przyszłości ludzkości i jej miejsca we wszechświecie. Elfy, przybywając na Ziemię, dokonały czegoś, co dla ludzi wydawało się niemożliwe – podróży międzygalaktycznej, co niektórzy naukowcy interpretowali jako próbę ukrycia prawdziwych mechanizmów działania magii i jej źródeł.
+27 września 2023 roku zapisał się w historii Ziemi jako dzień pierwszego oficjalnego kontaktu z cywilizacją pozaziemską – elfami z planety, którą ludzie zaczęli nazywać [Hiondirs-4](../Hiondirs-4/Hiondirs-4.md). To niezwykłe wydarzenie wywołał ogromne emocje na całym świecie, przynosząc z sobą zarówno fascynację, jak i niepokój dotyczący przyszłości ludzkości i jej miejsca we wszechświecie. Elfy, przybywając na Ziemię, dokonały czegoś, co dla ludzi wydawało się niemożliwe – podróży międzygalaktycznej, co niektórzy naukowcy interpretowali jako próbę ukrycia prawdziwych mechanizmów działania magii i jej źródeł.
 
 > **Ludzie i elfy**
 > Pierwszy kontakt: 27 września 2023.
@@ -60,15 +59,15 @@ Jednakże współpraca ta nie była pozbawiona problemów. Pojawienie się elfó
 W tym nowym, zmagicalizowanym świecie, ludzie musieli nauczyć się nie tylko współżyć z nowymi, potężnymi sąsiadami, ale także zrozumieć złożoność i konsekwencje posiadania magii. Wymiana wiedzy i doświadczeń między elfami a ludźmi otworzyła drzwi do niezbadanych dotąd dziedzin nauki i magii, sugerując, że przyszłość może przynieść jeszcze więcej nieoczekiwanych odkryć i wyzwań.
 ### Pojawienie się Feles i ich wpływ na ekologię
 
-23 stycznia 2024 roku otworzyło nowy rozdział w historii kontaktów międzygatunkowych na Ziemi, kiedy to ludzkość oficjalnie poznała przedstawicieli [[Feles]]. Ta ukrywająca się dotąd rasa, zamieszkująca lasy Ziemi od tysiącleci, postanowiła ujawnić swoją obecność w obliczu nowych wyzwań i zagrożeń. Motywacją do tego kroku była chęć ochrony środowiska naturalnego przed rosnącym wpływem korporacji i zniszczeniem, któremu lasy były coraz bardziej narażone. 
+23 stycznia 2024 roku otworzyło nowy rozdział w historii kontaktów międzygatunkowych na Ziemi, kiedy to ludzkość oficjalnie poznała przedstawicieli [Feles](../../races/Feles.md). Ta ukrywająca się dotąd rasa, zamieszkująca lasy Ziemi od tysiącleci, postanowiła ujawnić swoją obecność w obliczu nowych wyzwań i zagrożeń. Motywacją do tego kroku była chęć ochrony środowiska naturalnego przed rosnącym wpływem korporacji i zniszczeniem, któremu lasy były coraz bardziej narażone. 
 
 > **Feles - rasa pierwotnie ukrywająca się na Ziemi**
 > Ujawnili swoją obecność w odpowiedzi na zagrożenia ekologiczne. Ich magia jest silnie związana z naturą i Ziemią.
 
-Odkrycie talentu magicznego wśród [[Feles]] stanowiło dla nich okazję do aktywniejszego zaangażowania się w obronę tych cennych ekosystemów. Współpraca z [[Elf|elfami]] umożliwiła [[Feles]] uczestnictwo w edukacji magicznej w Szkołach Magii. W zamian za dostęp do tej wiedzy, [[Feles]] zaoferowali ludzkości swoją unikalną magię zwaną Botaniką, otwierając nowe możliwości w zakresie magii i ochrony środowiska.
+Odkrycie talentu magicznego wśród [Feles](../../races/Feles.md) stanowiło dla nich okazję do aktywniejszego zaangażowania się w obronę tych cennych ekosystemów. Współpraca z [elfami](../../races/Elf.md) umożliwiła [Feles](../../races/Feles.md) uczestnictwo w edukacji magicznej w Szkołach Magii. W zamian za dostęp do tej wiedzy, [Feles](../../races/Feles.md) zaoferowali ludzkości swoją unikalną magię zwaną Botaniką, otwierając nowe możliwości w zakresie magii i ochrony środowiska.
 ### Pojawienie się krasnoludów i ich wpływ na technologię
 
-Niedługo po [[Elf|elfach]], na Ziemię przybyły także [[Krasnolud|krasnoludy]], które oficjalnie zaprezentowały się ludzkości 17 lutego 2024 roku. Przybycie tej rasy wprowadziło na Ziemię Rzemiosło Artefaktów, znacznie wzbogacając ludzką wiedzę o nowe technologie i metody pracy z magią. Dzięki krasnoludom, Szkoły Magii zyskały dostęp do zaawansowanych narzędzi i technologii, wspomagających proces edukacyjny. Jednakże, krasnoludy utrzymywały swoje wynalazki i techniki w ścisłej tajemnicy, niechętnie dzieląc się nimi z ludźmi i innymi rasami. Ich opór przed udostępnieniem tajników Magii Runicznej spowodował konflikt z elfami, który z kolei doprowadził do ograniczeń w dostępie krasnoludów do studiowania niektórych dziedzin magii w Szkołach Magii na Ziemi.
+Niedługo po [elfach](../../races/Elf.md), na Ziemię przybyły także [krasnoludy](../../races/Krasnolud.md), które oficjalnie zaprezentowały się ludzkości 17 lutego 2024 roku. Przybycie tej rasy wprowadziło na Ziemię Rzemiosło Artefaktów, znacznie wzbogacając ludzką wiedzę o nowe technologie i metody pracy z magią. Dzięki krasnoludom, Szkoły Magii zyskały dostęp do zaawansowanych narzędzi i technologii, wspomagających proces edukacyjny. Jednakże, krasnoludy utrzymywały swoje wynalazki i techniki w ścisłej tajemnicy, niechętnie dzieląc się nimi z ludźmi i innymi rasami. Ich opór przed udostępnieniem tajników Magii Runicznej spowodował konflikt z elfami, który z kolei doprowadził do ograniczeń w dostępie krasnoludów do studiowania niektórych dziedzin magii w Szkołach Magii na Ziemi.
 
 ## Relacje międzyrasowe na Ziemi
 

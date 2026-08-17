@@ -20,10 +20,10 @@ Magiczna edukacja to zorganizowany system nauczania magii, oparty na sieci akade
 Magiczna edukacja wyznacza status społeczny, dostęp do zaklęć i rytuałów oraz możliwości rozwoju postaci. Pozwala na wprowadzenie wątków rywalizacji, polityki szkolnej, egzaminów i konfliktów z Inkwizycją.
 
 ## Powiązania
-- [[Szkoły Magii]]
-- [[Inkwizycja]]
-- [[Era Przebudzenia]]
-- [[Dyscypliny Magii]]
+- [Szkoły Magii](Szkoły%20Magii.md)
+- [Inkwizycja](../../organizations/Inkwizycja.md)
+- [Era Przebudzenia](../Era%20Przebudzenia.md)
+- [Dyscypliny Magii](Dyscypliny%20Magii.md)
 
 > [!gm]+ Tylko dla MG
 > Wprowadzenie systemu certyfikacji i licencji pozwala na budowanie wątków śledztw, konfliktów z prawem magicznym oraz tajnych stowarzyszeń. Każda szkoła może mieć własne sekrety, frakcje i nieoficjalne ścieżki rozwoju.

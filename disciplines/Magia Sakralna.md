@@ -26,7 +26,7 @@ Praktycy magii sakralnej wierzą, że moc pochodzi od bóstw i wymaga oddania or
 Magia Sakralna jest legalna, ale podlega ścisłej kontroli organizacji religijnych i Inkwizycji. Nadużycia (np. fałszywe błogosławieństwa) są surowo karane.
 
 ## Mechanika
-Kapłan może rzucać zaklęcia sakralne, odprawiać egzorcyzmy, leczyć i chronić przed złymi mocami. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
+Kapłan może rzucać zaklęcia sakralne, odprawiać egzorcyzmy, leczyć i chronić przed złymi mocami. Szczegóły: patrz [Księga Magii](../rules/01.%20Księga%20Magii.md).
 
 > [!gm]+ Tylko dla MG
 > Magia Sakralna pozwala na wprowadzanie do gry motywów religijnych, cudów i konfliktów duchowych. Egzorcyzmy i błogosławieństwa mogą być kluczowe dla fabuły, a nadużycia prowadzą do konfliktów z Inkwizycją.

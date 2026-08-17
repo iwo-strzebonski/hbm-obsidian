@@ -9,12 +9,12 @@ aliases:
 ---
 
 ## Rok Szkolny 2026-2027
-[[notes|Notatki]]
-[[lore-tracking|Lore Tracking]]
+[Notatki](Klasa%20Pd%20rok%202025-2026/Rok%20Szkolny%202026-2027/notes.md)
+[Lore Tracking](Klasa%20Pd%20rok%202025-2026/Rok%20Szkolny%202026-2027/lore-tracking.md)
 
-[[2026-01-20-przyzwanie-nil-finale|Finał - Przyzwanie Nil]]
+[Finał - Przyzwanie Nil](Klasa%20Pd%20rok%202025-2026/Rok%20Szkolny%202026-2027/2026-01-20-przyzwanie-nil-finale.md)
 
 ---
 
 ## Rok Szkolny 2027-2028
-### [[classes/Klasa Pd rok 2025-2026/Rok Szkolny 2027-2028/Plan Zajęć|Plan Zajęć]]
+### [Plan Zajęć](Klasa%20Pd%20rok%202025-2026/Rok%20Szkolny%202027-2028/Plan%20Zajęć.md)

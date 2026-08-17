@@ -23,15 +23,15 @@ Nekromanci wierzą, że śmierć jest naturalną częścią cyklu istnienia, a z
 - Klątwy śmierci
 
 ## Znani praktycy
-- [[Robert Zaryn]] (pierwotny „Bóg Krwi”, mistrz nekromancji i magii krwi)
-- [[Leopold von Karma]] (nauczyciel w [[Wschodnioeuropejska Szkoła Magii|WeSM]], wieloletni rywal [[Hept-skhes|Hept-Skhesa]])
-- [[Tena Lindemann]] (starsza inkwizytor [[Inkwizycja|Świętej Inkwizycji]], sama będąca liszem)
+- [Robert Zaryn](../npcs/Magowie%20Krwi/Robert%20Zaryn.md) (pierwotny „Bóg Krwi”, mistrz nekromancji i magii krwi)
+- [Leopold von Karma](../npcs/Nauczyciele/Leopold%20von%20Karma.md) (nauczyciel w [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), wieloletni rywal [Hept-Skhesa](../concepts/Bogowie/Hept-skhes.md))
+- [Tena Lindemann](../npcs/Inkwizycja/Tena%20Lindemann.md) (starsza inkwizytor [Świętej Inkwizycji](../organizations/Inkwizycja.md), sama będąca liszem)
 
 ## Status prawny (Inkwizycja)
 Nekromancja jest ściśle regulowana. Legalna wyłącznie dla licencjonowanych magów i pod nadzorem Inkwizycji. Praktyki zakazane: tworzenie nieumarłych bez zgody, nekromancja bojowa, eksperymenty na żywych.
 
 ## Mechanika
-Nekromancja pozwala na przywoływanie i kontrolę nieumarłych, rzucanie klątw, komunikację z duchami oraz manipulację energią śmierci. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
+Nekromancja pozwala na przywoływanie i kontrolę nieumarłych, rzucanie klątw, komunikację z duchami oraz manipulację energią śmierci. Szczegóły: patrz [Księga Magii](../rules/01.%20Księga%20Magii.md).
 
 > [!gm]+ Tylko dla MG
 > Nekromancja jest źródłem wielu konfliktów fabularnych: od zakazanych eksperymentów, przez walkę z plagą nieumarłych, po polityczne intrygi wokół nieśmiertelności. Robert Zaryn i jego spuścizna są kluczowym elementem tej dyscypliny.

@@ -4,14 +4,14 @@ tags:
   - "#otchłań"
   - "#kult-otchłani"
 ---
-| **Zdjęcie**         | ![[../../_assets/npc/mundus/mundus.jpg\|200]]         |
+| **Zdjęcie**         | <img src="../../_assets/npc/mundus/mundus.jpg" width="200" alt="mundus.jpg">         |
 | ------------------- | ----------------------------------------------------- |
 | **Imię (imiona)**   | *Mundus*                                              |
 | **Rasa**            | *n/d*                                                 |
 | **Wiek**            | *n/d*                                                 |
 | **Wzrost**          | **                                                    |
-| **Dziedzina Magii** | *[[Poddziedzina - Pierwotna Magia\|Pierwotna Magia]]* |
-| **Organizacje**     | *[[Kult Otchłani]]*                                   |
+| **Dziedzina Magii** | *[Pierwotna Magia](../../disciplines/Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)* |
+| **Organizacje**     | *[Kult Otchłani](../../organizations/Kult%20Otchłani.md)*                                   |
 | **Pseudonim(y)**    | **                                                    |
 | **Tytuł(y)**        | *<ul><li>Istnienie</li><li>Teraźniejszość</li></ul>*  |
 | **Charakter**       | **                                                    |
@@ -26,4 +26,4 @@ Mundus jest odpowiedzialna za egzystencję, ewolucję, ale również za mutacje 
 
 Jej pierwszy Herold włada życiem, zaś drugi - mutacjami.
 
-Mundus jest pierwszą z Personifikacji, która wyłoniła się z pierwotnej, niepodzielonej [[Abyss|Otchłani]] - jeszcze zanim istniał jakikolwiek wszechświat. To właśnie jej narodziny sprawiły, że istnienie w ogóle stało się możliwe.
+Mundus jest pierwszą z Personifikacji, która wyłoniła się z pierwotnej, niepodzielonej [Otchłani](Abyss.md) - jeszcze zanim istniał jakikolwiek wszechświat. To właśnie jej narodziny sprawiły, że istnienie w ogóle stało się możliwe.

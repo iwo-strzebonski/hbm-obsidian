@@ -5,11 +5,11 @@ aliases: [Nil]
 
 # Nil
 
-Zobacz także: [[npcs/Kult Otchłani/Nil]] (opis jako postać).
+Zobacz także: [Nil](../../npcs/Kult%20Otchłani/Nil.md) (opis jako postać).
 
-Patrz także [[Personifikacje Otchłani]].
+Patrz także [Personifikacje Otchłani](Personifikacje%20Otchłani.md).
 
 ## Powiązania
-- [[npcs/Kult Otchłani/Nil]]
-- [[Personifikacje Otchłani]]
-- [[Otchłań]]
+- [Nil](../../npcs/Kult%20Otchłani/Nil.md)
+- [Personifikacje Otchłani](Personifikacje%20Otchłani.md)
+- [Otchłań](Otchłań.md)

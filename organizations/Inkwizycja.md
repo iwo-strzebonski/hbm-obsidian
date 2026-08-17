@@ -4,7 +4,7 @@ tags:
   - inkwizycja
 ---
 
-| **Zdjęcie**                   | ![[inkwizycja.jpg|200]] |
+| **Zdjęcie**                   | <img src="inkwizycja.jpg" width="200" alt="inkwizycja.jpg"> |
 |-------------------------------|----|
 | **Nazwa oficjalna**           | Inkwizycja Federacji Sol-3 |
 | **Nazwa potoczna**            | Inkwizycja |
@@ -15,7 +15,7 @@ tags:
 | **Szacowana liczba członków** | 200-400 (szacunki niejawne) |
 | **Przywódca(cy)**             | Kardynał Ernest Simoni (Wielki Inkwizytor) |
 | **Data upadku**               | - |
-| **Ważniejsi członkowie**      | Papież Leon XIV, Kardynał Ernest Simoni, starsza inkwizytor [[Tena Lindemann]], inkwizytorzy polowi, analitycy, magowie śledczy |
+| **Ważniejsi członkowie**      | Papież Leon XIV, Kardynał Ernest Simoni, starsza inkwizytor [Tena Lindemann](../npcs/Inkwizycja/Tena%20Lindemann.md), inkwizytorzy polowi, analitycy, magowie śledczy |
 | **Powiązane organizacje**     | Siły Specjalne X, Federacja Sol-3, lokalne akademie magii |
 
 ## Opis organizacji

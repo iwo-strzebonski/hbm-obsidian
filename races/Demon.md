@@ -41,7 +41,7 @@ Demony są naturalnie powiązane z Otchłanią, posiadają wrodzone zdolności m
 Poziom mocy może być wyższy w przypadku potomków wyżej postawionych demonów.
 
 ## Znani przedstawiciele
-- [[Narcyza Eleness Zurbach]] (arcysukkub, księżniczka Piekieł, demon poziomu Ósmego, córka Króla Demonów)
+- [Narcyza Eleness Zurbach](../npcs/Narcyza%20Eleness%20Zurbach.md) (arcysukkub, księżniczka Piekieł, demon poziomu Ósmego, córka Króla Demonów)
 
 ## Hooki dla MG
 > [!gm]+ Tylko dla MG

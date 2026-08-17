@@ -14,5 +14,5 @@ tags:
 | **Status**                    | *Aktywna*                                               |
 | **Szacowana liczba członków** | *200-300*                                               |
 | **Przywódca(cy)**             | **                                                      |
-| **Ważniejsi członkowie**      | *[[Joe Cox]]*                                           |
-| **Powiązane organizacje**     | *[[Federacja Sol-3]]*                                   |
+| **Ważniejsi członkowie**      | *[Joe Cox](../../npcs/Federacja%20Sol-3/Joe%20Cox.md)*                                           |
+| **Powiązane organizacje**     | *[Federacja Sol-3](../Federacja%20Sol-3.md)*                                   |

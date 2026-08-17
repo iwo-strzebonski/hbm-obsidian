@@ -5,11 +5,11 @@ aliases: [Abyss, Pierwotna Otchłań]
 
 # Abyss
 
-Zobacz także: [[npcs/Kult Otchłani/Abyss]] (pełny opis Pierwotnego Rozpadu i geneza Nil, Mundus i Tempus).
+Zobacz także: [Abyss](../../npcs/Kult%20Otchłani/Abyss.md) (pełny opis Pierwotnego Rozpadu i geneza Nil, Mundus i Tempus).
 
-Patrz także [[Personifikacje Otchłani]].
+Patrz także [Personifikacje Otchłani](Personifikacje%20Otchłani.md).
 
 ## Powiązania
-- [[npcs/Kult Otchłani/Abyss]]
-- [[Personifikacje Otchłani]]
-- [[Otchłań]]
+- [Abyss](../../npcs/Kult%20Otchłani/Abyss.md)
+- [Personifikacje Otchłani](Personifikacje%20Otchłani.md)
+- [Otchłań](Otchłań.md)

@@ -8,16 +8,16 @@ aliases:
   - Arkthar
   - Książę Arkthar
 ---
-| **Zdjęcie**             | ![[../../_assets/npc/arkthar/arkthar.png\|200]]                                    |
+| **Zdjęcie**             | <img src="../../_assets/npc/arkthar/arkthar.png" width="200" alt="arkthar.png">                                    |
 | ----------------------- | ------------------------------------------------- |
 | **Imię (imiona)**       | *Arkthar*                                         |
 | **Nazwisko (nazwiska)** | *Dom Tyrris*                                      |
-| **Rasa**                | *[[Malferianin]]*                                 |
+| **Rasa**                | *[Malferianin](../../races/Malferianin.md)*                                 |
 | **Wiek**                | *nieznany (wygląda na ~40 lat)*                   |
 | **Wzrost**              | *195 cm*                                          |
 | **Waga**                | *105 kg*                                          |
-| **Magia**               | *[[Taumaturgia]] / walka*                         |
-| **Afiliacja**           | *[[Konsorcjum Gwiezdne Malferian]] - Dom Tyrris* |
+| **Magia**               | *[Taumaturgia](../../disciplines/Taumaturgia.md) / walka*                         |
+| **Afiliacja**           | *[Konsorcjum Gwiezdne Malferian](../../organizations/Konsorcjum%20Gwiezdne%20Malferian.md) - Dom Tyrris* |
 | **Status**              | *Żyje*                                            |
 
 ## Opis

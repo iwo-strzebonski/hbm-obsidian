@@ -9,16 +9,16 @@ aliases:
   - Zayis
   - Księżniczka Zayis
 ---
-| **Zdjęcie**             | ![[../../_assets/npc/zayis/zayis.png\|200]]                                    |
+| **Zdjęcie**             | <img src="../../_assets/npc/zayis/zayis.png" width="200" alt="zayis.png">                                    |
 | ----------------------- | ------------------------------------------------- |
 | **Imię (imiona)**       | *Zayis*                                           |
 | **Nazwisko (nazwiska)** | *Dom Veyran*                                      |
-| **Rasa**                | *[[Malferianin]]*                                 |
+| **Rasa**                | *[Malferianin](../../races/Malferianin.md)*                                 |
 | **Wiek**                | *nieznany (wygląda na ~30 lat)*                   |
 | **Wzrost**              | *178 cm*                                          |
 | **Waga**                | *62 kg*                                           |
-| **Magia**               | *[[Taumaturgia]] / wywiad*                        |
-| **Afiliacja**           | *[[Konsorcjum Gwiezdne Malferian]] - Dom Veyran* |
+| **Magia**               | *[Taumaturgia](../../disciplines/Taumaturgia.md) / wywiad*                        |
+| **Afiliacja**           | *[Konsorcjum Gwiezdne Malferian](../../organizations/Konsorcjum%20Gwiezdne%20Malferian.md) - Dom Veyran* |
 | **Status**              | *Żyje (więziona przez Federację Sol-3)*                                            |
 
 ## Opis
@@ -27,7 +27,7 @@ Księżniczka Zayis z Domu Veyran była twarzą dyplomatyczną Konsorcjum Gwiezd
 
 Zayis przez długi czas poruszała się swobodnie wśród elity politycznej Ziemi, budując siatki wywiadowcze rozciągające się przez kilkanaście państw. Została jednak ostatecznie schwytana. Obecnie jest przetrzymywana jako jeniec na pancerniku międzygwiezdnym Federacji Sol-3 **"Integralność"** stacjonującym na orbicie okołoziemskiej. Jej głównym "oficerem przesłuchującym" jest porucznik sił specjalnych Federacji, **Joe Cox**.
 
-Jej Dom, Veyran, jest w rywalizacji z Domem Tyrris (reprezentowanym przez [[Prince Arkthar|Księcia Arkthar]]). Ta rywalizacja czasem przekłada się na konflikt priorytetów: Zayis woli dyplomację i infiltrację tam, gdzie Arkthar sięga po siłę.
+Jej Dom, Veyran, jest w rywalizacji z Domem Tyrris (reprezentowanym przez [Księcia Arkthar](Prince%20Arkthar.md)). Ta rywalizacja czasem przekłada się na konflikt priorytetów: Zayis woli dyplomację i infiltrację tam, gdzie Arkthar sięga po siłę.
 
 ## Motywacje
 

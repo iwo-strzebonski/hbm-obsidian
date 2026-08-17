@@ -22,14 +22,14 @@ Posłańcy Otchłani są pośrednikami między wolą swojej Personifikacji a św
 ## Znani Posłańcy
 
 **Nil (Przeszłość i Przyszłość):**
-- **Posłaniec Przeszłości:** [[Diana Koniecpolska]]
+- **Posłaniec Przeszłości:** [Diana Koniecpolska](../../npcs/Uczniowie/Diana%20Koniecpolska.md)
 	- Tytuł: Harbringer of Arcane Knowledge
 	- Rasa: Człowiek
 	- Magia: Rzemiosło Artefaktów → Pradawna
 	- Broń: Rapier
 	- Forma Otchłani: Eldritch Slime
 	- Wygląd: młoda kobieta o przenikliwym spojrzeniu, często ubrana w praktyczne stroje wynalazczyni; w formie Otchłani jej ciało przybiera amorficzną, lepką postać.
-	- Diana stała się Posłańcem dopiero po nieudanej próbie pełnej manifestacji Nil na Ziemi, gdy Nil - opętawszy jej ciało i zostawszy przerwana przez [[Robert Zaryn|Roberta Zaryna]] i Pierwszego Patriarchę - rozerwała się na dwie części: jedna stała się osobnym, emocjonalnym bytem (dziecko/kostka śluzu), druga (przemieniona Diana) stała się właśnie tym Posłańcem. Pełna historia: [[Diana Koniecpolska]].
+	- Diana stała się Posłańcem dopiero po nieudanej próbie pełnej manifestacji Nil na Ziemi, gdy Nil - opętawszy jej ciało i zostawszy przerwana przez [Roberta Zaryna](../../npcs/Magowie%20Krwi/Robert%20Zaryn.md) i Pierwszego Patriarchę - rozerwała się na dwie części: jedna stała się osobnym, emocjonalnym bytem (dziecko/kostka śluzu), druga (przemieniona Diana) stała się właśnie tym Posłańcem. Pełna historia: [Diana Koniecpolska](../../npcs/Uczniowie/Diana%20Koniecpolska.md).
 - **Posłaniec Przyszłości:** (slot otwarty)
 
 **Mundus (Życie i Teraźniejszość):**
@@ -55,9 +55,9 @@ Posłańcy Otchłani są pośrednikami między wolą swojej Personifikacji a św
 Tożsamość pozostałych Posłańców pozostaje otwarta jako hook fabularny.
 
 ## Powiązania
-- [[Personifikacje Otchłani]]
-- [[Otchłań]]
-- [[02. Klątwa Otchłani|Klątwa Otchłani]]
+- [Personifikacje Otchłani](Personifikacje%20Otchłani.md)
+- [Otchłań](Otchłań.md)
+- [Klątwa Otchłani](../../rules/02.%20Klątwa%20Otchłani.md)
 
 > [!gm]+ Tylko dla MG
 > Posłańcy Otchłani są kluczowymi figurami w kampaniach związanych z Otchłanią. Ich wybór, upadek lub odkupienie może być osią fabularną. Każda Personifikacja wybiera Posłańców według własnych, często niepojętych kryteriów.

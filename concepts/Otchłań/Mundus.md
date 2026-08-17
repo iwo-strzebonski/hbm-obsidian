@@ -5,11 +5,11 @@ aliases: [Mundus]
 
 # Mundus
 
-Zobacz także: [[npcs/Kult Otchłani/Mundus]] (opis jako postać).
+Zobacz także: [Mundus](../../npcs/Kult%20Otchłani/Mundus.md) (opis jako postać).
 
-Patrz także [[Personifikacje Otchłani]].
+Patrz także [Personifikacje Otchłani](Personifikacje%20Otchłani.md).
 
 ## Powiązania
-- [[npcs/Kult Otchłani/Mundus]]
-- [[Personifikacje Otchłani]]
-- [[Otchłań]]
+- [Mundus](../../npcs/Kult%20Otchłani/Mundus.md)
+- [Personifikacje Otchłani](Personifikacje%20Otchłani.md)
+- [Otchłań](Otchłań.md)

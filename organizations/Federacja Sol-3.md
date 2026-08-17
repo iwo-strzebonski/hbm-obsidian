@@ -4,43 +4,43 @@ tags:
 aliases:
   - Federacja Zjednoczonych Planet Sol-3
 ---
-| **Zdjęcie**                   | ![[federacja-sol-3.jpg\|200]]                                                                                                                                                                                       |
+| **Zdjęcie**                   | <img src="federacja-sol-3.jpg" width="200" alt="federacja-sol-3.jpg">                                                                                                                                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nazwa oficjalna**           | *Federacja Zjednoczonych Równoległych Planet Sol*                                                                                                                                                                   |
 | **Nazwa potoczna**            | *Federacja Sol-3*                                                                                                                                                                                                   |
-| **Data powstania**            | *W przeliczeniu na rok na [[Ziemia (Sol-3-1725)\|Sol-3-1725]]: ok. 820 r. n.e.*                                                                                                                                     |
+| **Data powstania**            | *W przeliczeniu na rok na [Sol-3-1725](../locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md): ok. 820 r. n.e.*                                                                                                                                     |
 | **Założyciel(e)**             | *Przedstawiciele planet Sol-3-0001, Sol-3-2917 oraz Sol-3-0641*                                                                                                                                                     |
 | **Siedziba**                  | *Sol-3-0001 (super-zaawansowana planeta-miasto, przypominająca Coruscant)*                                                                                                                                                                                                        |
 | **Status**                    | *Aktywna*                                                                                                                                                                                                           |
 | **Szacowana liczba członków** | *Koło 1000 planet członkowskich*                                                                                                                                                                                    |
 | **Przywódca(cy)**             | *Rada Najwyższa Federacji Sol-3*                                                                                                                                                                                    |
-| **Ważniejsi członkowie**      | *<ul><li>[[Syllia Orirel]]</li><li>[[Serioża Żukow\|Siergiej Konstantynowicz Żukow]]</li><li>[[Pelagius Caudex]]</li></ul>*                                                                                         |
-| **Powiązane organizacje**     | *<ul><li>[[Projekt Starlight\|Wojska Specjalne ds. Obrony Planet Członkowskich Federacji Sol-3]]</li><li>[[Siły Specjalne Gaja\|Siły Specjalne "Gaja"]]</li><li>[[Wybrańcy Herosów\|"Wybrańcy Herosów"]]</li></ul>* |
+| **Ważniejsi członkowie**      | *<ul><li>[Syllia Orirel](../npcs/Federacja%20Sol-3/Syllia%20Orirel.md)</li><li>[Siergiej Konstantynowicz Żukow](../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)</li><li>[Pelagius Caudex](../npcs/Nauczyciele/Pelagius%20Caudex.md)</li></ul>*                                                                                         |
+| **Powiązane organizacje**     | *<ul><li>[Wojska Specjalne ds. Obrony Planet Członkowskich Federacji Sol-3](Federacja%20Sol-3/Projekt%20Starlight.md)</li><li>[Siły Specjalne "Gaja"](Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>["Wybrańcy Herosów"](Federacja%20Sol-3/Wybrańcy%20Herosów.md)</li></ul>* |
 Federacja Sol-3 jest unikalną organizacją międzyplanetarną, która zrzesza planety z różnych wszechświatów równoległych. To, co łączy te światy, to fakt, że wszystkie są one odpowiednikami Ziemi, znanej również jako Sol-3 w odniesieniu do jej położenia w Układzie Słonecznym. Federacja ta stanowi forum dla planet o zróżnicowanym poziomie rozwoju technologicznego, ale dzieli wspólny cel: współpracę i wymianę wiedzy oraz technologii w celu wspólnego dobra.
 ## Spis Treści
 
-- [[#Kryteria Członkostwa|Kryteria Członkostwa]]
-- [[#Współpraca Technologiczna|Współpraca Technologiczna]]
-- [[#Znaczenie Członkostwa|Znaczenie Członkostwa]]
-- [[#Komitety i Organizacje|Komitety i Organizacje]]
-	- [[#Komitety i Organizacje#Komitety Federacji|Komitety Federacji]]
-	- [[#Komitety i Organizacje#Rada Najwyższa|Rada Najwyższa]]
-	- [[#Komitety i Organizacje#Walne Zebranie Komitetów|Walne Zebranie Komitetów]]
-	- [[#Komitety i Organizacje#Organizacje Cywilne i Wojskowe|Organizacje Cywilne i Wojskowe]]
-		- [[#Organizacje Cywilne i Wojskowe#Wojsko Federacji|Wojsko Federacji]]
-- [[#Suwerenność i Współpraca z Planetami Członkowskimi|Suwerenność i Współpraca z Planetami Członkowskimi]]
-	- [[#Suwerenność i Współpraca z Planetami Członkowskimi#Suwerenność i Autonomia|Suwerenność i Autonomia]]
-	- [[#Suwerenność i Współpraca z Planetami Członkowskimi#Wsparcie w Sytuacjach Kryzysowych|Wsparcie w Sytuacjach Kryzysowych]]
-	- [[#Suwerenność i Współpraca z Planetami Członkowskimi#Rozwój Technologiczny|Rozwój Technologiczny]]
-	- [[#Suwerenność i Współpraca z Planetami Członkowskimi#Przyjęcie Nowych Członków|Przyjęcie Nowych Członków]]
-- [[#Rola Federacji Sol-3 a Podbój Kosmosu|Rola Federacji Sol-3 a Podbój Kosmosu]]
-	- [[#Rola Federacji Sol-3 w Podbój Kosmosu#Misje Kolonizacyjne|Misje Kolonizacyjne]]
-		- [[#Misje Kolonizacyjne#"Sterany" - Pionierski Statek Kolonizacyjny|"Sterany" - Pionierski Statek Kolonizacyjny]]
-	- [[#Rola Federacji Sol-3 w Podbój Kosmosu#Znaczenie Strategiczne i Ekonomiczne|Znaczenie Strategiczne i Ekonomiczne]]
-- [[#Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3|Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3]]
-	- [[#Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3#Rzadkość Magii w Federacji|Rzadkość Magii w Federacji]]
-	- [[#Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3#Technologiczne Adaptacje Magii|Technologiczne Adaptacje Magii]]
-	- [[#Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3#Ziemia (Sol-3-1725) jako Kluczowy Członek|Ziemia (Sol-3-1725) jako Kluczowy Członek]]
+- [Kryteria Członkostwa](#kryteria-członkostwa)
+- [Współpraca Technologiczna](#współpraca-technologiczna)
+- [Znaczenie Członkostwa](#znaczenie-członkostwa)
+- [Komitety i Organizacje](#komitety-i-organizacje)
+	- [Komitety Federacji](#komitety-federacji)
+	- [Rada Najwyższa](#rada-najwyższa)
+	- [Walne Zebranie Komitetów](#walne-zebranie-komitetów)
+	- [Organizacje Cywilne i Wojskowe](#organizacje-cywilne-i-wojskowe)
+		- [Wojsko i Waluty Federacji](#wojsko-i-waluty-federacji)
+- [Suwerenność i Współpraca z Planetami Członkowskimi](#suwerenność-i-współpraca-z-planetami-członkowskimi)
+	- [Suwerenność i Autonomia](#suwerenność-i-autonomia)
+	- [Wsparcie w Sytuacjach Kryzysowych](#wsparcie-w-sytuacjach-kryzysowych)
+	- [Rozwój Technologiczny](#rozwój-technologiczny)
+	- [Przyjęcie Nowych Członków](#przyjęcie-nowych-członków)
+- [Rola Federacji Sol-3 w Podbój Kosmosu](#rola-federacji-sol-3-w-podbój-kosmosu)
+	- [Misje Kolonizacyjne](#misje-kolonizacyjne)
+		- ["Sterany" - Pionierski Statek Kolonizacyjny](#sterany---pionierski-statek-kolonizacyjny)
+	- [Znaczenie Strategiczne i Ekonomiczne](#znaczenie-strategiczne-i-ekonomiczne)
+- [Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3](#integracja-nadprzyrodzonych-zjawisk-w-federacji-sol-3)
+	- [Rzadkość Magii w Federacji](#rzadkość-magii-w-federacji)
+	- [Technologiczne Adaptacje Magii](#technologiczne-adaptacje-magii)
+	- [Ziemia (Sol-3-1725) jako Kluczowy Członek](#ziemia-sol-3-1725-jako-kluczowy-członek)
 
 ## Kryteria Członkostwa
 
@@ -52,11 +52,11 @@ Jednym z głównych celów Federacji Sol-3 jest zrównoważenie dystansu technol
 
 ## Znaczenie Członkostwa
 
-Każda planeta członkowska wnosi do Federacji Sol-3 coś wyjątkowego, niezależnie od jej strategicznego położenia, dostępnych surowców, czy specyficznych warunków środowiskowych. Jednak największą wartością dla Federacji są jej mieszkańcy – [[Człowiek|Terranie]], czyli ludzie. Różnorodność kulturowa, społeczna i intelektualna mieszkańców różnych wersji [[Ziemia (Sol-3-1725)|Ziemi]] jest bezcennym zasobem, który wzbogaca całą Federację i sprzyja rozwojowi międzyplanetarnej współpracy i zrozumienia.
+Każda planeta członkowska wnosi do Federacji Sol-3 coś wyjątkowego, niezależnie od jej strategicznego położenia, dostępnych surowców, czy specyficznych warunków środowiskowych. Jednak największą wartością dla Federacji są jej mieszkańcy – [Terranie](../races/Człowiek.md), czyli ludzie. Różnorodność kulturowa, społeczna i intelektualna mieszkańców różnych wersji [Ziemi](../locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md) jest bezcennym zasobem, który wzbogaca całą Federację i sprzyja rozwojowi międzyplanetarnej współpracy i zrozumienia.
 
 ## Komitety i Organizacje
 
-Federacja Sol-3 charakteryzuje się złożoną i funkcjonalną strukturą organizacyjną, która umożliwia efektywne zarządzanie i reagowanie na różnorodne wyzwania. Serce tej struktury stanowią komitety, [[#Rada Najwyższa|Rada Najwyższa]] oraz szereg [[#Organizacje Cywilne i Wojskowe|organizacji cywilnych i wojskowych]], które współpracują w celu zapewnienia bezpieczeństwa, ochrony dziedzictwa oraz zdrowia obywateli Federacji.
+Federacja Sol-3 charakteryzuje się złożoną i funkcjonalną strukturą organizacyjną, która umożliwia efektywne zarządzanie i reagowanie na różnorodne wyzwania. Serce tej struktury stanowią komitety, [Rada Najwyższa](#rada-najwyższa) oraz szereg [organizacji cywilnych i wojskowych](#organizacje-cywilne-i-wojskowe), które współpracują w celu zapewnienia bezpieczeństwa, ochrony dziedzictwa oraz zdrowia obywateli Federacji.
 
 ### Komitety Federacji
 
@@ -69,12 +69,12 @@ Często wspominaną przez agentów organizacją jest **Biuro ds. Identyfikacji C
 Rada Najwyższa pełni rolę nadzorczą w strukturze Federacji, mając możliwość uchylania uchwał komitetów. Restrukturyzacja ograniczyła bezpośrednie obowiązki Rady, co pozwoliło na lepsze skupienie się na sprawach strategicznych. Kadencja Rady trwa siedem lat, co zapewnia stabilność i ciągłość polityki Federacji.
 ### Walne Zebranie Komitetów
 
-W przypadkach szczególnych, takich jak wybór nowej [[#Rada Najwyższa|Rady Najwyższej]] czy odwołanie obecnej, zwoływane jest Walne Zebranie [[#Komitety Federacji|Komitetów]]. To ciało pełni rolę arbitra w sporach między komitetami a [[#Rada Najwyższa|Radą Najwyższą]] oraz decyduje o kierunkach dalszego rozwoju Federacji.
+W przypadkach szczególnych, takich jak wybór nowej [Rady Najwyższej](#rada-najwyższa) czy odwołanie obecnej, zwoływane jest Walne Zebranie [Komitetów](#komitety-federacji). To ciało pełni rolę arbitra w sporach między komitetami a [Radą Najwyższą](#rada-najwyższa) oraz decyduje o kierunkach dalszego rozwoju Federacji.
 ### Organizacje Cywilne i Wojskowe
 
-Federacja Sol-3 posiada zarówno organizacje cywilne, jak i specjalistyczne formacje wojskowe, które mogą być tworzone zarówno przez komitety, jak i przez Radę Najwyższą z zatwierdzeniem Walnego Zebrania. Przykłady takich organizacji to [[Projekt Starlight|Projekt Starlight (Wojska Specjalne ds. Obrony)]] czy [[Siły Specjalne Gaja|Siły Specjalne "Gaja"]].
+Federacja Sol-3 posiada zarówno organizacje cywilne, jak i specjalistyczne formacje wojskowe, które mogą być tworzone zarówno przez komitety, jak i przez Radę Najwyższą z zatwierdzeniem Walnego Zebrania. Przykłady takich organizacji to [Projekt Starlight (Wojska Specjalne ds. Obrony)](Federacja%20Sol-3/Projekt%20Starlight.md) czy [Siły Specjalne "Gaja"](Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md).
 
-Główna baza Projektu Starlight na Ziemi-1725 znajduje się pod gigantyczną metalową piramidą w Wadi Halfa (Sudan), wyposażoną w superbroń mogącą ostrzeliwać wrogie statki obcych na orbicie, a nawet uderzać w inne planety. Bezpieczeństwa bazy chronią patrole, niezwykle zaawansowany kamuflaż cyfrowo-magiczny i rozkazy typu „strzelać by zabić”. Podstawowy garnizon wynosi: dwie dywizje zmotoryzowane, dwa skrzydła lotnicze, pluton logistyczny oraz kompania piechoty. Na czele Projektu stoi pułkownik [[Serioża Żukow|Siergiej Żukow]].
+Główna baza Projektu Starlight na Ziemi-1725 znajduje się pod gigantyczną metalową piramidą w Wadi Halfa (Sudan), wyposażoną w superbroń mogącą ostrzeliwać wrogie statki obcych na orbicie, a nawet uderzać w inne planety. Bezpieczeństwa bazy chronią patrole, niezwykle zaawansowany kamuflaż cyfrowo-magiczny i rozkazy typu „strzelać by zabić”. Podstawowy garnizon wynosi: dwie dywizje zmotoryzowane, dwa skrzydła lotnicze, pluton logistyczny oraz kompania piechoty. Na czele Projektu stoi pułkownik [Siergiej Żukow](../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md).
 
 #### Wojsko i Waluty Federacji
 
@@ -106,31 +106,33 @@ Federacja Sol-3, choć głównie skoncentrowana na obronie i wsparciu swoich cz�
 Planety członkowskie Federacji, czasami przy wsparciu sił Federacji, podejmują się misji kolonizacyjnych. Te działania są kluczowe dla zabezpieczenia strategicznych obszarów w kosmosie, rozwoju ekonomicznego, oraz dla zabezpieczenia dostępu do ważnych surowców. Kolonizacja nowych planet umożliwia również rozwój naukowy, poprzez badania nowych ekosystemów i technologii.
 #### "Sterany" - Pionierski Statek Kolonizacyjny
 
-Przykładem zaangażowania Federacji w ekspansję kosmiczną jest misja statku kolonizacyjnego "Sterany", będącego jednym z najbardziej zaawansowanych technologicznie statków Federacji. Jego cel, [[Xivell (planeta)|planeta Xivell]], został wybrany ze względu na jej strategiczne znaczenie. Kolonizacja [[Xivell (planeta)|Xivell]] stanowi ważny krok w zabezpieczeniu przyszłości Federacji, otwierając nowe możliwości rozwojowe i strategiczne.
+Przykładem zaangażowania Federacji w ekspansję kosmiczną jest misja statku kolonizacyjnego "Sterany", będącego jednym z najbardziej zaawansowanych technologicznie statków Federacji. Jego cel, [planeta Xivell](../locations/Xivell/Xivell%20%28planeta%29.md), został wybrany ze względu na jej strategiczne znaczenie. Kolonizacja [Xivell](../locations/Xivell/Xivell%20%28planeta%29.md) stanowi ważny krok w zabezpieczeniu przyszłości Federacji, otwierając nowe możliwości rozwojowe i strategiczne.
 ### Znaczenie Strategiczne i Ekonomiczne
 
-Kolonizacja nowych planet, jak [[Xivell (planeta)|Xivell]], jest kluczowa z wielu powodów. Po pierwsze, zapewnia Federacji strategiczne punkty oparcia w kosmosie, co może być decydujące w obronie przed potencjalnymi zagrożeniami. Po drugie, dostęp do nowych surowców pozwala na dalszy rozwój technologiczny i ekonomiczny planet członkowskich. Wreszcie, nowe kolonie mogą służyć jako centra handlowe, naukowe i kulturowe, wzmacniając pozycję Federacji w galaktyce.
+Kolonizacja nowych planet, jak [Xivell](../locations/Xivell/Xivell%20%28planeta%29.md), jest kluczowa z wielu powodów. Po pierwsze, zapewnia Federacji strategiczne punkty oparcia w kosmosie, co może być decydujące w obronie przed potencjalnymi zagrożeniami. Po drugie, dostęp do nowych surowców pozwala na dalszy rozwój technologiczny i ekonomiczny planet członkowskich. Wreszcie, nowe kolonie mogą służyć jako centra handlowe, naukowe i kulturowe, wzmacniając pozycję Federacji w galaktyce.
 
 ## Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3
 
 Federacja Sol-3, pomimo dominującej roli technologii, nie ignoruje zjawisk i mocy paranormalnych, w tym magii, które pojawiają się na niektórych planetach członkowskich. Integracja magii z technologią stanowi wyjątkowy aspekt Federacji, podkreślający jej elastyczność i innowacyjność w podejściu do różnorodności występującej w jej składzie.
 ### Rzadkość Magii w Federacji
 
-Choć Federacja zrzesza około tysiąca planet, tylko niewielki odsetek z nich posiada rozwinięte badania nad magią, a magia jako takie zjawisko pojawia się na niewiele większej liczbie światów. To sprawia, że planety, na których magia jest obecna, takie jak [[Ziemia (Sol-3-1725)]], zyskują szczególną pozycję wewnątrz Federacji i mogą wnosić unikalne wkłady do jej wspólnego dziedzictwa i zasobu wiedzy.
+Choć Federacja zrzesza około tysiąca planet, tylko niewielki odsetek z nich posiada rozwinięte badania nad magią, a magia jako takie zjawisko pojawia się na niewiele większej liczbie światów. To sprawia, że planety, na których magia jest obecna, takie jak [Ziemia (Sol-3-1725)](../locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md), zyskują szczególną pozycję wewnątrz Federacji i mogą wnosić unikalne wkłady do jej wspólnego dziedzictwa i zasobu wiedzy.
 ### Technologiczne Adaptacje Magii
 
 Fakt, że większość planet Federacji nie posiada dostępu do magii, nie stanowił przeszkody dla federacyjnych naukowców, którzy opracowali technologie umożliwiające korzystanie z magii nawet na planetach, gdzie nie występuje ona naturalnie. Taka innowacja jest dowodem na zdolności adaptacyjne Federacji i jej gotowość do włączania różnorodnych systemów wiedzy i mocy do ogólnego korpusu technologicznego.
-Wyjątkowy charakter [[Ziemia (Sol-3-1725)|Ziemi (Sol-3-1725)]], gdzie magia jest silnie obecna i rozwijana, sprawił, że planeta ta szybko została objęta patronatem Federacji. To podkreśla wartość, jaką Federacja przywiązuje do różnorodności, zwłaszcza gdy wiele innych "Ziem" całkowicie się od siebie różni:
+### Ziemia (Sol-3-1725) jako Kluczowy Członek
+
+Wyjątkowy charakter [Ziemi (Sol-3-1725)](../locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md), gdzie magia jest silnie obecna i rozwijana, sprawił, że planeta ta szybko została objęta patronatem Federacji. To podkreśla wartość, jaką Federacja przywiązuje do różnorodności, zwłaszcza gdy wiele innych "Ziem" całkowicie się od siebie różni:
 - **Sol-3-0641:** Dystopia teokratyczna, gdzie rządzące Kolegium wykreowało sztucznego "Boga", a heretycy są paleni żywcem.
 - **Sol-3-2917:** Świat cyberpunkowy odcięty od magii potężną barierą. Z tego powodu uważa się, że to doskonałe miejsce dla baz operacyjnych, i popularne fast foody ("Gruby Kurczak Sandwich Bar").
-- **Sol-3-1012:** Ziemia, na której ZSRR nigdy nie upadło, rządzona przez Antonova Andrei Dmitrievicha, z której zresztą pochodzi dowódca Projektu Starlight - [[Serioża Żukow|Siergiej Konstantynowicz Żukow]].
+- **Sol-3-1012:** Ziemia, na której ZSRR nigdy nie upadło, rządzona przez Antonova Andrei Dmitrievicha, z której zresztą pochodzi dowódca Projektu Starlight - [Siergiej Konstantynowicz Żukow](../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md).
 
-[[Ziemia (Sol-3-1725)|Ziemia]] wnosi do Federacji unikalne perspektywy i możliwości. Dodatkowo Rada Najwyższa od lat interesuje się jej aktywnością magiczną, [[Kult Otchłani|choć oficjalnych przyczyn nigdy nie podała]].
+[Ziemia](../locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md) wnosi do Federacji unikalne perspektywy i możliwości. Dodatkowo Rada Najwyższa od lat interesuje się jej aktywnością magiczną, [choć oficjalnych przyczyn nigdy nie podała](Kult%20Otchłani.md).
 
 > [!gm]+ Tylko dla MG - Prawda o Wojnie Malferiańskiej i Xivell
 >
-> **Kto naprawdę zaczął wojnę:** Oficjalna narracja głosi, że [[Konsorcjum Gwiezdne Malferian]] zaatakowało jako pierwsze w 2022 roku (EP −1). To nieprawda. Federacja Sol-3 uderzyła pierwsza - motywem było niedopuszczenie do spowolnienia ekspansji Sol-3 przez jakiekolwiek zewnętrzne mocarstwo. Prawda jest znana szczytom przywództwa Federacji i domom Malferian, oraz wyciekła do kręgów spiskowych jako plotka bez dowodów.
+> **Kto naprawdę zaczął wojnę:** Oficjalna narracja głosi, że [Konsorcjum Gwiezdne Malferian](Konsorcjum%20Gwiezdne%20Malferian.md) zaatakowało jako pierwsze w 2022 roku (EP −1). To nieprawda. Federacja Sol-3 uderzyła pierwsza - motywem było niedopuszczenie do spowolnienia ekspansji Sol-3 przez jakiekolwiek zewnętrzne mocarstwo. Prawda jest znana szczytom przywództwa Federacji i domom Malferian, oraz wyciekła do kręgów spiskowych jako plotka bez dowodów.
 >
 > **Prawdziwy cel kolonizacji Xivell:** Oficjalnie: wartości strategiczne i surowcowe. W rzeczywistości: wywiad Federacji odkrył ślady starożytnej wiedzy magicznej zakopane na Xivell (pozostałości po cywilizacji sprzed Upadku). Poza tym pozycja Xivell ma znaczenie strategiczne w galaktyce. Plaga pasożyta Xivell jest traktowana jako „akceptowalny koszt operacyjny".
 >
-> **Szaarael / Wiceprezydent USA:** Wiceprezydent Stanów Zjednoczonych na Ziemi (Sol-3-1725) to [[Szaarael]] - sukkubica będąca [[Posłańcy|Posłańcem Życia]] Mundus. Jej obecność w strukturach władzy ma na celu rozszerzenie wpływów Mundus na ludzkie społeczeństwo poprzez kontrolę nad emocjami, pożądaniem i więzami społecznymi. Rada Najwyższa Federacji jest tego nieświadoma.
+> **Szaarael / Wiceprezydent USA:** Wiceprezydent Stanów Zjednoczonych na Ziemi (Sol-3-1725) to [Szaarael](../npcs/Kult%20Otchłani/Szaarael.md) - sukkubica będąca [Posłańcem Życia](../concepts/Otchłań/Posłańcy.md) Mundus. Jej obecność w strukturach władzy ma na celu rozszerzenie wpływów Mundus na ludzkie społeczeństwo poprzez kontrolę nad emocjami, pożądaniem i więzami społecznymi. Rada Najwyższa Federacji jest tego nieświadoma.

@@ -5,12 +5,12 @@ tags:
   - taumaturgia
   - magia-akademicka
 ---
-- [[#Definicja|Definicja]]
-- [[#Historia szkoły|Historia szkoły]]
-- [[#Filozofia i założenia|Filozofia i założenia]]
-- [[#Poddyscypliny|Poddyscypliny]]
-- [[#Status prawny (Inkwizycja)|Status prawny (Inkwizycja)]]
-- [[#Mechanika|Mechanika]]
+- [Definicja](#definicja)
+- [Historia szkoły](#historia-szkoły)
+- [Filozofia i założenia](#filozofia-i-założenia)
+- [Poddyscypliny](#poddyscypliny)
+- [Status prawny (Inkwizycja)](#status-prawny-inkwizycja)
+- [Mechanika](#mechanika)
  
 # Botanika
 
@@ -33,7 +33,7 @@ Botanicy wierzą, że natura jest źródłem mocy i inspiracji. Cenią harmonię
 Botanika jest legalna, ale niektóre eksperymenty (np. tworzenie roślin trujących lub agresywnych) wymagają zgłoszenia i nadzoru. Zakazane jest tworzenie roślin o cechach istot rozumnych.
 
 ## Mechanika
-Botanik może tworzyć i modyfikować rośliny, przyspieszać ich wzrost, tworzyć eliksiry i wywary, korzystać z magii natury. Szczegóły: patrz [[01. Księga Magii|Księga Magii]].
+Botanik może tworzyć i modyfikować rośliny, przyspieszać ich wzrost, tworzyć eliksiry i wywary, korzystać z magii natury. Szczegóły: patrz [Księga Magii](../rules/01.%20Księga%20Magii.md).
 
 > [!gm]+ Tylko dla MG
 > Botanika pozwala na wprowadzanie do gry magicznych ogrodów, zagadek przyrodniczych i fabularnych dylematów ekologicznych. Rośliny mogą być zarówno sprzymierzeńcami, jak i zagrożeniem, a ich niekontrolowany rozwój to klasyczny motyw przygodowy.
