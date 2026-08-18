@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/locations
   - location
   - obelisk
   - crimson-cult

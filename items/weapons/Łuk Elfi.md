@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/items
   - weapon
 price: 'bezcenny'
 damage: '2+S'

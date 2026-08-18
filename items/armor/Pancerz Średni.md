@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/items
   - armor
 armor_points: '2'
 requirements: 'Ciało >= 2'

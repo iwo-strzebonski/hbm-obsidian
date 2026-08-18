@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/organizations
   - organization
   - sect
 ---

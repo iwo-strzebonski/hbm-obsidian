@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/items
   - gear
 price: '200 PLN - drewniany; 500 PLN - kamienie szlachetne'
 ---

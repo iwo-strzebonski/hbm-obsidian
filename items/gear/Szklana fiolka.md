@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/items
   - gear
 price: '15 PLN za 10 szt.'
 ---

@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/locations
   - location
   - fortress
   - crimson-cult

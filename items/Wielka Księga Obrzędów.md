@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/items
   - item
   - artifact
   - crimson-cult

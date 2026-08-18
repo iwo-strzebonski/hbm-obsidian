@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/items
   - weapon
 price: '100 PLN'
 damage: '+S'

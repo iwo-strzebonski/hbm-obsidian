@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/items
   - gear
 price: '400 PLN'
 ---

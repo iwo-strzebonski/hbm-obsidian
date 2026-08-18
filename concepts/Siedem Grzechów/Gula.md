@@ -1,6 +1,5 @@
 ---
 tags:
-  - foundry/compendium/concepts
   - concept
   - sin
 ---
