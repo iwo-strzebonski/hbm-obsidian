@@ -1,9 +1,13 @@
 ---
-tags: [koncept, kalendarz, lore]
-aliases: [Era Przebudzenia, RP, kalendarz]
+tags:
+  - koncept
+  - kalendarz
+  - lore
+aliases:
+  - Era Przebudzenia
+  - Przebudzenie Magii
 status: draft
 ---
-
 # Era Przebudzenia (EP)
 
 ## Definicja
@@ -21,7 +25,6 @@ Nazwa pochodzi od przełomowego wydarzenia - Przebudzenia Magii, które odmieni�
 System EP porządkuje wydarzenia fabularne, pozwala łatwo określić czas akcji i odróżnić okresy przed i po Przebudzeniu.
 
 ## Powiązania
-- [Przebudzenie Magii](Przebudzenie%20Magii.md)
 - [Otchłań](Otchłań/Otchłań.md)
 - [Federacja Sol-3](../organizations/Federacja%20Sol-3.md)
 - [Kalendarz](Kalendarz.md)
