@@ -4,6 +4,7 @@ tags:
   - abyss
   - personification
 ---
+
 # Nil
 
 Nil jest najstarszą z obecnych Personifikacji Otchłani, uosabiającą Przeszłość i Przyszłość, Alfę i Omegę oraz chłodną kalkulację. Narodziła się jako pierwsza po podziale pierwotnej, destrukcyjnej siły zwanej "Abyss" (Otchłanią). Początkowo Nil była istotą całkowicie pozbawioną emocji, niezwykle potężną i bezlitosną. 
