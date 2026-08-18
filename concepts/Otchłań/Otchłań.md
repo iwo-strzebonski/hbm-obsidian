@@ -1,5 +1,5 @@
 ---
-tags: [koncept, otchłań, lore]
+tags: [concept, abyss, lore]
 aliases: [Abyss, Nil, Mundus, Tempus]
 status: draft
 ---

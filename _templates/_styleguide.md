@@ -34,7 +34,7 @@
 - **Przykładowy frontmatter:**
 
 ---
-tags: [rasa, lore]
+tags: [race, lore]
 aliases: [Człowiek]
 status: draft
 ---

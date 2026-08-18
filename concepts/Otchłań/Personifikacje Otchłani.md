@@ -1,5 +1,5 @@
 ---
-tags: [koncept, otchłań, byty]
+tags: [concept, abyss, entities]
 aliases: [Personifikacje Otchłani, Nil, Mundus, Tempus]
 status: kanoniczna
 ---

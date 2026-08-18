@@ -1,5 +1,5 @@
 ---
-tags: [koncept, byty, lore]
+tags: [concept, entities, lore]
 aliases: [Posłańcy, Istoty Pośredniczące]
 status: draft
 ---

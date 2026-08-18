@@ -1,5 +1,5 @@
 ---
-tags: [rasa, lore, szablon]
+tags: [race, lore, template]
 aliases: []
 status: draft
 ---

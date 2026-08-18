@@ -1,5 +1,5 @@
 ---
-tags: [koncept, lore, szablon]
+tags: [concept, lore, template]
 aliases: []
 status: draft
 ---
