@@ -1,8 +1,8 @@
 ---
 tags:
   - npc
-  - człowiek
-  - kult-otchłani
+  - human
+  - abyss-cult
 aliases: []
 ---
 | **Zdjęcie**             | **                                                                       |

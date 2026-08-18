@@ -2,8 +2,8 @@
 tags:
   - npc
   - demon
-  - arcysukkubica
-  - uczeń
+  - archsuccubus
+  - student
 aliases:
   - Narcyza Zurbach
   - Narcyza

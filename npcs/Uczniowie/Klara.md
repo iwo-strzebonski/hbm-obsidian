@@ -1,8 +1,8 @@
 ---
 tags:
   - npc
-  - anioł
-  - uczeń
+  - angel
+  - student
   - todo
 aliases: []
 ---
