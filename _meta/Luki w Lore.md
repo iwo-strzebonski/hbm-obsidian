@@ -5,7 +5,7 @@ tags:
 ---
 # Luki w Lore — do uzupełnienia
 
-Zestawienie brakujących lub niedokończonych elementów wykryte podczas audytu vaulta (2026-08-17). Zaktualizowano 2026-08-18 po pierwszej rundzie uzupełnień (commit `6fb72b0`), a następnie po drugiej rundzie (sesja współpracy w plain checkout). To dokument roboczy (meta), nie lore w świecie gry — checklistę można kasować/aktualizować w miarę uzupełniania pozycji.
+Zestawienie brakujących lub niedokończonych elementów wykryte podczas audytu vaulta (2026-08-17). Zaktualizowano 2026-08-18 po pierwszej rundzie uzupełnień (commit `6fb72b0`), a następnie po drugiej i trzeciej rundzie (sesja współpracy w plain checkout). To dokument roboczy (meta), nie lore w świecie gry — checklistę można kasować/aktualizować w miarę uzupełniania pozycji.
 
 ## Puste sekcje w plikach indeksowych (hub) — ROZWIĄZANE
 - [x] [npcs.md](../npcs.md) — sekcja "## Zakon Taumaturgów" uzupełniona (Diana Koniecpolska, Zofia „Zonk” Zawadzka, „Mikrofalka” Nowak)
