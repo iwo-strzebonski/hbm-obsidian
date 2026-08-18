@@ -1,7 +1,6 @@
 ---
 tags:
   - spell
-  - zaklęcia
   - general
 castingMode: standard
 school: general

@@ -1,7 +1,6 @@
 ---
 tags:
   - spell
-  - zaklęcia
   - sacred
   - common-prayers
 castingMode: sacred

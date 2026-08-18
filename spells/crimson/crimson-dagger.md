@@ -1,7 +1,6 @@
 ---
 tags:
   - spell
-  - zaklęcia
   - crimson
 castingMode: standard
 school: crimson
