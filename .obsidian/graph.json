@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#otchłań",
+      "query": "tag:#abyss  ",
       "color": {
         "a": 1,
         "rgb": 6363260
       }
     },
     {
-      "query": "tag:#magia",
+      "query": "tag:#magic  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -29,35 +29,35 @@
       }
     },
     {
-      "query": "tag:#szkarłatny-kult",
+      "query": "tag:#crimson-cult  ",
       "color": {
         "a": 1,
         "rgb": 15420733
       }
     },
     {
-      "query": "tag:#organizacja",
+      "query": "tag:#organization  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "tag:#koncept",
+      "query": "tag:#concept  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "tag:#lokacja",
+      "query": "tag:#location  ",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "tag:#rasa",
+      "query": "tag:#race  ",
       "color": {
         "a": 1,
         "rgb": 11621088
