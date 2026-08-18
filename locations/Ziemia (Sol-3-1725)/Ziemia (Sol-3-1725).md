@@ -9,23 +9,23 @@ tags:
 book: Przewodnik Ludzkości po Magicznym Świecie
 ---
 
-| **Zdjęcie**                      | <img src="earth.jpg" width="200" alt="earth.jpg">       |
-| -------------------------------- | ------------------------- |
-| **Rodzaj**                       | *Planeta*                 |
-| **Nazwa oficjalna**              | *Planeta Ziemia*          |
-| **Nazwa kodowa**                 | *Sol-3-1725*              |
-| **Status**                       | *Istniejąca, zamieszkała* |
-| **Szacowana liczba mieszkańców** | *8-9 mld.*                |
+| **Zdjęcie**                      | <img src="earth.jpg" width="200" alt="earth.jpg"> |
+| -------------------------------- | ------------------------------------------------- |
+| **Rodzaj**                       | *Planeta*                                         |
+| **Nazwa oficjalna**              | *Planeta Ziemia*                                  |
+| **Nazwa kodowa**                 | *Sol-3-1725*                                      |
+| **Status**                       | *Istniejąca, zamieszkała*                         |
+| **Szacowana liczba mieszkańców** | *8-9 mld.*                                        |
 Ziemia, trzecia planeta od Słońca, znana również jako "Niebieska Planeta" ze względu na swoje rozległe oceany, stanowi kluczowy element w geopolityce międzygwiezdnej od momentu, gdy w 1974 roku wszedł w życie tajny traktat, włączający ją do [Federacji Sol-3](../../organizations/Federacja%20Sol-3.md). To wydarzenie otworzyło nowy rozdział w historii ludzkości, umożliwiając zaawansowaną współpracę i wymianę technologiczną z innymi cywilizacjami wchodzącymi w skład tej międzywymiarowej koalicji. 
 
 ## Spis Treści
-- [Projekt "Starlight"](#projekt-starlight)
-- [Pojawienie się magii na Ziemi](#pojawienie-się-magii-na-ziemi)
-- [Cywilizacje pozaziemskie](#cywilizacje-pozaziemskie)
-	- [Pojawienie się elfów i początki szkół magii](#pojawienie-się-elfów-i-początki-szkół-magii)
-	- [Pojawienie się Feles i ich wpływ na ekologię](#pojawienie-się-feles-i-ich-wpływ-na-ekologię)
-	- [Pojawienie się krasnoludów i ich wpływ na technologię](#pojawienie-się-krasnoludów-i-ich-wpływ-na-technologię)
-- [Relacje międzyrasowe na Ziemi](#relacje-międzyrasowe-na-ziemi)
+- [Projekt "Starlight"](#Projekt%20"Starlight")
+- [Pojawienie się magii na Ziemi](#Pojawienie%20się%20magii%20na%20Ziemi)
+- [Cywilizacje pozaziemskie](#Cywilizacje%20pozaziemskie)
+	- [Pojawienie się elfów i początki szkół magii](#Pojawienie%20się%20elfów%20i%20początki%20szkół%20magii)
+	- [Pojawienie się Feles i ich wpływ na ekologię](#Pojawienie%20się%20Feles%20i%20ich%20wpływ%20na%20ekologię)
+	- [Pojawienie się krasnoludów i ich wpływ na technologię](#Pojawienie%20się%20krasnoludów%20i%20ich%20wpływ%20na%20technologię)
+- [Relacje międzyrasowe na Ziemi](#Relacje%20międzyrasowe%20na%20Ziemi)
 
 ## Projekt "Starlight"
 

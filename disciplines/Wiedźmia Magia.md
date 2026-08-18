@@ -4,14 +4,14 @@ tags:
   - witch-magic
 ---
 Spis treści
-- [Wstęp](#wstęp)
-- [Mechanika](#mechanika)
-	- [Wymagania](#wymagania)
-	- [Darmowy Talent - *Arytmetyczna Koncentracja*](#darmowy-talent---arytmetyczna-koncentracja)
-	- [Sugerowany Atrybut](#sugerowany-atrybut)
-	- [Sugerowane Umiejętności](#sugerowane-umiejętności)
-- [Rozróżnienie terminologiczne w Polsce](#rozróżnienie-terminologiczne-w-polsce)
-- [Podstawy Wiedźmiej Magii](#podstawy-wiedźmiej-magii)
+- [Wstęp](#Wstęp)
+- [Mechanika](#Mechanika)
+	- [Wymagania](#Wymagania)
+	- [Darmowy Talent - *Arytmetyczna Koncentracja*](#Darmowy%20Talent%20-%20*Arytmetyczna%20Koncentracja*)
+	- [Sugerowany Atrybut](#Sugerowany%20Atrybut)
+	- [Sugerowane Umiejętności](#Sugerowane%20Umiejętności)
+- [Rozróżnienie terminologiczne w Polsce](#Rozróżnienie%20terminologiczne%20w%20Polsce)
+- [Podstawy Wiedźmiej Magii](#Podstawy%20Wiedźmiej%20Magii)
 
 ---
 ## Wstęp

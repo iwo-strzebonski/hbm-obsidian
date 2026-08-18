@@ -23,21 +23,21 @@ W historii Xivell kluczowym momentem okazała się wojna z [Królestwem Zaryn](K
 
 ## Spis Treści
 
-- [Historia](#historia)
-	- [Założenie Królestwa](#założenie-królestwa)
-	- [Wojna z Księstwami Wyspowymi Zaryn](#wojna-z-księstwami-wyspowymi-zaryn)
-	- [Dynastia Cimovell](#dynastia-cimovell)
-	- [Powstanie Królestwa Zaryn](#powstanie-królestwa-zaryn)
-	- [Dynastia Greteron i Wojna z Królestwem Zaryn](#dynastia-greteron-i-wojna-z-królestwem-zaryn)
-- [Wojna z Królestwem Zaryn i Upadek](#wojna-z-królestwem-zaryn-i-upadek)
-	- [Rozwój Botaniki i Przełom w Wojnie](#rozwój-botaniki-i-przełom-w-wojnie)
-	- [Katastrofalne Skutki i Upadek](#katastrofalne-skutki-i-upadek)
-	- [Koniec Królestwa Zaryn](#koniec-królestwa-zaryn)
-- [Interwencja Nil i Ostateczna Konfrontacja](#interwencja-nil-i-ostateczna-konfrontacja)
-	- [Pojawienie się Nil, Personifikacji Otchłani](#pojawienie-się-nil-personifikacji-otchłani)
-	- [Ostatni Akt Oporu Xillitha](#ostatni-akt-oporu-xillitha)
-	- [Pojedynek z Nil](#pojedynek-z-nil)
-	- [Ucieczka Uczniów i Powstanie Szkarłatnego Kultu](#ucieczka-uczniów-i-powstanie-szkarłatnego-kultu)
+- [Historia](#Historia)
+	- [Założenie Królestwa](#Założenie%20Królestwa)
+	- [Wojna z Księstwami Wyspowymi Zaryn](#Wojna%20z%20Księstwami%20Wyspowymi%20Zaryn)
+	- [Dynastia Cimovell](#Dynastia%20Cimovell)
+	- [Powstanie Królestwa Zaryn](#Powstanie%20Królestwa%20Zaryn)
+	- [Dynastia Greteron i Wojna z Królestwem Zaryn](#Dynastia%20Greteron%20i%20Wojna%20z%20Królestwem%20Zaryn)
+- [Wojna z Królestwem Zaryn i Upadek](#Wojna%20z%20Królestwem%20Zaryn%20i%20Upadek)
+	- [Rozwój Botaniki i Przełom w Wojnie](#Rozwój%20Botaniki%20i%20Przełom%20w%20Wojnie)
+	- [Katastrofalne Skutki i Upadek](#Katastrofalne%20Skutki%20i%20Upadek)
+	- [Koniec Królestwa Zaryn](#Koniec%20Królestwa%20Zaryn)
+- [Interwencja Nil i Ostateczna Konfrontacja](#Interwencja%20Nil%20i%20Ostateczna%20Konfrontacja)
+	- [Pojawienie się Nil, Personifikacji Otchłani](#Pojawienie%20się%20Nil,%20Personifikacji%20Otchłani)
+	- [Ostatni Akt Oporu Xillitha](#Ostatni%20Akt%20Oporu%20Xillitha)
+	- [Pojedynek z Nil](#Pojedynek%20z%20Nil)
+	- [Ucieczka Uczniów i Powstanie Szkarłatnego Kultu](#Ucieczka%20Uczniów%20i%20Powstanie%20Szkarłatnego%20Kultu)
 
 ## Historia
 ### Założenie Królestwa

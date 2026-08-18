@@ -8,18 +8,18 @@ aliases:
   - Alchemia (Warzenie Eliksirów)
 ---
 Spis treści
-- [Wstęp](#wstęp)
-- [Mechanika](#mechanika)
-	- [Darmowy Talent - *Nadzwyczajna Odporność*](#darmowy-talent---nadzwyczajna-odporność)
-	- [Sugerowany Atrybut:](#sugerowany-atrybut)
-	- [Sugerowane umiejętności:](#sugerowane-umiejętności)
-	- [Test związany z Dziedziną: *Korzystanie ze sprzętu alchemicznego*](#test-związany-z-dziedziną-korzystanie-ze-sprzętu-alchemicznego)
-- [Eliksiry](#eliksiry)
-	- [Eliksir Zdrowia](#eliksir-zdrowia)
-	- [Eliksir Odnowienia Many](#eliksir-odnowienia-many)
-	- [Eliksir Osłabienia](#eliksir-osłabienia)
-	- [Eliksir Szybkości](#eliksir-szybkości)
-	- [Eliksir Prawdomówności](#eliksir-prawdomówności)
+- [Wstęp](#Wstęp)
+- [Mechanika](#Mechanika)
+	- [Darmowy Talent - *Nadzwyczajna Odporność*](#Darmowy%20Talent%20-%20*Nadzwyczajna%20Odporność*)
+	- [Sugerowany Atrybut:](#Sugerowany%20Atrybut:)
+	- [Sugerowane umiejętności:](#Sugerowane%20umiejętności:)
+	- [Test związany z Dziedziną: *Korzystanie ze sprzętu alchemicznego*](#Test%20związany%20z%20Dziedziną:%20*Korzystanie%20ze%20sprzętu%20alchemicznego*)
+- [Eliksiry](#Eliksiry)
+	- [Eliksir Zdrowia](#Eliksir%20Zdrowia)
+	- [Eliksir Odnowienia Many](#Eliksir%20Odnowienia%20Many)
+	- [Eliksir Osłabienia](#Eliksir%20Osłabienia)
+	- [Eliksir Szybkości](#Eliksir%20Szybkości)
+	- [Eliksir Prawdomówności](#Eliksir%20Prawdomówności)
 
 ---
 ## Wstęp

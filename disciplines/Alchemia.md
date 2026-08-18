@@ -5,13 +5,13 @@ tags:
   - academic-magic
   - thaumaturgy
 ---
-- [Definicja](#definicja)
-- [Historia szkoły](#historia-szkoły)
-- [Filozofia i założenia](#filozofia-i-założenia)
-- [Poddyscypliny](#poddyscypliny)
-- [Znani praktycy](#znani-praktycy)
-- [Status prawny (Inkwizycja)](#status-prawny-inkwizycja)
-- [Mechanika](#mechanika)
+- [Definicja](#Definicja)
+- [Historia szkoły](#Historia%20szkoły)
+- [Filozofia i założenia](#Filozofia%20i%20założenia)
+- [Poddyscypliny](#Poddyscypliny)
+- [Znani praktycy](#Znani%20praktycy)
+- [Status prawny (Inkwizycja)](#Status%20prawny%20(Inkwizycja))
+- [Mechanika](#Mechanika)
 
 ## Definicja
 Alchemia to dyscyplina magii zajmująca się przemianą materii, tworzeniem eliksirów, transmutacją i badaniem właściwości substancji. Łączy naukę, magię i eksperymenty praktyczne.

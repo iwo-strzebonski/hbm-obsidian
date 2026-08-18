@@ -5,12 +5,12 @@ tags:
   - thaumaturgy
   - academic-magic
 ---
-- [Definicja](#definicja)
-- [Historia szkoły](#historia-szkoły)
-- [Filozofia i założenia](#filozofia-i-założenia)
-- [Poddyscypliny](#poddyscypliny)
-- [Status prawny (Inkwizycja)](#status-prawny-inkwizycja)
-- [Mechanika](#mechanika)
+- [Definicja](#Definicja)
+- [Historia szkoły](#Historia%20szkoły)
+- [Filozofia i założenia](#Filozofia%20i%20założenia)
+- [Poddyscypliny](#Poddyscypliny)
+- [Status prawny (Inkwizycja)](#Status%20prawny%20(Inkwizycja))
+- [Mechanika](#Mechanika)
  
 # Botanika
 

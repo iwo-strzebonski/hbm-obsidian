@@ -5,8 +5,8 @@ tags:
   - academic-magic
 ---
 
-- [Mechanika](#mechanika)
-	- [Darmowy talent - _Miłosierdzie_](#darmowy-talent---miłosierdzie)
+- [Mechanika](#Mechanika)
+	- [Darmowy talent - _Miłosierdzie_](#Darmowy%20talent%20-%20_Miłosierdzie_)
 
 ---
 ## Mechanika 

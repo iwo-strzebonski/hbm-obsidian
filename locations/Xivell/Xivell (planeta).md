@@ -6,20 +6,18 @@ tags:
   - planet-xivell
 ---
 
-| **Zdjęcie**                      | <img src="../../_assets/locations/xivell/planet.jpg" width="200" alt="planet.jpg">                                                               |
-| -------------------------------- | ---------------------------------------------------------------------------------- |
-| **Rodzaj**                       | *Planeta*                                                                          |
-| **Nazwa oficjalna**              | *Planeta Xivell*                                                                   |
-| **Nazwa kodowa**                 | *Eridial-4 (Eridial-4-1725)*                                                       |
-| **Status**                       | *Nienadająca się do zamieszkania; zniszczona przez pasożytniczą biomasę*           |
-| **Szacowana liczba mieszkańców** | *10 mln (istoty humanoidalne zmutowane przez pasożytniczą biomasę)*                |
-| **Znane państwa**                | [Królestwo Xivell](Królestwo%20Xivell.md), [Królestwo Zaryn](Królestwo%20Zaryn.md)                                         |
-| **Znane frakcje**                | [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md), [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)                                           |
-| **Dominujący ekosystem**         | Oceaniczny, pojedynczy kontynent, wyspy                                            |
-| **Unikalne zagrożenia**          | Pasożytnicza biomasa, magiczne mutacje, ruiny cywilizacji                         |
-| **Zasoby**                       | Metale magiczne (ouerklas, mitryl, adamantyn), deficyt metali technicznych         |
-
-
+| **Zdjęcie**                      | <img src="../../_assets/locations/xivell/planet.jpg" width="200" alt="planet.jpg">                                       |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Rodzaj**                       | *Planeta*                                                                                                                |
+| **Nazwa oficjalna**              | *Planeta Xivell*                                                                                                         |
+| **Nazwa kodowa**                 | *Eridial-4 (Eridial-4-1725)*                                                                                             |
+| **Status**                       | *Nienadająca się do zamieszkania; zniszczona przez pasożytniczą biomasę*                                                 |
+| **Szacowana liczba mieszkańców** | *10 mln (istoty humanoidalne zmutowane przez pasożytniczą biomasę)*                                                      |
+| **Znane państwa**                | [Królestwo Xivell](Królestwo%20Xivell.md), [Królestwo Zaryn](Królestwo%20Zaryn.md)                                       |
+| **Znane frakcje**                | [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md), [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md) |
+| **Dominujący ekosystem**         | Oceaniczny, pojedynczy kontynent, wyspy                                                                                  |
+| **Unikalne zagrożenia**          | Pasożytnicza biomasa, magiczne mutacje, ruiny cywilizacji                                                                |
+| **Zasoby**                       | Metale magiczne (ouerklas, mitryl, adamantyn), deficyt metali technicznych                                               |
 ## Opis
 
 **Planeta Xivell** to czwarta planeta w układzie Eridial, jeden z najbardziej tajemniczych i tragicznych światów znanych Federacji Sol-3. Jej położenie w galaktyce pozostaje niepewne, a większość powierzchni pokrywają oceany. Ląd stanowi pojedynczy kontynent (ok. 667 tys. km²) oraz archipelagi wysp na południu. Przed katastrofą Xivell była domem dla dwóch rozwiniętych cywilizacji: [Zjednoczonego Królestwa Xivell, Greteron i Cimovell](Królestwo%20Xivell.md) oraz [Królestwa Wysp Zaryn](Królestwo%20Zaryn.md).
@@ -28,13 +26,12 @@ W wyniku katastrofy ekologicznej wywołanej przez pasożytniczą biomasę niezna
 
 Xivell jest kluczowym punktem zainteresowania naukowców, archeologów i magów. Tajemnice jej przeszłości, podobieństwo mieszkańców do ludzi oraz obecność magicznych metali (ouerklas, mitryl, adamantyn) czynią ją miejscem licznych ekspedycji badawczych. Brak metali technicznych i trudny dostęp do surowców sprawiają, że kolonizacja jest niemal niemożliwa.
 
-
 ## Spis treści
-- [Opis](#opis)
-- [Historia i upadek cywilizacji](#historia-i-upadek-cywilizacji)
-- [Misja Federacji Sol-3](#misja-federacji-sol-3)
-- [Znane państwa i frakcje](#znane-państwa-i-frakcje)
-- [Wskazówki dla MG](#wskazówki-dla-mg)
+- [Opis](#Opis)
+- [Historia i upadek cywilizacji](#Historia%20i%20upadek%20cywilizacji)
+- [Misja Federacji Sol-3](#Misja%20Federacji%20Sol-3)
+- [Znane państwa i frakcje](#Znane%20państwa%20i%20frakcje)
+- [Wskazówki dla MG](#Wskazówki%20dla%20MG)
 
 
 ## Historia i upadek cywilizacji

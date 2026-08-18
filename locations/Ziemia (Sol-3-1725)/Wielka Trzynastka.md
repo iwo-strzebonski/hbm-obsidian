@@ -9,12 +9,12 @@ aliases:
   - Trzynaście Szkół Magii
 status: kanoniczna
 ---
-| **Zdjęcie**                      | <img src="trzynastka.jpg" width="200" alt="trzynastka.jpg"> |
-| -------------------------------- | ------------------------- |
-| **Rodzaj**                       | *Gazetteer*               |
-| **Planeta**                      | *Ziemia (Sol-3-1725)*     |
-| **Status**                       | *Aktywne*                 |
-| **Liczba szkół**                 | *13*                      |
+| **Zdjęcie**      | <img src="trzynastka.jpg" width="200" alt="trzynastka.jpg"> |
+| ---------------- | ----------------------------------------------------------- |
+| **Rodzaj**       | *Gazetteer*                                                 |
+| **Planeta**      | *Ziemia (Sol-3-1725)*                                       |
+| **Status**       | *Aktywne*                                                   |
+| **Liczba szkół** | *13*                                                        |
 
 ## Opis
 

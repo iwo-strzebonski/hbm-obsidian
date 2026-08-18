@@ -28,10 +28,10 @@ Stolicą i centrum mocy była Obsydianowa Wieża – miejsce legendarnych rytua�
 
 
 ## Spis treści
-- [Opis](#opis)
-- [Historia](#historia)
-- [Upadek i dziedzictwo](#upadek-i-dziedzictwo)
-- [Wskazówki dla MG](#wskazówki-dla-mg)
+- [Opis](#Opis)
+- [Historia](#Historia)
+- [Upadek i dziedzictwo](#Upadek%20i%20dziedzictwo)
+- [Wskazówki dla MG](#Wskazówki%20dla%20MG)
 
 
 ## Historia

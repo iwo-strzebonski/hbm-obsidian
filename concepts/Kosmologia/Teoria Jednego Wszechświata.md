@@ -6,7 +6,7 @@ status: draft
 
 # Teoria Jednego Wszechświata
 
-> Pełna wersja: patrz [10. Przewodnik Ludzkości po Magicznym Świecie](../../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md#rozdział-i---teoria-jednego-wszechświata)
+> Pełna wersja: patrz [10. Przewodnik Ludzkości po Magicznym Świecie](../../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md#Rozdział%20I%20-%20Teoria%20Jednego%20Wszechświata)
 
 ## Definicja
 Teoria Jednego Wszechświata jest próbą uporządkowania chaosu wokół pochodzenia ras znanych Federacji Sol-3. Zakłada, że elfy, herosi i inne istoty nie przybyły z odrębnych wszechświatów, lecz wyewoluowały na różnych planetach w ramach jednego, wspólnego kosmosu.

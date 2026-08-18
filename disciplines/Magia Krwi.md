@@ -7,10 +7,10 @@ tags:
 book: Arcanum Sanguinis
 ---
 ## Spis Treści
-- [Wstęp](#wstęp)
-- [Rozdział I - Magia Krwi a Otchłań](#rozdział-i---magia-krwi-a-otchłań)
-- [Rozdział II - Bóg Krwi](#rozdział-ii---bóg-krwi)
-	- [Robert Zaryn](#robert-zaryn)
+- [Wstęp](#Wstęp)
+- [Rozdział I - Magia Krwi a Otchłań](#Rozdział%20I%20-%20Magia%20Krwi%20a%20Otchłań)
+- [Rozdział II - Bóg Krwi](#Rozdział%20II%20-%20Bóg%20Krwi)
+	- [Robert Zaryn](#Robert%20Zaryn)
 
 ---
 ## Wstęp

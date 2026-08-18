@@ -3,11 +3,11 @@ tags:
   - magic
   - wild-witch-magic
 ---
-- [Sabaty i hierarchia](#sabaty-i-hierarchia)
-	- [Sabat Otchłani](#sabat-otchłani)
-	- [Inne sabaty](#inne-sabaty)
-- [Relacje z czarownicami akademickimi](#relacje-z-czarownicami-akademickimi)
-- [Społeczne postrzeganie dzikich wiedźm](#społeczne-postrzeganie-dzikich-wiedźm)
+- [Sabaty i hierarchia](#Sabaty%20i%20hierarchia)
+	- [Sabat Otchłani](#Sabat%20Otchłani)
+	- [Inne sabaty](#Inne%20sabaty)
+- [Relacje z czarownicami akademickimi](#Relacje%20z%20czarownicami%20akademickimi)
+- [Społeczne postrzeganie dzikich wiedźm](#Społeczne%20postrzeganie%20dzikich%20wiedźm)
 
 
 Dzika magia wiedźm jest antytezą uporządkowanej, akademickiej dziedziny wiedźm-czarownic. 

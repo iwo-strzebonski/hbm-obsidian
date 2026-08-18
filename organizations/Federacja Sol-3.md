@@ -17,30 +17,31 @@ aliases:
 | **Ważniejsi członkowie**      | *<ul><li>[Syllia Orirel](../npcs/Federacja%20Sol-3/Syllia%20Orirel.md)</li><li>[Siergiej Konstantynowicz Żukow](../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)</li><li>[Pelagius Caudex](../npcs/Nauczyciele/Pelagius%20Caudex.md)</li></ul>*                     |
 | **Powiązane organizacje**     | *<ul><li>[Wojska Specjalne ds. Obrony Planet Członkowskich Federacji Sol-3](Federacja%20Sol-3/Projekt%20Starlight.md)</li><li>[Siły Specjalne "Gaja"](Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>["Wybrańcy Herosów"](Federacja%20Sol-3/Wybrańcy%20Herosów.md)</li></ul>* |
 Federacja Sol-3 jest unikalną organizacją międzyplanetarną, która zrzesza planety z różnych wszechświatów równoległych. To, co łączy te światy, to fakt, że wszystkie są one odpowiednikami Ziemi, znanej również jako Sol-3 w odniesieniu do jej położenia w Układzie Słonecznym. Federacja ta stanowi forum dla planet o zróżnicowanym poziomie rozwoju technologicznego, ale dzieli wspólny cel: współpracę i wymianę wiedzy oraz technologii w celu wspólnego dobra.
+
 ## Spis Treści
 
-- [Kryteria Członkostwa](#kryteria-członkostwa)
-- [Współpraca Technologiczna](#współpraca-technologiczna)
-- [Znaczenie Członkostwa](#znaczenie-członkostwa)
-- [Komitety i Organizacje](#komitety-i-organizacje)
-	- [Komitety Federacji](#komitety-federacji)
-	- [Rada Najwyższa](#rada-najwyższa)
-	- [Walne Zebranie Komitetów](#walne-zebranie-komitetów)
-	- [Organizacje Cywilne i Wojskowe](#organizacje-cywilne-i-wojskowe)
-		- [Wojsko i Waluty Federacji](#wojsko-i-waluty-federacji)
-- [Suwerenność i Współpraca z Planetami Członkowskimi](#suwerenność-i-współpraca-z-planetami-członkowskimi)
-	- [Suwerenność i Autonomia](#suwerenność-i-autonomia)
-	- [Wsparcie w Sytuacjach Kryzysowych](#wsparcie-w-sytuacjach-kryzysowych)
-	- [Rozwój Technologiczny](#rozwój-technologiczny)
-	- [Przyjęcie Nowych Członków](#przyjęcie-nowych-członków)
-- [Rola Federacji Sol-3 w Podbój Kosmosu](#rola-federacji-sol-3-w-podbój-kosmosu)
-	- [Misje Kolonizacyjne](#misje-kolonizacyjne)
-		- ["Sterany" - Pionierski Statek Kolonizacyjny](#sterany---pionierski-statek-kolonizacyjny)
-	- [Znaczenie Strategiczne i Ekonomiczne](#znaczenie-strategiczne-i-ekonomiczne)
-- [Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3](#integracja-nadprzyrodzonych-zjawisk-w-federacji-sol-3)
-	- [Rzadkość Magii w Federacji](#rzadkość-magii-w-federacji)
-	- [Technologiczne Adaptacje Magii](#technologiczne-adaptacje-magii)
-	- [Ziemia (Sol-3-1725) jako Kluczowy Członek](#ziemia-sol-3-1725-jako-kluczowy-członek)
+- [Kryteria Członkostwa](#Kryteria%20Członkostwa)
+- [Współpraca Technologiczna](#Współpraca%20Technologiczna)
+- [Znaczenie Członkostwa](#Znaczenie%20Członkostwa)
+- [Komitety i Organizacje](#Komitety%20i%20Organizacje)
+	- [Komitety Federacji](#Komitety%20Federacji)
+	- [Rada Najwyższa](#Rada%20Najwyższa)
+	- [Walne Zebranie Komitetów](#Walne%20Zebranie%20Komitetów)
+	- [Organizacje Cywilne i Wojskowe](#Organizacje%20Cywilne%20i%20Wojskowe)
+		- [Wojsko i Waluty Federacji](#Wojsko%20i%20Waluty%20Federacji)
+- [Suwerenność i Współpraca z Planetami Członkowskimi](#Suwerenność%20i%20Współpraca%20z%20Planetami%20Członkowskimi)
+	- [Suwerenność i Autonomia](#Suwerenność%20i%20Autonomia)
+	- [Wsparcie w Sytuacjach Kryzysowych](#Wsparcie%20w%20Sytuacjach%20Kryzysowych)
+	- [Rozwój Technologiczny](#Rozwój%20Technologiczny)
+	- [Przyjęcie Nowych Członków](#Przyjęcie%20Nowych%20Członków)
+- [Rola Federacji Sol-3 w Podbój Kosmosu](#Rola%20Federacji%20Sol-3%20w%20Podbój%20Kosmosu)
+	- [Misje Kolonizacyjne](#Misje%20Kolonizacyjne)
+		- ["Sterany" - Pionierski Statek Kolonizacyjny](#"Sterany"%20-%20Pionierski%20Statek%20Kolonizacyjny)
+	- [Znaczenie Strategiczne i Ekonomiczne](#Znaczenie%20Strategiczne%20i%20Ekonomiczne)
+- [Integracja Nadprzyrodzonych Zjawisk w Federacji Sol-3](#Integracja%20Nadprzyrodzonych%20Zjawisk%20w%20Federacji%20Sol-3)
+	- [Rzadkość Magii w Federacji](#Rzadkość%20Magii%20w%20Federacji)
+	- [Technologiczne Adaptacje Magii](#Technologiczne%20Adaptacje%20Magii)
+	- [Ziemia (Sol-3-1725) jako Kluczowy Członek](#Ziemia%20(Sol-3-1725)%20jako%20Kluczowy%20Członek)
 
 ## Kryteria Członkostwa
 
@@ -56,7 +57,7 @@ Każda planeta członkowska wnosi do Federacji Sol-3 coś wyjątkowego, niezale�
 
 ## Komitety i Organizacje
 
-Federacja Sol-3 charakteryzuje się złożoną i funkcjonalną strukturą organizacyjną, która umożliwia efektywne zarządzanie i reagowanie na różnorodne wyzwania. Serce tej struktury stanowią komitety, [Rada Najwyższa](#rada-najwyższa) oraz szereg [organizacji cywilnych i wojskowych](#organizacje-cywilne-i-wojskowe), które współpracują w celu zapewnienia bezpieczeństwa, ochrony dziedzictwa oraz zdrowia obywateli Federacji.
+Federacja Sol-3 charakteryzuje się złożoną i funkcjonalną strukturą organizacyjną, która umożliwia efektywne zarządzanie i reagowanie na różnorodne wyzwania. Serce tej struktury stanowią komitety, [Rada Najwyższa](#Rada%20Najwyższa) oraz szereg [organizacji cywilnych i wojskowych](#Organizacje%20Cywilne%20i%20Wojskowe), które współpracują w celu zapewnienia bezpieczeństwa, ochrony dziedzictwa oraz zdrowia obywateli Federacji.
 
 ### Komitety Federacji
 
@@ -69,7 +70,7 @@ Często wspominaną przez agentów organizacją jest **Biuro ds. Identyfikacji C
 Rada Najwyższa pełni rolę nadzorczą w strukturze Federacji, mając możliwość uchylania uchwał komitetów. Restrukturyzacja ograniczyła bezpośrednie obowiązki Rady, co pozwoliło na lepsze skupienie się na sprawach strategicznych. Kadencja Rady trwa siedem lat, co zapewnia stabilność i ciągłość polityki Federacji.
 ### Walne Zebranie Komitetów
 
-W przypadkach szczególnych, takich jak wybór nowej [Rady Najwyższej](#rada-najwyższa) czy odwołanie obecnej, zwoływane jest Walne Zebranie [Komitetów](#komitety-federacji). To ciało pełni rolę arbitra w sporach między komitetami a [Radą Najwyższą](#rada-najwyższa) oraz decyduje o kierunkach dalszego rozwoju Federacji.
+W przypadkach szczególnych, takich jak wybór nowej [Rady Najwyższej](#Rada%20Najwyższa) czy odwołanie obecnej, zwoływane jest Walne Zebranie [Komitetów](#Komitety%20Federacji). To ciało pełni rolę arbitra w sporach między komitetami a [Radą Najwyższą](#Rada%20Najwyższa) oraz decyduje o kierunkach dalszego rozwoju Federacji.
 ### Organizacje Cywilne i Wojskowe
 
 Federacja Sol-3 posiada zarówno organizacje cywilne, jak i specjalistyczne formacje wojskowe, które mogą być tworzone zarówno przez komitety, jak i przez Radę Najwyższą z zatwierdzeniem Walnego Zebrania. Przykłady takich organizacji to [Projekt Starlight (Wojska Specjalne ds. Obrony)](Federacja%20Sol-3/Projekt%20Starlight.md) czy [Siły Specjalne "Gaja"](Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md).

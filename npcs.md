@@ -9,7 +9,7 @@ tags:
 - [Klara](npcs/Uczniowie/Klara.md), anielica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Kiara](npcs/Uczniowie/Kiara.md), Feles, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Maedinitia](npcs/Uczniowie/Maedinitia.md), maginia wody, służąca [Aurory Nylabelle](npcs/Uczniowie/Aurora.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
-- [Nemyo](npcs/Nemyo.md), Feles, alchemiczka warząca eliksiry
+- [Nemyo](npcs/Uczniowie/Nemyo.md), Feles, alchemiczka warząca eliksiry
 
 ## Nauczyciele i Pracownicy Szkół
 - [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), nauczyciel [Rzemiosła Artefaktów](disciplines/Rzemiosło%20Artefaktów.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), Agent Specjalny [Federacji Sol-3](organizations/Federacja%20Sol-3.md)
