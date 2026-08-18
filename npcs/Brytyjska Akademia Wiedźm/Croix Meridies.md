@@ -4,7 +4,7 @@ tags:
   - witch-magic
   - mage
   - human
-  - brytyjska-akademia-wiedźm
+  - british-academy-of-witches
 aliases: []
 ---
 | **Zdjęcie**             | **                                                                                             |

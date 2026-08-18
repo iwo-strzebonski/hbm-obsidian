@@ -4,7 +4,7 @@ status: kanoniczna
 tags:
   - conflict
   - kashmir
-  - sub-konflikt
+  - sub-conflict
 aliases:
   - Kaszmir
 ---

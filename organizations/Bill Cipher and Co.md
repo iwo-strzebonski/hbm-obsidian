@@ -2,7 +2,7 @@
 tags:
   - organization
   - bill-cipher-and-co
-  - komedia
+  - comedy
   - gravity-falls
 aliases:
   - Bill Cipher and Co.

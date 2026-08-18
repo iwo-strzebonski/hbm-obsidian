@@ -4,7 +4,7 @@ status: kanoniczna
 tags:
   - conflict
   - taiwan
-  - sub-konflikt
+  - sub-conflict
 aliases:
   - Tajwan
 ---

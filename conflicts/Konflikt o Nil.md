@@ -4,7 +4,7 @@ status: kanoniczna
 tags:
   - conflict
   - Nil
-  - sub-konflikt
+  - sub-conflict
 aliases:
   - Nil
 ---

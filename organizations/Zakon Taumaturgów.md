@@ -1,8 +1,8 @@
 ---
-tags: 
-    - organizacja
-    - taumaturgia
-    - komedia
+tags:
+  - organization
+  - thaumaturgy
+  - comedy
 ---
 
 | **Zdjęcie**                   | <img src="kolo-wzajemnej-pomocy.jpg" width="200" alt="kolo-wzajemnej-pomocy.jpg">                                |
