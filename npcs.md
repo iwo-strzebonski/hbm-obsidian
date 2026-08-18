@@ -24,12 +24,21 @@ tags:
 ### Projekt "Starlight"
  - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), porucznik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), służący bezpośrednio pod [Seriożą Żukowem](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)
  - [Serioża Żukow](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), pułkownik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), wchodzących w skład [Projektu "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)
+### Siły Specjalne "Gaja"
+ - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Agentka Alfa, przywódczyni [Sił Specjalnych "Gaja"](organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)
+ - [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), Agent Delta
+ - [Serioża Żukow](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), Agent Omega
+ - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), Agent Lambda
+### Wybrańcy Herosów
+ - [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), dowódca [Wybrańców Herosów](organizations/Federacja%20Sol-3/Wybrańcy%20Herosów.md)
 
 ## Brytyjska Akademia Wiedźm
 - [Croix Meridies](npcs/Brytyjska%20Akademia%20Wiedźm/Croix%20Meridies.md), dawna przyjaciółka [Urszuli Callistis](npcs/Nauczyciele/Urszula%20Callistis.md), obecnie w nieznanym miejscu
 
 ## Zakon Taumaturgów
-
+- [Diana Koniecpolska](npcs/Uczniowie/Diana%20Koniecpolska.md), była przewodnicząca Koła (Zakonu Taumaturgów)
+- Zofia „Zonk” Zawadzka, specjalistka od magicznych katastrof kuchennych, członkini Koła
+- „Mikrofalka” Nowak, wynalazca magicznej mikrofalówki, członek Koła
 
 ## Inkwizycja
 - [Tena Lindemann](npcs/Inkwizycja/Tena%20Lindemann.md), Starsza Inkwizytor, sekretnie lisz
@@ -63,5 +72,8 @@ tags:
 
 ## Bill Cipher and Co
 - [Bill Cipher](npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)
+
+## Niezrzeszeni
+- [Nemyo](npcs/Nemyo.md), Feles, wybitna alchemiczka, pomogła wielu poszukiwaczom przygód w zdobyciu potrzebnych eliksirów
 
 <iframe src="https://sketchfab.com/models/12054645e5b24a44afbecd5eb809007c/embed?autostart=1&internal=1&tracking=0&ui_ar=0&ui_infos=0&ui_snapshots=1&ui_stop=0&ui_theatre=1&ui_watermark=0" height="300" width="300" />

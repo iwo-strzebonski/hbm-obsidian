@@ -1,9 +1,9 @@
 ---
 tags:
   - lore
-  - inkwizycja
-  - czarny-rynek
-  - bank-krasnoludzki
+  - inquisition
+  - black-market
+  - dwarven-bank
 ---
 # Pakt Papieża z Krasnoludami
 

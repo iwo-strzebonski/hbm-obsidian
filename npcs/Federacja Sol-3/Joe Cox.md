@@ -1,8 +1,8 @@
 ---
 tags:
   - npc
-  - człowiek
-  - federacja-sol-3
+  - human
+  - federation-sol-3
   - task-force-x
 aliases: []
 ---

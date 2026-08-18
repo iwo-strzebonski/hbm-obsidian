@@ -1,8 +1,8 @@
 ---
 tags:
-  - lokacja
-  - organizacja
-  - planeta-ziemia
+  - location
+  - organization
+  - planet-earth
 ---
 | **Zdjęcie**                                | <img src="../../_assets/locations/earth/british-witch-academy.png" width="200" alt="british-witch-academy.png"> |
 | ------------------------------------------ | ----------------------------------- |

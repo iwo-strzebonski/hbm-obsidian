@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - nekromancja
-  - magia-akademicka
+  - magic
+  - necromancy
+  - academic-magic
 ---
 
 # Nekromancja

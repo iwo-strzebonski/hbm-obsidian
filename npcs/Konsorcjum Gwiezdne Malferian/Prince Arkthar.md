@@ -1,9 +1,9 @@
 ---
 tags:
   - npc
-  - konsorcjum-gwiezdne-malferian
-  - malferianin
-  - wojownik
+  - malferian-star-consortium
+  - malferian
+  - warrior
 aliases:
   - Arkthar
   - Książę Arkthar

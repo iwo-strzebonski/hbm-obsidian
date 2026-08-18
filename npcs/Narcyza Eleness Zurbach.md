@@ -2,8 +2,8 @@
 tags:
   - npc
   - demon
-  - arcysukkubica
-  - uczeń
+  - archsuccubus
+  - student
 aliases:
   - Narcyza Zurbach
   - Narcyza
@@ -18,7 +18,7 @@ aliases:
 | **Wygląd**              | *Długie, lawendowe włosy; długie, cienkie i proste rogi; długie, spiczaste uszy (dłuższe niż elfie); dwie pary małych, czarnych skrzydeł wyrastających z dolnej części pleców* |
 | **Organizacje**         | *Uczennica [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)*                              |
 | **Pseudonim(y)**        | **                                                                                   |
-| **Tytuł(y)**            | **                                                                                   |
+| **Tytuł(y)**            | *Księżniczka demonów*                                                                |
 | **Charakter**           | *Neutralny - opanowana, pragmatyczna, powierzchownie beznamiętna wobec cudzych uczuć* |
 | **Status**              | *Żyje*                                                                               |
 

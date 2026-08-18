@@ -1,11 +1,11 @@
 ---
 tags:
   - npc
-  - człowiek
-  - mag
-  - magia-sakralna
-  - uczeń
-  - szkarłatny-kult
+  - human
+  - mage
+  - sacred-magic
+  - student
+  - crimson-cult
 ---
 | **Zdjęcie**             | <img src="../../_assets/characters/TalonosIsherwood_Full.webp" width="200" alt="TalonosIsherwood_Full.webp"> |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |

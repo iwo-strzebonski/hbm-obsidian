@@ -1,8 +1,8 @@
 ---
 tags:
   - npc
-  - otchłań
-  - kult-otchłani
+  - abyss
+  - abyss-cult
 ---
 
 | **Zdjęcie**         | <img src="../../_assets/npc/fate-loremaster/fate-loremaster.webp" width="200" alt="fate-loremaster.webp"> |
@@ -14,8 +14,8 @@ tags:
 | **Dziedzina Magii** | *[Pierwotna Magia](../../disciplines/Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)*            |
 | **Organizacje**     | *[Kult Otchłani](../../organizations/Kult%20Otchłani.md)*                                              |
 | **Pseudonim(y)**    | *<ul><li>Los</li></ul>*                                                               |
-| **Tytuł(y)**        | **                                                               |
-| **Charakter**       | **                                                               |
+| **Tytuł(y)**        | *<ul><li>Mistrz Losu (imię pełni też funkcję tytułu)</li><li>Ten, Który Ma Władać Losem (*„The One Destined to Control Fate”*)</li><li>Ten, Który Rzucił Wyzwanie Kosmicznej Równowadze (*„The One Who Challenged the Cosmic Balance”*) - tytuł powiązany z przyszłymi planami fabularnymi dla uniwersum HbM</li></ul>* |
+| **Charakter**       | *Dla nielicznych, którzy znają go bliżej, jest bezczelnym typem uwielbiającym łamać czwartą ścianę; dla reszty - w pełni odpowiada tajemniczemu, złowrogiemu wizerunkowi opisanemu wyżej. Nienawidzi głupoty. To wyrachowany intrygant, który potajemnie dąży do wykradzenia fragmentów mocy trzech Personifikacji, by stać się czwartą.* |
 
 Tajemniczy długowłosy szatyn w okularach o srebrnych oprawkach, czasem odziany w czarny, gwieździsty garnitur, a czasem w kalejdoskopowe szaty, który białym, iskrzącym się atramentem pisze piórem łabędzim w czarnym notatniku.
 
@@ -26,3 +26,6 @@ Gdy zaczyna zmieniać wpisy w notatniku, świat wokół niego zdaje się tracić
 Legendy głoszą, że Kości Losu są artefaktami stworzonymi przez Mistrza Losu jako fragment jego mocy - inne z kolei mówią o tym, że są one pozostałościami po wielkich zmianach wprowadzonych w świat przez Mistrza Losu.
 
 Nikt nie wie jaka jest prawda, ba - nikomu jeszcze nie udało się wrócić ze spotkania z Mistrzem Losu.
+
+> [!gm]+ Tylko dla MG
+> Mistrz Losu potajemnie dąży do wykradzenia fragmentów mocy [Nil](Nil.md), [Mundus](Mundus.md) i [Tempusa](Tempus.md), by stać się czwartą Personifikacją Otchłani. Już zdobył jeden fragment - ukradziony Nil, która być może nawet nie wie (lub nie przejmuje się), że czegoś jej brakuje. To potencjalna oś fabularna wykraczająca poza obecną kampanię.

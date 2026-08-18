@@ -1,10 +1,10 @@
 ---
 tags:
   - npc
-  - lisz
-  - nieumarły
-  - inkwizycja
-  - nekromancja
+  - lich
+  - undead
+  - inquisition
+  - necromancy
 ---
 | **Zdjęcie**             | **                                                              |
 | ----------------------- | ------------------------------------------------------------------ |

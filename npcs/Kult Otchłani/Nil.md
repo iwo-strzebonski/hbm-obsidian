@@ -1,20 +1,20 @@
 ---
 tags:
   - npc
-  - "#otchłań"
-  - "#kult-otchłani"
+  - abyss
+  - abyss-cult
 ---
 | **Zdjęcie**         | <img src="../../_assets/npc/nil/nil.jpg" width="200" alt="nil.jpg">                                     |
 | ------------------- | ----------------------------------------------------- |
 | **Imię (imiona)**   | *Nil*                                                 |
 | **Rasa**            | *n/d*                                                 |
 | **Wiek**            | *n/d*                                                 |
-| **Wzrost**          | **                                                    |
+| **Wzrost**          | *<ul><li>Forma dziecka (obecna, znana graczom): 123 cm</li><li>Forma kostki śluzu (obecna): idealny sześcian 10×10×10 cm</li><li>Dawna, pełna forma (sprzed rozerwania): ponad 2 m</li></ul>* |
 | **Dziedzina Magii** | *[Pierwotna Magia](../../disciplines/Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)* |
 | **Organizacje**     | *[Kult Otchłani](../../organizations/Kult%20Otchłani.md)*                                   |
 | **Pseudonim(y)**    | *Abyss*                                               |
 | **Tytuł(y)**        | *<ul><li>Nicość</li><li>Początek i Koniec</li></ul>*  |
-| **Charakter**       | **                                                    |
+| **Charakter**       | *Zachowuje się dziecinnie, a mimo to wciąż budzi grozę - to nieprzerwanie pierwotny byt zdolny zniszczyć całe galaktyki samą myślą. Zyskanie emocji ją odmieniło: niegdyś zimna, wyrachowana i kłamiąca wyłącznie w imię nadrzędnego celu, dziś potrafi okazywać sympatię i troskę o innych - zwłaszcza o [Dianę Koniecpolską](../Uczniowie/Diana%20Koniecpolska.md). To, co Nil uważa za „troskę”, bywa jednak niepokojące: to ona stworzyła dla Diany nowe okulary po jej nieudanym eksperymencie latem 2026, ale też wymordowała niemal wszystkich swoich kultystów, uznawszy, że mogą zagrażać Dianie, jej przyjaciołom i życiu, które Nil próbuje teraz budować.* |
 
 Na początku była ciemność, z której, w wyniku Wielkiego Wybuchu, powstał nasz wszechświat. Podobna historia miała miejsce w innych wszechświatach. Przeznaczeniem każdego wszechświata jest powrót do ciemności, do początku, i zapowiedzią tego jest właśnie Nil.
 

@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-sakralna
-  - egzorcyzmy
-  - magia-akademicka
+  - magic
+  - sacred-magic
+  - exorcism
+  - academic-magic
 aliases:
 ---
 

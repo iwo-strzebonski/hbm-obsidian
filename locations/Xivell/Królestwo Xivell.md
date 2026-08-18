@@ -1,9 +1,9 @@
 ---
 tags:
-  - lokacja
+  - location
   - xivell
-  - królestwo-xivell
-  - planeta-xivell
+  - kingdom-xivell
+  - planet-xivell
 aliases:
   - Zjednoczone Królestwo Xivell, Greteron i Cimovell
 ---

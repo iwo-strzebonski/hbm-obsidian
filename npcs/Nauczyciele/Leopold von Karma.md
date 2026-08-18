@@ -1,9 +1,9 @@
 ---
 tags:
   - npc
-  - człowiek
-  - nekromancja
-  - nauczyciel
+  - human
+  - necromancy
+  - teacher
 aliases: []
 ---
 | **Zdjęcie**             | **                                                    |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - organizacja
+  - organization
 ---
 - [Federacja Sol-3](organizations/Federacja%20Sol-3.md)
 	- [Projekt "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)

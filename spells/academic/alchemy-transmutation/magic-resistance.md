@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - zaklęcia
   - academic
   - alchemy-transmutation
 castingMode: standard

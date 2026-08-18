@@ -1,7 +1,7 @@
 ---
 tags:
-  - organizacja
-  - inkwizycja
+  - organization
+  - inquisition
 ---
 
 | **Zdjęcie**                   | <img src="inkwizycja.jpg" width="200" alt="inkwizycja.jpg"> |

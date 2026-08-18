@@ -1,8 +1,8 @@
 ---
 tags:
-  - organizacja
-  - projekt-starlight
-  - federacja-sol-3
+  - organization
+  - project-starlight
+  - federation-sol-3
 aliases:
   - Wojska Specjalne ds. Obrony Planet Członkowskich Federacji Sol-3
   - Projekt "Starlight"

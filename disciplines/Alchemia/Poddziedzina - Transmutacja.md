@@ -1,10 +1,10 @@
 ---
 tags:
-  - alchemia
-  - transmutacja
-  - magia
-  - "#taumaturgia"
-  - magia-akademicka
+  - alchemy
+  - transmutation
+  - magic
+  - thaumaturgy
+  - academic-magic
 aliases:
   - Alchemia (Transmutacja)
 ---

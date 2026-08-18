@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-żywiołów
-  - magia-ziemi
-  - magia-akademicka
+  - magic
+  - elemental-magic
+  - earth-magic
+  - academic-magic
 aliases:
   - Magia Ziemi
 ---

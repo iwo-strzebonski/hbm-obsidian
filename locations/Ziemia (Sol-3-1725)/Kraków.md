@@ -1,9 +1,9 @@
 ---
 tags:
-  - lokacja
-  - ziemia
-  - miasto
-  - kraków
+  - location
+  - earth
+  - city
+  - krakow
 aliases:
   - Kraków
 status: kanoniczna

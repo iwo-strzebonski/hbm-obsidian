@@ -1,12 +1,12 @@
 ---
 tags:
   - npc
-  - federacja-sol-3
-  - projekt-starlight
-  - człowiek
-  - mag
-  - wiedźmia-magia
-  - siły-specjalne-gaja
+  - federation-sol-3
+  - project-starlight
+  - human
+  - mage
+  - witch-magic
+  - special-forces-gaia
 ---
 | **Zdjęcie**             | ![[.jpg\|200]]                                                                                                                          |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |

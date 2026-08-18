@@ -1,7 +1,7 @@
 ---
 tags:
-  - organizacja
-  - konsorcjum-gwiezdne-malferian
+  - organization
+  - malferian-star-consortium
 aliases:
   - Konsorcjum Malferian
   - Pierwsze Konsorcjum Gwiezdne Malferian

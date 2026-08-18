@@ -1,10 +1,10 @@
 ---
 tags:
   - npc
-  - konsorcjum-gwiezdne-malferian
-  - malferianin
-  - dyplomata
-  - szpieg
+  - malferian-star-consortium
+  - malferian
+  - diplomat
+  - spy
 aliases:
   - Zayis
   - Księżniczka Zayis

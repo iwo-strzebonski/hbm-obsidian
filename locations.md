@@ -1,6 +1,6 @@
 ---
 tags:
-  - lokacja
+  - location
 ---
 - [Hiondirs-4](locations/Hiondirs-4/Hiondirs-4.md)
 - [Ziemia (Sol-3-1725)](locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md)

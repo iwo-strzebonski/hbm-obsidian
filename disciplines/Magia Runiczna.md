@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - magia-runiczna
-  - taumaturgia
+  - magic
+  - rune-magic
+  - thaumaturgy
 ---
 
 # Magia Runiczna

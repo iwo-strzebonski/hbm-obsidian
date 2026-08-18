@@ -1,15 +1,15 @@
 ---
 tags:
   - npc
-  - "#otchłań"
-  - "#kult-otchłani"
+  - abyss
+  - abyss-cult
 ---
 | **Zdjęcie**         | <img src="../../_assets/npc/tempus/tempus.jpg" width="200" alt="tempus.jpg">         |
 | ------------------- | ----------------------------------------------------- |
 | **Imię (imiona)**   | *Tempus*                                              |
 | **Rasa**            | *n/d*                                                 |
 | **Wiek**            | *n/d*                                                 |
-| **Wzrost**          | **                                                    |
+| **Wzrost**          | *ok. 2 m*                                             |
 | **Dziedzina Magii** | *[Pierwotna Magia](../../disciplines/Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)* |
 | **Organizacje**     | *[Kult Otchłani](../../organizations/Kult%20Otchłani.md)*                                   |
 | **Pseudonim(y)**    | **                                                    |

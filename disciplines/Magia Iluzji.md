@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - magia-iluzji
-  - magia-akademicka
+  - magic
+  - illusion-magic
+  - academic-magic
 ---
 
 # Magia Iluzji

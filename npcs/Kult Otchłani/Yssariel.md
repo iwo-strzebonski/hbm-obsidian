@@ -1,11 +1,11 @@
 ---
 tags:
   - npc
-  - kult-otchłani
-  - posłaniec
+  - abyss-cult
+  - messenger
   - elf
   - tempus
-  - cofnięcie
+  - reversal
 aliases:
   - Posłaniec Cofnięcia
   - Posłaniec Bólu

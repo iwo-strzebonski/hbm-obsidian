@@ -1,20 +1,20 @@
 ---
 tags:
   - npc
-  - "#otchłań"
-  - "#kult-otchłani"
+  - abyss
+  - abyss-cult
 ---
 | **Zdjęcie**         | <img src="../../_assets/npc/mundus/mundus.jpg" width="200" alt="mundus.jpg">         |
 | ------------------- | ----------------------------------------------------- |
 | **Imię (imiona)**   | *Mundus*                                              |
 | **Rasa**            | *n/d*                                                 |
 | **Wiek**            | *n/d*                                                 |
-| **Wzrost**          | **                                                    |
+| **Wzrost**          | *ok. 2 m*                                             |
 | **Dziedzina Magii** | *[Pierwotna Magia](../../disciplines/Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)* |
 | **Organizacje**     | *[Kult Otchłani](../../organizations/Kult%20Otchłani.md)*                                   |
 | **Pseudonim(y)**    | **                                                    |
 | **Tytuł(y)**        | *<ul><li>Istnienie</li><li>Teraźniejszość</li></ul>*  |
-| **Charakter**       | **                                                    |
+| **Charakter**       | *Sprawia wrażenie niespełna rozumu - wciąż wyrachowana, lecz jej działania bywają zaburzone przez tysiąclecia szaleństwa zadanego jej przez [Nil](Nil.md) (Otchłań/Abyss). Komunikując się z kimkolwiek, nie posługuje się słowami - przekazuje obrazy wprost do umysłu rozmówcy.* |
 
 Imię jej oznacza „Świat”. To właśnie Mundus jest odpowiedzialna za życie i istnienie światów. Ona jest światłem gwiazd rozświetlających noc. Ona jest gwarancją tego, że jutro obudzi nas słońce nowego dnia. Ona jest porami roku, kataklizmami i wszystkim, co żyje.
 

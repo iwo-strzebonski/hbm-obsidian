@@ -1,10 +1,10 @@
 ---
 tags:
   - npc
-  - kult-otchłani
-  - posłaniec
+  - abyss-cult
+  - messenger
   - demon
-  - sukkubica
+  - succubus
   - mundus
   - usa
 aliases:

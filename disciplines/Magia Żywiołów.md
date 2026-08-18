@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - magia-żywiołów
-  - magia-akademicka
+  - magic
+  - elemental-magic
+  - academic-magic
 ---
 
 # Magia Żywiołów

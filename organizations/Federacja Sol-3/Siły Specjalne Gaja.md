@@ -1,8 +1,8 @@
 ---
 tags:
-  - organizacja
-  - federacja-sol-3
-  - siły-specjalne-gaja
+  - organization
+  - federation-sol-3
+  - special-forces-gaia
 aliases:
   - Siły Specjalne "Gaja"
 ---

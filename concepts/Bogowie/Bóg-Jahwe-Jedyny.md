@@ -2,7 +2,7 @@
 tags:
   - foundry/compendium/concepts
   - concept
-  - bóstwo
+  - deity
 ---
 # Bóg-Jahwe-Jedyny
 

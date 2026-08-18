@@ -1,7 +1,7 @@
 ---
 tags:
-  - magia
-  - magia-szkarłatu
-  - zakazana-wiedza
+  - magic
+  - crimson-magic
+  - forbidden-knowledge
 ---
 # STUB

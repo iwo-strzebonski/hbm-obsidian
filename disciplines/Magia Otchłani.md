@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - magia-otchłani
-  - zakazana-wiedza
+  - magic
+  - abyss-magic
+  - forbidden-knowledge
 ---
 
 # Magia Otchłani

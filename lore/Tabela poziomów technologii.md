@@ -1,8 +1,8 @@
 ---
 tags:
-  - technologia
-  - porównanie
-  - tabela
+  - technology
+  - comparison
+  - table
   - lore
 aliases:
   - Poziomy technologii

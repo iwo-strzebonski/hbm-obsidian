@@ -1,10 +1,10 @@
 ---
 tags:
   - npc
-  - człowiek
-  - federacja-sol-3
-  - szkarłatny-kult
-  - agent-podwójny
+  - human
+  - federation-sol-3
+  - crimson-cult
+  - double-agent
 aliases: []
 ---
 | **Zdjęcie**             | **                                                                                             |

@@ -2,8 +2,8 @@
 tags:
   - foundry/compendium/locations
   - location
-  - pustkowia
-  - szkarłatny-kult
+  - wastelands
+  - crimson-cult
 ---
 
 # Szkarłatne Pustkowia

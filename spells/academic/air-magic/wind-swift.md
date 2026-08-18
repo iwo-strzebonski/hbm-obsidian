@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - zaklęcia
   - academic
   - air-magic
 castingMode: standard

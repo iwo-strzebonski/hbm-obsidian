@@ -1,6 +1,6 @@
 ---
 tags:
-  - konflikt
+  - conflict
 ---
 ## Konflikty
 - [Pierwsza Wojna Federacji Sol-3 i Malferian](conflicts/Pierwsza%20Wojna%20Federacji%20Sol-3%20i%20Malferian.md)

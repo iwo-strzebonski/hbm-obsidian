@@ -2,7 +2,7 @@
 tags:
   - foundry/compendium/organizations
   - organization
-  - sekta
+  - sect
 ---
 # Sekty
 

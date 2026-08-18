@@ -1,10 +1,10 @@
 ---
 tags:
   - npc
-  - wiedźmia-magia
-  - mag
-  - człowiek
-  - nauczyciel
+  - witch-magic
+  - mage
+  - human
+  - teacher
 aliases:
   - Urszula Callistis
   - Chariot du Nord

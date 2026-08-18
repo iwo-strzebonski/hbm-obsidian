@@ -2,7 +2,7 @@
 tags:
   - foundry/compendium/concepts
   - concept
-  - bóstwo
+  - deity
 ---
 # Afrodyta-Wenus, bogini miłości i płodności
 

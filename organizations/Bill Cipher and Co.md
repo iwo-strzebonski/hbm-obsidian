@@ -1,6 +1,6 @@
 ---
 tags:
-  - organizacja
+  - organization
   - bill-cipher-and-co
   - komedia
   - gravity-falls

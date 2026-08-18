@@ -1,10 +1,10 @@
 ---
 tags:
-  - ziemia
+  - earth
   - sol-3
-  - lokacja
-  - planeta
-  - planeta-ziemia
+  - location
+  - planet
+  - planet-earth
   - lore
 book: Przewodnik Ludzkości po Magicznym Świecie
 ---

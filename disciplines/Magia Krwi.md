@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-krwi
-  - zakazana-wiedza
-  - "#lore"
+  - magic
+  - blood-magic
+  - forbidden-knowledge
+  - lore
 book: Arcanum Sanguinis
 ---
 ## Spis Treści

@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - źródło-mocy
-  - magia-akademicka
+  - magic
+  - power-source
+  - academic-magic
 ---
 Źródła Mocy są źródłami many dla magów. Nie potrafią rzucać zaklęć, mogą jedynie przekazywać swoją moc innym bądź wzmacniać rzucone już zaklęcia.
 Podstawową różnicą między Źródłami Mocy a magami jest pojemność - Źródła mają o wiele więcej many.

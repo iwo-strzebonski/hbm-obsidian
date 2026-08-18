@@ -1,11 +1,11 @@
 ---
 tags:
-  - mag
-  - magia-krwi
+  - mage
+  - blood-magic
   - npc
-  - królestwo-zaryn
-  - człowiek
-  - bóstwo
+  - kingdom-zaryn
+  - human
+  - deity
 aliases:
   - Bóg Krwi
   - Król Królestwa Zaryn
@@ -24,7 +24,7 @@ aliases:
 | **Organizacje**         | *[Królestwo Zaryn](../../locations/Xivell/Królestwo%20Zaryn.md)*                                                                                                                                                                                                 |
 | **Pseudonim(y)**        | *<ul><li>Ten, Który jest Mroczny (przez wrogów)</li><li>Niszczyciel [Xivell] (przez [Nadwornego Taumaturga Królestwa Xivell](../Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md)) </li></ul>*                                          |
 | **Tytuł(y)**            | *<ul><li>[Książę Księstw Wyspowych Zaryn](../../locations/Xivell/Królestwo%20Zaryn.md) (od ok. 550 r. Przed Upadkiem do 430 r. Przed Upadkiem)</li><li>Król Królestwa Zaryn (od 99 r. Przed Upadkiem)</li><li>Bóg Krwi (pośmiertnie)</li></ul>* |
-| **Charakter**           | **                                                                                                                                                                                                                    |
+| **Charakter**           | *Niegdyś chłodny, wyrachowany strateg, głęboko refleksyjny i dalekowzroczny, unikający przemocy dla samej przemocy pomimo miana „artysty przemocy”; obecnie złamany i zdesperowany, obsesyjnie skupiony na jednym celu - odzyskaniu utraconej potęgi i zemście na Pierwszym Patriarsze, gotów w tym celu manipulować nawet całą Federacją Sol-3.* |
 | **Rok śmierci**         | *8 r. Po Upadku*                                                                                                                                                                                                      |
 
 

@@ -2,8 +2,8 @@
 tags:
   - foundry/compendium/items
   - item
-  - artefakt
-  - szkarłatny-kult
+  - artifact
+  - crimson-cult
 ---
 
 # Wielka Księga Obrzędów

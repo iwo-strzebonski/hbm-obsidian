@@ -2,7 +2,7 @@
 title: Konflikt o Nil
 status: kanoniczna
 tags:
-  - konflikt
+  - conflict
   - Nil
   - sub-konflikt
 aliases:

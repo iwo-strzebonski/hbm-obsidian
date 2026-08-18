@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - zaklęcia
   - academic
   - illusion-magic
 castingMode: standard

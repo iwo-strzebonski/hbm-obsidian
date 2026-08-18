@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - zaklęcia
   - general
   - superspells
 castingMode: standard

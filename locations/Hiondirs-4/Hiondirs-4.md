@@ -1,9 +1,9 @@
 ---
 tags:
-  - lokacja
-  - planeta
+  - location
+  - planet
   - hiondirs-4
-  - planeta-hiondirs-4
+  - planet-hiondirs-4
   - lore
 book: Przewodnik Ludzkości po Magicznym Świecie
 ---

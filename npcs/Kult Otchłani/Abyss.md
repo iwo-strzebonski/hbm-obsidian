@@ -1,9 +1,9 @@
 ---
 tags:
   - npc
-  - otchłań
-  - kult-otchłani
-  - pierwotny-byt
+  - abyss
+  - abyss-cult
+  - primordial-being
 aliases:
   - Otchłań (byt)
   - Pierwotna Otchłań

@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-otchłani
-  - magia-aspektów
-  - zakazana-wiedza
+  - magic
+  - abyss-magic
+  - aspect-magic
+  - forbidden-knowledge
 aliases:
   - Magia Aspektów
 ---

@@ -1,9 +1,9 @@
 ---
 tags:
-  - alchemia
-  - warzenie-eliksirów
-  - magia
-  - magia-akademicka
+  - alchemy
+  - potion-brewing
+  - magic
+  - academic-magic
 aliases:
   - Alchemia (Warzenie Eliksirów)
 ---

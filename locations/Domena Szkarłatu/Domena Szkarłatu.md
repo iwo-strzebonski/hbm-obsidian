@@ -2,8 +2,8 @@
 tags:
   - foundry/compendium/locations
   - location
-  - domena
-  - szkarłatny-kult
+  - domain
+  - crimson-cult
 ---
 
 # Domena Szkarłatu

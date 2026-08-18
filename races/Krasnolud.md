@@ -1,7 +1,7 @@
 ---
 tags:
-  - rasa
-  - krasnolud
+  - race
+  - dwarf
 ---
 
 # Krasnolud

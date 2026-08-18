@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - golemancja
-  - taumaturgia
-  - magia-akademicka
+  - magic
+  - golemancy
+  - thaumaturgy
+  - academic-magic
 ---
 - [Definicja](#definicja)
 - [Historia szkoły](#historia-szkoły)

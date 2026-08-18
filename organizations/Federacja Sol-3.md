@@ -1,6 +1,6 @@
 ---
 tags:
-  - organizacja
+  - organization
 aliases:
   - Federacja Zjednoczonych Planet Sol-3
 ---

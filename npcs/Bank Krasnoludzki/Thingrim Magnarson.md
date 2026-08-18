@@ -1,9 +1,9 @@
 ---
 tags:
   - npc
-  - krasnolud
-  - mistrz-run
-  - bankier
+  - dwarf
+  - rune-master
+  - banker
 aliases:
   - Twarz Banku
 ---

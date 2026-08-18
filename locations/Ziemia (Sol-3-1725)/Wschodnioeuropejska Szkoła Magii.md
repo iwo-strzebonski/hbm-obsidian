@@ -1,8 +1,8 @@
 ---
 tags:
-  - lokacja
-  - organizacja
-  - planeta-ziemia
+  - location
+  - organization
+  - planet-earth
 aliases:
   - WeSM
 ---

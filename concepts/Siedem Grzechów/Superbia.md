@@ -2,7 +2,7 @@
 tags:
   - foundry/compendium/concepts
   - concept
-  - grzech
+  - sin
 ---
 # Superbia - Pycha
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - organizacja
-  - krasnolud
+  - organization
+  - dwarf
   - bank
 aliases:
   - Bank Krasnoludzki

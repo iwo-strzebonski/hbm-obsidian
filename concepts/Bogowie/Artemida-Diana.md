@@ -2,7 +2,7 @@
 tags:
   - foundry/compendium/concepts
   - concept
-  - bóstwo
+  - deity
 ---
 # Artemida-Diana, Bogini Lasów, Księżyca i Łowów
 

@@ -1,9 +1,9 @@
 ---
 tags:
-  - lokacja
-  - ziemia
-  - miasto
-  - zürich
+  - location
+  - earth
+  - city
+  - zurich
 aliases:
   - Zürich
   - Zurych

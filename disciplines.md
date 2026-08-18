@@ -1,6 +1,6 @@
 ---
 tags:
-  - magia
+  - magic
 ---
 - Dziedziny Akademickie:
 	- [Taumaturgia](disciplines/Taumaturgia.md)

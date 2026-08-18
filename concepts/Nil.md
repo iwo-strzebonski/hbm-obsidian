@@ -1,8 +1,8 @@
 ---
 tags:
-  - koncept
-  - otchłań
-  - personifikacja
+  - concept
+  - abyss
+  - personification
 ---
 # Nil
 

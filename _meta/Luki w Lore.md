@@ -1,7 +1,7 @@
 ---
 tags:
   - meta
-  - do-uzupełnienia
+  - todo
 ---
 # Luki w Lore — do uzupełnienia
 

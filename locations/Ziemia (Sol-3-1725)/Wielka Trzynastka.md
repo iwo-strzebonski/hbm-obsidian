@@ -1,9 +1,9 @@
 ---
 tags:
-  - lokacja
-  - szkoła-magii
-  - ziemia
-  - trzynastka
+  - location
+  - magic-school
+  - earth
+  - the-thirteen
 aliases:
   - Wielka Trzynastka
   - Trzynaście Szkół Magii

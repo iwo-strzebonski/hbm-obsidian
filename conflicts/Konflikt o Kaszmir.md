@@ -2,8 +2,8 @@
 title: Konflikt o Kaszmir
 status: kanoniczna
 tags:
-  - konflikt
-  - Kaszmir
+  - conflict
+  - kashmir
   - sub-konflikt
 aliases:
   - Kaszmir

@@ -2,9 +2,9 @@
 tags:
   - foundry/compendium/items
   - item
-  - artefakt
-  - otchłań
-  - broń
+  - artifact
+  - abyss
+  - weapon
 ---
 
 # Miotacz Entropii (Ulepszenie: Miotacz Energii)

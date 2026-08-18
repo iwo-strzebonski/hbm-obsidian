@@ -1,13 +1,13 @@
 ---
 tags:
-  - "#projekt-starlight"
+  - project-starlight
   - npc
-  - człowiek
-  - mag
-  - federacja-sol-3
-  - magia-żywiołów
-  - magia-powietrza
-  - siły-specjalne-gaja
+  - human
+  - mage
+  - federation-sol-3
+  - elemental-magic
+  - air-magic
+  - special-forces-gaia
 aliases:
   - Siergiej Konstantynowicz Żukow
 ---

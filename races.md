@@ -1,6 +1,6 @@
 ---
 tags:
-  - rasa
+  - race
 ---
 - [Anioł](races/Anioł.md)
 - [Człowiek](races/Człowiek.md)

@@ -1,9 +1,9 @@
 ---
 tags:
   - npc
-  - szkarłatny-kult
-  - taumaturg
-  - patriarcha
+  - crimson-cult
+  - thaumaturge
+  - patriarch
   - avatar
 aliases: 
   - Pierwszy Patriarcha

@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - magia-sakralna
-  - magia-akademicka
+  - magic
+  - sacred-magic
+  - academic-magic
 ---
 
 # Magia Sakralna

@@ -1,7 +1,7 @@
 ---
 tags:
-  - magia
-  - wiedźmia-magia
+  - magic
+  - witch-magic
 ---
 Spis treści
 - [Wstęp](#wstęp)

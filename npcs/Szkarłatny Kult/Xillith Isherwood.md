@@ -1,8 +1,8 @@
 ---
 tags:
   - npc
-  - szkarłatny-kult
-  - taumaturg
+  - crimson-cult
+  - thaumaturge
   - xivell
   - avatar
 aliases:

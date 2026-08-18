@@ -1,7 +1,7 @@
 ---
 tags:
-  - magia
-  - dzika-wiedźmia-magia
+  - magic
+  - wild-witch-magic
 ---
 - [Sabaty i hierarchia](#sabaty-i-hierarchia)
 	- [Sabat Otchłani](#sabat-otchłani)

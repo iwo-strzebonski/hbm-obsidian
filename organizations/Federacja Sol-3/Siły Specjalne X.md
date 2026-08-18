@@ -1,8 +1,8 @@
 ---
 tags:
-  - organizacja
-  - federacja-sol-3
-  - siły-specjalne-x
+  - organization
+  - federation-sol-3
+  - task-force-x
 aliases:
   - Task Force X
 ---

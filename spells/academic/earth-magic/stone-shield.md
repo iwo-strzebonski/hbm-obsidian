@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - zaklęcia
   - academic
   - earth-magic
 castingMode: standard

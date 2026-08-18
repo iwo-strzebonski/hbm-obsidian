@@ -1,11 +1,11 @@
 ---
 tags:
-  - człowiek
-  - mag
-  - rzemiosło-artefaktów
-  - uczeń
-  - kult-otchłani
-  - posłaniec-otchłani
+  - human
+  - mage
+  - artifact-crafting
+  - student
+  - abyss-cult
+  - abyss-messenger
   - npc
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/diana-koniecpolska/diana-profile.png" width="200" alt="diana-profile.png">                                                                                                                                                                                   |

@@ -1,9 +1,9 @@
 ---
 tags:
   - npc
-  - wiedźmia-magia
-  - mag
-  - człowiek
+  - witch-magic
+  - mage
+  - human
   - brytyjska-akademia-wiedźm
 aliases: []
 ---

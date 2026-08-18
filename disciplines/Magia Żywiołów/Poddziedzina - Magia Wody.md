@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-żywiołów
-  - magia-wody
-  - magia-akademicka
+  - magic
+  - elemental-magic
+  - water-magic
+  - academic-magic
 aliases:
   - Magia Wody
 ---

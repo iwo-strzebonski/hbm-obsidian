@@ -2,8 +2,8 @@
 title: Konflikt o Tajwan
 status: kanoniczna
 tags:
-  - konflikt
-  - Tajwan
+  - conflict
+  - taiwan
   - sub-konflikt
 aliases:
   - Tajwan

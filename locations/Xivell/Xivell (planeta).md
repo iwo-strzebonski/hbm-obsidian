@@ -1,9 +1,9 @@
 ---
 tags:
   - xivell
-  - lokacja
-  - planeta
-  - planeta-xivell
+  - location
+  - planet
+  - planet-xivell
 ---
 
 | **Zdjęcie**                      | <img src="../../_assets/locations/xivell/planet.jpg" width="200" alt="planet.jpg">                                                               |

@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-żywiołów
-  - magia-ognia
-  - magia-akademicka
+  - magic
+  - elemental-magic
+  - fire-magic
+  - academic-magic
 aliases:
   - Magia Ognia
 ---

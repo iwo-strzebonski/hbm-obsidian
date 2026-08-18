@@ -1,9 +1,9 @@
 ---
 tags:
-  - lokacja
-  - królestwo-zaryn
+  - location
+  - kingdom-zaryn
   - zaryn
-  - planeta-xivell
+  - planet-xivell
 aliases:
   - Królestwo Wysp Zaryn
 ---

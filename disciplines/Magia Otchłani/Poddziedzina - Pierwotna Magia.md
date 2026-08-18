@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-otchłani
-  - pierwotna-magia
-  - zakazana-wiedza
+  - magic
+  - abyss-magic
+  - primal-magic
+  - forbidden-knowledge
 aliases:
   - Pierwotna Magia
 ---

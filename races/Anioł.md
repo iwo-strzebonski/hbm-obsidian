@@ -1,7 +1,7 @@
-﻿---
+---
 tags:
-  - rasa
-  - anioł
+  - race
+  - angel
 ---
 
 # Anioł

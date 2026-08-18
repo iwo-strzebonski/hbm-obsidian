@@ -2,10 +2,10 @@
 tags:
   - npc
   - elf
-  - mag
-  - źródło-mocy
+  - mage
+  - power-source
   - hiondirs-4
-  - uczeń
+  - student
 aliases:
   - Aurora Nylabelle
   - Księżniczka Aurora

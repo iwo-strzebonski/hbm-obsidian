@@ -1,9 +1,9 @@
 ---
 tags:
-  - rzemiosło-artefaktów
-  - magia
-  - taumaturgia
-  - magia-akademicka
+  - artifact-crafting
+  - magic
+  - thaumaturgy
+  - academic-magic
 ---
 Spis treści
 - [Wstęp](#wstęp)

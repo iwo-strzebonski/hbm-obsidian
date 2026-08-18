@@ -1,10 +1,10 @@
 ---
 tags:
-  - lokacja
-  - planeta
-  - krasnoludy
+  - location
+  - planet
+  - dwarf
   - khazad-morul
-  - dom-morul
+  - house-morul
 aliases:
   - Khazad-Morul
   - Dom Morul

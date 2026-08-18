@@ -1,8 +1,8 @@
 ---
 tags:
-  - magia
-  - taumaturgia
-  - magia-akademicka
+  - magic
+  - thaumaturgy
+  - academic-magic
 ---
 
 # Taumaturgia

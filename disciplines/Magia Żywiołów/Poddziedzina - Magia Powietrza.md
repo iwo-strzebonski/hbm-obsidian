@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - magia-żywiołów
-  - magia-powietrza
-  - magia-akademicka
+  - magic
+  - elemental-magic
+  - air-magic
+  - academic-magic
 aliases:
   - Magia Powietrza
 ---

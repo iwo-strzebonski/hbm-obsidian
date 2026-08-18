@@ -1,8 +1,8 @@
 ---
 tags:
-  - organizacja
-  - federacja-sol-3
-  - wybrańcy-herosów
+  - organization
+  - federation-sol-3
+  - chosen-heroes
 aliases:
   - '"Wybrańcy Herosów"'
 ---

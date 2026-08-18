@@ -1,6 +1,6 @@
 ---
 tags:
-  - koncept
+  - concept
 ---
 - [Otchłań](concepts/Otchłań/Otchłań.md)
 - [Szkoły Magii](concepts/Szkoły%20Magii/Szkoły%20Magii.md)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - organizacja
+  - organization
 ---
 ## Rok rozpoczęcia 2024
 - [Klasa Pi rok 2024-2025](classes/Klasa%20Pi%20rok%202024-2025.md)

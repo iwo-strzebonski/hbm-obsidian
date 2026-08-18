@@ -2,8 +2,8 @@
 tags:
   - foundry/compendium/locations
   - location
-  - twierdza
-  - szkarłatny-kult
+  - fortress
+  - crimson-cult
 ---
 
 # Twierdze Szkarłatnego Kultu

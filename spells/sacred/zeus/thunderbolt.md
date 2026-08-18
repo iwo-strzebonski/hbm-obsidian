@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - zaklęcia
   - sacred
   - zeus
 castingMode: sacred

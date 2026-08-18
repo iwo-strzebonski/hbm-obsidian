@@ -1,11 +1,11 @@
 ---
 tags:
   - npc
-  - kult-otchłani
-  - mag
-  - człowiek
-  - magia-otchłani
-  - sabat
+  - abyss-cult
+  - mage
+  - human
+  - abyss-magic
+  - coven
 aliases: []
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/karolina-fey/student/karolina-fey-student.webp" width="200" alt="karolina-fey-student.webp"> <img src="../../_assets/npc/karolina-fey/agent/karolina-fey-agent.webp" width="200" alt="karolina-fey-agent.webp"> |

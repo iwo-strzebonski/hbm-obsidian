@@ -1,8 +1,8 @@
 ---
 tags:
   - npc
-  - krasnolud
-  - bankier
+  - dwarf
+  - banker
 aliases: []
 ---
 | **Zdjęcie**              | **                                                                            |

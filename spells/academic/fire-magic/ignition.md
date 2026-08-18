@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - zaklęcia
   - academic
   - fire-magic
 castingMode: standard

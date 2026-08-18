@@ -1,13 +1,13 @@
 ---
 tags:
-  - człowiek
-  - mag
-  - rzemiosło-artefaktów
-  - federacja-sol-3
-  - nauczyciel
+  - human
+  - mage
+  - artifact-crafting
+  - federation-sol-3
+  - teacher
   - npc
-  - siły-specjalne-gaja
-  - wybrańcy-herosów
+  - special-forces-gaia
+  - chosen-heroes
 ---
 
 | **Zdjęcie**             | <img src="../../_assets/npc/pelagius-caudex/pelagius-caudex.png" width="200" alt="pelagius-caudex.png">                                                                                                                                                                         |

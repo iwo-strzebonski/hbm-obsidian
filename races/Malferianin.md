@@ -1,7 +1,7 @@
-﻿---
+---
 tags:
-  - rasa
-  - malferianin
+  - race
+  - malferian
 ---
 
 # Malferianin

@@ -3,7 +3,7 @@ tags:
   - foundry/compendium/locations
   - location
   - obelisk
-  - szkarłatny-kult
+  - crimson-cult
 ---
 
 # Obsydianowe Obeliski

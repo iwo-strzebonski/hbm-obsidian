@@ -1,9 +1,9 @@
 ---
 tags:
-  - magia
-  - botanika
-  - taumaturgia
-  - magia-akademicka
+  - magic
+  - botany
+  - thaumaturgy
+  - academic-magic
 ---
 - [Definicja](#definicja)
 - [Historia szkoły](#historia-szkoły)

@@ -1,8 +1,8 @@
 ---
 tags:
-  - organizacja
-  - otchłań
-  - kult-otchłani
+  - organization
+  - abyss
+  - abyss-cult
 aliases:
   - Zakon Otwartego Oka
 ---
@@ -20,7 +20,7 @@ Kult nie ma jednej, spójnej hierarchii. Głównym celem Zakonu było sprowadzen
 
 Obecnie frakcje prezentują się następująco:
 - **Kult Mundus:** Najbardziej agresywna i aktywna obecnie frakcja na Ziemi.
-- **Kult Nil:** Praktycznie wymarł po tym, jak z powodów znanych tylko sobie, Nil zaczęła pozbywać się i mordować swoich własnych kultystów.
+- **Kult Nil:** Praktycznie wymarł, odkąd Nil zaczęła mordować własnych kultystów, uznawszy ich za potencjalne zagrożenie dla [Diany Koniecpolskiej](../npcs/Uczniowie/Diana%20Koniecpolska.md), jej przyjaciół i życia, które Nil chce teraz budować.
 - **Kult Tempusa:** Praktycznie nieistniejący na Ziemi Sol-3-1725.
 
 Najważniejszymi postaciami w świecie materialnym są Posłańcy – awatary woli bóstw (np. [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md), Szaarael, Yssariel).
