@@ -5,20 +5,20 @@ tags:
 ---
 # Luki w Lore — do uzupełnienia
 
-Zestawienie brakujących lub niedokończonych elementów wykryte podczas audytu vaulta (2026-08-17). To dokument roboczy (meta), nie lore w świecie gry — checklistę można kasować/aktualizować w miarę uzupełniania pozycji.
+Zestawienie brakujących lub niedokończonych elementów wykryte podczas audytu vaulta (2026-08-17). Zaktualizowano 2026-08-18 po pierwszej rundzie uzupełnień (commit `6fb72b0`). To dokument roboczy (meta), nie lore w świecie gry — checklistę można kasować/aktualizować w miarę uzupełniania pozycji.
 
-## Puste sekcje w plikach indeksowych (hub)
-- [ ] [npcs.md](../npcs.md) — sekcja "## Zakon Taumaturgów" jest pusta, mimo że [Zakon Taumaturgów](../organizations/Zakon%20Taumaturgów.md) wymienia trzech członków (Diana Koniecpolska, Zofia "Zonk" Zawadzka, "Mikrofalka" Nowak)
-- [ ] [player-characters.md](../player-characters.md) — plik istnieje, ale jest całkowicie pusty
-- [ ] [npcs.md](../npcs.md) — brak sekcji grupującej NPC dla organizacji [Siły Specjalne Gaja](../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md) oraz [Wybrańcy Herosów](../organizations/Federacja%20Sol-3/Wybrańcy%20Herosów.md) (obie wymienione w `organizations.md`, obie mają nazwanych członków na własnych stronach)
+## Puste sekcje w plikach indeksowych (hub) — ROZWIĄZANE
+- [x] [npcs.md](../npcs.md) — sekcja "## Zakon Taumaturgów" uzupełniona (Diana Koniecpolska, Zofia „Zonk” Zawadzka, „Mikrofalka” Nowak)
+- [x] [npcs.md](../npcs.md) — dodano sekcje dla [Siły Specjalne Gaja](../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md) i [Wybrańcy Herosów](../organizations/Federacja%20Sol-3/Wybrańcy%20Herosów.md)
+- [ ] [player-characters.md](../player-characters.md) — plik nadal całkowicie pusty
 
-## Brakujące wpisy w indeksach (strona istnieje, nie jest linkowana z npcs.md)
-- [ ] [npcs/Nemyo.md](../npcs/Nemyo.md) — alchemiczka Feles, nigdzie nie wymieniona w `npcs.md`
+## Brakujące wpisy w indeksach — ROZWIĄZANE
+- [x] [npcs/Nemyo.md](../npcs/Nemyo.md) — dodana do `npcs.md` (sekcja "Niezrzeszeni")
 
 ## Uszkodzone komórki tabel (niewypełniony placeholder `**` z szablonu)
 Problem systemowy — szablony w `_templates/` (NPC, Organizacja, Konflikt) zawierają dosłowny placeholder `**`, który w wielu realnych stronach nigdy nie został zastąpiony treścią.
 
-**Pole "Zdjęcie" puste/uszkodzone:**
+**Pole "Zdjęcie" puste/uszkodzone (wciąż otwarte):**
 - [ ] [npcs/Uczniowie/Maedinitia.md](../npcs/Uczniowie/Maedinitia.md)
 - [ ] [npcs/Uczniowie/Kiara.md](../npcs/Uczniowie/Kiara.md)
 - [ ] [npcs/Nemyo.md](../npcs/Nemyo.md)
@@ -34,24 +34,29 @@ Problem systemowy — szablony w `_templates/` (NPC, Organizacja, Konflikt) zawi
 - [ ] [npcs/Bank Krasnoludzki/Brogir Vane.md](../npcs/Bank%20Krasnoludzki/Brogir%20Vane.md)
 - [ ] [organizations/Federacja Sol-3/Siły Specjalne X.md](../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)
 
-**Inne pola uszkodzone** (Pseudonim / Tytuł / Charakter / Wzrost / Nazwa oficjalna / Siedziba / Ważniejsi członkowie / Szacowana liczba członków):
+**Inne pola uszkodzone (wciąż otwarte):**
+- [ ] [npcs/Kult Otchłani/Mundus.md](../npcs/Kult%20Otchłani/Mundus.md) — Pseudonim
+- [ ] [npcs/Kult Otchłani/Tempus.md](../npcs/Kult%20Otchłani/Tempus.md) — Pseudonim, Charakter
 - [ ] [npcs/Uczniowie/Diana Koniecpolska.md](../npcs/Uczniowie/Diana%20Koniecpolska.md) — Pseudonim
 - [ ] [npcs/Uczniowie/Aurora.md](../npcs/Uczniowie/Aurora.md) — Pseudonim
-- [ ] [npcs/Uczniowie/Anna Heide.md](../npcs/Uczniowie/Anna%20Heide.md) — Pseudonim, Tytuł, Charakter
 - [ ] [npcs/Szkarłatny Kult/Xillith Isherwood.md](../npcs/Szkarłatny%20Kult/Xillith%20Isherwood.md) — Pseudonim
 - [ ] [npcs/Szkarłatny Kult/Talonos Isherwood.md](../npcs/Szkarłatny%20Kult/Talonos%20Isherwood.md) — Pseudonim
-- [ ] [npcs/Narcyza Eleness Zurbach.md](../npcs/Narcyza%20Eleness%20Zurbach.md) — Pseudonim, Tytuł
-- [ ] [npcs/Magowie Krwi/Ten, Który jest Mroczny.md](../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) — Charakter
+- [ ] [npcs/Narcyza Eleness Zurbach.md](../npcs/Narcyza%20Eleness%20Zurbach.md) — Pseudonim
 - [ ] [npcs/Federacja Sol-3/Projekt Starlight/Serioża Żukow.md](../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md) — Pseudonim, Charakter
-- [ ] [npcs/Bill Cipher and Co/Bill Cipher.md](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md) — Wzrost, Pseudonim, Tytuł, Charakter
-- [ ] [npcs/Kult Otchłani/Mundus.md](../npcs/Kult%20Otchłani/Mundus.md) — Wzrost, Pseudonim, Charakter
-- [ ] [npcs/Kult Otchłani/Mistrz Losu.md](../npcs/Kult%20Otchłani/Mistrz%20Losu.md) — Tytuł, Charakter
-- [ ] [npcs/Kult Otchłani/Nil.md](../npcs/Kult%20Otchłani/Nil.md) — Wzrost, Charakter
-- [ ] [npcs/Kult Otchłani/Tempus.md](../npcs/Kult%20Otchłani/Tempus.md) — Wzrost, Pseudonim, Charakter
+- [ ] [npcs/Bill Cipher and Co/Bill Cipher.md](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md) — Wzrost, Pseudonim, Tytuł, Charakter (całkowicie puste)
 - [ ] [organizations/Federacja Sol-3/Wybrańcy Herosów.md](../organizations/Federacja%20Sol-3/Wybrańcy%20Herosów.md) — Nazwa oficjalna, Siedziba, Ważniejsi członkowie
 - [ ] [organizations/Federacja Sol-3/Projekt Starlight.md](../organizations/Federacja%20Sol-3/Projekt%20Starlight.md) — Szacowana liczba członków
 - [ ] [locations/Ziemia (Sol-3-1725)/Brytyjska Akademia Wiedźm.md](../locations/Ziemia%20%28Sol-3-1725%29/Brytyjska%20Akademia%20Wiedźm.md) — Nazwa potoczna
 - [ ] [conflicts/Pierwsza Wojna Federacji Sol-3 i Malferian.md](../conflicts/Pierwsza%20Wojna%20Federacji%20Sol-3%20i%20Malferian.md) — 3 uszkodzone komórki
+
+**Rozwiązane w pierwszej rundzie (commit `6fb72b0`):**
+- [x] Mistrz Losu — Tytuł(y), Charakter
+- [x] Mundus — Wzrost, Charakter
+- [x] Nil — Wzrost, Charakter
+- [x] Tempus — Wzrost
+- [x] Ten, Który jest Mroczny — Charakter
+- [x] Narcyza Eleness Zurbach — Tytuł(y)
+- [x] Anna Heide — Pseudonim, Tytuł, Charakter (ustawione na „—”, celowo N/A)
 
 ## Brakujące grafiki/portrety (pusty embed `![[.jpg|200]]`, brak nazwy pliku)
 - [ ] [organizations/Bill Cipher and Co.md](../organizations/Bill%20Cipher%20and%20Co.md)
@@ -65,10 +70,10 @@ Problem systemowy — szablony w `_templates/` (NPC, Organizacja, Konflikt) zawi
 - [ ] [organizations/Federacja Sol-3/Wybrańcy Herosów.md](../organizations/Federacja%20Sol-3/Wybrańcy%20Herosów.md) — status: *"W trakcie formowania"* (może być częściowo celowe fabularnie — organizacja faktycznie jest w budowie w świecie gry, ale puste pola tabeli warto i tak dopracować)
 
 ## Postacie wspomniane, ale bez własnej strony
-- Zofia "Zonk" Zawadzka i "Mikrofalka" Nowak — członkinie [Zakonu Taumaturgów](../organizations/Zakon%20Taumaturgów.md) wymienione w prozie strony, bez dedykowanej strony NPC. Prawdopodobnie celowo pominięte jako postacie drugoplanowe/komediowe — oznaczone tu tylko dla kompletności.
+- Zofia "Zonk" Zawadzka i "Mikrofalka" Nowak — członkinie [Zakonu Taumaturgów](../organizations/Zakon%20Taumaturgów.md) wymienione w prozie strony (i teraz też w `npcs.md`), bez dedykowanej strony NPC. Prawdopodobnie celowo pominięte jako postacie drugoplanowe/komediowe — oznaczone tu tylko dla kompletności.
 
 ## Uwaga stylistyczna (nie jest luką faktograficzną)
 - [Zakon Taumaturgów.md](../organizations/Zakon%20Taumaturgów.md) i [Siły Specjalne Gaja.md](../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md) mają zauważalnie bardziej "encyklopedyczny" styl nagłówków (np. "Tajemnice i Legendy...", "Znaczenie dla Federacji i Wszechświata") w porównaniu do innych stron organizacji — warto rozważyć ujednolicenie stylu przy okazji uzupełniania.
 
 ---
-*Wygenerowano podczas audytu vaulta 2026-08-17. Aktualizuj lub usuwaj pozycje w miarę ich uzupełniania.*
+*Wygenerowano podczas audytu vaulta 2026-08-17, zaktualizowano 2026-08-18 po pierwszej rundzie uzupełnień. Aktualizuj lub usuwaj pozycje w miarę ich uzupełniania.*
