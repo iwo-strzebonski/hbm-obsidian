@@ -7,7 +7,7 @@
 - 
 
 ### Nauczyciele
-- [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md) - Wychowawczyni
+- [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md) - Wychowawczyni
 
 ---
 ## Rok Szkolny 2027-2028

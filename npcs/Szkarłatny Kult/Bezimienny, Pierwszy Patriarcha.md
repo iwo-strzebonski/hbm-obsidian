@@ -73,4 +73,4 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 >
 > ### Interwencja podczas rytuału Nil
 >
-> To właśnie Bezimienny, działając przez ciało Xillitha Isherwooda, wraz z [Robertem Zarynem](../Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) przerwał [Nil](../Kult%20Otchłani/Nil.md) opętującą ciało [Diany Koniecpolskiej](../Uczniowie/Diana%20Koniecpolska.md) podczas nieudanej próby jej pełnej manifestacji na Ziemi, umożliwiając graczom ucieczkę i przerwanie rytuału. Czy zrobił to celowo, czy przypadkiem, walcząc w tym samym miejscu i czasie co Zaryn (jego jedyny żyjący wróg), pozostaje otwarte do ustalenia.
+> To właśnie Bezimienny, działając przez ciało Xillitha Isherwooda, wraz z [Robertem Zarynem](../Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) przerwał [Nil](../Kult%20Otchłani/Nil.md) opętującą ciało [Diany Koniecpolskiej](../Kult%20Otchłani/Diana%20Koniecpolska.md) podczas nieudanej próby jej pełnej manifestacji na Ziemi, umożliwiając graczom ucieczkę i przerwanie rytuału. Czy zrobił to celowo, czy przypadkiem, walcząc w tym samym miejscu i czasie co Zaryn (jego jedyny żyjący wróg), pozostaje otwarte do ustalenia.

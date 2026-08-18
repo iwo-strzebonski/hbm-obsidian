@@ -31,7 +31,7 @@ Ludzie są pragmatyczni - potrafią współpracować, ale też rywalizować z in
 Ludzie nie mają wrodzonych mocy, ale są wyjątkowo pojętni. Wielu wybitnych magów to właśnie ludzie. Są podatni na wpływ Otchłani, co czyni ich zarówno potężnymi czarownikami, jak i ofiarami spaczenia.
 
 ## Znani przedstawiciele
-- [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md)
+- [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md)
 - [Robert Zaryn](../npcs/Magowie%20Krwi/Robert%20Zaryn.md)
 - [Karolina Fey](../npcs/Federacja%20Sol-3/Karolina%20Fey.md)
 - [Serioża Żukow](../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)

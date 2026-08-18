@@ -277,7 +277,7 @@ Broń przegrzewa się po uzyskaniu pięciu Punktów Ciepła zamiast czterech a p
 ---
 
 > [!gm]+ Tylko dla MG - Diana Koniecpolska i ścieżka ku Posłańcowi
-> [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md) wydaje się być wzorową uczennicą-rzemieślniczką: turnieje, innowacje, chroniona przed naśladowcami. Jednak pod powierzchnią trwa coś głębszego. Diana spędza coraz więcej czasu na rozbudowie artefaktycznej infrastruktury przypominającej świątynne generatory energii - konstrukty przekraczające ramy standardowego rzemiosła. Nie potrafi wyjaśnić skąd przyszły pewne projekty; twierdzi, że „śniła o rozwiązaniach".
+> [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md) wydaje się być wzorową uczennicą-rzemieślniczką: turnieje, innowacje, chroniona przed naśladowcami. Jednak pod powierzchnią trwa coś głębszego. Diana spędza coraz więcej czasu na rozbudowie artefaktycznej infrastruktury przypominającej świątynne generatory energii - konstrukty przekraczające ramy standardowego rzemiosła. Nie potrafi wyjaśnić skąd przyszły pewne projekty; twierdzi, że „śniła o rozwiązaniach".
 >
 > Prawda (GM-only): [Nil](../npcs/Kult%20Otchłani/Nil.md) zaczęła nauczać Dianę przez sny, stopniowo otwierając jej umysł na percepcję Przeszłości. Ambicja Diany i obsesja na punkcie doskonałości technicznej otworzyły pęknięcie, przez które Nil rozszerzyła swój wpływ. Efektem jest [Posłaniec Przeszłości](../concepts/Otchłań/Posłańcy.md) - Diana nie wie jeszcze w pełni, czym się staje.
 >

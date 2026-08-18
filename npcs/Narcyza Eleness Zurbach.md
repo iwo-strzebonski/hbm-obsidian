@@ -34,11 +34,11 @@ Aby móc kogoś poznać - i nie zostać zaatakowaną przez kogoś potężniejsze
 
 ## Zainteresowania i umiejętności
 
-Narcyza jest utalentowana w rękodziele - część strojów i mundurków, które nosi ona sama oraz [Diana Koniecpolska](Uczniowie/Diana%20Koniecpolska.md), jest uszyta ręcznie przez Narcyzę. Obecnie jej ulubionym zajęciem w wolnym czasie jest malowanie minifigurek.
+Narcyza jest utalentowana w rękodziele - część strojów i mundurków, które nosi ona sama oraz [Diana Koniecpolska](Kult%20Otchłani/Diana%20Koniecpolska.md), jest uszyta ręcznie przez Narcyzę. Obecnie jej ulubionym zajęciem w wolnym czasie jest malowanie minifigurek.
 
 ## Relacje
 
-- **[Diana Koniecpolska](Uczniowie/Diana%20Koniecpolska.md)** - bliska znajoma; Narcyza uszyła dla niej część garderoby. Narcyza nie wie, że Diana od dawna zna prawdę o jej klątwie - ani że regularne "transfery many" między nimi służyły [Nil](Kult%20Otchłani/Nil.md) do przepuszczania eldryckiej magii przez klątwę, wprost do lorda demonów, który ją nałożył.
+- **[Diana Koniecpolska](Kult%20Otchłani/Diana%20Koniecpolska.md)** - bliska znajoma; Narcyza uszyła dla niej część garderoby. Narcyza nie wie, że Diana od dawna zna prawdę o jej klątwie - ani że regularne "transfery many" między nimi służyły [Nil](Kult%20Otchłani/Nil.md) do przepuszczania eldryckiej magii przez klątwę, wprost do lorda demonów, który ją nałożył.
 - **[Klara](Klara.md)** - poznała w WeSM młodą anielicę Klarę. Choć Narcyza chętnie wykorzystuje swoje ciało i zwykle niewiele obchodzą ją emocje - własne czy cudze - to, co czuje wobec Klary, jest inne: nie do końca miłość, ale silne, rosnące emocjonalne przywiązanie. Z czasem stały się sobie coraz bliższe, a Narcyza poświęciłaby dla niej wszystko.
 - **Sheliss Eleness Zurbach** (matka) - zaginiona, pojmana przez rywalizującego lorda demonów; jej odnalezienie jest ukrytym celem Narcyzy.
 
@@ -46,7 +46,7 @@ Narcyza jest utalentowana w rękodziele - część strojów i mundurków, które
 > **Klątwa:**
 > Narcyza nie wie, że jej stała utrata mocy to klątwa nałożona przez generała lorda demonów, który pojmał jej matkę - myśli, że to po prostu cecha potężnych demonów. Wydrenowana energia zasila jej porywacza. Zdjęcie klątwy oraz odkrycie przez Narcyzę prawdy o niej to potencjalne osie fabularne.
 >
-> **[Diana](Uczniowie/Diana%20Koniecpolska.md) i sekret klątwy:** Diana odkryła prawdę o klątwie w pierwszym roku szkoły, ale [Nil](Kult%20Otchłani/Nil.md) zabroniła jej ostrzec Narcyzę - zamiast tego nauczyła Dianę, jak przepuszczać przez klątwę własną, eldrycką magię, chcąc w ten sposób skorumpować lorda demonów, którego klątwa zasila. Diana wciąż nie powiedziała Narcyzie prawdy; to źródło potencjalnej, poważnej zdrady zaufania, gdy (lub jeśli) Narcyza się dowie.
+> **[Diana](Kult%20Otchłani/Diana%20Koniecpolska.md) i sekret klątwy:** Diana odkryła prawdę o klątwie w pierwszym roku szkoły, ale [Nil](Kult%20Otchłani/Nil.md) zabroniła jej ostrzec Narcyzę - zamiast tego nauczyła Dianę, jak przepuszczać przez klątwę własną, eldrycką magię, chcąc w ten sposób skorumpować lorda demonów, którego klątwa zasila. Diana wciąż nie powiedziała Narcyzie prawdy; to źródło potencjalnej, poważnej zdrady zaufania, gdy (lub jeśli) Narcyza się dowie.
 >
 > **Losy Sheliss Eleness Zurbach i tożsamość porywacza:**
 > Tożsamość rywalizującego lorda demonów oraz generała, który rzucił klątwę, a także obecny los Sheliss, pozostają na razie otwarte - do ustalenia przy dalszym rozwijaniu wątku.

@@ -3,7 +3,7 @@ tags:
   - npc
 ---
 ## Uczniowie
-- [Diana Koniecpolska](npcs/Uczniowie/Diana%20Koniecpolska.md), uczennica [klasy Pi (2024/25)](classes/Klasa%20Pi%20rok%202024-2025.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [Nil](npcs/Kult%20Otchłani/Nil.md)
+- [Diana Koniecpolska](npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), uczennica [klasy Pi (2024/25)](classes/Klasa%20Pi%20rok%202024-2025.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [Nil](npcs/Kult%20Otchłani/Nil.md)
 - [Aurora Nylabelle](npcs/Uczniowie/Aurora.md), uczennica [klasy Pd (2025/26)](classes/Klasa%20Pd%20rok%202025-2026.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Anna Heide](npcs/Uczniowie/Anna%20Heide.md), uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Narcyza Eleness Zurbach](npcs/Uczniowie/Narcyza%20Eleness%20Zurbach.md), arcysukkubica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
@@ -36,7 +36,7 @@ tags:
 - [Croix Meridies](npcs/Brytyjska%20Akademia%20Wiedźm/Croix%20Meridies.md), dawna przyjaciółka [Urszuli Callistis](npcs/Nauczyciele/Urszula%20Callistis.md), obecnie w nieznanym miejscu
 
 ## Zakon Taumaturgów
-- [Diana Koniecpolska](npcs/Uczniowie/Diana%20Koniecpolska.md), była przewodnicząca Koła (Zakonu Taumaturgów)
+- [Diana Koniecpolska](npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), była przewodnicząca Koła (Zakonu Taumaturgów)
 - Zofia „Zonk” Zawadzka, specjalistka od magicznych katastrof kuchennych, członkini Koła
 - „Mikrofalka” Nowak, wynalazca magicznej mikrofalówki, członek Koła
 

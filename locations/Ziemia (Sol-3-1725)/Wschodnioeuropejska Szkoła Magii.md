@@ -16,7 +16,7 @@ aliases:
 | **Liczba uczniów**    | 2000-3000                                                                                                       |
 | **Podział**           | Oddziały językowe (białoruski, bułgarski, czeski, rumuński, polski, rosyjski, słowacki, ukraiński, węgierski)   |
 | **Władze**            | *<ul><li>Rada Dyrektorska (m m.in. Minister Edukacji RP, Prezydent Miasta Krakowa)</li><li>[Klaus von Übertropp](../../npcs/Nauczyciele/Klaus%20von%20Übertropp.md) (do listopada 2026)</li><li>[Pelagius Caudex](../../npcs/Nauczyciele/Pelagius%20Caudex.md) (od listopada 2026)</li></ul>* |
-| **Znani uczniowie**   | [Diana Koniecpolska](../../npcs/Uczniowie/Diana%20Koniecpolska.md), [Aurora](../../npcs/Uczniowie/Aurora.md), [Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), [Xillith Isherwood](../../npcs/Szkarłatny%20Kult/Xillith%20Isherwood.md), [Talonos Isherwood](../../npcs/Szkarłatny%20Kult/Talonos%20Isherwood.md)    |
+| **Znani uczniowie**   | [Diana Koniecpolska](../../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), [Aurora](../../npcs/Uczniowie/Aurora.md), [Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), [Xillith Isherwood](../../npcs/Szkarłatny%20Kult/Xillith%20Isherwood.md), [Talonos Isherwood](../../npcs/Szkarłatny%20Kult/Talonos%20Isherwood.md)    |
 | **Znani nauczyciele** | [Pelagius Caudex](../../npcs/Nauczyciele/Pelagius%20Caudex.md), [Urszula Callistis](../../npcs/Nauczyciele/Urszula%20Callistis.md), [Leopold von Karma](../../npcs/Nauczyciele/Leopold%20von%20Karma.md)                                               |
 
 ## Opis

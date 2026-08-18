@@ -45,7 +45,7 @@ W wolnym czasie gra w MMO RPG - a właściwie w większości się na nie wściek
 
 - **[Talonos Isherwood](Talonos%20Isherwood.md)** - młodszy brat Xillitha. Obaj urodzili się już w [Szkarłatnym Kulcie](../../organizations/Szkarłatny%20Kult.md) (ich rodzice do niego dołączyli) i zostali szybko odebrani rodzicom, by od najmłodszych lat być indoktrynowani przez Kult. Przez lata służby byli od siebie mocno oddaleni - dopiero w WeSM mogą wreszcie być razem. Mimo bliskości, kilkukrotnie wyzywał go na pojedynek za same różnice zdań.
 - **[Bezimienny](Bezimienny,%20Pierwszy%20Patriarcha.md)** - duch, który opętał ciało Xillith.
-- **[Diana Koniecpolska](../Uczniowie/Diana%20Koniecpolska.md)** - szczerze jej nienawidzi. Po pierwsze, jest kultystką [Kultu Otchłani](../../organizations/Kult%20Otchłani.md) - i to wysoko postawioną, ulubienicą samej [Nil](../Kult%20Otchłani/Nil.md). Po drugie, i ważniejsze: swoimi działaniami naraża własne życie, życie przyjaciół i istnienie całej szkoły.
+- **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - szczerze jej nienawidzi. Po pierwsze, jest kultystką [Kultu Otchłani](../../organizations/Kult%20Otchłani.md) - i to wysoko postawioną, ulubienicą samej [Nil](../Kult%20Otchłani/Nil.md). Po drugie, i ważniejsze: swoimi działaniami naraża własne życie, życie przyjaciół i istnienie całej szkoły.
 
 > [!gm]+ Tylko dla MG
 > Xillith niemal zabił jednego z graczy, który (nieświadomie) pomógł [Kultowi Otchłani](../../organizations/Kult%20Otchłani.md) - dał się powstrzymać dopiero, gdy ta postać oddała mu Księgę Rytuałów.

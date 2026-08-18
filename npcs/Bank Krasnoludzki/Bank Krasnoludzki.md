@@ -37,7 +37,7 @@ Bank utrzymuje chłodne, lecz pragmatyczne stosunki ze [Świętą Inkwizycją](.
 
 ## Bank Krasnoludzki i WeSM
 
-Pod patronatem Thingrima Magnarsona Bank Krasnoludzki stał się głównym sponsorem Wielkiego Turnieju Magicznego w [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), fundując stypendia i unikalne artefakty dla najzdolniejszych adeptów. To właśnie dzięki występowi na tym turnieju [Diana Koniecpolska](../Uczniowie/Diana%20Koniecpolska.md) zwróciła na siebie uwagę Banku, który zlecił jej zaprojektowanie i zbudowanie sprzętu dla krasnoludzkich górników - proces okazał się dla niej wyczerpujący (tygodnie negocjacji z krasnoludzkimi prawnikami i inżynierami), ale ostatecznie dostarczone przez nią urządzenia zostały zatwierdzone, a sam Thingrim osobiście pochwalił ją za wytrwałość w starciu z krasnoludzką biurokracją.
+Pod patronatem Thingrima Magnarsona Bank Krasnoludzki stał się głównym sponsorem Wielkiego Turnieju Magicznego w [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), fundując stypendia i unikalne artefakty dla najzdolniejszych adeptów. To właśnie dzięki występowi na tym turnieju [Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md) zwróciła na siebie uwagę Banku, który zlecił jej zaprojektowanie i zbudowanie sprzętu dla krasnoludzkich górników - proces okazał się dla niej wyczerpujący (tygodnie negocjacji z krasnoludzkimi prawnikami i inżynierami), ale ostatecznie dostarczone przez nią urządzenia zostały zatwierdzone, a sam Thingrim osobiście pochwalił ją za wytrwałość w starciu z krasnoludzką biurokracją.
 
 ## Relacje z innymi rasami
 

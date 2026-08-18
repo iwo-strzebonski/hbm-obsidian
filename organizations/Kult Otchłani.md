@@ -20,10 +20,10 @@ Kult nie ma jednej, spójnej hierarchii. Głównym celem Zakonu było sprowadzen
 
 Obecnie frakcje prezentują się następująco:
 - **Kult Mundus:** Najbardziej agresywna i aktywna obecnie frakcja na Ziemi.
-- **Kult Nil:** Praktycznie wymarł, odkąd Nil zaczęła mordować własnych kultystów, uznawszy ich za potencjalne zagrożenie dla [Diany Koniecpolskiej](../npcs/Uczniowie/Diana%20Koniecpolska.md), jej przyjaciół i życia, które Nil chce teraz budować.
+- **Kult Nil:** Praktycznie wymarł, odkąd Nil zaczęła mordować własnych kultystów, uznawszy ich za potencjalne zagrożenie dla [Diany Koniecpolskiej](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), jej przyjaciół i życia, które Nil chce teraz budować.
 - **Kult Tempusa:** Praktycznie nieistniejący na Ziemi Sol-3-1725.
 
-Najważniejszymi postaciami w świecie materialnym są Posłańcy – awatary woli bóstw (np. [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md), Szaarael, Yssariel).
+Najważniejszymi postaciami w świecie materialnym są Posłańcy – awatary woli bóstw (np. [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), Szaarael, Yssariel).
 
 ## Filozofia i rytuały
 Kult głosi, że Otchłań nie jest złem, lecz prawem i fundamentem istnienia. Rytuały mają na celu zbliżenie się do prawdziwej natury rzeczywistości, akceptację chaosu i zmian oraz kontakt z Personifikacjami. Kluczowe są rytuały przywołania, medytacje nad obsydianowymi obeliskami i studiowanie Wielkiej Księgi Obrzędów (artefakt).
@@ -32,7 +32,7 @@ Kult głosi, że Otchłań nie jest złem, lecz prawem i fundamentem istnienia. 
 Kult praktykuje Magię Otchłani (patrz: [Magia Otchłani](../disciplines/Magia%20Otchłani.md)), w tym Magię Aspektów i Pierwotną Magię. Członkowie dążą do przekroczenia granic znanych dziedzin, często ryzykując spaczenie lub szaleństwo. Wielka Księga Obrzędów jest zarówno magicznym fokusem, jak i narzędziem inicjacji.
 
 ## Personifikacje i Posłańcy
-Nil, Mundus i Tempus są czczone jako świadomości Otchłani (patrz: [Personifikacje Otchłani](../concepts/Otchłań/Personifikacje%20Otchłani.md)). Każda wybiera własnych Posłańców, którzy stają się głosem i narzędziem kultu w świecie materialnym. Przykłady: [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md), [Szaarael](../npcs/Kult%20Otchłani/Szaarael.md), [Yssariel](../npcs/Kult%20Otchłani/Yssariel.md).
+Nil, Mundus i Tempus są czczone jako świadomości Otchłani (patrz: [Personifikacje Otchłani](../concepts/Otchłań/Personifikacje%20Otchłani.md)). Każda wybiera własnych Posłańców, którzy stają się głosem i narzędziem kultu w świecie materialnym. Przykłady: [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), [Szaarael](../npcs/Kult%20Otchłani/Szaarael.md), [Yssariel](../npcs/Kult%20Otchłani/Yssariel.md).
 
 ## Lokalizacje i symbole
 Główne miejsca kultu to obsydianowe obeliski, miejsca styku rzeczywistości z Otchłanią. Siedziby są ukryte, a zgromadzenia odbywają się w miejscach o silnej anomalii magicznej. Symbolem kultu jest otwarte oko wpisane w spiralę.
@@ -41,7 +41,7 @@ Główne miejsca kultu to obsydianowe obeliski, miejsca styku rzeczywistości z 
 - [Nil](../npcs/Kult%20Otchłani/Nil.md) (Personifikacja Nicości)
 - [Mundus](../npcs/Kult%20Otchłani/Mundus.md) (Personifikacja Istnienia)
 - [Tempus](../npcs/Kult%20Otchłani/Tempus.md) (Personifikacja Czasu)
-- [Diana Koniecpolska](../npcs/Uczniowie/Diana%20Koniecpolska.md) (Posłaniec Nil)
+- [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md) (Posłaniec Nil)
 - [Szaarael](../npcs/Kult%20Otchłani/Szaarael.md) (Posłaniec Mundus)
 - [Yssariel](../npcs/Kult%20Otchłani/Yssariel.md) (Posłaniec Tempusa)
 - [Syllia Orirel](../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) (Wyrocznia "pobłogosławiona" przez Mundus)
