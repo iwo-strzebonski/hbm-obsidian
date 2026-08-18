@@ -51,7 +51,7 @@ Robert Zaryn ma jeden główny cel, który pochłania każdą jego chwilę: **od
 
 Ale to nie jest zwykła ambicja. Zaryn jest w pełni świadomy, że jedyną drogą do zemsty jest stać się znowu tym, czym był - lub czymś potężniejszym. A zemsta ma konkretny adres: [Xillith / Pierwszy Patriarcha / Bezimienny](../Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md).
 
-Zaryn planuje też manipulować [Federacją Sol-3](../../organizations/Federacja%20Sol-3.md) - wykorzystując jej zasoby militarne i magiczne do „oczyszczenia” Xivell z pasożyta. Nie dlatego, że mu zależy na Xivell - ale dlatego, że to jedyny sposób na definitywne zniszczenie Pierwszego Patriarchy bez ryzyka, że pasożyt przeniesie się na nowego gospodarza.
+Zaryn planuje też manipulować [Federacją Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) - wykorzystując jej zasoby militarne i magiczne do „oczyszczenia” Xivell z pasożyta. Nie dlatego, że mu zależy na Xivell - ale dlatego, że to jedyny sposób na definitywne zniszczenie Pierwszego Patriarchy bez ryzyka, że pasożyt przeniesie się na nowego gospodarza.
 
 ## Rola w kampanii
 
@@ -64,7 +64,7 @@ Ten, Który jest Mroczny jest antagonistą działającym w tle - nie bezpośredn
 >
 > **Jedyny żyjący wróg Zaryna:** [Xillith / Pierwszy Patriarcha / Bezimienny](../Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md). Zaryn jest *jedyną* osobą, która wie prawdę o tym, kim jest Bezimienny i skąd pochodzi pasożyt - bo sam był jego ofiarą.
 >
-> **Plan z Federacją:** Zaryn pracuje nad długoterminową manipulacją [Federacji Sol-3](../../organizations/Federacja%20Sol-3.md) - chce, żeby Federacja zbombardowała lub oczyściła Xivell z pasożyta biologicznego (nie wiedząc, że pasożyt to broń biologiczna stworzona przez Bezimiennego). To wyeliminowałoby źródło pasożyta i osłabiło Pierwszego Patriarchę.
+> **Plan z Federacją:** Zaryn pracuje nad długoterminową manipulacją [Federacji Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) - chce, żeby Federacja zbombardowała lub oczyściła Xivell z pasożyta biologicznego (nie wiedząc, że pasożyt to broń biologiczna stworzona przez Bezimiennego). To wyeliminowałoby źródło pasożyta i osłabiło Pierwszego Patriarchę.
 >
 > **Paradoks:** Zaryn i gracze mogą mieć wspólnych wrogów - ale Zaryn jest zbyt niebezpieczny i zbyt zdesperowany, by być prawdziwym sojusznikiem. Jego plan „oczyszczenia Xivell” mógłby zabić miliony niewinnych.
 >

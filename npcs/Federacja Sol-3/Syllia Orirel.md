@@ -11,7 +11,7 @@ tags:
 | **Wiek**               | ok. 500 lat                |
 | **Wzrost**             | 172 cm                     |
 | **Dziedzina Magii**    | [Magia Otchłani](../../disciplines/Magia%20Otchłani.md)         |
-| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)</li><li>[Siły Specjalne "Gaja"](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>[Kult Otchłani](../../organizations/Kult%20Otchłani.md)</li></ul>* |
+| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)</li><li>[Siły Specjalne "Gaja"](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>[Kult Otchłani](../../organizations/Kult%20Otchłani.md)</li></ul>* |
 | **Pseudonim(y)**       | Wyrocznia                  |
 | **Tytuł(y)**           | Agentka Alfa, Dowódca Sił Specjalnych "Gaja", Dyrektor ds. Nadprzyrodzonych Federacji Sol-3 |
 | **Charakter**          | patrz poniżej              |

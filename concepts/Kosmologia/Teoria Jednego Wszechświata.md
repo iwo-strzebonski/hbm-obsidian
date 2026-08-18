@@ -27,7 +27,7 @@ Teoria ta podważa mit „przybyszów z innych światów” i pozwala na spójne
 - [10. Przewodnik Ludzkości po Magicznym Świecie](../../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md)
 - [Era Przebudzenia](../Era%20Przebudzenia.md)
 - [Otchłań](../Otchłań/Otchłań.md)
-- [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)
+- [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)
 
 > [!gm]+ Tylko dla MG
 > Pełny tekst, przykłady i analizy znajdziesz w rozdziale przewodnika. Teoria ta jest oficjalnie hipotezą roboczą, znaną głównie w zamkniętych kręgach naukowych i operacyjnych Federacji Sol-3.

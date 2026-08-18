@@ -47,7 +47,7 @@ Magia Krwi przyciąga Lamie ze względu na ich naturę drapieżnika - krew jest 
 
 Lamie są nieliczne i zazwyczaj żyją wśród innych ras jako „ukryte”. Ich zdolność zmiany postaci sprawia, że mogą funkcjonować w ludzkich miastach przez dekady bez dekonspiracji.
 
-Na Ziemi (Sol-3-1725), Lamie formalnie nie istnieją w dokumentach [Federacji Sol-3](../organizations/Federacja%20Sol-3.md) - lub istnieją pod fałszywymi tożsamościami. Inkwizycja aktywnie monitoruje podejrzanych o ukrytą Lamią tożsamość, co tworzy napięcie między tą rasą a aparatem bezpieczeństwa magicznego.
+Na Ziemi (Sol-3-1725), Lamie formalnie nie istnieją w dokumentach [Federacji Sol-3](../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) - lub istnieją pod fałszywymi tożsamościami. Inkwizycja aktywnie monitoruje podejrzanych o ukrytą Lamią tożsamość, co tworzy napięcie między tą rasą a aparatem bezpieczeństwa magicznego.
 
 ## Znani przedstawiciele
 

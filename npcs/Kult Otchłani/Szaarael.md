@@ -52,7 +52,7 @@ Jako Posłaniec Życia Szaarael jest jednym z pierwszych Heroldów [Mundus](Mund
 >
 > ### Dźwignia wiceprezydenta
 >
-> Jej pozycja daje [Kultowi](../../organizations/Kult%20Otchłani.md) dostęp do kluczowych informacji [Federacji Sol-3](../../organizations/Federacja%20Sol-3.md) (poprzez wywiad USA), możliwość blokowania śledztw i wpływ na decyzje dotyczące finansowania badań biotechnologicznych. Rada Najwyższa Federacji Sol-3 nie wie o jej prawdziwej naturze.
+> Jej pozycja daje [Kultowi](../../organizations/Kult%20Otchłani.md) dostęp do kluczowych informacji [Federacji Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) (poprzez wywiad USA), możliwość blokowania śledztw i wpływ na decyzje dotyczące finansowania badań biotechnologicznych. Rada Najwyższa Federacji Sol-3 nie wie o jej prawdziwej naturze.
 >
 > ### Połączenie z Mundus
 >

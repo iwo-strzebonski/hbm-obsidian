@@ -26,7 +26,7 @@ System EP porządkuje wydarzenia fabularne, pozwala łatwo określić czas akcji
 
 ## Powiązania
 - [Otchłań](Otchłań/Otchłań.md)
-- [Federacja Sol-3](../organizations/Federacja%20Sol-3.md)
+- [Federacja Sol-3](../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)
 - [Kalendarz](Kalendarz.md)
 
 ## Dalsze lektury

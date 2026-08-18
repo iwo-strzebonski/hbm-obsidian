@@ -16,7 +16,7 @@ book: Przewodnik Ludzkości po Magicznym Świecie
 | **Nazwa kodowa**                 | *Sol-3-1725*                                      |
 | **Status**                       | *Istniejąca, zamieszkała*                         |
 | **Szacowana liczba mieszkańców** | *8-9 mld.*                                        |
-Ziemia, trzecia planeta od Słońca, znana również jako "Niebieska Planeta" ze względu na swoje rozległe oceany, stanowi kluczowy element w geopolityce międzygwiezdnej od momentu, gdy w 1974 roku wszedł w życie tajny traktat, włączający ją do [Federacji Sol-3](../../organizations/Federacja%20Sol-3.md). To wydarzenie otworzyło nowy rozdział w historii ludzkości, umożliwiając zaawansowaną współpracę i wymianę technologiczną z innymi cywilizacjami wchodzącymi w skład tej międzywymiarowej koalicji. 
+Ziemia, trzecia planeta od Słońca, znana również jako "Niebieska Planeta" ze względu na swoje rozległe oceany, stanowi kluczowy element w geopolityce międzygwiezdnej od momentu, gdy w 1974 roku wszedł w życie tajny traktat, włączający ją do [Federacji Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md). To wydarzenie otworzyło nowy rozdział w historii ludzkości, umożliwiając zaawansowaną współpracę i wymianę technologiczną z innymi cywilizacjami wchodzącymi w skład tej międzywymiarowej koalicji. 
 
 ## Spis Treści
 - [Projekt "Starlight"](#Projekt%20"Starlight")
@@ -29,7 +29,7 @@ Ziemia, trzecia planeta od Słońca, znana również jako "Niebieska Planeta" ze
 
 ## Projekt "Starlight"
 
-Pomimo że członkostwo Ziemi w Federacji przyniosło wiele korzyści, w tym dostęp do zaawansowanych technologii i wiedzy o kosmosie, dopiero w 2019 roku rozpoczęto realizację ambitnego [Projektu "Starlight"](../../organizations/Federacja%20Sol-3/Projekt%20Starlight.md). Projekt ten, zapoczątkowany przez przedstawicieli Ziemi już w 1986 roku, miał na celu rozwój i wdrażanie technologii pozwalających na eksplorację i kolonizację odległych światów. Jego opóźnione uruchomienie było wynikiem złożonych procesów politycznych, upadku Związku Socjalistycznych Republik Radzieckich, a także biurokracji w ramach [Federacji](../../organizations/Federacja%20Sol-3.md) przed jej restrukturyzacją.
+Pomimo że członkostwo Ziemi w Federacji przyniosło wiele korzyści, w tym dostęp do zaawansowanych technologii i wiedzy o kosmosie, dopiero w 2019 roku rozpoczęto realizację ambitnego [Projektu "Starlight"](../../organizations/Federacja%20Sol-3/Projekt%20Starlight.md). Projekt ten, zapoczątkowany przez przedstawicieli Ziemi już w 1986 roku, miał na celu rozwój i wdrażanie technologii pozwalających na eksplorację i kolonizację odległych światów. Jego opóźnione uruchomienie było wynikiem złożonych procesów politycznych, upadku Związku Socjalistycznych Republik Radzieckich, a także biurokracji w ramach [Federacji](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) przed jej restrukturyzacją.
 
 > **Centrum Wsparcia Planetarnego** 
 > Projekt Starlight powstał w 2019 r., by koordynować reakcje Ziemi na zagrożenia globalne i pozaziemskie. Niejawne źródła wskazują punkt lokalizacji w północnym Sudanie, w pobliżu Halfa (21.000023, 26.029503) - obszar o niskiej gęstości zaludnienia i ograniczonym dostępie.

@@ -2,7 +2,7 @@
 tags:
   - organization
 ---
-- [Federacja Sol-3](organizations/Federacja%20Sol-3.md)
+- [Federacja Sol-3](organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)
 	- [Projekt "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)
 	- [Siły Specjalne "Gaja"](organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)
 	- [Siły Specjalne X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)

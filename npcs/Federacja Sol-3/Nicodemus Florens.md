@@ -7,15 +7,15 @@ tags:
   - double-agent
 aliases: []
 ---
-| **Zdjęcie**             | **                                                                                             |
-| ----------------------- | ------------------------------------------------------------------------------------------------ |
-| **Imię (imiona)**       | *Nicodemus*                                                                                       |
-| **Nazwisko (nazwiska)** | *Florens*                                                                                          |
-| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                     |
-| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md), [Siły Specjalne X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)</li><li>[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md)</li></ul>*          |
-| **Pseudonim(y)**        | *Agent Gamma*                                                                                      |
-| **Tytuł(y)**            | *<ul><li>Naczelny Dowódca [Sił Specjalnych X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)</li><li>Arcykapłan Szkarłatnego Kultu, dowódca największego zamku w Domenie Szkarłatu</li></ul>* |
-| **Status**              | *Żyje*                                                                                             |
+| **Zdjęcie**             | **                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Nicodemus*                                                                                                                                                                                                                                                                                                                                              |
+| **Nazwisko (nazwiska)** | *Florens*                                                                                                                                                                                                                                                                                                                                                |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                                                                                                                                                                                                                                                    |
+| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md), [Siły Specjalne X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)</li><li>[Siły Specjalne Gaja](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md)</li></ul>* |
+| **Pseudonim(y)**        | *Agent Gamma*                                                                                                                                                                                                                                                                                                                                            |
+| **Tytuł(y)**            | *<ul><li>Naczelny Dowódca [Sił Specjalnych X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)</li><li>Arcykapłan Szkarłatnego Kultu, dowódca największego zamku w Domenie Szkarłatu</li></ul>*                                                                                                                                            |
+| **Status**              | *Żyje*                                                                                                                                                                                                                                                                                                                                                   |
 
 ## Opis
 
@@ -28,7 +28,7 @@ Ta podwójna przynależność kształtuje jego metody działania i wpływa na wy
 ## Relacje
 
 - **[Talonos Isherwood](../Szkarłatny%20Kult/Talonos%20Isherwood.md)** - Wysoki Kapłan Szkarłatnego Kultu, który przez wiele lat służył pod dowództwem Nicodemusa w jego twierdzy, zanim trafił do WeSM.
-- **[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)** - oficjalnie Naczelny Dowódca Sił Specjalnych X.
+- **[Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)** - oficjalnie Naczelny Dowódca Sił Specjalnych X.
 - **[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md)** - Arcykapłan, dowódca największego zamku w Domenie Szkarłatu.
 
 > [!gm]+ Tylko dla MG

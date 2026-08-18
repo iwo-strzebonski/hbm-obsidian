@@ -12,20 +12,20 @@ tags:
 - [Nemyo](npcs/Uczniowie/Nemyo.md), Feles, alchemiczka warząca eliksiry
 
 ## Nauczyciele i Pracownicy Szkół
-- [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), nauczyciel [Rzemiosła Artefaktów](disciplines/Rzemiosło%20Artefaktów.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), Agent Specjalny [Federacji Sol-3](organizations/Federacja%20Sol-3.md)
+- [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), nauczyciel [Rzemiosła Artefaktów](disciplines/Rzemiosło%20Artefaktów.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), Agent Specjalny [Federacji Sol-3](organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)
 - [Urszula Callistis](npcs/Nauczyciele/Urszula%20Callistis.md), nauczycielka Wiedzy o Magicznych Miejscach i Rytuałach
 - [Leopold von Karma](npcs/Nauczyciele/Leopold%20von%20Karma.md), nauczyciel [Nekromancji](disciplines/Nekromancja.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Klaus von Übertropp](npcs/Nauczyciele/Klaus%20von%20Übertropp.md), były Dyrektor [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (do listopada 2026), usunięty z rzeczywistości przez [Nil](npcs/Kult%20Otchłani/Nil.md)
 
 ## Federacja Sol-3
- - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Wyrocznia i Agentka Specjalna [Federacji Sol-3](organizations/Federacja%20Sol-3.md) 
+ - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Wyrocznia i Agentka Specjalna [Federacji Sol-3](organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) 
  - [Joe Cox](npcs/Federacja%20Sol-3/Joe%20Cox.md), Porucznik, dowódca 1. Plutonu [Sił Specjalnych X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)
  - [Nicodemus Florens](npcs/Federacja%20Sol-3/Nicodemus%20Florens.md), Agent Gamma, Naczelny Dowódca [Sił Specjalnych X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md) - w tajemnicy również Arcykapłan [Szkarłatnego Kultu](organizations/Szkarłatny%20Kult.md)
 - [Karolina Fey](npcs/Federacja%20Sol-3/Karolina%20Fey.md), Wiedźma Sabatu Otchłąni
 
 ### Projekt "Starlight"
- - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), porucznik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), służący bezpośrednio pod [Seriożą Żukowem](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)
- - [Serioża Żukow](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), pułkownik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), wchodzących w skład [Projektu "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)
+ - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), porucznik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3/Federacja%20Sol-3.md), służący bezpośrednio pod [Seriożą Żukowem](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)
+ - [Serioża Żukow](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), pułkownik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3/Federacja%20Sol-3.md), wchodzących w skład [Projektu "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)
 
 ### Siły Specjalne "Gaja"
  - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Agentka Alfa, przywódczyni [Sił Specjalnych "Gaja"](organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)

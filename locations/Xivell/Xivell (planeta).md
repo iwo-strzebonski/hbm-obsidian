@@ -14,7 +14,7 @@ tags:
 | **Status**                       | *Nienadająca się do zamieszkania; zniszczona przez pasożytniczą biomasę*                                                 |
 | **Szacowana liczba mieszkańców** | *10 mln (istoty humanoidalne zmutowane przez pasożytniczą biomasę)*                                                      |
 | **Znane państwa**                | [Królestwo Xivell](Królestwo%20Xivell.md), [Królestwo Zaryn](Królestwo%20Zaryn.md)                                       |
-| **Znane frakcje**                | [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md), [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md) |
+| **Znane frakcje**                | [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md), [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) |
 | **Dominujący ekosystem**         | Oceaniczny, pojedynczy kontynent, wyspy                                                                                  |
 | **Unikalne zagrożenia**          | Pasożytnicza biomasa, magiczne mutacje, ruiny cywilizacji                                                                |
 | **Zasoby**                       | Metale magiczne (ouerklas, mitryl, adamantyn), deficyt metali technicznych                                               |
@@ -43,7 +43,7 @@ Katastrofa – znana jako Upadek – unicestwiła obie cywilizacje. Pasożyt prz
 
 ## Misja Federacji Sol-3
 
-Po Upadku Xivell, [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md) podjęła próbę zbadania i kolonizacji planety. Mimo strategicznego położenia, brak metali technicznych i wszechobecna biomasa uniemożliwiły trwałe osadnictwo. Ekspedycja statku "Sterany" – wyposażonego w zaawansowane technologie, klonowanie i terraformację – zakończyła się fiaskiem. Agenci Federacji, rozproszeni w sześciu bazach, walczą o przetrwanie i próbują rozwiązać zagadkę pasożyta. Każdy dzień to walka z czasem, mutacjami i wyczerpującymi się zasobami.
+Po Upadku Xivell, [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) podjęła próbę zbadania i kolonizacji planety. Mimo strategicznego położenia, brak metali technicznych i wszechobecna biomasa uniemożliwiły trwałe osadnictwo. Ekspedycja statku "Sterany" – wyposażonego w zaawansowane technologie, klonowanie i terraformację – zakończyła się fiaskiem. Agenci Federacji, rozproszeni w sześciu bazach, walczą o przetrwanie i próbują rozwiązać zagadkę pasożyta. Każdy dzień to walka z czasem, mutacjami i wyczerpującymi się zasobami.
 
 Odkrycie metali magicznych (ouerklas, mitryl, adamantyn) przyciąga kolejne ekspedycje, ale żadne nie odniosły sukcesu w ujarzmieniu planety. Xivell pozostaje symbolem porażki i ostrzeżeniem dla innych światów.
 
@@ -52,7 +52,7 @@ Odkrycie metali magicznych (ouerklas, mitryl, adamantyn) przyciąga kolejne eksp
 - [Królestwo Xivell](Królestwo%20Xivell.md) – monarchia kontynentalna, centrum rozwoju taumaturgii i magii krwi, upadła w wyniku katastrofy.
 - [Królestwo Zaryn](Królestwo%20Zaryn.md) – państwo wyspiarskie, słynące z magii krwi i długowieczności dynastii Zaryn, zniszczone przez pasożyta.
 - [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md) – tajemnicza organizacja powstała z uczniów Xillitha, obecna na Xivell i poza nią.
-- [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md) – frakcja eksploracyjna, prowadząca badania i nieudane próby kolonizacji.
+- [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) – frakcja eksploracyjna, prowadząca badania i nieudane próby kolonizacji.
 
 ## Wskazówki dla MG
 

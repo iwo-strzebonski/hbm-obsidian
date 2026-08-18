@@ -18,7 +18,7 @@ aliases:
 | **Waga**                | *105 kg*                                          |
 | **Magia**               | *[Taumaturgia](../../disciplines/Taumaturgia.md) / walka*                         |
 | **Afiliacja**           | *[Konsorcjum Gwiezdne Malferian](../../organizations/Konsorcjum%20Gwiezdne%20Malferian.md) - Dom Tyrris* |
-| **Status**              | *Żyje*                                            |
+| **Status**              | *Żyje (jeniec Federacji Sol-3, od października 2026)*                                            |
 
 ## Opis
 
@@ -27,6 +27,8 @@ Książę Arkthar z Domu Tyrris jest reprezentantem militarnego skrzydła Konsor
 Arkthar jest wysoki nawet jak na standardy Malferianin, z charakterystyczną ceremonialną zbroją Domu Tyrris. Jego obecność na Ziemi jest „oficjalnie” w roli attache wojskowego przy delegacji Konsorcjum - w rzeczywistości koordynuje operacje specjalne.
 
 Po Pierwszej Wojnie, Arkthar jest jednym z głosów domagających się rewizji warunków pokoju. Uważa, że Konsorcjum zaakceptowało zbyt wiele ustępstw i że Federacja Sol-3 prędzej czy później uderzy znowu - lepiej uderzyć pierwszym.
+
+To przekonanie doprowadziło go do samowolnego, nieautoryzowanego przez Radę Konsorcjum ataku na "Integralność" w październiku 2026 roku (zob. [Bitwa o "Integralność"](../../conflicts/Bitwa%20o%20Integralność%20%282026%29.md)). Atak został odparty, a Arkthar schwytany i od tamtej pory przetrzymywany jako jeniec Federacji Sol-3.
 
 ## Motywacje
 

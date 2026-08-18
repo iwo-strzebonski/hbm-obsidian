@@ -42,7 +42,7 @@ Malferianie stoją na poziomie technologicznym 8+ (patrz: [Tabela porównawcza p
 
 ## Relacje z innymi frakcjami
 
-Konsorcjum prowadzi ograniczoną dyplomację z [Federacją Sol-3](Federacja%20Sol-3.md) po zakończeniu Pierwszej Wojny. Wewnętrznie napięcia między Domami narastają - różne domy mają odmienne wizje odbudowy i ewentualnej rewanżu.
+Konsorcjum prowadzi ograniczoną dyplomację z [Federacją Sol-3](Federacja%20Sol-3/Federacja%20Sol-3.md) po zakończeniu Pierwszej Wojny. Wewnętrznie napięcia między Domami narastają - różne domy mają odmienne wizje odbudowy i ewentualnej rewanżu.
 
 > [!gm]+ Tylko dla MG
 >

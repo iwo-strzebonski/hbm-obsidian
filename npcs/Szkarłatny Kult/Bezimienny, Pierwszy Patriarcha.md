@@ -41,7 +41,7 @@ Obecnie dusza Pierwszego Patriarchy jest przywiązana do artefaktu nazywanego **
 
 Bezimienny jest cichym graczem za kulisami. Postaci graczy mogą natknąć się na wzmianki o Pierwszym Patriarsze w archiwach [Szkarłatnego Kultu](../../organizations/Szkarłatny%20Kult.md), w akademickich tekstach o [taumaturgi](../../disciplines/Taumaturgia.md) lub w rozmowach z członkami kultu, którzy czcą jego pamięć. Żaden z szeregowych członków kultu nie wie, że Patriarcha wciąż istnieje - ani kim jest jego awatar.
 
-Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamierza wykorzystać [Federację Sol-3](../../organizations/Federacja%20Sol-3.md) do realizacji planu związanego z oczyszczeniem [Xivell](../../locations/Xivell/Xivell%20%28planeta%29.md) - planety, którą sam niegdyś zniszczył.
+Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamierza wykorzystać [Federację Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) do realizacji planu związanego z oczyszczeniem [Xivell](../../locations/Xivell/Xivell%20%28planeta%29.md) - planety, którą sam niegdyś zniszczył.
 
 > [!gm]+ Tylko dla MG
 >
@@ -69,7 +69,7 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 >
 > ### Motywacja
 >
-> Bezimienny chce wyczyścić Xivell z pasożyta, który sam stworzył. Uważa, że [Federacja Sol-3](../../organizations/Federacja%20Sol-3.md) posiada zasoby i technologię, które mogą mu w tym pomóc - dlatego manipuluje wydarzeniami tak, by Federacja zainteresowała się planetą.
+> Bezimienny chce wyczyścić Xivell z pasożyta, który sam stworzył. Uważa, że [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) posiada zasoby i technologię, które mogą mu w tym pomóc - dlatego manipuluje wydarzeniami tak, by Federacja zainteresowała się planetą.
 >
 > ### Interwencja podczas rytuału Nil
 >
