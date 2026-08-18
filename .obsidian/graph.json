@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "tag:#spell  ",
+      "color": {
+        "a": 1,
+        "rgb": 5930128
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7693263652426378,
+  "scale": 0.3914039322066814,
   "close": false
 }

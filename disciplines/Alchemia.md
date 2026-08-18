@@ -29,7 +29,7 @@ Alchemicy wierzą, że wszystko można przemienić, jeśli zna się odpowiednie 
 - Badania nad właściwościami magicznych substancji
 
 ## Znani praktycy
-- [Nemyo](../npcs/Nemyo.md) (Feles, wybitna alchemiczka, pomogła wielu poszukiwaczom przygód w zdobyciu potrzebnych eliksirów)
+- [Nemyo](../npcs/Uczniowie/Nemyo.md) (Feles, wybitna alchemiczka, pomogła wielu poszukiwaczom przygód w zdobyciu potrzebnych eliksirów)
 
 ## Status prawny (Inkwizycja)
 Alchemia jest legalna, ale eksperymenty z niebezpiecznymi substancjami i transmutacją ludzi są zakazane. Wymagane są zgłoszenia badań nad nowymi eliksirami.

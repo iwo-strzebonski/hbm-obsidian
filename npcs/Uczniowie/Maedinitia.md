@@ -4,12 +4,12 @@ tags:
   - student
   - water-magic
 ---
-| **Zdjęcie**             | **                                                                                       |
-| ----------------------- | -------------------------------------------------------------------------------------------- |
-| **Imię (imiona)**       | *Maedinitia*                                                                                 |
-| **Dziedzina Magii**     | *[Magia Wody](../../disciplines/Magia%20Żywiołów/Poddziedzina%20-%20Magia%20Wody.md)*                                                  |
-| **Organizacje**         | *Uczennica [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), służąca [Aurory Nylabelle](Aurora.md)* |
-| **Status**              | *Żyje*                                                                                       |
+| **Zdjęcie**         | **                                                                                                                                           |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**   | *Maedinitia*                                                                                                                                 |
+| **Dziedzina Magii** | *[Magia Wody](../../disciplines/Magia%20Żywiołów/Poddziedzina%20-%20Magia%20Wody.md)*                                                        |
+| **Organizacje**     | *Uczennica [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), służąca [Aurory Nylabelle](Aurora.md)* |
+| **Status**          | *Żyje*                                                                                                                                       |
 
 ## Opis
 

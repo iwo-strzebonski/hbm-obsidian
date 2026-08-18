@@ -41,8 +41,8 @@ ObsidianNotes/
 ## 🔗 Integracja z systemem Foundry VTT
 
 Treści z tego vaulta (szczególnie opisy lore i reguły mechaniczne) są wykorzystywane jako baza danych dla modułów i systemów Foundry VTT, które znajdują się w osobnych repozytoriach:
-- **Foundry System**: `https://github.com/iwo-strzebonski/hbm-foundry-system.git`
-- **Foundry Lore**: `https://github.com/iwo-strzebonski/hbm-foundry-lore.git`
+- **Foundry System**: `https://git.octoturge.com/octoturge/hbm-foundry-system
+- **Foundry Lore**: `https://git.octoturge.com/octoturge/hbm-foundry-lore
 
 ---
 

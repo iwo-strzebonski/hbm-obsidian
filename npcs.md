@@ -6,8 +6,8 @@ tags:
 - [Diana Koniecpolska](npcs/Uczniowie/Diana%20Koniecpolska.md), uczennica [klasy Pi (2024/25)](classes/Klasa%20Pi%20rok%202024-2025.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [Nil](npcs/Kult%20Otchłani/Nil.md)
 - [Aurora Nylabelle](npcs/Uczniowie/Aurora.md), uczennica [klasy Pd (2025/26)](classes/Klasa%20Pd%20rok%202025-2026.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Anna Heide](npcs/Uczniowie/Anna%20Heide.md), uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
-- [Narcyza Eleness Zurbach](npcs/Narcyza%20Eleness%20Zurbach.md), arcysukkubica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
-- [Klara](npcs/Klara.md), anielica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Narcyza Eleness Zurbach](npcs/Uczniowie/Narcyza%20Eleness%20Zurbach.md), arcysukkubica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Klara](npcs/Uczniowie/Klara.md), anielica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Kiara](npcs/Uczniowie/Kiara.md), Feles, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Maedinitia](npcs/Uczniowie/Maedinitia.md), maginia wody, służąca [Aurory Nylabelle](npcs/Uczniowie/Aurora.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 
@@ -15,7 +15,7 @@ tags:
 - [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), nauczyciel [Rzemiosła Artefaktów](disciplines/Rzemiosło%20Artefaktów.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), Agent Specjalny [Federacji Sol-3](organizations/Federacja%20Sol-3.md)
 - [Urszula Callistis](npcs/Nauczyciele/Urszula%20Callistis.md), nauczycielka Wiedzy o Magicznych Miejscach i Rytuałach
 - [Leopold von Karma](npcs/Nauczyciele/Leopold%20von%20Karma.md), nauczyciel [Nekromancji](disciplines/Nekromancja.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
-- [Klaus von Übertropp](npcs/Klaus%20von%20Übertropp.md), były Dyrektor [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (do listopada 2026), usunięty z rzeczywistości przez [Nil](npcs/Kult%20Otchłani/Nil.md)
+- [Klaus von Übertropp](npcs/Nauczyciele/Klaus%20von%20Übertropp.md), były Dyrektor [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (do listopada 2026), usunięty z rzeczywistości przez [Nil](npcs/Kult%20Otchłani/Nil.md)
 
 ## Federacja Sol-3
  - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Wyrocznia i Agentka Specjalna [Federacji Sol-3](organizations/Federacja%20Sol-3.md) 

@@ -1,12 +1,12 @@
 [
-  "various-complements",
-  "obsidian-advanced-uri",
-  "file-ignore",
-  "sheets",
-  "automatic-table-of-contents",
-  "table-editor-obsidian",
-  "extended-markdown-syntax",
-  "obsidian-html-tags-autocomplete",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-advanced-uri",
+  "code-emitter",
+  "customjs",
+  "sheets",
+  "obsidian-html-tags-autocomplete",
+  "extended-markdown-syntax",
+  "advanced-exclude"
 ]

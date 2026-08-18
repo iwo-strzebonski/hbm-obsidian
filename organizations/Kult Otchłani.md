@@ -16,7 +16,7 @@ Zakon Otwartego Oka, znany potocznie jako Kult Otchłani, to tajemnicza organiza
 Kult powstał wokół objawień Personifikacji Otchłani. Jego członkowie wierzą, że Nil, Mundus i Tempus są nie tylko źródłem magii, ale i kluczem do zrozumienia cyklu istnienia, zniszczenia i zmiany. Zakon działa od czasów Przebudzenia, a jego struktura i cele ewoluowały wraz z kolejnymi falami kontaktu z Otchłanią.
 
 ## Struktura i Frakcje
-Kult nie ma jednej, spójnej hierarchii. Głównym celem Zakonu było sprowadzenie fizycznych manifestacji swoich bogów na Ziemię. Rytuał ten zakończył się jednak katastrofą – za niekompetencję Nil srodze ukarała i zniszczyła strukturę Zakonu (przy okazji dla rozrywki zrzucając agenta Federacji Sol-3, [Pelagiusa Caudexa](../npcs/Nauczyciele/Pelagius%20Caudex.md), na stanowisko dyrektora WeSM w miejsce dawnego kultysty, [Klausa von Übertroppa](../npcs/Klaus%20von%20Übertropp.md)).
+Kult nie ma jednej, spójnej hierarchii. Głównym celem Zakonu było sprowadzenie fizycznych manifestacji swoich bogów na Ziemię. Rytuał ten zakończył się jednak katastrofą – za niekompetencję Nil srodze ukarała i zniszczyła strukturę Zakonu (przy okazji dla rozrywki zrzucając agenta Federacji Sol-3, [Pelagiusa Caudexa](../npcs/Nauczyciele/Pelagius%20Caudex.md), na stanowisko dyrektora WeSM w miejsce dawnego kultysty, [Klausa von Übertroppa](../npcs/Nauczyciele/Klaus%20von%20Übertropp.md)).
 
 Obecnie frakcje prezentują się następująco:
 - **Kult Mundus:** Najbardziej agresywna i aktywna obecnie frakcja na Ziemi.

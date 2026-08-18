@@ -47,7 +47,7 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 >
 > ### Prawdziwa tożsamość
 >
-> Bezimienny to w rzeczywistości **Xillith, Nadworny Taumaturg Xivell**. Po przegranym pojedynku z Nil, został wymazany z rzeczywistości - ale nie do końca, w przeciwieństwie np. do [Klausa von Übertroppa](../Klaus%20von%20Übertropp.md), który spotkał tę samą karę wieki później. W czasie pojedynku manifestacja Nil na Xivell była wyjątkowo słaba - w istocie opętała ciało dziecka, więc jej moc usuwania z Otchłani była ograniczona. Wystarczyło to, by zetrzeć imię i większość istnienia Xillitha z rzeczywistości, ale jego dusza przetrwała, uwięziona w Halabardzie.
+> Bezimienny to w rzeczywistości **Xillith, Nadworny Taumaturg Xivell**. Po przegranym pojedynku z Nil, został wymazany z rzeczywistości - ale nie do końca, w przeciwieństwie np. do [Klausa von Übertroppa](../Nauczyciele/Klaus%20von%20Übertropp.md), który spotkał tę samą karę wieki później. W czasie pojedynku manifestacja Nil na Xivell była wyjątkowo słaba - w istocie opętała ciało dziecka, więc jej moc usuwania z Otchłani była ograniczona. Wystarczyło to, by zetrzeć imię i większość istnienia Xillitha z rzeczywistości, ale jego dusza przetrwała, uwięziona w Halabardzie.
 >
 > ### Zbieżność imion
 >
