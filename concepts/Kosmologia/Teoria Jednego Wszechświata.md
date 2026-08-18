@@ -1,5 +1,5 @@
 ---
-tags: [koncept, kosmologia, teoria]
+tags: [concept, cosmology, theory]
 aliases: [Jedno Uniwersum, Teoria Jednego Wszechświata]
 status: draft
 ---

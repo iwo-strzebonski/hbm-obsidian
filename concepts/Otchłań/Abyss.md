@@ -1,5 +1,5 @@
 ---
-tags: [koncept, otchłań, byty]
+tags: [concept, abyss, entities]
 aliases: [Abyss, Pierwotna Otchłań]
 ---
 

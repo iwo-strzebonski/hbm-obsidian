@@ -1,5 +1,5 @@
 ---
-tags: [koncept, dyscypliny, magia]
+tags: [concept, disciplines, magic]
 aliases: [Dyscypliny Magii, Szkoły Magii]
 status: stub
 ---

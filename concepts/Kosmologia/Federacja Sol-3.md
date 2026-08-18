@@ -1,5 +1,5 @@
 ---
-tags: [koncept, federacja, organizacja]
+tags: [concept, federation, organization]
 aliases: [Federacja Sol-3, Federation Sol-3]
 status: stub
 ---

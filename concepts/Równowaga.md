@@ -1,5 +1,5 @@
 ---
-tags: [koncept, równowaga, otchłań]
+tags: [concept, balance, abyss]
 aliases: [Równowaga, Równowaga Magii, Equilibrium]
 status: draft
 ---

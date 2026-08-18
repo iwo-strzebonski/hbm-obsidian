@@ -1,5 +1,5 @@
 ---
-tags: [koncept, szkoły magii, lore]
+tags: [concept, magic-schools, lore]
 aliases: [Wielka Trzynastka, Szkoły Magii]
 status: draft
 ---

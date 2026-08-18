@@ -1,5 +1,5 @@
 ---
-tags: [koncept, edukacja, szkoły magii]
+tags: [concept, education, magic-schools]
 aliases: [Magiczna Edukacja, nauka magii, certyfikacja]
 status: draft
 ---

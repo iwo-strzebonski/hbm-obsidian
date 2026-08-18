@@ -1,5 +1,5 @@
 ---
-tags: [dyscyplina, magia, szablon]
+tags: [discipline, magic, template]
 aliases: []
 status: draft
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [rasa, lore]
+tags: [race, lore]
 aliases: [Człowiek, Ludzie]
 status: draft
 ---

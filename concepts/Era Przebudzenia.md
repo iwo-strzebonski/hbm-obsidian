@@ -1,7 +1,7 @@
 ---
 tags:
-  - koncept
-  - kalendarz
+  - concept
+  - calendar
   - lore
 aliases:
   - Era Przebudzenia
