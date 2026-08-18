@@ -1,7 +1,6 @@
 ---
 tags:
   - spell
-  - zaklęcia
   - sacred
   - hekate
 castingMode: sacred

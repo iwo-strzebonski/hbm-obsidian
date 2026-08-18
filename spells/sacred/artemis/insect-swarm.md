@@ -1,7 +1,6 @@
 ---
 tags:
   - spell
-  - zaklęcia
   - sacred
   - artemis
 castingMode: sacred

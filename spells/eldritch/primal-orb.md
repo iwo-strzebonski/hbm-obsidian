@@ -1,7 +1,6 @@
 ---
 tags:
   - spell
-  - zaklęcia
   - eldritch
 castingMode: standard
 school: eldritch

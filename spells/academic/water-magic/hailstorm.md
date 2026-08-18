@@ -1,7 +1,6 @@
 ---
 tags:
   - spell
-  - zaklęcia
   - academic
   - water-magic
 castingMode: standard
