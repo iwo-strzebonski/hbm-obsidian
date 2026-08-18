@@ -35,3 +35,6 @@ tags: [moc, hub, items]
 - [Łuk Bloczkowy](weapons/Łuk%20Bloczkowy.md)
 - [Łuk Elfi](weapons/Łuk%20Elfi.md)
 - [Łuk Klasyczny](weapons/Łuk%20Klasyczny.md)
+- Papier toaletowy
+  <iframe src="https://sketchfab.com/models/12054645e5b24a44afbecd5eb809007c/embed?autostart=1&internal=1&tracking=0&ui_ar=0&ui_infos=0&ui_snapshots=1&ui_stop=0&ui_theatre=1&ui_watermark=0" height="300" width="300" />
+- 

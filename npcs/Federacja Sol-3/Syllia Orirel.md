@@ -22,4 +22,4 @@ Oficjalnie dowodzi Siłami Specjalnymi „Gaja”, lecz jej autorytet bywa podwa
 
 Przydomek „Wyrocznia” jest nieformalny, lecz skutecznie buduje jej reputację wśród podwładnych i przeciwników. Syllia niechętnie korzysta z własnej legendy, ale potrafi ją wykorzystać, gdy wymaga tego sytuacja – wie, że aura tajemniczości ułatwia egzekwowanie rozkazów i negocjacje na najwyższym szczeblu.
 
-Jej prawdziwe motywacje i lojalności pozostają niejasne nawet dla najbliższych współpracowników. Syllia nie zdradza swoich sekretów, a jej przeszłość i cele są owiane mgłą domysłów. Dla Mistrza Gry: jej słabości i sekrety powinny pozostać niejawne, by budować napięcie i niepewność wokół tej postaci.
+Jej prawdziwe motywacje i lojalności pozostają niejasne nawet dla najbliższych współpracowników. Syllia nie zdradza swoich sekretów, a jej przeszłość i cele są owiane mgłą domysłów.

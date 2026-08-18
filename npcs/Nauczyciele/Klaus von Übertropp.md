@@ -5,14 +5,14 @@ tags:
   - abyss-cult
 aliases: []
 ---
-| **Zdjęcie**             | **                                                                       |
-| ----------------------- | -------------------------------------------------------------------------- |
-| **Imię (imiona)**       | *Klaus*                                                                    |
-| **Nazwisko (nazwiska)** | *von Übertropp*                                                            |
-| **Rasa**                | *[Człowiek](../../races/Człowiek.md) (niemag)*                                                    |
+| **Zdjęcie**             | **                                                                                                                                                                   |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Klaus*                                                                                                                                                              |
+| **Nazwisko (nazwiska)** | *von Übertropp*                                                                                                                                                      |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md) (niemag)*                                                                                                                       |
 | **Organizacje**         | *[WeSM](../../locations/Ziemia%20(Sol-3-1725)/Wschodnioeuropejska%20Szkoła%20Magii.md) (do listopada 2026), [Kult Otchłani](../../organizations/Kult%20Otchłani.md)* |
-| **Tytuł(y)**            | *Były Dyrektor [WeSM](../../locations/Ziemia%20(Sol-3-1725)/Wschodnioeuropejska%20Szkoła%20Magii.md) (do listopada 2026)* |
-| **Status**              | *Usunięty z rzeczywistości* |
+| **Tytuł(y)**            | *Były Dyrektor [WeSM](../../locations/Ziemia%20(Sol-3-1725)/Wschodnioeuropejska%20Szkoła%20Magii.md) (do listopada 2026)*                                            |
+| **Status**              | *Usunięty z rzeczywistości*                                                                                                                                          |
 
 ## Opis
 
@@ -30,4 +30,4 @@ Na jego miejsce, dla zabawy, Nil wybrała [Pelagiusa Caudexa](Nauczyciele/Pelagi
 
 > [!gm]+ Tylko dla MG
 > **Usunięcie z Otchłani:**
-> To coś więcej niż śmierć - to wymazanie z tkanki rzeczywistości, dostępne (na ile wiadomo) wyłącznie Personifikacjom Otchłani. Klaus nie istnieje i nigdy nie istniał z perspektywy świata materialnego oraz jego mieszkańców - poza nielicznymi wyjątkami (istoty bezpośrednio związane z Otchłanią, zapisy magiczne odporne na tego typu ingerencję, lub gracze, którzy jakimś cudem "pamiętają"). To potencjalnie potężny hak fabularny: co się dzieje z kimś usuniętym z Otchłani? Czy istnieje jakiś sposób na jego przywrócenie, czy to stan absolutnie nieodwracalny?
+> To coś więcej niż śmierć - to całkowite wymazanie z rzeczywistości, dostępne wyłącznie Personifikacjom Otchłani. Klaus nie istnieje i nigdy nie istniał z perspektywy świata materialnego oraz jego mieszkańców - poza nielicznymi wyjątkami (istoty bezpośrednio związane z Otchłanią, zapisy magiczne odporne na tego typu ingerencję, lub gracze, którzy jakimś cudem "pamiętają").

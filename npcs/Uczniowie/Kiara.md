@@ -4,13 +4,13 @@ tags:
   - feles
   - student
 ---
-| **Zdjęcie**             | **                                                     |
-| ----------------------- | -------------------------------------------------------- |
-| **Imię (imiona)**       | *Kiara*                                                  |
-| **Rasa**                | *[Feles](../../races/Feles.md)*                                              |
-| **Wygląd**               | *długie, fioletowe włosy*                                |
-| **Organizacje**         | *Uczennica [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), rok wyżej niż [Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)* |
-| **Status**              | *Żyje*                                                   |
+| **Zdjęcie**       | **                                                                                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)** | *Kiara*                                                                                                                                                                               |
+| **Rasa**          | *[Feles](../../races/Feles.md)*                                                                                                                                                       |
+| **Wygląd**        | *długie, fioletowe włosy*                                                                                                                                                             |
+| **Organizacje**   | *Uczennica [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), rok wyżej niż [Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)* |
+| **Status**        | *Żyje*                                                                                                                                                                                |
 
 ## Opis
 

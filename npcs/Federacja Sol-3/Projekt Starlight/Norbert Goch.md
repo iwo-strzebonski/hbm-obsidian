@@ -32,6 +32,3 @@ Znany był z odwagi, lojalności wobec towarzyszy i gotowości do poświęceń, 
 ## Relacje
 
 - **[Pelagius Caudex](../../Nauczyciele/Pelagius%20Caudex.md)** - jego śmierć, wynikła z zignorowania rozkazu odwrotu wydanego przez Syllię Orirel, na trwałe zmieniła stosunek Pelagiusa do niej - z neutralnego na jawnie ignorujący jej rozkazy.
-
-> [!gm]+ Tylko dla MG
-> Norbert może być wspominany jako przykład odwagi, niepokorności i nagłego rozwoju magicznego. Jego historia to materiał na retrospekcje, legendy szkolne lub inspirację dla innych postaci.

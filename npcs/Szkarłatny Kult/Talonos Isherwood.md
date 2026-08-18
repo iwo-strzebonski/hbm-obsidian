@@ -17,7 +17,7 @@ tags:
 | **Wygląd**              | *Krótkie blond włosy i czerwone oczy (cecha wspólna wszystkim kultystom Szkarłatu), miękkie rysy twarzy - w przeciwieństwie do ostrych rysów Xillitha* |
 | **Dziedzina Magii**     | *[Magia Sakralna](../../disciplines/Magia%20Sakralna.md), [Magia Szkarłatu](../../disciplines/Magia%20Szkarłatu.md)*                                                                                     |
 | **Organizacje**         | *<ul><li>Uczeń [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) ([Klasa Pa rok 2025-2026](../../classes/Klasa%20Pa%20rok%202025-2026.md))</li><li>[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md)</li></ul>* |
-| **Pseudonim(y)**        | **                                                                                                                            |
+| **Pseudonim(y)**        | *Mnich*                                                                                                                       |
 | **Tytuł(y)**            | *Wysoki Kapłan Szkarłatnego Kultu*                                                                                            |
 | **Charakter**           | *Znacznie spokojniejszy i bardziej opanowany od brata; oczytany, wyrachowany, dostrzega zło Szkarłatnego Kultu, ale pozostaje mu oddany*  |
 

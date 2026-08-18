@@ -7,21 +7,21 @@ tags:
 aliases:
   - Bill Cipher and Co.
 ---
-| **Zdjęcie**                   | ![[.jpg\|200]] |
-| ----------------------------- | -------------- |
-| **Nazwa potoczna**            | *Bill Cipher and Co* |
-| **Data powstania**            | *n/d* |
+| **Zdjęcie**                   | ![[.jpg\|200]]                                                     |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Nazwa potoczna**            | *Bill Cipher and Co*                                               |
+| **Data powstania**            | *n/d*                                                              |
 | **Założyciel(e)**             | *[Bill Cipher](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)* |
-| **Siedziba**                  | *Drugi Wymiar* |
-| **Status**                    | *Zawieszona - wszyscy znani członkowie uwięzieni* |
-| **Szacowana liczba członków** | *ok. 10–15 demonów z różnych wymiarów* |
+| **Siedziba**                  | *Drugi Wymiar*                                                     |
+| **Status**                    | *Zawieszona - wszyscy znani członkowie uwięzieni*                  |
+| **Szacowana liczba członków** | *ok. 10–15 demonów z różnych wymiarów*                             |
 | **Przywódca(cy)**             | *[Bill Cipher](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)* |
-| **Data upadku**               | *n/d (uwięzienie, nie rozwiązanie)* |
+| **Data upadku**               | *n/d (uwięzienie, nie rozwiązanie)*                                |
 | **Ważniejsi członkowie**      | *[Bill Cipher](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)* |
 
 ## Krótki opis
 
-Bill Cipher and Co to luźna koalicja pozawymiarowych bytów zorganizowana przez [Billa Ciphera](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md) - trójkątny demon o nieskrępowanej osobowości i ambicjach wykraczających poza granice zdrowego rozsądku. Organizacja jest jawną parodią wszelkich tajemnych klanów i koalicji z mroczniejszych zakątków lore HbM - jej ton jest lekki i absurdalny nawet na tle pozostałych frakcji.
+Bill Cipher and Co to luźna koalicja pozawymiarowych bytów zorganizowana przez [Billa Ciphera](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md) - trójkątnego demon o nieskrępowanej osobowości i ambicjach wykraczających poza granice zdrowego rozsądku.
 
 ## Historia i uwięzienie
 

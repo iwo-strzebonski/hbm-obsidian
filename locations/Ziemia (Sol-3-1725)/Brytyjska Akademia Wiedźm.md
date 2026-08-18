@@ -7,7 +7,7 @@ tags:
 | **Zdjęcie**                                | <img src="../../_assets/locations/earth/british-witch-academy.png" width="200" alt="british-witch-academy.png"> |
 | ------------------------------------------ | ----------------------------------- |
 | **Nazwa oficjalna**                        | *Brytyjska Akademia Wiedźm*         |
-| **Nazwa potoczna**                         | **                                  |
+| **Nazwa potoczna**                         | *BAW*                               |
 | **Data powstania**                         | *~1600 n. e.*                       |
 | **Status**                                 | *Działająca*                        |
 | **Szacowana liczba uczniów i pracowników** | *2000-3000*                         |

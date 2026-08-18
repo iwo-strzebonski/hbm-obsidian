@@ -19,71 +19,26 @@ aliases:
 | **Ważniejsi członkowie**      | *<ul><li>[Pelagius Caudex](../../npcs/Nauczyciele/Pelagius%20Caudex.md), Agent Delta</li><li>[Siergiej Konstantynowicz Żukow](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), Agent Omega</li><li>[Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), Agent Lambda</li></ul>* |
 | **Powiązane organizacje**     | *[Federacja Sol-3](../Federacja%20Sol-3.md)*                                                                                                                                              |
 
-Siły Specjalne "Gaja" stanowią elitarną jednostkę w ramach [Federacji Sol-3](../Federacja%20Sol-3.md), skupiającą w swoich szeregach jedynie najbardziej wybitne talenty. Ta specjalistyczna organizacja została powołana do życia, aby stawić czoła wyzwaniom i zagrożeniom, które wykraczają poza możliwości rozwiązania przez standardowe procedury i siły bezpieczeństwa [Federacji](../Federacja%20Sol-3.md). Charakteryzująca się niezwykłymi umiejętnościami, Siły Specjalne "Gaja" są symbolem nadziei w obliczu największych kryzysów wszechświatowych.
+Siły Specjalne "Gaja" to elitarna jednostka [Federacji Sol-3](../Federacja%20Sol-3.md), powoływana wtedy, gdy zagrożenie przerasta możliwości standardowych procedur i sił bezpieczeństwa Federacji. Formalnie funkcjonuje jako Komisja ds. Bezpieczeństwa i Integralności - nazwa sucha i biurokratyczna, celowo niewzbudzająca uwagi, za którą kryje się jednak jednostka zdolna do interwencji w skali całych układów gwiezdnych. Od ponad dwustu lat "Gaja" pozostaje ostatnią linią obrony Federacji, uruchamianą wtedy, gdy inne opcje już zawiodły.
 
-## Spis Treści
+## Rekrutacja i szkolenie
 
-- [Strażnicy Wszechświata Federacji Sol-3](#strażnicy-wszechświata-federacji-sol-3)
-	- [Rekrutacja i Szkolenie](#rekrutacja-i-szkolenie)
-	- [Misje i Operacje](#misje-i-operacje)
-	- [Technologia i Wsparcie](#technologia-i-wsparcie)
-	- [Znaczenie dla Federacji](#znaczenie-dla-federacji)
-- [Elita Magii i Technologii w Federacji Sol-3](#elita-magii-i-technologii-w-federacji-sol-3)
-	- [Unikalne Talenty](#unikalne-talenty)
-	- [Liderzy i Strategowie](#liderzy-i-strategowie)
-	- [Współpraca i Synergia](#współpraca-i-synergia)
-	- [Znaczenie dla Federacji i Wszechświata](#znaczenie-dla-federacji-i-wszechświata)
-- [Tajemnice i Legendy Sił Specjalnych "Gaja"](#tajemnice-i-legendy-sił-specjalnych-gaja)
-	- [Elf w Szeregach Federacji](#elf-w-szeregach-federacji)
-	- [Długowieczność i Pamięć](#długowieczność-i-pamięć)
-	- [Liczebność i Zmienność Składu](#liczebność-i-zmienność-składu)
-	- [Kluczowe Znaczenie Syllii Orirel](#kluczowe-znaczenie-syllii-orirel)
+Do szeregów "Gai" trafiają wyłącznie najlepsi z najlepszych - agenci Federacji, którzy już wcześniej wykazali się nadzwyczajnymi zdolnościami i nieposzlakowaną skutecznością w misjach o wysokim ryzyku. Sam fakt rozważania kandydatury jest zwykle wynikiem lat służby, a nie jednorazowego aktu heroizmu; Rada Najwyższa i Agentka Alfa wolą powierzać najpoważniejsze zadania ludziom (i nie-ludziom), których reakcje w sytuacjach kryzysowych są już dobrze znane i przewidywalne. Proces wdrożenia nowego agenta bywa długi, często rozciągnięty na miesiące równoległej służby w macierzystej jednostce, tak by przejście do "Gai" nie osłabiło innych, równie istotnych programów Federacji - stąd tak wielu agentów jednostki formalnie pozostaje na etatach gdzie indziej.
 
-## Strażnicy Wszechświata Federacji Sol-3
-### Rekrutacja i Szkolenie
+## Zakres działań
 
-Członkowie Sił Specjalnych "Gaja" są rekrutowani spośród najlepszych agentów [Federacji](../Federacja%20Sol-3.md), wyselekcjonowani na podstawie ich nadzwyczajnych zdolności, doświadczenia w misjach oraz niezachwianej determinacji. Szkolenie, które przechodzą, jest bezprecedensowo intensywne, obejmujące zarówno zaawansowane techniki bojowe, operacje specjalne, jak i metody negocjacji w sytuacjach kryzysowych. Każdy członek jest przygotowany do działania w ekstremalnych warunkach, zarówno indywidualnie, jak i w zespole.
-### Misje i Operacje
+Zakres działań "Gai" jest szeroki i obejmuje wszystko od interwencji zagrażających stabilności całego wszechświata, przez tajne operacje zapobiegające wybuchowi konfliktów międzyplanetarnych, po dyskretne "sprzątanie" sytuacji, o których opinia publiczna Federacji nigdy się nie dowie. Jednostka dysponuje najnowocześniejszą technologią, jaką Federacja jest w stanie wyprodukować, w tym rozwiązaniami umożliwiającymi wykorzystywanie mocy paranormalnych nawet na planetach całkowicie pozbawionych naturalnej magii - co w praktyce pozwala agentom "Gai" walczyć na równych warunkach tam, gdzie zwykli żołnierze Federacji byliby bezbronni.
 
-Zakres działania Sił Specjalnych "Gaja" jest szeroki, obejmując misje o najwyższym stopniu trudności i ryzyka. Od interwencji w sytuacjach, które zagrażają stabilności wszechświata, po tajne operacje mające na celu zapobieganie konfliktom międzyplanetarnym na niespotykaną skalę. Siły "Gaja" są ostatnią linią obrony Federacji, kiedy wszystkie inne opcje zawiodą.
-### Technologia i Wsparcie
+## Struktura i dowodzenie
 
-Siły Specjalne "Gaja" mają do dyspozycji najnowocześniejsze technologie opracowane przez Federację. Od zaawansowanych systemów komunikacji po uzbrojenie state-of-the-art i wyposażenie, które umożliwiają im efektywne działanie w różnorodnych środowiskach i przeciwko różnym zagrożeniom. Ponadto, mają dostęp do unikalnych technologii, które pozwalają na wykorzystanie mocy paranormalnych w taki sposób, aby mogły one wspierać ich misje, nawet na planetach, gdzie magia nie występuje.
+Choć na czele "Gai" stoi Agentka Alfa, jednostka nie funkcjonuje jako odizolowana enklawa - wielu jej agentów pełni równocześnie kluczowe funkcje w innych strukturach Federacji, co w praktyce czyni z "Gai" coś bliższego sieci wpływowych dowódców niż jednego, zamkniętego oddziału. Pułkownik [Siergiej Konstantynowicz Żukow](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), znany w jednostce jako Agent Omega, dowodzi jednocześnie [Projektem "Starlight"](Projekt%20Starlight.md), podczas gdy [Pelagius Caudex](../../npcs/Nauczyciele/Pelagius%20Caudex.md), Agent Delta, stoi na czele wciąż formującej się organizacji ["Wybrańcy Herosów"](Wybrańcy%20Herosów.md). Taki układ pozwala Radzie Najwyższej trzymać rękę na pulsie kilku newralgicznych programów naraz, ale bywa też źródłem napięć, gdy interesy tych programów nie są zgodne.
 
-### Znaczenie dla Federacji
+Wyjątkiem od reguły "wszyscy agenci to zaprawieni weterani" jest [Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), Agent Lambda, który zwrócił na siebie uwagę dowództwa nie stażem, a samą swoją naturą - włada [Wiedźmią Magią](../../disciplines/Wiedźmia%20Magia.md), dyscypliną zwyczajowo zarezerwowaną wyłącznie dla kobiet. Wśród agentów Federacji to fenomen rzadki na tyle, że część naukowców "Gai" wciąż traktuje przypadek Norberta jako otwarte pytanie badawcze, nie zamknięty fakt.
 
-Siły Specjalne "Gaja" nie tylko stanowią kluczowy element obronny [Federacji Sol-3](../Federacja%20Sol-3.md), ale są także symbolem jedności i zaangażowania wszystkich członków Federacji w ochronę wspólnego dobra. Ich istnienie przypomina o ciągłym zagrożeniu, jakie niesie ze sobą wszechświat, ale także o determinacji i gotowości [Federacji](../Federacja%20Sol-3.md) do stawienia czoła tym wyzwaniom. Siły "Gaja" są ucieleśnieniem najwyższych wartości i aspiracji [Federacji](../Federacja%20Sol-3.md), demonstrując jej zdolności do przekraczania granic możliwego w obronie pokoju i stabilności wszechświata.
+Przez ponad dwieście lat istnienia jednostki jej skład wielokrotnie się zmieniał - agenci odchodzili na emeryturę, ginęli w akcji albo, jak Norbert, okazywali się wyjątkami wartymi bliższej obserwacji. Obecnie "Gaja" liczy dwunastu aktywnych agentów, stacjonujących na pancerniku międzygwiezdnym "Integralność", krążącym po orbicie [Sol-3-1725](../../locations/Ziemia%20%28Sol-3-1725%29/Ziemia%20%28Sol-3-1725%29.md).
 
-## Elita Magii i Technologii w Federacji Sol-3
+## Syllia Orirel, Agentka Alfa
 
-Wśród szeregów Sił Specjalnych "Gaja" znajdują się jednostki, które nie tylko reprezentują szczyt osiągnięć technologicznych [Federacji Sol-3](../Federacja%20Sol-3.md), ale również wykraczają poza granice zwykłego postrzegania magii. Agenci ci, wyposażeni w najnowocześniejsze narzędzia i posiadający unikalne zdolności, tworzą filar, na którym opiera się bezpieczeństwo całej [Federacji](../Federacja%20Sol-3.md).
-### Unikalne Talenty
+Na czele jednostki od samego jej powstania stoi [Syllia Orirel](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) - [elf](../../races/Elf.md) i jedyny nie-człowiek w szeregach "Gai". To nie tylko ciekawostka personalna, ale fakt o realnym znaczeniu dla całej organizacji: dzięki swojej elfiej długowieczności Syllia jest jedyną wciąż aktywną osobą, która pamięta założenie jednostki w 1859 roku, a wraz z nią - jedynym żywym łącznikiem między dzisiejszą "Gają" a intencjami jej twórców z Rady Najwyższej. Ta ciągłość pamięci czyni z niej coś więcej niż dowódczynię; jest żywą kroniką jednostki, do której inni agenci odwołują się, gdy trzeba zrozumieć, dlaczego "Gaja" działa tak, jak działa.
 
-[Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), znany jako "Agent Lambda", jest żywym przykładem unikalności, jaką reprezentują członkowie Sił Specjalnych "Gaja". Jego zdolność do korzystania z [Wiedźmiej Magii](../../disciplines/Wiedźmia%20Magia.md), zazwyczaj zarezerwowanej wyłącznie dla kobiet, stanowi fenomen wśród członków [Federacji](../Federacja%20Sol-3.md). Jego talent nie tylko podkreśla wyjątkowość Sił Specjalnych "Gaja", ale także otwiera nowe możliwości w zrozumieniu i aplikacji magii w działaniach [Federacji](../Federacja%20Sol-3.md).
-### Liderzy i Strategowie
-
-Siły Specjalne "Gaja" nie są jedynie zespołem elitarnych agentów; wielu z nich to również liderzy innych ważnych organizacji w ramach Federacji. Przykłady takie jak pułkownik [Siergiej Konstantynowicz Żukow](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), lider [Projektu "Starlight"](Projekt%20Starlight.md), oraz porucznik [Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), dowodzący [specjalnymi wojskami obrony planet](Projekt%20Starlight.md), podkreślają, że agenci "Gaja" odgrywają kluczowe role w strukturach zarządzania i obrony Federacji.
-
-[Pelagius Caudex](../../npcs/Nauczyciele/Pelagius%20Caudex.md), dowódca ["Wybrańców Herosów"](Wybrańcy%20Herosów.md), jest kolejnym przykładem, jak wszechstronnie agenci "Gaja" angażują się w ochronę i rozwój Federacji. Jego przywództwo w tak prestiżowej organizacji pokazuje, że Siły Specjalne "Gaja" są nie tylko jednostką bojową, ale również centralnym punktem w strukturze przywódczej Federacji.
-### Współpraca i Synergia
-
-Integracja doświadczenia bojowego, technologicznego, a także magicznego potencjału w ramach Sił Specjalnych "Gaja" pokazuje, jak [Federacja Sol-3](../Federacja%20Sol-3.md) potrafi wykorzystać swoje zasoby do maksymalizacji skuteczności. Zdolności magiczne agentów, takich jak [Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), w połączeniu z najnowocześniejszym wyposażeniem, tworzą synergiczny efekt, który potrafi sprostać największym wyzwaniom.
-### Znaczenie dla Federacji i Wszechświata
-
-Siły Specjalne "Gaja" stanowią ostateczny bastion obrony przed zagrożeniami dla [Federacji](../Federacja%20Sol-3.md) i jej członków. Ich rola jako strażników pokoju i stabilności w wszechświecie jest nieoceniona. Przez połączenie unikalnych talentów, zaawansowanej technologii i strategicznego przywództwa, Siły Specjalne "Gaja" kontynuują swoją misję ochrony Federacji, zapewniając bezpieczeństwo i spokój dla wszystkich jej członków.
-
-## Tajemnice i Legendy Sił Specjalnych "Gaja"
-
-W samym sercu Sił Specjalnych "Gaja" znajduje się postać, która łączy w sobie tajemnicę, mądrość i niezwykłą historię - Agentka Alfa, [Syllia Orirel](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md). Jako przywódczyni tej elitarnej jednostki i jedyny nie-człowiek w jej szeregach, [Syllia](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) stanowi kluczowy element w skomplikowanej układance, jaką jest [Federacja Sol-3](../Federacja%20Sol-3.md).
-### Elf w Szeregach Federacji
-
-[Syllia Orirel](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md), [elf](../../races/Elf.md) o niezwykłych zdolnościach i bogatej historii, jest prawdziwym fenomenem w świecie zdominowanym przez ludzi. Jej obecność w Siłach Specjalnych "Gaja" nie tylko podkreśla otwartość [Federacji](../Federacja%20Sol-3.md) na różnorodność, ale także ukazuje, jak niezwykłe talenty mogą przyczynić się do wspólnego dobra. Ukrywanie jej prawdziwej natury przez [Federację](../Federacja%20Sol-3.md) może być zrozumiałe w kontekście dyplomatycznym i bezpieczeństwa, ale również rzuca cień tajemniczości na całą organizację.
-### Długowieczność i Pamięć
-
-[Syllia Orirel](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) jest jedyną osobą, która pamięta założenie Sił Specjalnych "Gaja", co czyni ją żywą historią tej grupy. Jej długowieczność, typowa dla elfów, zapewnia ciągłość i niezachwianą wiedzę o misjach, celach i wartościach, które przyświecały tej jednostce od początku jej istnienia. Taka perspektywa jest nieoceniona w planowaniu strategii i podejmowaniu decyzji w obliczu nowych wyzwań.
-### Liczebność i Zmienność Składu
-
-Przez dwieście lat istnienia Sił Specjalnych "Gaja" jej skład wielokrotnie się zmieniał, co świadczy o dynamicznym charakterze tej organizacji. Obecnie liczy ona dwunastu agentów, z których każdy wnosi do zespołu unikalne umiejętności i perspektywy. Ta zmienność jest odzwierciedleniem adaptacyjności i elastyczności, jaką [Federacja](../Federacja%20Sol-3.md) musi wykazywać w szybko zmieniającym się wszechświecie.
-### Kluczowe Znaczenie Syllii Orirel
-
-Rola [Syllii Orirel](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) w Siłach Specjalnych "Gaja" i w szerszym kontekście [Federacji Sol-3](../Federacja%20Sol-3.md) jest trudna do przecenienia. Jako most między przeszłością a teraźniejszością, między różnymi światami i kulturami, [Syllia](../../npcs/Federacja%20Sol-3/Syllia%20Orirel.md) jest żywym symbolem siły, która wynika z różnorodności i współpracy. Jej przywództwo i doświadczenie są filarami, na których opiera się sukces i przetrwanie tej wyjątkowej jednostki.
+Federacja skrupulatnie ukrywa prawdziwą naturę Syllii przed opinią publiczną, tłumacząc to względami dyplomatycznymi i bezpieczeństwa - obecność nie-człowieka na czele tak newralgicznej jednostki byłaby, delikatnie mówiąc, politycznie niewygodna. W praktyce ta tajemnica rzuca cień niedopowiedzenia na całą organizację i bywa pożywką dla plotek wśród niżej postawionych agentów Federacji, którzy wiedzą, że coś jest ukrywane, choć nie wiedzą, co.

@@ -16,7 +16,7 @@ aliases:
 | **Założyciel(e)**             | *Komitet ds. Obrony Przed Zagrożeniami Paranormalnymi [Federacji Sol-3](../Federacja%20Sol-3.md)*                                                                  |
 | **Siedziba**                  | *Sudan, Halfa (21.000023, 26.029503)*                                                                                                                        |
 | **Status**                    | *Projekt rozpoczęty w 1986, zawieszony do 2019. Od 2019 siedziba w trakcie budowy.*                                                                          |
-| **Szacowana liczba członków** | **                                                                                                                                                           |
+| **Szacowana liczba członków** | *ok. 2500 (pełny stan 3. Pułku Piechoty Zmotoryzowanej)*                                                                                                     |
 | **Przywódca(cy)**             | *[Siergiej Konstantynowicz Żukow](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)*                                                                                                          |
 | **Ważniejsi członkowie**      | *[Norbert Goch](../../npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md)*                                                                                                                                           |
 | **Powiązane organizacje**     | *[Federacja Sol-3](../Federacja%20Sol-3.md)*                                                                                                                                        |

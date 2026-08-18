@@ -9,18 +9,18 @@ tags:
 aliases: []
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/karolina-fey/student/karolina-fey-student.webp" width="200" alt="karolina-fey-student.webp"> <img src="../../_assets/npc/karolina-fey/agent/karolina-fey-agent.webp" width="200" alt="karolina-fey-agent.webp"> |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Imię (imiona)**       | *Karolina*                                                                                                                                        |
-| **Nazwisko (nazwiska)** | *Fey*                                                                                                                                             |
-| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                                                                    |
-| **Wiek**                | *27 lat*                                                                                                                                          |
-| **Wzrost**              | *165 cm*                                                                                                                                          |
-| **Dziedzina Magii**     | *[Dzika Wiedźmia Magia](../../disciplines/Dzika%20Wiedźmia%20Magia.md)*                                                                                                                        |
-| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)</li><li>[Siły Specjalne Gaja](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>Sabat Otchłani</li></ul>*                                                    |
-| **Pseudonim(y)**        | *Agentka Beta*                                                                                                                                    |
-| **Tytuł(y)**            | *Baba Jaga Sabatu Otchłani*                                                                                                                       |
-| **Charakter**           | *nieznany*                                                                                                                                        |
-| **Status**              | *Żyje*                                                                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Karolina*                                                                                                                                                                                                                                  |
+| **Nazwisko (nazwiska)** | *Fey*                                                                                                                                                                                                                                       |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                                                                                                                                       |
+| **Wiek**                | *27 lat*                                                                                                                                                                                                                                    |
+| **Wzrost**              | *165 cm*                                                                                                                                                                                                                                    |
+| **Dziedzina Magii**     | *[Dzika Wiedźmia Magia](../../disciplines/Dzika%20Wiedźmia%20Magia.md)*                                                                                                                                                                     |
+| **Organizacje**         | *<ul><li>[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)</li><li>[Siły Specjalne Gaja](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)</li><li>Sabat Otchłani</li></ul>*                                      |
+| **Pseudonim(y)**        | *Agentka Beta*                                                                                                                                                                                                                              |
+| **Tytuł(y)**            | *Baba Jaga Sabatu Otchłani*                                                                                                                                                                                                                 |
+| **Charakter**           | *nieznany*                                                                                                                                                                                                                                  |
+| **Status**              | *Żyje*                                                                                                                                                                                                                                      |
 
 ## Opis
 

@@ -23,7 +23,6 @@ Nekromanci wierzą, że śmierć jest naturalną częścią cyklu istnienia, a z
 - Klątwy śmierci
 
 ## Znani praktycy
-- [Robert Zaryn](../npcs/Magowie%20Krwi/Robert%20Zaryn.md) (pierwotny „Bóg Krwi”, mistrz nekromancji i magii krwi)
 - [Leopold von Karma](../npcs/Nauczyciele/Leopold%20von%20Karma.md) (nauczyciel w [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), wieloletni rywal [Hept-Skhesa](../concepts/Bogowie/Hept-skhes.md))
 - [Tena Lindemann](../npcs/Inkwizycja/Tena%20Lindemann.md) (starsza inkwizytor [Świętej Inkwizycji](../organizations/Inkwizycja.md), sama będąca liszem)
 

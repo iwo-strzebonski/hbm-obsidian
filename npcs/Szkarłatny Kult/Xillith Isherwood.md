@@ -22,7 +22,7 @@ aliases:
 | **Wygląd**              | *Wysoki, zawsze wygląda na zmęczonego (poza walką) - blond włosy do ramion i czerwone oczy*  |
 | **Dziedzina Magii**     | *[Alchemia](../../disciplines/Alchemia/Poddziedzina%20-%20Warzenie%20Eliksirów.md), [Magia Szkarłatu](../../disciplines/Magia%20Szkarłatu.md)*                       |
 | **Organizacje**         | *<ul><li>Uczeń [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) ([Klasa Pd rok 2025-2026](../../classes/Klasa%20Pd%20rok%202025-2026.md))</li><li>[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md)</li></ul>* |
-| **Pseudonim(y)**        | **                                                                                           |
+| **Pseudonim(y)**        | *—*                                                                                           |
 | **Tytuł(y)**            | *Mag Bitewny Szkarłatnego Kultu*                                                               |
 | **Charakter**           | *Małomówny i zdystansowany, ale ze skrajnie wybuchowym temperamentem - zwłaszcza w walce albo gdy w grę wchodzą jego bliscy*  |
 | **Status**              | *Żyje (ciało kontrolowane przez [Bezimiennego](Bezimienny,%20Pierwszy%20Patriarcha.md))*          |

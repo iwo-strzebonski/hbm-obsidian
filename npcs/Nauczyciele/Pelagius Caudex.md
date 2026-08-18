@@ -26,7 +26,7 @@ tags:
 
 ## Opis
 
-Pelagius Caudex jest genialnym rzemieślnikiem artefaktów z innego świata. Jego artefakty - a właściwie komponenty produkowane na bazie jego prototypów i projektów - sprzedawane są nawet na Ziemi jako podzespoły najwyższej jakości, dzięki czemu Pelagius jest niewyobrażalnie bogaty. Ma dostęp do Bramy Babilonu i jest naczyniem Gilgamesza, co czyni go bez przesady jednym z najbogatszych ludzi na świecie - choć publicznie utrzymuje, że [Bank Krasnoludzki](../Bank%20Krasnoludzki/Bank%20Krasnoludzki.md) uporczywie odrzuca jego wnioski o pożyczki na "projekty badawcze". W rzeczywistości te rzekome projekty to jedynie przykrywka służąca zdobywaniu finansowania dla [Projektu "Starlight"](../../organizations/Federacja%20Sol-3/Projekt%20Starlight.md).
+Pelagius Caudex jest genialnym rzemieślnikiem artefaktów z innego świata. Jego artefakty - a właściwie komponenty produkowane na bazie jego prototypów i projektów - sprzedawane są nawet na Ziemi jako podzespoły najwyższej jakości, dzięki czemu Pelagius jest niewyobrażalnie bogaty. Ma dostęp do Bramy Babilonu i jest naczyniem Gilgamesza, co czyni go bez przesady jednym z najbogatszych ludzi na świecie - choć publicznie utrzymuje, że [Bank Krasnoludzki](../../organizations/Bank%20Krasnoludzki.md) uporczywie odrzuca jego wnioski o pożyczki na "projekty badawcze". W rzeczywistości te rzekome projekty to jedynie przykrywka służąca zdobywaniu finansowania dla [Projektu "Starlight"](../../organizations/Federacja%20Sol-3/Projekt%20Starlight.md).
 
 Zanim dołączył do [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), był nieco milszym człowiekiem. Latem 2025 roku poznał [Dianę Koniecpolską](../Kult%20Otchłani/Diana%20Koniecpolska.md) - już wtedy dostrzegł, że jej pasja do wiedzy prędzej czy później doprowadzi do katastrofy, więc ukartował sytuację tak, by to sama Diana "wpadła na pomysł", że powinien zacząć uczyć w WeSM. Szczerze lubi Dianę za jej pasję, ale jako tajny agent Federacji jego zadaniem jest przede wszystkim ochrona Ziemi.
 
@@ -38,7 +38,7 @@ Nikt na Ziemi nie zna przeszłości Pelagiusa sprzed 2026 roku.
 
 ## Relacje
 
-- **[Nil](../Kult%20Otchłani/Nil.md)** - to ona, kapryśnie, mianowała go dyrektorem WeSM.
+- **[Nil](../Kult%20Otchłani/Nil.md)** - to ona, kapryśnie, mianowała go dyrektorem WeSM. Jako agent Federacji przywykł nazywać ją "Abyss" - do czasu, gdy krótko po objęciu stanowiska Nil, wyraźnie wściekła, zagroziła mu użyciem siły, jeśli nie przestanie. Od tamtej pory zwraca się do niej wyłącznie jako "Nil", nawet w rozmowach z innymi agentami Federacji.
 - **[Klaus von Übertropp](Klaus%20von%20Übertropp.md)** - jego poprzednik na stanowisku dyrektora, o którego istnieniu nikt już nie pamięta.
 - **[Federacja Sol-3](../../organizations/Federacja%20Sol-3.md)** - jest jej agentem (Agent Delta, [Siły Specjalne "Gaja"](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)).
 - **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - po klęsce [Nil](../Kult%20Otchłani/Nil.md), która na pewien czas przejęła kontrolę nad ciałem Diany i próbowała zabić jej przyjaciół, Pelagius zlitował się nad złamaną tym doświadczeniem Dianą. Uważa, że to, co ją spotkało, było niesprawiedliwe, i zaoferował jej stanowisko nauczycielki-praktykantki w WeSM - dzięki czemu spotykają się teraz znacznie częściej, już nie tylko na linii uczeń-nauczyciel, co pozwala mu mieć na nią oko.

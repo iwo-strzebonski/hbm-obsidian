@@ -3,13 +3,13 @@ tags:
   - npc
 ---
 ## Uczniowie
-- [Diana Koniecpolska](npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), uczennica [klasy Pi (2024/25)](classes/Klasa%20Pi%20rok%202024-2025.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [Nil](npcs/Kult%20Otchłani/Nil.md)
 - [Aurora Nylabelle](npcs/Uczniowie/Aurora.md), uczennica [klasy Pd (2025/26)](classes/Klasa%20Pd%20rok%202025-2026.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Anna Heide](npcs/Uczniowie/Anna%20Heide.md), uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Narcyza Eleness Zurbach](npcs/Uczniowie/Narcyza%20Eleness%20Zurbach.md), arcysukkubica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Klara](npcs/Uczniowie/Klara.md), anielica, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Kiara](npcs/Uczniowie/Kiara.md), Feles, uczennica w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
 - [Maedinitia](npcs/Uczniowie/Maedinitia.md), maginia wody, służąca [Aurory Nylabelle](npcs/Uczniowie/Aurora.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)
+- [Nemyo](npcs/Nemyo.md), Feles, alchemiczka warząca eliksiry
 
 ## Nauczyciele i Pracownicy Szkół
 - [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), nauczyciel [Rzemiosła Artefaktów](disciplines/Rzemiosło%20Artefaktów.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), Agent Specjalny [Federacji Sol-3](organizations/Federacja%20Sol-3.md)
@@ -19,16 +19,20 @@ tags:
 
 ## Federacja Sol-3
  - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Wyrocznia i Agentka Specjalna [Federacji Sol-3](organizations/Federacja%20Sol-3.md) 
- - [Joe Cox](npcs/Federacja%20Sol-3/Joe%20Cox.md), Porucznik, dowódca 1. Plutonu [Siły Specjalne X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)
+ - [Joe Cox](npcs/Federacja%20Sol-3/Joe%20Cox.md), Porucznik, dowódca 1. Plutonu [Sił Specjalnych X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)
  - [Nicodemus Florens](npcs/Federacja%20Sol-3/Nicodemus%20Florens.md), Agent Gamma, Naczelny Dowódca [Sił Specjalnych X](organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md) - w tajemnicy również Arcykapłan [Szkarłatnego Kultu](organizations/Szkarłatny%20Kult.md)
+- [Karolina Fey](npcs/Federacja%20Sol-3/Karolina%20Fey.md), Wiedźma Sabatu Otchłąni
+
 ### Projekt "Starlight"
  - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), porucznik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), służący bezpośrednio pod [Seriożą Żukowem](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)
  - [Serioża Żukow](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), pułkownik Sił Specjalnych [Federacji Sol-3](organizations/Federacja%20Sol-3.md), wchodzących w skład [Projektu "Starlight"](organizations/Federacja%20Sol-3/Projekt%20Starlight.md)
+
 ### Siły Specjalne "Gaja"
  - [Syllia Orirel](npcs/Federacja%20Sol-3/Syllia%20Orirel.md), Agentka Alfa, przywódczyni [Sił Specjalnych "Gaja"](organizations/Federacja%20Sol-3/Siły%20Specjalne%20Gaja.md)
  - [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), Agent Delta
  - [Serioża Żukow](npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md), Agent Omega
  - [Norbert Goch](npcs/Federacja%20Sol-3/Projekt%20Starlight/Norbert%20Goch.md), Agent Lambda
+
 ### Wybrańcy Herosów
  - [Pelagius Caudex](npcs/Nauczyciele/Pelagius%20Caudex.md), dowódca [Wybrańców Herosów](organizations/Federacja%20Sol-3/Wybrańcy%20Herosów.md)
 
@@ -52,8 +56,8 @@ tags:
 - [Thingrim Magnarson](npcs/Bank%20Krasnoludzki/Thingrim%20Magnarson.md), Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, Mistrz Run
 - [Brogir Vane](npcs/Bank%20Krasnoludzki/Brogir%20Vane.md), Dyrektor Generalny Międzywymiarowego Banku Krasnoludzkiego na Ziemi
 
-
 ## Kult Otchłani
+- [Diana Koniecpolska](npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), uczennica [klasy Pi (2024/25)](classes/Klasa%20Pi%20rok%202024-2025.md) w [WeSM](locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), obecnie też nauczycielka-praktykantka i Posłaniec Przeszłości [Nil](npcs/Kult%20Otchłani/Nil.md)
 - [Abyss](npcs/Kult%20Otchłani/Abyss.md), pierwotny, niepodzielony byt sprzed Nil, Mundus i Tempusa
 - [Nil](npcs/Kult%20Otchłani/Nil.md), Początek i Koniec
 - [Mundus](npcs/Kult%20Otchłani/Mundus.md), Istnienie
@@ -61,7 +65,6 @@ tags:
 - [Mistrz Losu](npcs/Kult%20Otchłani/Mistrz%20Losu.md)
 - [Szaarael](npcs/Kult%20Otchłani/Szaarael.md), Sukkubica, Posłaniec Życia, Wiceprezydent USA
 - [Yssariel](npcs/Kult%20Otchłani/Yssariel.md), Elfka, Posłaniec Cofnięcia
-- [Karolina Fey](npcs/Federacja%20Sol-3/Karolina%20Fey.md), Człowiek, Wiedma Sabatu
 
 ## Konsorcjum Gwiezdne Malferian
 - [Princess Zayis](npcs/Konsorcjum%20Gwiezdne%20Malferian/Princess%20Zayis.md), Malferianin, dyplomata i szpieg
@@ -73,7 +76,3 @@ tags:
 ## Bill Cipher and Co
 - [Bill Cipher](npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)
 
-## Niezrzeszeni
-- [Nemyo](npcs/Nemyo.md), Feles, wybitna alchemiczka, pomogła wielu poszukiwaczom przygód w zdobyciu potrzebnych eliksirów
-
-<iframe src="https://sketchfab.com/models/12054645e5b24a44afbecd5eb809007c/embed?autostart=1&internal=1&tracking=0&ui_ar=0&ui_infos=0&ui_snapshots=1&ui_stop=0&ui_theatre=1&ui_watermark=0" height="300" width="300" />

@@ -29,7 +29,7 @@ Posłańcy Otchłani są pośrednikami między wolą swojej Personifikacji a św
 	- Broń: Rapier
 	- Forma Otchłani: Eldritch Slime
 	- Wygląd: młoda kobieta o przenikliwym spojrzeniu, często ubrana w praktyczne stroje wynalazczyni; w formie Otchłani jej ciało przybiera amorficzną, lepką postać.
-	- Diana stała się Posłańcem dopiero po nieudanej próbie pełnej manifestacji Nil na Ziemi, gdy Nil - opętawszy jej ciało i zostawszy przerwana przez [Roberta Zaryna](../../npcs/Magowie%20Krwi/Robert%20Zaryn.md) i Pierwszego Patriarchę - rozerwała się na dwie części: jedna stała się osobnym, emocjonalnym bytem (dziecko/kostka śluzu), druga (przemieniona Diana) stała się właśnie tym Posłańcem. Pełna historia: [Diana Koniecpolska](../../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md).
+	- Diana stała się Posłańcem dopiero po nieudanej próbie pełnej manifestacji Nil na Ziemi, gdy Nil - opętawszy jej ciało i zostawszy przerwana przez [Roberta Zaryna](../../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) i [Pierwszego Patriarchę](../../npcs/Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md) - rozerwała się na dwie części: jedna stała się osobnym, emocjonalnym bytem (dziecko/kostka śluzu), druga (przemieniona Diana) stała się właśnie tym Posłańcem. Pełna historia: [Diana Koniecpolska](../../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md).
 - **Posłaniec Przyszłości:** (slot otwarty)
 
 **Mundus (Życie i Teraźniejszość):**
@@ -38,7 +38,7 @@ Posłańcy Otchłani są pośrednikami między wolą swojej Personifikacji a św
 	- Rasa: Sukkubica
 	- Magia: Demoniczna / Sakralna
 	- Broń: Bicz o dwóch ogonach
-	- Forma Otchłani: potężna, upiorna postać o fiendycznych rysach
+	- Forma Otchłani: potężna, upiorna postać o demonicznych rysach
 	- Wygląd: wysoka, zmysłowa kobieta o czerwonej skórze, rogach i skrzydłach; aura uwodzenia i grozy, w formie Otchłani staje się większa, bardziej demoniczna
 - **Posłaniec Mutacji:** (slot otwarty; naga/lamia)
 

@@ -20,7 +20,7 @@ aliases:
 | **Wygląd**              | *Białe włosy*                                                                                                                                          |
 | **Dziedzina Magii**     | *[Źródło Mocy](../../disciplines/Źródło%20Mocy.md)*                                                                                                                                      |
 | **Organizacje**         | *<ul><li>Uczennica [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) ([Klasa Pd rok 2025-2026](../../classes/Klasa%20Pd%20rok%202025-2026.md))</li><li>[Państwo-miasto Nylabelle](../../locations/Hiondirs-4/Hiondirs-4.md)</li></ul>* |
-| **Pseudonim(y)**        | **                                                                                                                                                     |
+| **Pseudonim(y)**        | *—*                                                                                                                                                     |
 | **Tytuł(y)**            | *Księżniczka Nylabelle*                                                                                                                                |
 | **Charakter**           | *Z natury uprzejma i wyważona, jak przystało na księżniczkę - ale coraz bardziej zniecierpliwiona nieustannym nadzorem własnej świty, co czyni ją skłonną do buntu wobec oczekiwań rodziny* |
 

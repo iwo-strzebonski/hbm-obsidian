@@ -32,7 +32,7 @@ Ludzie nie mają wrodzonych mocy, ale są wyjątkowo pojętni. Wielu wybitnych m
 
 ## Znani przedstawiciele
 - [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md)
-- [Robert Zaryn](../npcs/Magowie%20Krwi/Robert%20Zaryn.md)
+- [Robert Zaryn](../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md)
 - [Karolina Fey](../npcs/Federacja%20Sol-3/Karolina%20Fey.md)
 - [Serioża Żukow](../npcs/Federacja%20Sol-3/Projekt%20Starlight/Serioża%20Żukow.md)
 - [Pelagius Caudex](../npcs/Nauczyciele/Pelagius%20Caudex.md)
