@@ -20,7 +20,7 @@ Klaus von Übertropp był niemagicznym człowiekiem, który do listopada 2026 ro
 
 Plan zawiódł. Nil ukarała uczestniczących w nim wyznawców śmiercią - z wyjątkiem Klausa, którego spotkał znacznie gorszy los: został **całkowicie usunięty z rzeczywistości**, zjawisko znane jako *usunięcie z Otchłani*. Nie umarł - został wymazany, zarówno z istnienia, jak i z pamięci świata o swoim istnieniu.
 
-Na jego miejsce, dla zabawy, Nil wybrała [Pelagiusa Caudexa](Nauczyciele/Pelagius%20Caudex.md) jako nowego dyrektora. Dla wszystkich na Ziemi Pelagius jest pierwszym dyrektorem WeSM, jakiego kiedykolwiek znali - nikt nie pamięta, by szkoła miała dyrektora przed nim.
+Na jego miejsce, na przekór, Nil wybrała [Pelagiusa Caudexa](Nauczyciele/Pelagius%20Caudex.md) jako nowego dyrektora. Dla wszystkich na Ziemi Pelagius jest pierwszym dyrektorem WeSM, jakiego kiedykolwiek znali - nikt nie pamięta, by szkoła miała dyrektora przed nim.
 
 ## Relacje
 
