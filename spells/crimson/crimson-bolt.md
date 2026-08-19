@@ -15,7 +15,7 @@ minCasters: 1
 nonCombatOnly: false
 damageBase: ''
 damageType: ''
-ignoresArmor: true
+ignoresArmor: false
 statusEffects: []
 saveAttribute: ''
 saveSkill: ''
@@ -49,20 +49,23 @@ description: >-
 
 
   Szkarłatny Pocisk zadaje tyle punktów obrażeń, ile mag ma punktów w
-  umiejętności Zdolności Magiczne, a ponadto ignoruje Pancerz oraz magiczne
-  osłony celu (w tym Magiczne Tarcze i podobne efekty) - trafia tak, jakby ich
-  wcale nie było, zamiast je przełamywać.
+  umiejętności Zdolności Magiczne, a ponadto ignoruje Runiczny Pancerz oraz
+  Magiczną Osłonę celu (w tym Magiczne Tarcze i podobne efekty) - trafia tak,
+  jakby ich wcale nie było, zamiast je przełamywać. Zwykły, fizyczny Pancerz
+  nadal normalnie redukuje te obrażenia - Szkarłatny Pocisk przebija się przez
+  magiczną obronę, nie przez stal i skórę.
 
 
   Szkarłatny Kult opracował to zaklęcie jako broń przeciw innym magom -
   zwłaszcza wyznawcom Otchłani, którzy w starciach polegają na osłonach
   magicznych. Dlatego Szkarłatny Pocisk nie niszczy takich osłon, a po prostu
-  je pomija.
+  je pomija, zostawiając nietkniętą jedynie zwykłą zbroję celu - to zaklęcie
+  miało zwalczać magię, nie kowalstwo.
 ---
 # Szkarłatny Pocisk
 
 Mag wyczarowuje szkarłatny pocisk.
 
-Szkarłatny Pocisk zadaje tyle punktów obrażeń, ile mag ma punktów w umiejętności Zdolności Magiczne, a ponadto ignoruje Pancerz oraz magiczne osłony celu (w tym Magiczne Tarcze i podobne efekty) - trafia tak, jakby ich wcale nie było, zamiast je przełamywać.
+Szkarłatny Pocisk zadaje tyle punktów obrażeń, ile mag ma punktów w umiejętności Zdolności Magiczne, a ponadto ignoruje Runiczny Pancerz oraz Magiczną Osłonę celu (w tym Magiczne Tarcze i podobne efekty) - trafia tak, jakby ich wcale nie było, zamiast je przełamywać. Zwykły, fizyczny Pancerz nadal normalnie redukuje te obrażenia - Szkarłatny Pocisk przebija się przez magiczną obronę, nie przez stal i skórę.
 
-Szkarłatny Kult opracował to zaklęcie jako broń przeciw innym magom - zwłaszcza wyznawcom Otchłani, którzy w starciach polegają na osłonach magicznych. Dlatego Szkarłatny Pocisk nie niszczy takich osłon, a po prostu je pomija.
+Szkarłatny Kult opracował to zaklęcie jako broń przeciw innym magom - zwłaszcza wyznawcom Otchłani, którzy w starciach polegają na osłonach magicznych. Dlatego Szkarłatny Pocisk nie niszczy takich osłon, a po prostu je pomija, zostawiając nietkniętą jedynie zwykłą zbroję celu - to zaklęcie miało zwalczać magię, nie kowalstwo.

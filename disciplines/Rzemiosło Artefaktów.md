@@ -151,11 +151,11 @@ Magiczne Lustra mają nieskończony zasięg, nawet między światami (ale nie mi
 - Materiały: Nitor (1 szt.), magiczna tkanina (20 cm2), sznurek lub łańcuszek (30 cm), stal taumiczna (20 g) lub złoto próby 500 lub wyższej (40 g)
 - Rodzaj: artefakt zaklinający
 
-Amulet Osłony zapewnia jeden punkt Runicznej Tarczy.
+Amulet Osłony zapewnia jeden punkt Runicznego Pancerza.
 
-Amulet można naładować podczas walki w ramach Akcji, poświęcając dwa punkty Many za każdy punkt Runicznej Tarczy, do maksymalnie jednego punktów Runicznej Tarczy.
+Amulet można naładować podczas walki w ramach Akcji, poświęcając dwa punkty Many za każdy punkt Runicznego Pancerza, do maksymalnie jednego punktów Runicznego Pancerza.
 
-*Runiczna Tarcza* - rodzaj magicznej osłony, który może łączyć się z Magiczną Tarczą. Runiczna Tarcza jest traktowana jak Pancerz przed Magiczną Tarczą, osłabiający ataki zanim ją trafią. Każde pięć punktów Obrażeń wyłącza jeden punkt Runicznej Tarczy - zadawane obrażenia przenoszą się do końca walki.
+*Runiczny Pancerz* - magiczny odpowiednik Pancerza (patrz: Kolejność Redukcji Obrażeń), który może łączyć się z Magiczną Tarczą. Runiczny Pancerz jest traktowany jak Pancerz przed Magiczną Tarczą, osłabiający ataki zanim ją trafią. Każde pięć punktów Obrażeń wyłącza jeden punkt Runicznego Pancerza - zadawane obrażenia przenoszą się do końca walki.
 #### Ulepszenie: Wzmocniona Osłona
 - Czas wytworzenia: 3 tygodnie
 - Próg Trudności: 5:6
@@ -163,19 +163,19 @@ Amulet można naładować podczas walki w ramach Akcji, poświęcając dwa punkt
 
 Specjalnie zaklęte Amulety Osłony pozwalają na utkanie magicznej osłony, która jest w stanie wytrzymać więcej ataków.
 
-Amulet Osłony zapewnia dwa punkty Runicznej Tarczy.
+Amulet Osłony zapewnia dwa punkty Runicznego Pancerza.
 #### Ulepszenie: Osłona Awaryjna
 - Czas wytworzenia: 6 tygodni
 - Próg Trudności: 4:18
 - Materiały: kryształ Perditio (1 szt.), kryształ Terra (2 szt.), żywica Srebrodrzewia (50 ml)
 
-Gdy Runiczna Tarcza przyznawana przez Amulet jest nieaktywna, a Postać ma otrzymać obrażenia, raz na walkę Postać może zadeklarować, że aktywuje efekt amuletu. Postać otrzymuje tyle punktów Runicznej Tarczy, ile wynosi zaokrąglona w górę połowa wartości Maksymalnej Many Postaci, ale w swojej następnej turze nie może rzucać zaklęć ani wykonywać innych Akcji, do których wykonania byłaby potrzebna Mana.
+Gdy Runiczny Pancerz przyznawany przez Amulet jest nieaktywny, a Postać ma otrzymać obrażenia, raz na walkę Postać może zadeklarować, że aktywuje efekt amuletu. Postać otrzymuje tyle punktów Runicznego Pancerza, ile wynosi zaokrąglona w górę połowa wartości Maksymalnej Many Postaci, ale w swojej następnej turze nie może rzucać zaklęć ani wykonywać innych Akcji, do których wykonania byłaby potrzebna Mana.
 #### Ulepszenie: Fala Magiczna
 - Czas wytworzenia: 6 tygodni
 - Próg Trudności: 5:12
 - Materiały: kryształ Perditio (2 szt.), kryształ Ignis (1 szt.), rtęć (50 g)
 
-Gdy Runiczna Tarcza przyznawana przez Amulet zostaje przełamana, raz na walkę Postać może zadeklarować, że aktywuje efekt amuletu. Wszyscy przeciwnicy w promieniu 2 m otrzymują tyle punktów Obrażeń ignorujących Pancerz, magiczne osłony oraz wszystkie odporności, ile wynosi zaokrąglona w górę połowa wartości Maksymalnej Many Postaci, ale w swojej następnej turze Postać nie może rzucać zaklęć ani wykonywać innych Akcji, do których wykonania byłaby potrzebna Mana.
+Gdy Runiczny Pancerz przyznawany przez Amulet zostaje przełamany, raz na walkę Postać może zadeklarować, że aktywuje efekt amuletu. Wszyscy przeciwnicy w promieniu 2 m otrzymują tyle punktów Obrażeń ignorujących Pancerz, magiczne osłony oraz wszystkie odporności, ile wynosi zaokrąglona w górę połowa wartości Maksymalnej Many Postaci, ale w swojej następnej turze Postać nie może rzucać zaklęć ani wykonywać innych Akcji, do których wykonania byłaby potrzebna Mana.
 
 ### Pięść Taumaturgiczna
 - Czas wytworzenia: 6 tygodni
