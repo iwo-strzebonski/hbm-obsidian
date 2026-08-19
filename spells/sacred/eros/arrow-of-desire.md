@@ -50,8 +50,9 @@ description: >-
   Mag wystrzeliwuje magiczną, niematerialną strzałę przesyconą energią
   Amora-Erosa, która trafia wybranego przeciwnika, zadając mu tyle punktów
   Obrażeń, ile wynosi wartość Zdolności Magiczne maga. Każde dwa (zamiast
-  pięciu) punkty tych Obrażeń wyłączają jeden punkt Magicznej Tarczy lub
-  Runicznego Pancerza celu.
+  pięciu) punkty tych Obrażeń wyłączają jeden punkt Runicznego Pancerza celu,
+  a przeciwko Magicznej Osłonie celu (np. Magicznej Tarczy) te same Obrażenia
+  liczą się podwójnie.
 
 
   Jeżeli cel nie posiadał magicznej osłony, a wartość zadanych Obrażeń jest
@@ -67,7 +68,7 @@ description: >-
 ---
 # Strzała Pożądania
 
-Mag wystrzeliwuje magiczną, niematerialną strzałę przesyconą energią Amora-Erosa, która trafia wybranego przeciwnika, zadając mu tyle punktów Obrażeń, ile wynosi wartość Zdolności Magiczne maga. Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt Magicznej Tarczy lub Runicznego Pancerza celu.
+Mag wystrzeliwuje magiczną, niematerialną strzałę przesyconą energią Amora-Erosa, która trafia wybranego przeciwnika, zadając mu tyle punktów Obrażeń, ile wynosi wartość Zdolności Magiczne maga. Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt Runicznego Pancerza celu, a przeciwko Magicznej Osłonie celu (np. Magicznej Tarczy) te same Obrażenia liczą się podwójnie.
 
 Jeżeli cel nie posiadał magicznej osłony, a wartość zadanych Obrażeń jest większa niż wartość Atrybutu Dusza celu, to zostaje on Zauroczony na jedną rundę. Jeżeli trafienie przełamało magiczną osłonę celu, cel zostaje Zauroczony na jedną rundę automatycznie, niezależnie od wartości Obrażeń względem Duszy - przełamanie osłony obnaża serce celu bez reszty. Jeżeli cel posiadał magiczną osłonę, która nie została przełamana, ten efekt nie występuje.
 

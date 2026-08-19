@@ -53,8 +53,9 @@ description: >-
 
   Wybrany cel otrzymuje tyle punktów obrażeń, ile wynosi trzykrotność wartości
   Umiejętności Zdolności Magiczne lub Oddanie maga. Każde dwa (zamiast pięciu)
-  punkty tych Obrażeń wyłączają jeden punkt Magicznej Tarczy lub Runicznego
-  Pancerza celu.
+  punkty tych Obrażeń wyłączają jeden punkt Runicznego Pancerza celu, a
+  przeciwko Magicznej Osłonie celu (np. Magicznej Tarczy) te same Obrażenia
+  liczą się podwójnie.
 
 
   Jeśli cel jest innowiercą, demonem lub nieumarłym, otrzymuje ponadto tyle
@@ -73,7 +74,7 @@ description: >-
 
 Mag wzywa potęgę Boga-Jahwe-Jedynego, który osobiście osądza wskazanego grzesznika lub innowiercę.
 
-Wybrany cel otrzymuje tyle punktów obrażeń, ile wynosi trzykrotność wartości Umiejętności Zdolności Magiczne lub Oddanie maga. Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt Magicznej Tarczy lub Runicznego Pancerza celu.
+Wybrany cel otrzymuje tyle punktów obrażeń, ile wynosi trzykrotność wartości Umiejętności Zdolności Magiczne lub Oddanie maga. Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt Runicznego Pancerza celu, a przeciwko Magicznej Osłonie celu (np. Magicznej Tarczy) te same Obrażenia liczą się podwójnie.
 
 Jeśli cel jest innowiercą, demonem lub nieumarłym, otrzymuje ponadto tyle punktów Obrażeń ignorujących Pancerz oraz magiczne osłony, ile wynosi połowa wartości Umiejętności Zdolności Magiczne lub Oddanie maga (zaokrąglona w górę) - boski osąd takich istot dosięga niezależnie od tego, czy ich osłona została przełamana.
 

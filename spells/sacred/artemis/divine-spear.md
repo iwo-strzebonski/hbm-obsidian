@@ -54,7 +54,8 @@ description: >-
   ignorują Pancerz, ile wynosi wartość Umiejętności Zdolności Magiczne lub
   Oddanie Postaci. Każdy dodatkowy Sukces zwiększa zadawane Obrażenia o 1k3.
   Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt
-  Magicznej Tarczy lub Runicznego Pancerza celu.
+  Runicznego Pancerza celu, a przeciwko Magicznej Osłonie celu (np. Magicznej
+  Tarczy) te same Obrażenia liczą się podwójnie.
 
 
   Jeżeli cel nie posiadał magicznej osłony, lub Boska Włócznia właśnie ją
@@ -79,7 +80,7 @@ description: >-
 
 Bogini Łowów wręcza Ci włócznię, którą następnie możesz cisnąć we wroga.
 
-Wybierz wroga w zasięgu 15 m. Cel otrzymuje tyle punktów Obrażeń, które ignorują Pancerz, ile wynosi wartość Umiejętności Zdolności Magiczne lub Oddanie Postaci. Każdy dodatkowy Sukces zwiększa zadawane Obrażenia o 1k3. Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt Magicznej Tarczy lub Runicznego Pancerza celu.
+Wybierz wroga w zasięgu 15 m. Cel otrzymuje tyle punktów Obrażeń, które ignorują Pancerz, ile wynosi wartość Umiejętności Zdolności Magiczne lub Oddanie Postaci. Każdy dodatkowy Sukces zwiększa zadawane Obrażenia o 1k3. Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt Runicznego Pancerza celu, a przeciwko Magicznej Osłonie celu (np. Magicznej Tarczy) te same Obrażenia liczą się podwójnie.
 
 Jeżeli cel nie posiadał magicznej osłony, lub Boska Włócznia właśnie ją przełamała, cel otrzymuje 1 stos statusu Naznaczony przez Artemidę-Dianę (maksymalnie 3 stosy, utrzymują się do końca walki) - łowczyni bogini naznacza zdobycz, którą już raz dosięgła.
 
