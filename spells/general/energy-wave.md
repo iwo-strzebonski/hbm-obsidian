@@ -57,10 +57,12 @@ description: >-
   wyrzuconych przez maga sukcesów. W wypadku niepowodzenia cel zostaje
   Oszołomiony. Niezależnie od wyniku testu każda osoba w stożku otrzymuje tyle
   punktów obrażeń, ile wynosi zaokrąglona w górę połowa wartości Umiejętności
-  Zdolności Magiczne maga.
+  Zdolności Magiczne maga. Każde dwa (zamiast pięciu) punkty tych obrażeń
+  wyłączają jeden punkt Magicznej Tarczy lub Runicznego Pancerza każdego trafionego
+  celu z osobna.
 ---
 # Fala Energii
 
 Mag wyrzuca z siebie potężną falę półwidzialnej energii.
 
-Każda osoba w obszarze działania zaklęcia musi wykonać udany Test na Ciało (Refleks) 4:S, gdzie liczba wymaganych sukcesów (S) jest równa liczbie wyrzuconych przez maga sukcesów. W wypadku niepowodzenia cel zostaje Oszołomiony. Niezależnie od wyniku testu każda osoba w stożku otrzymuje tyle punktów obrażeń, ile wynosi zaokrąglona w górę połowa wartości Umiejętności Zdolności Magiczne maga.
+Każda osoba w obszarze działania zaklęcia musi wykonać udany Test na Ciało (Refleks) 4:S, gdzie liczba wymaganych sukcesów (S) jest równa liczbie wyrzuconych przez maga sukcesów. W wypadku niepowodzenia cel zostaje Oszołomiony. Niezależnie od wyniku testu każda osoba w stożku otrzymuje tyle punktów obrażeń, ile wynosi zaokrąglona w górę połowa wartości Umiejętności Zdolności Magiczne maga. Każde dwa (zamiast pięciu) punkty tych obrażeń wyłączają jeden punkt Magicznej Tarczy lub Runicznego Pancerza każdego trafionego celu z osobna.

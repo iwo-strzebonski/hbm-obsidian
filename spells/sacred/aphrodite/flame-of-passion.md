@@ -7,7 +7,7 @@ castingMode: sacred
 school: sacred
 deity: aphrodite
 sourceBook: ksiega-magii
-manaCost: 5
+manaCost: 3
 bloodCost: 0
 complexityLevel: 0
 isSuperspell: false

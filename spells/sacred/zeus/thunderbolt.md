@@ -7,7 +7,7 @@ castingMode: sacred
 school: sacred
 deity: zeus
 sourceBook: ksiega-magii
-manaCost: 4
+manaCost: 6
 bloodCost: 0
 complexityLevel: 0
 isSuperspell: false

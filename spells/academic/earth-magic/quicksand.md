@@ -7,7 +7,7 @@ castingMode: standard
 school: elementsEarth
 deity: ''
 sourceBook: ksiega-magii
-manaCost: 3
+manaCost: 5
 bloodCost: 0
 complexityLevel: 3
 isSuperspell: false

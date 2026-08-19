@@ -16,7 +16,7 @@ minCasters: 1
 nonCombatOnly: false
 damageBase: ''
 damageType: ''
-ignoresArmor: false
+ignoresArmor: true
 statusEffects: []
 saveAttribute: ''
 saveSkill: ''
@@ -80,9 +80,16 @@ description: >-
   rzucania zaklęcia.
 
 
-  Jeżeli ilość Sukcesów jest mniejsza, to wtedy cel:
+  Jeżeli ilość Sukcesów jest mniejsza, to wtedy cel traci zaokrągloną w górę
+  ⅓ wartości każdego Atrybutu, a utracone w ten sposób punkty wracają dopiero
+  po Długim Odpoczynku. Jeżeli ilość Sukcesów jest równa bądź większa, cel
+  zostaje całkowicie zdezintegrowany i ginie na miejscu, nie pozostawiając
+  nawet szczątków.
 
-  * traci zaokrągloną w górę ⅓ wartości każdego Atrybutu,
+
+  To zaklęcie ignoruje Pancerz, a jego obrażenia w pełni niszczą wytrzymałość
+  napotkanych Magicznych Tarcz oraz Runicznych Pancerzy (bez zwykłej redukcji
+  5:1) - żadna osłona nie jest w stanie w pełni go powstrzymać.
 ---
 # Prawdziwa Dezintegracja
 
@@ -102,5 +109,6 @@ Wiązka niszczy wszystko na swojej drodze - ściany, meble, przedmioty, broń, a
 
 Jeżeli to zaklęcie trafi w żywą istotę, to należy porównać najwyższą wartość Atrybutu (Ciało, Umysł, Dusza) celu z ilością Sukcesów wyrzuconych podczas rzucania zaklęcia.
 
-Jeżeli ilość Sukcesów jest mniejsza, to wtedy cel:
-* traci zaokrągloną w górę ⅓ wartości każdego Atrybutu,
+Jeżeli ilość Sukcesów jest mniejsza, to wtedy cel traci zaokrągloną w górę ⅓ wartości każdego Atrybutu, a utracone w ten sposób punkty wracają dopiero po Długim Odpoczynku. Jeżeli ilość Sukcesów jest równa bądź większa, cel zostaje całkowicie zdezintegrowany i ginie na miejscu, nie pozostawiając nawet szczątków.
+
+To zaklęcie ignoruje Pancerz, a jego obrażenia w pełni niszczą wytrzymałość napotkanych Magicznych Tarcz oraz Runicznych Pancerzy (bez zwykłej redukcji 5:1) - żadna osłona nie jest w stanie w pełni go powstrzymać.

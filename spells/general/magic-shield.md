@@ -37,7 +37,7 @@ range:
   kind: distance
   value: 5
   unit: m
-duration: 2 rundy
+duration: 4 rundy
 castingTime: ''
 target: '1'
 areaOfEffect: null

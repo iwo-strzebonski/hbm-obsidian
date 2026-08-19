@@ -53,9 +53,20 @@ description: >-
   Wybierz wroga w zasięgu 15 m. Cel otrzymuje tyle punktów Obrażeń, które
   ignorują Pancerz, ile wynosi wartość Umiejętności Zdolności Magiczne lub
   Oddanie Postaci. Każdy dodatkowy Sukces zwiększa zadawane Obrażenia o 1k3.
+  Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt
+  Magicznej Tarczy lub Runicznego Pancerza celu.
+
+
+  Jeżeli cel nie posiadał magicznej osłony, lub Boska Włócznia właśnie ją
+  przełamała, cel otrzymuje 1 stos statusu Naznaczony (maksymalnie 3 stosy) -
+  łowczyni bogini naznacza zdobycz, którą już raz dosięgła. *(Mechaniczny
+  efekt stosów Naznaczenia zostanie dookreślony osobno - na razie jedynie się
+  gromadzą.)*
 ---
 # Boska Włócznia
 
 Bogini Łowów wręcza Ci włócznię, którą następnie możesz cisnąć we wroga.
 
-Wybierz wroga w zasięgu 15 m. Cel otrzymuje tyle punktów Obrażeń, które ignorują Pancerz, ile wynosi wartość Umiejętności Zdolności Magiczne lub Oddanie Postaci. Każdy dodatkowy Sukces zwiększa zadawane Obrażenia o 1k3.
+Wybierz wroga w zasięgu 15 m. Cel otrzymuje tyle punktów Obrażeń, które ignorują Pancerz, ile wynosi wartość Umiejętności Zdolności Magiczne lub Oddanie Postaci. Każdy dodatkowy Sukces zwiększa zadawane Obrażenia o 1k3. Każde dwa (zamiast pięciu) punkty tych Obrażeń wyłączają jeden punkt Magicznej Tarczy lub Runicznego Pancerza celu.
+
+Jeżeli cel nie posiadał magicznej osłony, lub Boska Włócznia właśnie ją przełamała, cel otrzymuje 1 stos statusu Naznaczony (maksymalnie 3 stosy) - łowczyni bogini naznacza zdobycz, którą już raz dosięgła. *(Mechaniczny efekt stosów Naznaczenia zostanie dookreślony osobno - na razie jedynie się gromadzą.)*

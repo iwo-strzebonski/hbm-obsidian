@@ -7,7 +7,7 @@ castingMode: standard
 school: elementsFire
 deity: ''
 sourceBook: ksiega-magii
-manaCost: 5
+manaCost: 2
 bloodCost: 0
 complexityLevel: 2
 isSuperspell: false

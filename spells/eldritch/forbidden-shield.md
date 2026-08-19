@@ -34,41 +34,49 @@ difficulty:
   successes: 3
 range:
   kind: self
-duration: >-
-  Zaklęcie zaczyna działać w momencie, gdy mag ma zostać trafiony zaklęciem,
-  które zada mu obrażenia bądź w jakiś sposób go osłabi.
+duration: Do przełamania osłony lub końca walki
 castingTime: ''
 target: Na siebie
 areaOfEffect: null
 overcastOptions:
-  - text: +1 aktywacja
+  - text: +1k2 punktów wytrzymałości
     repeatable: true
     cost: 0
 description: >-
-  Mag spowija się tarczą złożoną z tajemniczych symboli.
+  Mag spowija się słabą osłoną złożoną z tajemniczych symboli, która chłonie
+  obrażenia i odpłaca za swoje zniszczenie.
 
 
-  Gdy mag ma zostać trafiony zaklęciem, które zada mu obrażenia lub go osłabi,
-  to zaklęcie zmienia natychmiast cel na postać, która rzuciła to zaklęcie.
-  Jeżeli to zaklęcie miałoby efekt obszarowy, to wtedy jest ono centrowane na
-  postaci, która rzuciła to zaklęcie, ale działa w sposób odwrotny - zamiast
-  ranić lub osłabiać sojuszników maga, osłabia lub rani sojuszników postaci,
-  która rzuciła to zaklęcie; podobnie z efektami leczącymi bądź wzmacniającymi.
+  Zakazana Osłona ma wytrzymałość na ataki równą jednej trzeciej wartości
+  Umiejętności Zdolności Magiczne maga (zaokrąglonej w górę). Gdy mag ma
+  otrzymać obrażenia, są one najpierw zmniejszane maksymalnie o obecną
+  wytrzymałość Zakazanej Osłony, a następnie dodatkowo o 1 punkt. Każdy atak
+  zmniejsza wytrzymałość Zakazanej Osłony o ilość obrażeń, które zadaje.
 
 
-  Zaklęcie przestaje działać, gdy efekt zaklęcia zostanie aktywowany bądź gdy
-  skończy się walka.
+  Gdy wytrzymałość Zakazanej Osłony spadnie do 0, zaklęcie przestaje działać,
+  a napastnik, który ją przełamał, w ramach odwetu otrzymuje obrażenia
+  ignorujące Pancerz oraz magiczne osłony, równe połowie wartości Umiejętności
+  Zdolności Magiczne maga (zaokrąglonej w górę). Jeżeli Zakazaną Osłonę
+  przełamało zaklęcie, odwet ten zadaje obrażenia równe pełnej wartości tej
+  Umiejętności zamiast połowie.
 
 
-  Ponadto, w trakcie działania zaklęcia, Zakazana Osłona zmniejsza wszystkie
-  otrzymywane obrażenia o 1.
+  Zakazana Osłona łączy w sobie dwa rodzaje magicznej obrony (patrz:
+  Kolejność Redukcji Obrażeń). Jej wytrzymałość liczy się jako Magiczna
+  Osłona - efekty przełamujące osłony (np. Przebicie Eteru, Boska Włócznia,
+  Tajemniczy Strumień) mogą ją przełamać. Opisana wyżej stała redukcja
+  obrażeń o 1 punkt liczy się natomiast jako Runiczny Pancerz, jednak w
+  odróżnieniu od zwykłego Runicznego Pancerza nie ma własnych punktów i nie
+  da się jej przełamać ani zniszczyć inaczej, niż niszcząc całą Zakazaną
+  Osłonę.
 ---
 # Zakazana Osłona
 
-Mag spowija się tarczą złożoną z tajemniczych symboli.
+Mag spowija się słabą osłoną złożoną z tajemniczych symboli, która chłonie obrażenia i odpłaca za swoje zniszczenie.
 
-Gdy mag ma zostać trafiony zaklęciem, które zada mu obrażenia lub go osłabi, to zaklęcie zmienia natychmiast cel na postać, która rzuciła to zaklęcie. Jeżeli to zaklęcie miałoby efekt obszarowy, to wtedy jest ono centrowane na postaci, która rzuciła to zaklęcie, ale działa w sposób odwrotny - zamiast ranić lub osłabiać sojuszników maga, osłabia lub rani sojuszników postaci, która rzuciła to zaklęcie; podobnie z efektami leczącymi bądź wzmacniającymi.
+Zakazana Osłona ma wytrzymałość na ataki równą jednej trzeciej wartości Umiejętności Zdolności Magiczne maga (zaokrąglonej w górę). Gdy mag ma otrzymać obrażenia, są one najpierw zmniejszane maksymalnie o obecną wytrzymałość Zakazanej Osłony, a następnie dodatkowo o 1 punkt. Każdy atak zmniejsza wytrzymałość Zakazanej Osłony o ilość obrażeń, które zadaje.
 
-Zaklęcie przestaje działać, gdy efekt zaklęcia zostanie aktywowany bądź gdy skończy się walka.
+Gdy wytrzymałość Zakazanej Osłony spadnie do 0, zaklęcie przestaje działać, a napastnik, który ją przełamał, w ramach odwetu otrzymuje obrażenia ignorujące Pancerz oraz magiczne osłony, równe połowie wartości Umiejętności Zdolności Magiczne maga (zaokrąglonej w górę). Jeżeli Zakazaną Osłonę przełamało zaklęcie, odwet ten zadaje obrażenia równe pełnej wartości tej Umiejętności zamiast połowie.
 
-Ponadto, w trakcie działania zaklęcia, Zakazana Osłona zmniejsza wszystkie otrzymywane obrażenia o 1.
+Zakazana Osłona łączy w sobie dwa rodzaje magicznej obrony (patrz: Kolejność Redukcji Obrażeń). Jej wytrzymałość liczy się jako Magiczna Osłona - efekty przełamujące osłony (np. Przebicie Eteru, Boska Włócznia, Tajemniczy Strumień) mogą ją przełamać. Opisana wyżej stała redukcja obrażeń o 1 punkt liczy się natomiast jako Runiczny Pancerz, jednak w odróżnieniu od zwykłego Runicznego Pancerza nie ma własnych punktów i nie da się jej przełamać ani zniszczyć inaczej, niż niszcząc całą Zakazaną Osłonę.

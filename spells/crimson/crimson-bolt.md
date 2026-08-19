@@ -49,10 +49,20 @@ description: >-
 
 
   Szkarłatny Pocisk zadaje tyle punktów obrażeń, ile mag ma punktów w
-  umiejętności Zdolności Magiczne, a ponadto ignoruje Pancerz celu.
+  umiejętności Zdolności Magiczne, a ponadto ignoruje Pancerz oraz magiczne
+  osłony celu (w tym Magiczne Tarcze i podobne efekty) - trafia tak, jakby ich
+  wcale nie było, zamiast je przełamywać.
+
+
+  Szkarłatny Kult opracował to zaklęcie jako broń przeciw innym magom -
+  zwłaszcza wyznawcom Otchłani, którzy w starciach polegają na osłonach
+  magicznych. Dlatego Szkarłatny Pocisk nie niszczy takich osłon, a po prostu
+  je pomija.
 ---
 # Szkarłatny Pocisk
 
 Mag wyczarowuje szkarłatny pocisk.
 
-Szkarłatny Pocisk zadaje tyle punktów obrażeń, ile mag ma punktów w umiejętności Zdolności Magiczne, a ponadto ignoruje Pancerz celu.
+Szkarłatny Pocisk zadaje tyle punktów obrażeń, ile mag ma punktów w umiejętności Zdolności Magiczne, a ponadto ignoruje Pancerz oraz magiczne osłony celu (w tym Magiczne Tarcze i podobne efekty) - trafia tak, jakby ich wcale nie było, zamiast je przełamywać.
+
+Szkarłatny Kult opracował to zaklęcie jako broń przeciw innym magom - zwłaszcza wyznawcom Otchłani, którzy w starciach polegają na osłonach magicznych. Dlatego Szkarłatny Pocisk nie niszczy takich osłon, a po prostu je pomija.

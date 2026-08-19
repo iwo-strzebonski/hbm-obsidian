@@ -39,7 +39,7 @@ range:
   kind: distance
   value: 5
   unit: m
-duration: 1 runda
+duration: 2 rundy
 castingTime: ''
 target: Nie dotyczy
 areaOfEffect: null
