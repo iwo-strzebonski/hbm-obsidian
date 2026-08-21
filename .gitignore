@@ -7,6 +7,7 @@
 # Vault assets: large binaries managed outside git
 _assets/
 _meta/
+_books/
 
 # AI
 .claude/

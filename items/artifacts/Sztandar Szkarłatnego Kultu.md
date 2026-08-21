@@ -13,6 +13,8 @@ Obecnie zostały z niego tylko kawałki rozsiane po różnych wymiarach.
 
 Jeżeli komukolwiek udałoby się skompletować wszystkie kawałki, to nie dość, że dostaje broń, która została stworzona przez Szkarłatnego Patriarchę, ale ponadto staje się jego Wybrańcem… Przynajmniej tak mówią legendy.
 
+Współcześnie udało się to [Xillithowi Isherwoodowi](../../npcs/Szkarłatny%20Kult/Xillith%20Isherwood.md) - uczniowi WeSM, który latami podróżował między wymiarami, zbierając rozproszone odłamki, i niedawno ukończył ich scalenie. W jego przypadku broń przybrała postać halabardy, znanej wśród Szkarłatnego Kultu jako "Broń Szkarłatnego Patriarchy". Ponieważ Sztandar w rzeczywistości powstał z pierwotnej laski Pierwszego Patriarchy, a jego dusza podążyła za odłamkami rozsianymi po wymiarach, scalenie broni sprawiło, że i dusza Patriarchy - dotąd rozdrobniona razem z nimi - jest teraz w większości zjednoczona. Nic nie stoi jednak na przeszkodzie, by w innych wymiarach istniały inne, wciąż rozproszone zestawy odłamków, czekające na własnego Wybrańca.
+
 ## Statystyki Broni Pierwszego Patriarchy
 
 Udało się Tobie skompletować wszystkie części Sztandaru Szkarłatnego Kultu - legendarnej broni stworzonej przez Pierwszego Patriarchę. Broń ta przybiera kształt najbardziej pasujący do charakteru Twojej Postaci - może być to np. miecz, kij, łuk, kusza czy nawet broń palna.

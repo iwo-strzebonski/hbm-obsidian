@@ -35,7 +35,7 @@ Xillith zdobył sławę i tytuł Arcymaga jako zaledwie 21-letni mag, gdy jego b
 
 Katastrofa przyciągnęła uwagę [Nil](../Kult%20Otchłani/Nil.md). Xillith, wraz z garstką najwierniejszych uczniów, stanął z nią do pojedynku - wygrana miała ocalić świat, przegrana miała kosztować go istnienie, a Taumaturgię rozbić na wiele mniejszych dziedzin magii. Przegrał. Część uczniów zdołała uciec do innego wymiaru, gdzie z czasem, dysponując jedynie strzępami wiedzy i coraz bardziej zacierającymi się wspomnieniami o nauczycielu, założyli [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md).
 
-Obecnie dusza Pierwszego Patriarchy jest przywiązana do artefaktu nazywanego **"Bronią Szkarłatnego Patriarchy"** (potężnej halabardy). Broń ta znajduje się obecnie w posiadaniu jego młodego imiennika – [Xillitha Isherwooda](Xillith%20Isherwood.md). Przez ten artefakt dusza Patriarchy szepcze do ucznia, a czasem nawet w pełni przejmuje nad nim kontrolę podczas walki.
+Obecnie dusza Pierwszego Patriarchy jest przywiązana do artefaktu nazywanego **"Bronią Szkarłatnego Patriarchy"** (potężnej halabardy) - w rzeczywistości scalonych odłamków [Sztandaru Szkarłatnego Kultu](../../items/artifacts/Sztandar%20Szkarłatnego%20Kultu.md), pierwotnej laski Patriarchy, rozproszonej niegdyś po różnych wymiarach. Broń ta znajduje się obecnie w posiadaniu jego młodego imiennika – [Xillitha Isherwooda](Xillith%20Isherwood.md), który niedawno ukończył zbieranie i scalanie odłamków. Przez ten artefakt dusza Patriarchy szepcze do ucznia, a czasem nawet w pełni przejmuje nad nim kontrolę podczas walki.
 
 ## Rola w kampanii
 
@@ -57,6 +57,7 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 >
 > Bezimienny nie ma własnego ciała - przetrwał jako duch w "Broni Szkarłatnego Patriarchy". Dzierżący ją **[Xillith Isherwood](Xillith%20Isherwood.md)** (uczeń WeSM) staje się jego awatarem.
 >
+> - Dopóki [Sztandar Szkarłatnego Kultu](../../items/artifacts/Sztandar%20Szkarłatnego%20Kultu.md) - pierwotna laska Bezimiennego - był rozbity na odłamki rozproszone po wymiarach, jego dusza była rozdrobniona razem z nimi, przez co przez wieki był ledwie słyszalnym szeptem. Odkąd Xillith Isherwood scalił niemal wszystkie odłamki w halabardę, dusza Patriarchy jest w większości zjednoczona - jest silniejszy i bardziej świadomy niż kiedykolwiek od czasu pojedynku z Nil, a przejęcia kontroli nad Xillithem stają się częstsze i trwają dłużej.
 > - Gdy Bezimienny jest „aktywny” i przejmuje kontrolę przez broń, ciało ucznia zachowuje się inaczej niż zwykle: jest bardziej opanowane, mówi archaicznym językiem i wykazuje potężną wiedzę taumaturgiczną.
 > - Xillith Isherwood (prawdziwa osoba) czasem tylko słyszy szepty Patriarchy, a czasem całkowicie traci kontrolę podczas bitwy.
 > - MG powinien subtelnie różnicować sposób mówienia postaci zależnie od tego, kto aktualnie „steruje”.
