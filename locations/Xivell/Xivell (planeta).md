@@ -13,7 +13,7 @@ tags:
 | **Nazwa kodowa**                 | *Eridial-4 (Eridial-4-1725)*                                                                                             |
 | **Status**                       | *Nienadająca się do zamieszkania; zniszczona przez pasożytniczą biomasę*                                                 |
 | **Szacowana liczba mieszkańców** | *10 mln (istoty humanoidalne zmutowane przez pasożytniczą biomasę)*                                                      |
-| **Znane państwa**                | [Królestwo Xivell](Królestwo%20Xivell.md), [Królestwo Zaryn](Królestwo%20Zaryn.md)                                       |
+| **Znane państwa**                | [Królestwo Xivell](Królestwo%20Xivell.md), [Wyspowe Księstwa Zaryn](Wyspowe%20Księstwa%20Zaryn.md), [Królestwo Zaryn](Królestwo%20Zaryn.md) |
 | **Znane frakcje**                | [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md), [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) |
 | **Dominujący ekosystem**         | Oceaniczny, pojedynczy kontynent, wyspy                                                                                  |
 | **Unikalne zagrożenia**          | Pasożytnicza biomasa, magiczne mutacje, ruiny cywilizacji                                                                |
@@ -50,7 +50,8 @@ Odkrycie metali magicznych (ouerklas, mitryl, adamantyn) przyciąga kolejne eksp
 ## Znane państwa i frakcje
 
 - [Królestwo Xivell](Królestwo%20Xivell.md) – monarchia kontynentalna, centrum rozwoju taumaturgii i magii krwi, upadła w wyniku katastrofy.
-- [Królestwo Zaryn](Królestwo%20Zaryn.md) – państwo wyspiarskie, słynące z magii krwi i długowieczności dynastii Zaryn, zniszczone przez pasożyta.
+- [Wyspowe Księstwa Zaryn](Wyspowe%20Księstwa%20Zaryn.md) – luźny związek autonomicznych wysp rządzonych przez dynastię Zaryn, podbity przez Królestwo Xivell w 430 r. Przed Upadkiem.
+- [Królestwo Zaryn](Królestwo%20Zaryn.md) – następca Wyspowych Księstw po zwycięskim powstaniu Roberta Zaryna, zniszczone przez pasożyta.
 - [Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md) – tajemnicza organizacja powstała z uczniów Xillitha, obecna na Xivell i poza nią.
 - [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) – frakcja eksploracyjna, prowadząca badania i nieudane próby kolonizacji.
 

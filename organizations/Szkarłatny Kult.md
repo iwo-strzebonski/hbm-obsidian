@@ -29,6 +29,9 @@ Kult działa na całym świecie, lecz jego główne siedziby i miejsca zgromadze
 
 ## Znani członkowie
 - [Bezimienny, Pierwszy Patriarcha](../npcs/Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md) (założyciel, wymazany taumaturg)
+- [Xillith Isherwood](../npcs/Szkarłatny%20Kult/Xillith%20Isherwood.md) (Mag Bitewny, współczesny awatar Bezimiennego, dzierżyciel "Broni Szkarłatnego Patriarchy")
+- [Talonos Isherwood](../npcs/Szkarłatny%20Kult/Talonos%20Isherwood.md) (młodszy brat Xillitha Isherwooda)
+- [Nicodemus Florens](../npcs/Federacja%20Sol-3/Nicodemus%20Florens.md) (Arcykapłan, dowódca największego zamku w Domenie Szkarłatu; w rzeczywistości tajny agent Federacji Sol-3)
 
 ## Powiązania i zagrożenia
 Kult jest w konflikcie z Inkwizycją i Kultem Otchłani. Jego działania są nieprzewidywalne, a wpływy sięgają wielu światów. Wewnętrzne walki o władzę oraz wpływ Otchłani stanowią stałe zagrożenie dla stabilności organizacji.

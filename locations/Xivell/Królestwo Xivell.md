@@ -45,7 +45,7 @@ W historii Xivell kluczowym momentem okazała się wojna z [Królestwem Zaryn](K
 Zjednoczone Królestwo Xivell, Greteron i Cimovell zostało ustanowione w roku 576 Przed Upadkiem, poprzez zjednoczenie trzech niegdyś niezależnych księstw: Xivell, Greteron i Cimovell. To historyczne wydarzenie zakończyło okres długotrwałych konfliktów i rywalizacji między księstwami, otwierając nowy rozdział w historii kontynentu, oparty na współpracy i wzajemnym wsparciu.
 ### Wojna z Księstwami Wyspowymi Zaryn
 
-W 437 roku Przed Upadkiem, Królestwo Xivell wypowiedziało wojnę sąsiadującym Księstwom Wyspowym Zaryn. Konflikt ten, trwający siedem lat, był brutalny i krwawy, ale ostatecznie zakończył się zwycięstwem Królestwa Xivell. W wyniku tej wojny, terytorium Zaryn zostało włączone do Królestwa Xivell, znacznie rozszerzając jego obszar i wpływy na jedynym zamieszkałym kontynencie planety.
+W 437 roku Przed Upadkiem, Królestwo Xivell wypowiedziało wojnę sąsiadującym [Wyspowym Księstwom Zaryn](Wyspowe%20Księstwa%20Zaryn.md). Konflikt ten, trwający siedem lat, był brutalny i krwawy, ale ostatecznie zakończył się zwycięstwem Królestwa Xivell. W wyniku tej wojny, terytorium Zaryn zostało włączone do Królestwa Xivell, znacznie rozszerzając jego obszar i wpływy na jedynym zamieszkałym kontynencie planety.
 ### Dynastia Cimovell
 
 W roku 346 Przed Upadkiem, zmarł ostatni król z dynastii Xivell, a na tronie zasiadła królowa z dynastii Cimovell. To wydarzenie oznaczało początek nowej ery w historii Królestwa, podkreślając dynastyczną zmienność i wpływ różnych rodów na kształtowanie polityki oraz kultury państwa.

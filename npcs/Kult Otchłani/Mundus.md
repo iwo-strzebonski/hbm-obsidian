@@ -27,3 +27,6 @@ Mundus jest odpowiedzialna za egzystencję, ewolucję, ale również za mutacje 
 Jej pierwszy Herold włada życiem, zaś drugi - mutacjami.
 
 Mundus jest pierwszą z Personifikacji, która wyłoniła się z pierwotnej, niepodzielonej [Otchłani](Abyss.md) - jeszcze zanim istniał jakikolwiek wszechświat. To właśnie jej narodziny sprawiły, że istnienie w ogóle stało się możliwe.
+
+> [!gm]+ Tylko dla MG
+> **Spekulacja - rytuał w lesie WeSM (wrzesień 2026):** nieustalone i niepotwierdzone nawet na poziomie GM, ale możliwe, że subtelny wpływ Mundus na terenie [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) pomógł [Erykowi Meliskiemu](../Inkwizycja/Eryk%20Meliski.md) skutecznie przeprowadzić rytuał, który dał [Robertowi Zarynowi](../Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) nowe ciało - w rodzaju, jaki Mundus lubi: wypaczenie czegoś (nieudanej ascensji sprzed wieków) w coś nowego. Traktuj jako opcjonalny hak fabularny, nie ustalone canon.

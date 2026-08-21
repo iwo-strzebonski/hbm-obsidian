@@ -25,6 +25,7 @@ Po opuszczeniu jaskini trafiła na Ziemię i wstąpiła do [Świętej Inkwizycji
 ## Relacje
 
 - **[Święta Inkwizycja](../../organizations/Inkwizycja.md)** - służy w jej szeregach jako starsza inkwizytor.
+- **[Eryk Meliski](../Inkwizycja/Eryk%20Meliski.md)** - jej adept w zespole audytu WeSM. Wiedziała, że praktykuje Magię Krwi, i tolerowała to - nie przewidziała jednak, że będzie chciał wskrzesić Boga Krwi. Zginął we wrześniu 2026, przywracając ciało [Robertowi Zarynowi](../Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) w lesie na terenie szkoły.
 
 > [!gm]+ Tylko dla MG
 > **Ironia sytuacji:**

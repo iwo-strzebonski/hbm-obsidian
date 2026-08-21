@@ -8,6 +8,7 @@ tags:
 	- [Brytyjska Akademia Wiedźm](locations/Ziemia%20%28Sol-3-1725%29/Brytyjska%20Akademia%20Wiedźm.md) 
 - [Xivell (planeta)](locations/Xivell/Xivell%20%28planeta%29.md) 
 	- [Królestwo Xivell](locations/Xivell/Królestwo%20Xivell.md)
+	- [Wyspowe Księstwa Zaryn](locations/Xivell/Wyspowe%20Księstwa%20Zaryn.md)
 	- [Królestwo Zaryn](locations/Xivell/Królestwo%20Zaryn.md) 
 - [Domena Szkarłatu](locations/Domena%20Szkarłatu/Domena%20Szkarłatu.md)
 	- [Twierdze Szkarłatnego Kultu](locations/Domena%20Szkarłatu/Twierdze%20Szkarłatnego%20Kultu.md)

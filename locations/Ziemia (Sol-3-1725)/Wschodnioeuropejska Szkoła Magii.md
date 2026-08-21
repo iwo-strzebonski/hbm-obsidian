@@ -33,3 +33,5 @@ WeSM jest miejscem wielu ważnych wydarzeń fabularnych: atak Otchłani w 2026 r
 
 > [!gm]+ Tylko dla MG
 > Wschodnioeuropejska Szkoła Magii to nie tylko tło dla przygód – to żywy organizm, w którym ścierają się ambicje, sekrety i polityka. Możesz wykorzystać ją jako miejsce nauki, intryg, eksperymentów magicznych, a także jako punkt wyjścia do kampanii o skali lokalnej i globalnej. Audyt Inkwizycji, działalność klubów, relacje międzyrasowe i eksperymenty magiczne mogą być źródłem licznych wątków pobocznych i głównych.
+>
+> **Rytuał w lesie (wrzesień 2026):** to właśnie w lesie na terenie WeSM [Eryk Meliski](../../npcs/Inkwizycja/Eryk%20Meliski.md) - adept z zespołu audytu Inkwizycji - przeprowadził rytuał, który dał [Robertowi Zarynowi](../../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) nowe ciało, ginąc przy tym sam. Spekuluje się (niepotwierdzone nawet na poziomie GM), że rytuał powiódł się tak łatwo dzięki wpływom [Mundus](../../npcs/Kult%20Otchłani/Mundus.md) obecnym na terenie szkoły - patrz strona [Eryka Meliskiego](../../npcs/Inkwizycja/Eryk%20Meliski.md) po szczegóły.

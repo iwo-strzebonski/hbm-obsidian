@@ -46,6 +46,7 @@ tags:
 
 ## Inkwizycja
 - [Tena Lindemann](npcs/Inkwizycja/Tena%20Lindemann.md), Starsza Inkwizytor, sekretnie lisz
+- [Eryk Meliski](npcs/Inkwizycja/Eryk%20Meliski.md), Adept-Inkwizytor (audyt WeSM), Mag Krwi za wiedzą Teny Lindemann, zmarły (wrzesień 2026)
 
 ## Szkarłatny Kult
 - [Bezimienny, Pierwszy Patriarcha](npcs/Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md)

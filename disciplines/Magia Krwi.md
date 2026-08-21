@@ -47,12 +47,20 @@ Książę Robert Zaryn, ostatni, a jednocześnie jeden z najstarszych przedstawi
 
 Znany jest jako osoba, do której woli ugięła się Obsydianowa Wieża - legendarne więzienie demonów i bogów. Dzięki olbrzymiej ilości ofiar oraz ukrytemu w niej ołtarzowi Zaryn był w stanie ujarzmić wypaczoną magię wieży, co znacząco zwiększyło jego moce. Przemiana ta uczyniła z niego najpotężniejszego maga w historii dynastii Zaryn.
 
-Wojna ze Zjednoczonym Królestwem Xivell, Greteron i Cimovell znacząco odbiła się nie tylko na samych Wyspowych Księstwach, ale także na samym księciu. Pasożyt stworzony przez Wielkiego Taumaturga uszkodził wieżę i zabił lub wypaczył świtę Roberta Zaryna, przerywając jego rytuał, jednocześnie go osłabiając i zostawiając go otumanionego na tysiąclecia, co zmusiło księcia do powolnego odzyskiwania sił i wpływu na nowych magów krwi na innych światach. Jego działania i wpływ na rozwój "nowej" magii skłoniły wielu do nazywania go Bogiem Krwi.
+Wojna ze Zjednoczonym Królestwem Xivell, Greteron i Cimovell znacząco odbiła się nie tylko na samych Wyspowych Księstwach, ale także na samym księciu. Pasożyt stworzony przez Wielkiego Taumaturga uszkodził wieżę i zabił lub wypaczył świtę Roberta Zaryna, przerywając jego rytuał, jednocześnie go osłabiając i zostawiając go otumanionego na długie stulecia, co zmusiło księcia do powolnego odzyskiwania sił i wpływu na nowych magów krwi na innych światach. Jego działania i wpływ na rozwój "nowej" magii skłoniły wielu do nazywania go Bogiem Krwi.
 
 > [!gm]+ Tylko dla MG
 > **Prawda o Robercie Zarynie i tytule Boga Krwi:**
 >
 > Robert Zaryn jest jedynym magiem krwi, który mógłby nosić tytuł Boga Krwi bez żadnych wątpliwości - jednak od czasu Upadku Xivell nie istnieje już w pełni jako jednostka. Jego ciało zostało zniszczone, a umysł roztrzaskany przez pasożyta Pierwszego Patriarchy. Tytuł „Boga Krwi" przejęli inni potężni magowie krwi na przestrzeni stuleci - żaden z nich nie dorównuje oryginałowi, choć sami o tym nie wiedzą.
 >
+> **Rytuał w Obsydianowej Wieży był próbą wstąpienia na boskość, nie ratowania świata.** Zaryn, ufny w moc, którą hodował przez dwa stulecia panowania nad wypaczoną magią Wieży, próbował dokonać pełnej ascensji - świadomego przejścia z potężnego maga w istotę boską. Publiczna legenda ("desperacka próba ocalenia świata") to wersja, w którą wierzy niemal cała społeczność magów krwi, w tym większość jego własnych naśladowców.
+>
+> Rytuał nie powiódł się tak, jak planował - ale nie zawiódł całkowicie. Pasożyt Xillitha dotarł do Wieży w trakcie samej ceremonii i wybił lub wypaczył niemal wszystkich zgromadzonych wyznawców, roztrzaskując skupienie i duszę Zaryna, zanim rytuał zdążył się dopełnić. Kluczowe jest jednak to, *kto* przerwał ascensję: nie żadna z Personifikacji Otchłani, tylko biologiczna broń - siła potężna, lecz bezrozumna, bez intencji unicestwienia boskości jako takiej. Ponieważ przerwanie nie było świadomym aktem Otchłani, a sam rytuał był już w toku, Zaryn zdążył wchłonąć część boskiej mocy, którą przyzywał - ale w formie roztrzaskanej, niedokończonej i rozproszonej wraz z jego złamanym umysłem, zamiast scalonej w jedną, stabilną boskość.
+>
+> To właśnie dlatego tytuł „Bóg Krwi" jest tak niejednoznaczny nawet dla uczonych i samej Inkwizycji: Zaryn nie jest ani w pełni bogiem, ani zwykłym magiem, który przetrwał katastrofę - jest czymś pomiędzy, boskością in statu nascendi, zamrożoną w chwili przerwania. Formalne orzeczenia teologiczne Inkwizycji celowo pozostają wymijające, bo żadna ze stron sporu (istnieje/nie istnieje jako bóg) nie da się jednoznacznie obronić dostępnymi narzędziami klasyfikacji boskości.
+>
 > Gracze mogą natknąć się na ślady Zaryna w postaci niezwykłych „snów" dotykających magów krwi, artefaktów z okresu Xivell lub kultystów przekonanych, że służą legendzie, a w rzeczywistości są narzędziem odradzającego się boga.
+>
+> **Aktualizacja (wrzesień 2026):** Zaryn nie jest już bezcielesny. Zobacz [Ten, Który jest Mroczny](../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md#Powrót%20%28wrzesień%202026%29) - odzyskał fizyczne ciało dzięki rytuałowi zdesperowanego adepta-inkwizytora, który zginął w trakcie ceremonii. Roztrzaskanie duszy i mocy opisane wyżej wciąż obowiązuje - zmieniło się jedynie to, że Zaryn ma teraz ciało, przez które może działać osobiście.
 
