@@ -25,25 +25,25 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 5 | 7 | 6 | 6 |
+| 5 | 7 | 6 | 5 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 36 | 12 | 0 | - | 2k6+18 | 3 | 10 m |
+| 36 | 12 | 0 | - | 2k6+23 | 3 | 10 m |
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) 6
-- Wiedza Magiczna (Umysł) 5
-- Wiedza Ogólna (Umysł) 5
-- Intuicja (Umysł) 5
-- Spostrzegawczość (Umysł) 5
-- Refleks (Ciało) 6 *(nienagannie unika ciosów w zwarciu, jak na "studentkę" niepokojąco dobrze)*
-- Zręczność (Ciało) 6
-- Walka Wręcz (Ciało) 4
-- Skradanie się (Ciało) 4
-- Determinacja (Dusza) 6
-- Przekonywanie (Dusza) 4
+- Zdolności Magiczne (Magia) +1 (6)
+- Wiedza Magiczna (Umysł) +1 (8)
+- Wiedza Ogólna (Umysł) +1 (8)
+- Intuicja (Umysł) +1 (8)
+- Spostrzegawczość (Umysł) +1 (8)
+- Refleks (Ciało) +3 (8) *(nienagannie unika ciosów w zwarciu, jak na "studentkę" niepokojąco dobrze)*
+- Zręczność (Ciało) +1 (6)
+- Walka Wręcz (Ciało) +1 (6)
+- Skradanie się (Ciało) +1 (6)
+- Determinacja (Dusza) +1 (7)
+- Przekonywanie (Dusza) +1 (7)
 
 #### Talenty
 
@@ -78,24 +78,24 @@ Karolina wciąż formalnie jest tą samą "studentką" co w Formie I - ale przes
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 6 | 8 | 7 | 9 |
+| 6 | 8 | 7 | 7 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 20 | 0 | - | 2k6+18 | 4 | 10 m |
+| 42 | 20 | 0 | - | 2k6+24 | 4 | 10 m |
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) 9
-- Wiedza Magiczna (Umysł) 8
-- Wiedza Ogólna (Umysł) 6
-- Intuicja (Umysł) 6
-- Spostrzegawczość (Umysł) 6
-- Refleks (Ciało) 4 *(obniżone - obie ręce i większość uwagi zajmuje kontrolowanie Księgi, patrz Ekwipunek)*
-- Zręczność (Ciało) 5
-- Walka Wręcz (Ciało) 4
-- Determinacja (Dusza) 7
-- Przekonywanie (Dusza) 5
+- Zdolności Magiczne (Magia) +2 (9)
+- Wiedza Magiczna (Umysł) +3 (11)
+- Wiedza Ogólna (Umysł) +1 (9)
+- Intuicja (Umysł) +1 (9)
+- Spostrzegawczość (Umysł) +1 (9)
+- Refleks (Ciało) +1 (7) *(obniżone - obie ręce i większość uwagi zajmuje kontrolowanie Księgi, patrz Ekwipunek)*
+- Zręczność (Ciało) +1 (7)
+- Walka Wręcz (Ciało) +1 (7)
+- Determinacja (Dusza) +1 (8)
+- Przekonywanie (Dusza) +1 (8)
 
 #### Talenty
 
@@ -131,25 +131,25 @@ Białe szaty studentki znikają - zdarte w walce albo zdjęte przez samą Karoli
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 10 | 10 | 9 | 11 |
+| 10 | 10 | 9 | 8 |
 
 | Żywotność | Mana | Pancerz | Osłona Magiczna | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 58 | 35 | 0 | 15 (patrz Ekwipunek) | 2k6+27 | 5 | 15 m |
+| 58 | 35 | 0 | 15 (patrz Ekwipunek) | 2k6+32 | 5 | 15 m |
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) 11
-- Wiedza Magiczna (Umysł) 9
-- Wiedza Ogólna (Umysł) 8
-- Intuicja (Umysł) 9
-- Spostrzegawczość (Umysł) 8
-- Refleks (Ciało) 9
-- Zręczność (Ciało) 9
-- Walka Wręcz (Ciało) 9 *(capoeira - unarmed, patrz Ekwipunek)*
-- Skradanie się (Ciało) 6
-- Determinacja (Dusza) 9
-- Przekonywanie (Dusza) 6
+- Zdolności Magiczne (Magia) +3 (11)
+- Wiedza Magiczna (Umysł) +3 (13)
+- Wiedza Ogólna (Umysł) +1 (11)
+- Intuicja (Umysł) +1 (11)
+- Spostrzegawczość (Umysł) +1 (11)
+- Refleks (Ciało) +1 (11)
+- Zręczność (Ciało) +1 (11)
+- Walka Wręcz (Ciało) +2 (12) *(capoeira - unarmed, patrz Ekwipunek)*
+- Skradanie się (Ciało) +1 (11)
+- Determinacja (Dusza) +1 (10)
+- Przekonywanie (Dusza) +1 (10)
 
 #### Talenty
 
@@ -158,6 +158,7 @@ Wszystkie Talenty z Form I i II (obniżenie Refleksu z Formy II obowiązuje wył
 - [Spleciona Moc](../Rozdział%20III%20-%20Talenty/Spleciona%20Moc.md) - jednoczesna Koncentracja na wielu zaklęciach, rosnąca w miarę trwania starcia (do 5), z darmowym ponownym rzucaniem utrzymywanych zaklęć.
 - [Przywilej Baby Jagi](../Rozdział%20III%20-%20Talenty/Przywilej%20Baby%20Jagi.md) - raz na dobę (dwa razy w pełnię, zero razy w nów) wymusza pełny sukces dowolnego swojego Testu.
 - [Pełnia Mocy](../Rozdział%20III%20-%20Talenty/Pełnia%20Mocy.md) - rzuca Superzaklęcia samodzielnie, tak jakby były zwykłymi, potężnymi zaklęciami.
+- [Metamagia](../../02.%20Klątwa%20Otchłani/Rozdział%20II%20-%20Talenty/Metamagia.md) - dostęp do Akcji Rozdwojone Zaklęcie, Niezniszczalne Zaklęcie, Rozproszenie Magii i Błyskawiczne Czarostwo - narzędzie prawdziwej, doświadczonej czarownicy, nie tylko potężnej maszki.
 
 #### Zaklęcia znane
 

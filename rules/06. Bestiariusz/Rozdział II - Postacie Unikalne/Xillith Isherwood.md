@@ -24,22 +24,22 @@ Ta karta nie przedstawia współczesnego Xillitha - to jego dawna, porzucona for
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 7 | 5 | 5 | 5 |
+| 7 | 5 | 5 | 4 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 34 | 10 | 1 | - | 2k6+14 | 3 | 10 m |
+| 34 | 10 | 1 | - | 2k6+19 | 3 | 10 m |
 
 #### Umiejętności
 
-- Walka Wręcz (Ciało) 6
-- Refleks (Ciało) 5
-- Zręczność (Ciało) 4
-- Zdolności Magiczne (Magia) 5
-- Wiedza Magiczna (Umysł) 4
-- Wiedza Ogólna (Umysł) 4
-- Spostrzegawczość (Umysł) 4
-- Determinacja (Dusza) 5
+- Walka Wręcz (Ciało) +3 (10)
+- Refleks (Ciało) +1 (8)
+- Zręczność (Ciało) +1 (8)
+- Zdolności Magiczne (Magia) +1 (5)
+- Wiedza Magiczna (Umysł) +1 (6)
+- Wiedza Ogólna (Umysł) +1 (6)
+- Spostrzegawczość (Umysł) +1 (6)
+- Determinacja (Dusza) +1 (6)
 
 #### Talenty
 
@@ -77,18 +77,18 @@ Bezimienny w pełni przejmuje kontrolę nad ciałem Xillitha za pośrednictwem B
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 54 | 25 | 1 | - | 2k6+25 | 5 | 10 m |
+| 54 | 25 | 1 | - | 2k6+30 | 5 | 10 m |
 
 #### Umiejętności
 
-- Walka Wręcz (Ciało) 8 *(Xillitha)*
-- Refleks (Ciało) 7 *(Xillitha)*
-- Zdolności Magiczne (Magia) 10 *(Bezimiennego)*
-- Wiedza Magiczna (Umysł) 10 *(Bezimiennego)*
-- Wiedza Ogólna (Umysł) 8
-- Spostrzegawczość (Umysł) 8
-- Intuicja (Umysł) 7
-- Determinacja (Dusza) 9
+- Walka Wręcz (Ciało) +3 (11) *(Xillitha)*
+- Refleks (Ciało) +1 (9) *(Xillitha)*
+- Zdolności Magiczne (Magia) +3 (13) *(Bezimiennego)*
+- Wiedza Magiczna (Umysł) +3 (13) *(Bezimiennego)*
+- Wiedza Ogólna (Umysł) +1 (11)
+- Spostrzegawczość (Umysł) +1 (11)
+- Intuicja (Umysł) +1 (11)
+- Determinacja (Dusza) +1 (10)
 
 #### Talenty
 
@@ -125,21 +125,21 @@ Xillith wrócił do siebie na tyle, na ile to możliwe - mentor (za pośrednictw
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 8 | 6 | 6 | 7 |
+| 8 | 6 | 6 | 4 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 40 | 16 | 1 | - | 2k6+17 | 3 | 10 m |
+| 40 | 16 | 1 | - | 2k6+22 | 3 | 10 m |
 
 #### Umiejętności
 
-- Walka Wręcz (Ciało) 8
-- Refleks (Ciało) 6
-- Alchemia (Warzenie Eliksirów) (Umysł) 7
-- Zdolności Magiczne (Magia) 7
-- Wiedza Magiczna (Umysł) 6
-- Spostrzegawczość (Umysł) 5
-- Determinacja (Dusza) 6
+- Walka Wręcz (Ciało) +3 (11)
+- Refleks (Ciało) +1 (9)
+- Alchemia (Warzenie Eliksirów) (Umysł) +3 (9)
+- Zdolności Magiczne (Magia) +1 (5)
+- Wiedza Magiczna (Umysł) +1 (7)
+- Spostrzegawczość (Umysł) +1 (7)
+- Determinacja (Dusza) +1 (7)
 
 #### Talenty
 
@@ -174,21 +174,21 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 9 | 9 | 8 | 11 |
+| 9 | 9 | 8 | 6 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 30 | 1 | - | 2k6+24 | 4 | 10 m |
+| 52 | 30 | 1 | - | 2k6+29 | 4 | 10 m |
 
 #### Umiejętności
 
-- Walka Wręcz (Ciało) 9
-- Refleks (Ciało) 8
-- Zdolności Magiczne (Magia) 11
-- Wiedza Magiczna (Umysł) 9
-- Alchemia (Warzenie Eliksirów) (Umysł) 7
-- Spostrzegawczość (Umysł) 7
-- Determinacja (Dusza) 8
+- Walka Wręcz (Ciało) +3 (12)
+- Refleks (Ciało) +1 (10)
+- Zdolności Magiczne (Magia) +3 (9)
+- Wiedza Magiczna (Umysł) +1 (10)
+- Alchemia (Warzenie Eliksirów) (Umysł) +1 (10)
+- Spostrzegawczość (Umysł) +1 (10)
+- Determinacja (Dusza) +1 (9)
 
 #### Talenty
 
@@ -198,9 +198,6 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 - [Otoczony](../Rozdział%20III%20-%20Talenty/Otoczony.md)
 - [Skaza z Xivell](../Rozdział%20III%20-%20Talenty/Skaza%20z%20Xivell.md)
 - **Natychmiastowe Rozproszenie** *(unikalny)* - Reakcja, koszt 1 Zapał: gdy w zasięgu 10 m ktoś rzuca zaklęcie dowolnej Dziedziny, Postać automatycznie je przerywa i rozprasza, bez Testu.
-
-[Wspomnienie Wspaniałego Świata](../Rozdział%20III%20-%20Talenty/Wspomnienie%20Wspaniałego%20Świata.md) **nie obowiązuje** w tej formie - Ciało jest w pełni własne Xillitha, bo w przeciwieństwie do Formy II, Bezimienny nie przejmuje tu ciała, tylko dzieli się mocą.
-
 #### Zaklęcia znane
 
 Jak w Formie II.
@@ -214,4 +211,4 @@ Jak w Formie II.
 ### Taktyka
 
 > [!gm]+ Tylko dla MG
-> Zaczyna jak Forma III - zwarcie Mieczem Taumicznym, alchemia jako wsparcie - ale znacznie chętniej sięga po zaklęcia Szkarłatu i aktywnie chroni się Natychmiastowym Rozproszeniem przed magami w drużynie, gasząc ich zaklęcia, zanim zdążą zadziałać. Jeśli coś go naprawdę wyprowadzi z równowagi, przechodzi na halabardę - to wyraźny sygnał dla graczy, że walka właśnie weszła w znacznie bardziej niebezpieczną fazę.
+> Zaczyna jak Forma III - zwarcie Mieczem Taumicznym, alchemia jako wsparcie - ale znacznie chętniej sięga po zaklęcia Szkarłatu i aktywnie chroni się Natychmiastowym Rozproszeniem przed wrogimi magami, gasząc ich zaklęcia, zanim zdążą zadziałać. Jeśli coś go naprawdę wyprowadzi z równowagi, przechodzi na halabardę - to wyraźny sygnał dla graczy, że walka właśnie weszła w znacznie bardziej niebezpieczną fazę.

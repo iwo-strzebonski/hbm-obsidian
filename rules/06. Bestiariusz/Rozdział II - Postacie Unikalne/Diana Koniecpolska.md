@@ -27,26 +27,26 @@ Diana jest, jak na maga, wyjątkowo słaba fizycznie - nigdy nie trenowała cia�
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 2 | 9 | 6 | 6 |
+| 2 | 9 | 6 | 4 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 34 | 12 | 0 | 2 | 2k6+19 | 3 | 10 m |
+| 34 | 12 | 0 | 2 | 2k6+23 | 3 | 10 m |
 
 #### Umiejętności
 
-- Rzemiosło (Umysł) 8
-- Zdolności Magiczne (Magia) 6
-- Wiedza Magiczna (Umysł) 7
-- Wiedza Ogólna (Umysł) 5
-- Intuicja (Umysł) 6
-- Spostrzegawczość (Umysł) 6
-- Umiejętności Strzeleckie 6 *(przy Miotaczu Entropii liczone z Magią zamiast Ciałem, patrz opis artefaktu)*
-- Refleks (Ciało) 4
-- Walka Wręcz (Ciało) 2
-- Zręczność (Ciało) 4
-- Skradanie się (Ciało) 3
-- Determinacja (Dusza) 5
+- Rzemiosło (Umysł) +3 (12)
+- Zdolności Magiczne (Magia) +2 (6)
+- Wiedza Magiczna (Umysł) +1 (10)
+- Wiedza Ogólna (Umysł) +1 (10)
+- Intuicja (Umysł) +1 (10)
+- Spostrzegawczość (Umysł) +1 (10)
+- Umiejętności Strzeleckie (Ciało) +4 (6) *(przy Miotaczu Entropii liczone z Magią zamiast Ciałem, patrz opis artefaktu)*
+- Refleks (Ciało) +2 (4)
+- Walka Wręcz (Ciało) +1 (3)
+- Zręczność (Ciało) +2 (4)
+- Skradanie się (Ciało) +1 (3)
+- Determinacja (Dusza) +1 (7)
 
 #### Talenty
 
@@ -71,11 +71,9 @@ Diana nie jest jeszcze Mistrzynią Magii w tym punkcie swojej historii - ten tyt
 - **Ładunki:** 4 (jak bazowy Miotacz Energii, ale o jeden więcej) - przeładowanie kosztuje Turę oraz 4 punkty Many za ładunek, lub natychmiastową wymianę zbiornika z wydestylowaną esencją Potentia (z ryzykiem przegrzania, patrz zasady Miotacza Energii)
 - **Cechy:** Rozdzierający; pociski poruszają się chaotycznie w pobliżu skupisk wrogów (patrz opis Miotacza Entropii); jako Akcję Diana może wystrzelić z obu luf naraz, dzieląc pulę kości między dwa cele, jak przy walce oburącz
 
-**Zwiadowcze Lustra (para)** - dwa niewielkie latające konstrukty, każdy wyposażony w jedno z pary Magicznych Luster (patrz [Rzemiosło Artefaktów](../../../disciplines/Rzemiosło%20Artefaktów.md)) z ulepszeniem *Lustro Zaklęć*, połączonych z drugim lustrem noszonym przez samą Dianę. Dzięki temu może rzucać zaklęcia "przez" dowolne Lustro Zwiadowcze - punktem źródłowym zaklęcia (na potrzeby zasięgu i wizji) staje się wtedy pozycja drona, a nie jej własna, pozwalając jej chować się poza linią wzroku przeciwników. W ramach Akcji Postać może też poświęcić jedno Lustro, by wykonać nim dodatkowy Atak Testem Magia (Umiejętności Strzeleckie) S+1 Punktów Obrażeń, zasięg 10 m. Zniszczone Lustro Zwiadowcze (Żywotność 5, bez Pancerza) wraca do Diany na krótkim odpoczynku.
+**Zwiadowcze Lustra (para)** - dwa niewielkie latające konstrukty, każdy wyposażony w jedno z pary Magicznych Luster (patrz [Rzemiosło Artefaktów](../../../disciplines/Rzemiosło%20Artefaktów.md)) z ulepszeniem *Lustro Zaklęć*, połączonych z drugim lustrem noszonym przez samą Dianę. Dzięki temu może rzucać zaklęcia "przez" dowolne Lustro Zwiadowcze - punktem źródłowym zaklęcia (na potrzeby zasięgu i wizji) staje się wtedy pozycja drona, a nie jej własna, pozwalając jej chować się poza linią wzroku przeciwników. W ramach Akcji Postać może też poświęcić jedno Lustro, by wykonać nim dodatkowy Atak Testem Magia (Umiejętności Strzeleckie) S+1 Punktów Obrażeń, zasięg 10 m. Zniszczone Lustro Zwiadowcze (Żywotność 5, bez Pancerza) wraca do Diany po Krótkim Odpoczynku.
 
 **Amulet Osłony (własnej roboty)** - źródło jej Runicznego Pancerza; jeden z pierwszych artefaktów, jaki dla siebie wykuła.
-
-Diana wciąż nosi zwykłe okulary korygujące jej (umiarkowaną na tym etapie) wadę wzroku - zaklęte okulary od Nil dostanie dopiero po wydarzeniach lata 2027 (patrz Forma II).
 
 ### Taktyka
 
@@ -86,32 +84,32 @@ Diana wciąż nosi zwykłe okulary korygujące jej (umiarkowaną na tym etapie) 
 
 Diana zaczyna ufać (nieco) swojej mocy jako Posłańca - nadal jest przede wszystkim rzemieślniczką, ale magia przestaje być ostatecznością. Część jej "zaklęć" to tak naprawdę Otchłań odpowiadająca na jej wolę, co robi z wyraźnym niesmakiem, bo dobrze wie, czym to jest.
 
-Latem 2027 jej ciało zaczyna nosić pierwsze, ledwie widoczne ślady tego, czym się staje. Rany głębsze niż zwykłe stłuczenia goją się same, szybciej niż powinny - a utracone drobne fragmenty ciała odrastają z cienkiej warstwy czarnego, lekko lepkiego szlamu, zanim zdążą przybrać z powrotem "normalny" wygląd. Nie musi już oddychać, choć robi to z przyzwyczajenia, a własne serce potrafi na chwilę zatrzymać i uruchomić ponownie bez żadnych konsekwencji, gdy się na tym skupi. Oczy są jedynym wyjątkiem - zbyt złożonym systemem, by Nil (Personifikacja Początku, nie Życia) potrafiła go bezbłędnie odtworzyć, co jest bezpośrednią przyczyną pogorszenia jej wzroku po nieudanym eksperymencie latem 2027 (patrz Ekwipunek, zaklęte okulary). Diana była po cichu dumna z tego, że wciąż jest człowiekiem - to jeden z powodów, dla których nienawidzi tego, w co się teraz zamienia, nawet jeśli te zmiany właśnie ratują jej życie.
+Latem 2027 jej ciało zaczyna nosić pierwsze, ledwie widoczne ślady tego, czym się staje. Rany głębsze niż zwykłe stłuczenia goją się same, szybciej niż powinny - a utracone drobne fragmenty ciała odrastają z cienkiej warstwy czarnego, lekko lepkiego szlamu, zanim zdążą przybrać z powrotem "normalny" wygląd. Nie musi już oddychać, choć robi to z przyzwyczajenia, a własne serce potrafi na chwilę zatrzymać i uruchomić ponownie bez żadnych konsekwencji, gdy się na tym skupi. Oczy są jedynym wyjątkiem - zbyt złożonym systemem, by Nil potrafiła go bezbłędnie odtworzyć, co jest bezpośrednią przyczyną pogorszenia jej wzroku po nieudanym eksperymencie latem 2027 (patrz Ekwipunek, zaklęte okulary). Diana była po cichu dumna z tego, że wciąż jest człowiekiem - to jeden z powodów, dla których nienawidzi tego, w co się teraz zamienia, nawet jeśli te zmiany właśnie ratują jej życie.
 
 ### Statystyki
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 2 | 10 | 7 | 8 |
+| 2 | 10 | 7 | 6 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 38 | 20 | 0 | 2 | 2k6+22 | 4 | 10 m |
+| 38 | 20 | 0 | 2 | 2k6+26 | 4 | 10 m |
 
 #### Umiejętności
 
-- Rzemiosło (Umysł) 9
-- Zdolności Magiczne (Magia) 8
-- Wiedza Magiczna (Umysł) 8
-- Wiedza Ogólna (Umysł) 6
-- Intuicja (Umysł) 7
-- Spostrzegawczość (Umysł) 7
-- Umiejętności Strzeleckie 7 *(przy Miotaczu Entropii liczone z Magią zamiast Ciałem)*
-- Refleks (Ciało) 5
-- Walka Wręcz (Ciało) 3
-- Zręczność (Ciało) 4
-- Determinacja (Dusza) 6
-- Przekonywanie (Dusza) 5 *(uczy klasy Przepływu Magii III)*
+- Rzemiosło (Umysł) +3 (13)
+- Zdolności Magiczne (Magia) +2 (8)
+- Wiedza Magiczna (Umysł) +1 (11)
+- Wiedza Ogólna (Umysł) +1 (11)
+- Intuicja (Umysł) +1 (11)
+- Spostrzegawczość (Umysł) +1 (11)
+- Umiejętności Strzeleckie (Ciało) +5 (7) *(przy Miotaczu Entropii liczone z Magią zamiast Ciałem)*
+- Refleks (Ciało) +3 (5)
+- Walka Wręcz (Ciało) +1 (3)
+- Zręczność (Ciało) +2 (4)
+- Determinacja (Dusza) +1 (8)
+- Przekonywanie (Dusza) +2 (9) *(uczy klasy Przepływu Magii III)*
 
 #### Talenty
 
@@ -120,6 +118,7 @@ Wszystkie Talenty z Formy I, a ponadto:
 - [Mistrz Magii (Dziedzina)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Mistrz%20Magii%20%28Dziedzina%29.md) *(Rzemiosło Artefaktów - dopiero teraz zdobywa tytuł Mistrzyni Magii)*
 - [Rozplatanie Zaklęć](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Rozplatanie%20Zaklęć.md)
 - [Uznana przez Otchłań](../Rozdział%20III%20-%20Talenty/Uznana%20przez%20Otchłań.md) *(od lata 2027, gdy jej ciało zaczyna się zmieniać - patrz niżej)*
+- [Jedność z Magią](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Jedność%20z%20Magią.md) *(wyjątkowo nadana poza tworzeniem postaci, wraz z przemianą lata 2027 - jej pierwotny rzut na Magię (Poziom Mocy I) zostaje obniżony do Poziomu Mocy 0, najwyższego możliwego wyniku)*
 
 #### Zaklęcia znane
 
@@ -143,7 +142,7 @@ Jak w Formie I (Rapier, Sprzężone Działa Entropii, Zwiadowcze Lustra, Amulet 
 
 ## Forma III - Posłaniec Przeszłości (Harbinger)
 
-Forma Otchłani Diany - "Eldritch Slime". Jej ciało traci ostre kontury i staje się amorficzną, lekko lepką substancją, choć wciąż potrafi przybrać swój dawny kształt na tyle, by mówić, patrzeć i walczyć jak człowiek. W tej formie Diana nie ma limitu Many - czerpie moc wprost z Otchłani i z Nil, a raczej z tego, co z nich w niej zostało.
+Forma Otchłani Diany - "Eldritch Slime". Jej ciało traci ostre kontury i staje się amorficzną, lekko lepką substancją, choć wciąż potrafi przybrać swój dawny kształt na tyle, by mówić, patrzeć i walczyć jak człowiek. Ta sama utrata fizycznej formy pozwala jej też swobodnie latać, jakby grawitacja przestawała jej w pełni dotyczyć. W tej formie Diana nie ma limitu Many - czerpie moc wprost z Otchłani i z Nil, a raczej z tego, co z nich w niej zostało.
 
 Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy sięga po swoje najpotężniejsze zdolności, rzeczywistość wokół niej [pęka i składa się na nowo](../../../lore/02.%20Otchłań%20i%20Magia.md#Jak%20reaguje%20rzeczywistość), tak jak dzieje się to wokół samego Nil.
 
@@ -151,26 +150,26 @@ Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy s
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 6 | 12 | 10 | 12 |
+| 6 | 12 | 10 | 6 |
 
 | Żywotność | Mana | Pancerz | Osłona Magiczna | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 112 | Nieograniczona | 0 | regenerowana Zaporą Posłańca | 2k6+29 | 5 | 10 m |
+| 112 | Nieograniczona | 0 | regenerowana Zaporą Posłańca | 2k6+33 | 5 | 10 m (w tym Lot) |
 
-*(Żywotność podwojona względem standardowego wzoru - patrz Talent [Więcej, Niż Pomieści Śmiertelne Ciało](../Rozdział%20III%20-%20Talenty/Więcej,%20Niż%20Pomieści%20Śmiertelne%20Ciało.md))*
+*(Żywotność podwojona względem standardowego wzoru - patrz Talent [Nie do Zabicia](../Rozdział%20III%20-%20Talenty/Nie%20do%20Zabicia.md))*
 
 Nawet jako Posłaniec Diana wciąż nie jest wojowniczką - jej ciało w tej formie jest odporniejsze i szybsze niż jej śmiertelna postać, ale to wciąż moc czerpana z Otchłani i Nil, a nie fizyczna siła, którą kiedykolwiek trenowała.
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) 12
-- Rzemiosło (Umysł) 10
-- Wiedza Magiczna (Umysł) 10
-- Intuicja (Umysł) 9
-- Spostrzegawczość (Umysł) 9
-- Refleks (Ciało) 8
-- Walka Wręcz (Ciało) 6
-- Determinacja (Dusza) 9
+- Zdolności Magiczne (Magia) +6 (12)
+- Rzemiosło (Umysł) +3 (15)
+- Wiedza Magiczna (Umysł) +1 (13)
+- Intuicja (Umysł) +1 (13)
+- Spostrzegawczość (Umysł) +1 (13)
+- Refleks (Ciało) +2 (8)
+- Walka Wręcz (Ciało) +1 (7)
+- Determinacja (Dusza) +1 (11)
 
 #### Talenty
 
@@ -179,7 +178,7 @@ Wszystkie Talenty z Form I i II (o ile wciąż mają zastosowanie w tej formie -
 - [Surowa Moc Posłańca](../Rozdział%20III%20-%20Talenty/Surowa%20Moc%20Posłańca.md) *(unikalny)*
 - [Zapora Posłańca](../Rozdział%20III%20-%20Talenty/Zapora%20Posłańca.md) *(unikalny)*
 - [Więcej, Niż Zniesie Śmiertelny Umysł](../Rozdział%20III%20-%20Talenty/Więcej,%20Niż%20Zniesie%20Śmiertelny%20Umysł.md) *(unikalny)*
-- [Więcej, Niż Pomieści Śmiertelne Ciało](../Rozdział%20III%20-%20Talenty/Więcej,%20Niż%20Pomieści%20Śmiertelne%20Ciało.md) *(unikalny)*
+- [Nie do Zabicia](../Rozdział%20III%20-%20Talenty/Nie%20do%20Zabicia.md) *(unikalny)*
 
 #### Ekwipunek
 
@@ -196,4 +195,4 @@ Wszystkie Talenty z Form I i II (o ile wciąż mają zastosowanie w tej formie -
 >
 > Ta forma powinna pojawiać się na stole rzadko i z konsekwencjami fabularnymi - to punkt kulminacyjny, a nie standardowe starcie. Diana w tej formie nie walczy "dla zwycięstwa" - walczy, bo boi się tego, czym się staje, gdy przestaje się hamować.
 >
-> Dla kalibracji: podczas rytuału manifestacyjnego Nil, opętawszy ciało Diany, wytwarzała moc dokładnie na tym poziomie - a mimo to [Roberta Zaryna](../../../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) i Pierwszego Patriarchy w ciele Xillitha wystarczyło tylko na to, by ją **zatrzymać**, nie pokonać, i tylko na 30 minut. Grupa graczy o normalnej mocy nie ma prawa "wygrać" starcia z Dianą w tej formie w klasycznym sensie - jeśli do niego dojdzie, scenariusz powinien dawać inne wyjścia niż walkę na wyczerpanie.
+> Dla kalibracji: podczas rytuału manifestacyjnego Nil, opętawszy ciało Diany, wytwarzała moc dokładnie na tym poziomie - a mimo to opór stawiany przez [Robert Zaryna](../../../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) i Pierwszego Patriarchy w ciele Xillitha wystarczył tylko na to, by ją **zatrzymać**, nie pokonać, i tylko na 30 minut. Grupa graczy o normalnej mocy nie ma prawa "wygrać" starcia z Dianą w tej formie w klasycznym sensie - jeśli do niego dojdzie, scenariusz powinien dawać inne wyjścia niż walkę na wyczerpanie.

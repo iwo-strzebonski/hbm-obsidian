@@ -17,27 +17,27 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 6 | 8 | 7 | 7 |
+| 6 | 8 | 7 | 4 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 18 | 1 | 3 | 2k6+19 | 4 | 10 m |
+| 42 | 18 | 1 | 3 | 2k6+24 | 4 | 10 m |
 
 ### Umiejętności
 
-- Zdolności Magiczne (Magia) 7
-- Rzemiosło (Umysł) 8
-- Wiedza Magiczna (Umysł) 6
-- Wiedza Ogólna (Umysł) 6
-- Intuicja (Umysł) 7
-- Spostrzegawczość (Umysł) 6
-- Umiejętności Strzeleckie (Ciało) 6
-- Refleks (Ciało) 5
-- Walka Wręcz (Ciało) 6
-- Zręczność (Ciało) 4
-- Determinacja (Dusza) 6
-- Przekonywanie (Dusza) 5
-- Zastraszanie (Dusza) 5
+- Zdolności Magiczne (Magia) +3 (7)
+- Rzemiosło (Umysł) +3 (11)
+- Wiedza Magiczna (Umysł) +1 (9)
+- Wiedza Ogólna (Umysł) +1 (9)
+- Intuicja (Umysł) +1 (9)
+- Spostrzegawczość (Umysł) +1 (9)
+- Umiejętności Strzeleckie (Ciało) +1 (7)
+- Refleks (Ciało) +1 (7)
+- Walka Wręcz (Ciało) +1 (7)
+- Zręczność (Ciało) +1 (7)
+- Determinacja (Dusza) +1 (8)
+- Przekonywanie (Dusza) +1 (8)
+- Zastraszanie (Dusza) +1 (8)
 
 ### Talenty
 
@@ -70,6 +70,6 @@ Dzięki Talentom *Parowanie*, *Finta* i *Riposta* Pelagius, gdy już dobędzie �
 > 
 > Pelagius otwiera walkę Skarbcem Królów z bezpiecznego dystansu, dzieląc kręgi między najgroźniejsze cele, a Oko, Które Widziało Wszystko sprawia, że próby zaskoczenia go tym samym atakiem drugi raz z rzędu praktycznie nie mają sensu. Rozplatania Zaklęć używa wybiórczo, by uciszyć jednego, najgroźniejszego przeciwnika-maga, zamiast marnować akcje na każde zaklęcie z osobna.
 >
-> Łańcuchów Enkidu używa niemal wyłącznie wtedy, gdy chce kogoś złapać żywcem (przesłuchanie, pojmanie, ochrona ucznia) albo gdy przeciwnik zbliży się na tyle, że dystansowy ostrzał przestaje być opłacalny - i nawet wtedy traktuje to jako coś w rodzaju osobistej porażki, że musiał "brudzić sobie ręce". To jednak nie oznacza, że w zwarciu jest słabszy - wręcz przeciwnie: Pelagius spokojnie paruje ciosy, wplata Finty, by rozbroić przeciwnika z jego obrony, i kończy wymianę Ripostą. Gracze, którzy zepchną go do walki wręcz licząc, że w ten sposób unikną Skarbca Królów, zwykle szybko żałują tej decyzji.
+> Łańcuchów Enkidu używa niemal wyłącznie wtedy, gdy chce kogoś złapać żywcem (przesłuchanie, pojmanie, ochrona ucznia) albo gdy przeciwnik zbliży się na tyle, że dystansowy ostrzał przestaje być opłacalny - i nawet wtedy traktuje to jako coś w rodzaju osobistej porażki, że musiał "brudzić sobie ręce". To jednak nie oznacza, że w zwarciu jest słabszy - wręcz przeciwnie: Pelagius spokojnie paruje ciosy, wplata Finty, by rozbroić przeciwnika z jego obrony, i kończy wymianę Ripostą. Postacie, które zepchną go do walki wręcz licząc, że w ten sposób unikną Skarbca Królów, zwykle szybko żałują tej decyzji.
 >
-> Pelagius nigdy nie walczy z desperacją - jeśli starcie zaczyna wyglądać na przegrane, wycofa się, używając Skarbca do osłony odwrotu, zamiast ryzykować śmierć. Jest zbyt cennym agentem Federacji, by ginąć w pojedynkach, których nie musi wygrywać.
+> Pelagius nigdy nie walczy z desperacją - jeśli starcie zaczyna wyglądać na przegrane, wycofa się, używając Skarbca do osłony odwrotu, zamiast ryzykować śmierć - jest zbyt cennym agentem Federacji.

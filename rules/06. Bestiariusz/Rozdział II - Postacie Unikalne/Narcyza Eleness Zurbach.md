@@ -25,26 +25,26 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 6 | 8 | 7 | 7 |
+| 6 | 8 | 7 | 6 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 14 | 0 | - | 2k6+22 | 4 | 10 m |
+| 42 | 14 | 0 | - | 2k6+24 | 4 | 10 m |
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) 7
-- Wiedza Magiczna (Umysł) 6
-- Wiedza Ogólna (Umysł) 6
-- Intuicja (Umysł) 7
-- Spostrzegawczość (Umysł) 7
-- Empatia (Dusza) 8 *(wyczuwanie cudzych pragnień i słabości - naturalne u arcysukkubicy, nawet skrępowanej kontraktem)*
-- Przekonywanie (Dusza) 6
-- Determinacja (Dusza) 6
-- Refleks (Ciało) 7
-- Zręczność (Ciało) 7
-- Walka Wręcz (Ciało) 6 *(bicz, patrz Ekwipunek)*
-- Skradanie się (Ciało) 5
+- Zdolności Magiczne (Magia) +1 (7)
+- Wiedza Magiczna (Umysł) +1 (9)
+- Wiedza Ogólna (Umysł) +1 (9)
+- Intuicja (Umysł) +1 (9)
+- Spostrzegawczość (Umysł) +1 (9)
+- Empatia (Dusza) +3 (10)
+- Przekonywanie (Dusza) +1 (8)
+- Determinacja (Dusza) +1 (8)
+- Refleks (Ciało) +1 (7)
+- Zręczność (Ciało) +1 (7)
+- Walka Wręcz (Ciało) +2 (8) *(bicz, patrz Ekwipunek)*
+- Skradanie się (Ciało) +1 (7)
 
 #### Talenty
 
@@ -68,34 +68,34 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 
 ## Forma II - Prawdziwa Moc Arcysukkubicy (kontrakt złamany)
 
-Kontrakt WeSM pęka w chwili, gdy Narcyzie - albo komuś, na kim jej zależy - zaczyna grozić realne niebezpieczeństwo, a czasem po prostu wtedy, gdy uzna, że kogoś trzeba nastraszyć. To, co było skrywane pod powierzchnią uprzejmej, opanowanej studentki, wychodzi na wierzch naraz: demoniczna aura księżniczki piekieł, potęgowana magią iluzji do punktu, w którym trudno odróżnić, co jest realne, a co tylko podsunięte jej ofiarom do głów.
+Kontrakt WeSM pęka w chwili, gdy Narcyzie - albo komuś, na kim jej zależy - zaczyna grozić realne niebezpieczeństwo, a czasem po prostu wtedy, gdy uzna, że kogoś trzeba nastraszyć. To, co było skrywane pod powierzchnią uprzejmej, opanowanej studentki, wychodzi na wierzch naraz: demoniczna aura księżniczki piekieł, potęgowana magią iluzji do punktu, w którym trudno odróżnić, co jest realne, a co tylko podsunięte jej ofiarom do głów. Uwalniają się też jej demoniczne skrzydła, dające jej naturalną, niewymagającą żadnego zaklęcia zdolność lotu.
 
 ### Statystyki
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 9 | 11 | 10 | 13 |
+| 9 | 11 | 10 | 10 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 60 | 30 | 0 | - | 2k6+31 | 5 | 10 m |
+| 60 | 30 | 0 | - | 2k6+33 | 5 | 10 m (w tym Lot) |
 
 *(Zapał odnawia się w tej formie o 2 punkty na rundę zamiast standardowego 1 - patrz Talent [Księżniczka Piekieł](../Rozdział%20III%20-%20Talenty/Księżniczka%20Piekieł.md))*
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) 13
-- Wiedza Magiczna (Umysł) 9
-- Wiedza Ogólna (Umysł) 8
-- Intuicja (Umysł) 10
-- Spostrzegawczość (Umysł) 10
-- Empatia (Dusza) 12 *(nieskrępowana już żadnym kontraktem)*
-- Przekonywanie (Dusza) 9
-- Determinacja (Dusza) 8
-- Refleks (Ciało) 10
-- Zręczność (Ciało) 10
-- Walka Wręcz (Ciało) 9
-- Skradanie się (Ciało) 7
+- Zdolności Magiczne (Magia) +3 (13)
+- Wiedza Magiczna (Umysł) +1 (12)
+- Wiedza Ogólna (Umysł) +1 (12)
+- Intuicja (Umysł) +1 (12)
+- Spostrzegawczość (Umysł) +1 (12)
+- Empatia (Dusza) +3 (13) *(nieskrępowana już żadnym kontraktem)*
+- Przekonywanie (Dusza) +1 (11)
+- Determinacja (Dusza) +1 (11)
+- Refleks (Ciało) +1 (10)
+- Zręczność (Ciało) +1 (10)
+- Walka Wręcz (Ciało) +2 (11)
+- Skradanie się (Ciało) +1 (10)
 
 #### Talenty
 

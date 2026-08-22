@@ -16,36 +16,36 @@ status: draft
 
 Karta postaci do Bestiariusza. Pełne dane fabularne: [Princess Zayis](../../../npcs/Konsorcjum%20Gwiezdne%20Malferian/Princess%20Zayis.md).
 
-Zayis nie jest pojedynkarką - jest dowódczynią bez oddziału, dyplomatką bez ambasady, szpiegiem, który ukrywa się w jednej z najbardziej rzucających się w oczy ról, jaką mogła sobie wybrać: pierwszoroczną uczennicą. Sama, w otwartym starciu jeden na jednego, jest groźna, ale pokonywalna. Z choćby garstką sojuszników za plecami staje się kimś, kogo poważny przeciwnik atakuje jako pierwszego - bo dopóki żyje, każdy przy niej jest silniejszy, niż powinien być.
+Zayis nie jest wojowniczką - jest dowódczynią bez oddziału, dyplomatką bez ambasady, szpiegiem, który ukrywa się w jednej z najbardziej rzucających się w oczy ról, jaką mogła sobie wybrać: drugoroczną uczennicą. Sama, w otwartym starciu jeden na jednego, jest groźna, ale pokonywalna. Z choćby garstką sojuszników za plecami staje się kimś, kogo poważny przeciwnik atakuje jako pierwszego - bo dopóki żyje, każdy przy niej jest silniejszy, niż powinien być.
 
 ### Statystyki
 
 | Ciało | Umysł | Dusza | Magia |
 |:---:|:---:|:---:|:---:|
-| 7 | 10 | 9 | 12 |
+| 7 | 10 | 9 | 4 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 30 | 0 | 4 (patrz Ekwipunek) | 2k6+25 | 5 | 10 m |
+| 52 | 30 | 0 | 4 (patrz Ekwipunek) | 2k6+29 | 5 | 10 m |
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) 12
-- Wiedza Magiczna (Umysł) 9
-- Wiedza Ogólna (Umysł) 8
-- Intuicja (Umysł) 9
-- Spostrzegawczość (Umysł) 8
-- Przekonywanie (Dusza) 10 *(Głos Rozkazu)*
-- Determinacja (Dusza) 8
-- Empatia (Dusza) 8 *(lata dyplomacji i pracy wywiadowczej)*
-- Refleks (Ciało) 7
-- Zręczność (Ciało) 6
-- Walka Wręcz (Ciało) 5
-- Skradanie się (Ciało) 7
+- Zdolności Magiczne (Magia) +8 (12)
+- Wiedza Magiczna (Umysł) +1 (11)
+- Wiedza Ogólna (Umysł) +1 (11)
+- Intuicja (Umysł) +1 (11)
+- Spostrzegawczość (Umysł) +1 (11)
+- Przekonywanie (Dusza) +3 (12)
+- Determinacja (Dusza) +1 (10)
+- Empatia (Dusza) +2 (11) 
+- Refleks (Ciało) +1 (8)
+- Zręczność (Ciało) +1 (8)
+- Walka Wręcz (Ciało) +1 (8)
+- Skradanie się (Ciało) +1 (8)
 
 #### Talenty
 
-- [Głos Rozkazu](../Rozdział%20III%20-%20Talenty/Głos%20Rozkazu.md) - Autorytet na poziomie III; jako Akcja Natychmiastowa zmusza cel do wykonywania jej rozkazów przez rundę. W przeciwieństwie do uroku Narcyzy, to nie oczarowanie - to zimny, arystokratyczny nakaz.
+- [Głos Rozkazu](../Rozdział%20III%20-%20Talenty/Głos%20Rozkazu.md) - Autorytet na poziomie II; jako Akcja Natychmiastowa zmusza cel do wykonywania jej rozkazów przez rundę.
 - [Wymazana Chwila](../Rozdział%20III%20-%20Talenty/Wymazana%20Chwila.md) - usuwa lub zniekształca jedno niedawne wspomnienie celu. Zawodne wobec naprawdę potężnych umysłów - Zayis świadomie unika prób na kimkolwiek, kogo podejrzewa o taki kaliber.
 
 #### Zaklęcia znane
@@ -61,11 +61,11 @@ Zayis nie jest pojedynkarką - jest dowódczynią bez oddziału, dyplomatką bez
 
 **Fiolki Mgławicowe** - alchemiczne fiolki własnej receptury, które Zayis nosi zawsze przy sobie. Jako Akcję, może rzucić jedną w punkt w zasięgu 10 m, tworząc chmurę o promieniu 3 m trwającą 2 rundy: do wyboru, chmura albo wzmacnia sojuszników wewnątrz (+1 kość do wszystkich ich Testów), albo osłabia wrogów wewnątrz (-1 kość do wszystkich ich Testów). Ma 3 takie fiolki na starcie starcia.
 
-**Osobista Osłona Technomantyczna** - niewielki, ukryty pod ubraniem generator pola ochronnego, konsorcjumowej technologii poziomu 8-9, w pełni zintegrowany z jej własną magią (zgodnie z Malferiańskim podejściem, w którym magia i technologia się nie rozdzielają). Źródło jej Runicznego Pancerza (4 punkty).
+**Osobista Osłona Technomantyczna** - niewielki, ukryty pod ubraniem generator pola ochronnego, w pełni zintegrowany z jej własną magią (zgodnie z Malferiańskim podejściem, w którym magia i technologia się nie rozdzielają). Źródło jej Runicznego Pancerza (4 punkty).
 
 **Ukryty Emiter** - niewielka, elegancka broń dystansowa Konsorcjum, zamaskowana jako biżuteria. Broń Dystansowa, zasięg 15/25 m, atakuje Testem Magia (Umiejętności Strzeleckie).
 - **Obrażenia:** S+1k6 Punktów Obrażeń
-- **Cechy:** Subtelna; bezgłośna
+- **Cechy:** Subtelna, Cicha
 
 ### Taktyka
 
