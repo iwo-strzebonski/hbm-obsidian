@@ -15,13 +15,13 @@ Teoria Jednego Wszechświata jest próbą uporządkowania chaosu wokół pochodz
 - "Świat" w dawnych kulturach oznaczał granicę poznania, nie strukturę kosmiczną.
 - Różnice między rasami to efekt ewolucji na różnych planetach, nie migracji międzywszechświatowej.
 - Magia i zjawiska nadnaturalne były często błędnie interpretowane jako dowód istnienia innych rzeczywistości.
-- Federacja Sol-3 działa realnie w wielu wszechświatach, ale rasy nie pochodzą z alternatywnych linii czasu – są mieszkańcami tego samego kosmosu.
+- Federacja Sol-3 działa realnie w wielu wszechświatach, ale rasy nie pochodzą z alternatywnych linii czasu - są mieszkańcami tego samego kosmosu.
 
 ## Znaczenie w grze
 Teoria ta podważa mit „przybyszów z innych światów” i pozwala na spójne łączenie różnych ras, planet i cywilizacji w ramach jednej linii historii. Ułatwia prowadzenie kampanii międzyplanetarnych i tłumaczy podobieństwa biologiczne oraz kulturowe.
 
 ## Cytat z przewodnika
-> "Wieloświat Federacji i 'inne światy' ras to dwa zupełnie różne porządki pojęciowe, które przez wieki były ze sobą mylone. [...] Rasy uznawane za 'przybyszy z innych światów' nie pochodzą z tych alternatywnych wszechświatów. Są one mieszkańcami tego samego kosmosu, tej samej linii rzeczywistości, tej samej historii – tylko innych planet."
+> "Wieloświat Federacji i 'inne światy' ras to dwa zupełnie różne porządki pojęciowe, które przez wieki były ze sobą mylone. [...] Rasy uznawane za 'przybyszy z innych światów' nie pochodzą z tych alternatywnych wszechświatów. Są one mieszkańcami tego samego kosmosu, tej samej linii rzeczywistości, tej samej historii - tylko innych planet."
 
 ## Powiązania
 - [10. Przewodnik Ludzkości po Magicznym Świecie](../../lore/10.%20Przewodnik%20Ludzkości%20po%20Magicznym%20Świecie.md)

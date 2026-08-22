@@ -10,20 +10,20 @@ aliases:
 # Zakon Otwartego Oka (Kult Otchłani)
 
 ## Krótki opis
-Zakon Otwartego Oka, znany potocznie jako Kult Otchłani, to tajemnicza organizacja czcicieli Otchłani i jej Personifikacji: Nil, Mundus i Tempus. Kult skupia się na zrozumieniu i akceptacji prawdziwej natury rzeczywistości, prowadząc rytuały, badania i praktyki magiczne. **Należy kategorycznie odróżnić Kult Otchłani od [Szkarłatnego Kultu](Szkarłatny%20Kult.md)** – to dwie zupełnie różne organizacje o odmiennych celach i wierzeniach. Wewnętrznie Zakon Otwartego Oka jest podzielony na frakcje czczące poszczególne Personifikacje, które walczą między sobą o to, które bóstwo jest ważniejsze.
+Zakon Otwartego Oka, znany potocznie jako Kult Otchłani, to tajemnicza organizacja czcicieli Otchłani i jej Personifikacji: Nil, Mundus i Tempus. Kult skupia się na zrozumieniu i akceptacji prawdziwej natury rzeczywistości, prowadząc rytuały, badania i praktyki magiczne. **Należy kategorycznie odróżnić Kult Otchłani od [Szkarłatnego Kultu](Szkarłatny%20Kult.md)** - to dwie zupełnie różne organizacje o odmiennych celach i wierzeniach. Wewnętrznie Zakon Otwartego Oka jest podzielony na frakcje czczące poszczególne Personifikacje, które walczą między sobą o to, które bóstwo jest ważniejsze.
 
 ## Historia i pochodzenie
 Kult powstał wokół objawień Personifikacji Otchłani. Jego członkowie wierzą, że Nil, Mundus i Tempus są nie tylko źródłem magii, ale i kluczem do zrozumienia cyklu istnienia, zniszczenia i zmiany. Zakon działa od czasów Przebudzenia, a jego struktura i cele ewoluowały wraz z kolejnymi falami kontaktu z Otchłanią.
 
 ## Struktura i Frakcje
-Kult nie ma jednej, spójnej hierarchii. Głównym celem Zakonu było sprowadzenie fizycznych manifestacji swoich bogów na Ziemię. Rytuał ten zakończył się jednak katastrofą – za niekompetencję Nil srodze ukarała i zniszczyła strukturę Zakonu (przy okazji dla rozrywki zrzucając agenta Federacji Sol-3, [Pelagiusa Caudexa](../npcs/Nauczyciele/Pelagius%20Caudex.md), na stanowisko dyrektora WeSM w miejsce dawnego kultysty, [Klausa von Übertroppa](../npcs/Nauczyciele/Klaus%20von%20Übertropp.md)).
+Kult nie ma jednej, spójnej hierarchii. Głównym celem Zakonu było sprowadzenie fizycznych manifestacji swoich bogów na Ziemię. Rytuał ten zakończył się jednak katastrofą - za niekompetencję Nil srodze ukarała i zniszczyła strukturę Zakonu (przy okazji dla rozrywki zrzucając agenta Federacji Sol-3, [Pelagiusa Caudexa](../npcs/Nauczyciele/Pelagius%20Caudex.md), na stanowisko dyrektora WeSM w miejsce dawnego kultysty, [Klausa von Übertroppa](../npcs/Nauczyciele/Klaus%20von%20Übertropp.md)).
 
 Obecnie frakcje prezentują się następująco:
 - **Kult Mundus:** Najbardziej agresywna i aktywna obecnie frakcja na Ziemi.
 - **Kult Nil:** Praktycznie wymarł, odkąd Nil zaczęła mordować własnych kultystów, uznawszy ich za potencjalne zagrożenie dla [Diany Koniecpolskiej](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), jej przyjaciół i życia, które Nil chce teraz budować.
 - **Kult Tempusa:** Praktycznie nieistniejący na Ziemi Sol-3-1725.
 
-Najważniejszymi postaciami w świecie materialnym są Posłańcy – awatary woli bóstw (np. [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), Szaarael, Yssariel).
+Najważniejszymi postaciami w świecie materialnym są Posłańcy - awatary woli bóstw (np. [Diana Koniecpolska](../npcs/Kult%20Otchłani/Diana%20Koniecpolska.md), Szaarael, Yssariel).
 
 ## Filozofia i rytuały
 Kult głosi, że Otchłań nie jest złem, lecz prawem i fundamentem istnienia. Rytuały mają na celu zbliżenie się do prawdziwej natury rzeczywistości, akceptację chaosu i zmian oraz kontakt z Personifikacjami. Kluczowe są rytuały przywołania, medytacje nad obsydianowymi obeliskami i studiowanie Wielkiej Księgi Obrzędów (artefakt).

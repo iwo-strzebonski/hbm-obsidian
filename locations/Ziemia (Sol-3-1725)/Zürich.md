@@ -19,7 +19,7 @@ status: kanoniczna
 
 ## Opis
 
-Zürich to miasto w Szwajcarii, znane jako centrum finansowe świata magicznego. To tutaj znajduje się Giełda Magiczna – miejsce handlu artefaktami, zaklęciami i kontraktami międzyplanetarnymi. Miasto jest neutralnym gruntem dla negocjacji między frakcjami, a także areną licznych intryg gospodarczych i politycznych.
+Zürich to miasto w Szwajcarii, znane jako centrum finansowe świata magicznego. To tutaj znajduje się Giełda Magiczna - miejsce handlu artefaktami, zaklęciami i kontraktami międzyplanetarnymi. Miasto jest neutralnym gruntem dla negocjacji między frakcjami, a także areną licznych intryg gospodarczych i politycznych.
 
 Zürich przyciąga magów, dyplomatów i przedsiębiorców z całego znanego wszechświata. Jego neutralność jest gwarantowana przez starożytne pakty i obecność potężnych strażników magicznych.
 

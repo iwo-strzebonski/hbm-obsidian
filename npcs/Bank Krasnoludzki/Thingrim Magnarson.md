@@ -27,16 +27,16 @@ Thingrim Magnarson to jedna z najbardziej wyrazistych i rozpoznawalnych postaci 
 
 Thingrim łączy profesjonalizm bankiera z tradycyjną, wojowniczą estetyką krasnoludów. Rzadko pojawia się publicznie bez swojej ceremonialnej, pełnej zbroi płytowej wykonanej z legendarnej **krasnoludzkiej stali** (materiał ten wciąż opiera się analizom ziemskich metalurgów). Zbroja zdobiona jest złotymi intarsjami przedstawiającymi dzieje Klanu Złotego Młota, a jej powierzchnię pokrywają delikatne, aktywne runy ochronne. Jego pas zdobi gęsta, ruda broda spleciona w ceremonialny warkocz.
 
-Dzięki swojej charyzmie i medialności stał się prawdziwym celebrytą – występuje w programach śniadaniowych, na międzynarodowych szczytach gospodarczych oraz konferencjach technologicznych. Dla większości ludzi to właśnie on stanowi pierwszy punkt kontaktu z kulturą krasnoludów.
+Dzięki swojej charyzmie i medialności stał się prawdziwym celebrytą - występuje w programach śniadaniowych, na międzynarodowych szczytach gospodarczych oraz konferencjach technologicznych. Dla większości ludzi to właśnie on stanowi pierwszy punkt kontaktu z kulturą krasnoludów.
 
 Thingrim jest również znanym mecenasem sztuk magicznych. Pod jego patronatem Bank Krasnoludzki stał się głównym sponsorem **Wielkiego Turnieju Magicznego** w **[WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)**, fundując stypendia i unikalne artefakty dla najzdolniejszych adeptów.
 
 ## Relacje
 
-- **[Bank Krasnoludzki](../../organizations/Bank%20Krasnoludzki.md) (Khazad-Aurum)** – Thingrim jest lojalnym sługą Banku i Zjednoczonych Klanów. Reprezentuje ich interesy na Ziemi, dbając o nienaganny wizerunek i stabilność finansową.
-- **[Brogir Vane](Brogir%20Vane.md)** – Dyrektor Generalny Banku na Ziemi; podczas gdy Thingrim jest publiczną "Twarzą Banku", to Brogir faktycznie zarządza jego operacjami.
-- **Klan Złotego Młota** – jego rodowy klan, którego historię dumnie nosi wyrytą na swojej zbroi. Chroni interesy klanu i dba o to, by ich tradycje rzemieślnicze były szanowane.
-- **Święta Inkwizycja** – utrzymuje z nimi chłodne, lecz poprawne i wysoce pragmatyczne stosunki. Oficjalnie wspiera działania Inkwizycji i odprowadza "dziesięcinę" w postaci certyfikowanych artefaktów, co zapewnia spokój dla operacji Banku.
+- **[Bank Krasnoludzki](../../organizations/Bank%20Krasnoludzki.md) (Khazad-Aurum)** - Thingrim jest lojalnym sługą Banku i Zjednoczonych Klanów. Reprezentuje ich interesy na Ziemi, dbając o nienaganny wizerunek i stabilność finansową.
+- **[Brogir Vane](Brogir%20Vane.md)** - Dyrektor Generalny Banku na Ziemi; podczas gdy Thingrim jest publiczną "Twarzą Banku", to Brogir faktycznie zarządza jego operacjami.
+- **Klan Złotego Młota** - jego rodowy klan, którego historię dumnie nosi wyrytą na swojej zbroi. Chroni interesy klanu i dba o to, by ich tradycje rzemieślnicze były szanowane.
+- **Święta Inkwizycja** - utrzymuje z nimi chłodne, lecz poprawne i wysoce pragmatyczne stosunki. Oficjalnie wspiera działania Inkwizycji i odprowadza "dziesięcinę" w postaci certyfikowanych artefaktów, co zapewnia spokój dla operacji Banku.
 
 > [!gm]+ Tylko dla MG
 > 

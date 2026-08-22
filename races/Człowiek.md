@@ -10,7 +10,7 @@ status: draft
 Człowiek to najbardziej rozpowszechniona rasa świata HbM, znana z elastyczności, ambicji i zdolności adaptacyjnych. Ludzie szybko przystosowują się do zmian, są pionierami technologii i magii, a ich społeczeństwa cechuje ogromna różnorodność.
 
 ## Biologia i morfologia
-Ludzie są dwunożnymi ssakami o zróżnicowanym wyglądzie (wzrost, kolor skóry, włosów, oczu). Przeciętna długość życia to 70–90 lat, choć magia i technologia mogą ją wydłużyć. Nie posiadają wrodzonych zdolności magicznych, ale są podatni na naukę magii.
+Ludzie są dwunożnymi ssakami o zróżnicowanym wyglądzie (wzrost, kolor skóry, włosów, oczu). Przeciętna długość życia to 70-90 lat, choć magia i technologia mogą ją wydłużyć. Nie posiadają wrodzonych zdolności magicznych, ale są podatni na naukę magii.
 
 ## Kultura
 Kultury ludzkie są niezwykle zróżnicowane - od tradycyjnych monarchii po nowoczesne federacje. Wspólne cechy to ciekawość, dążenie do rozwoju i skłonność do rywalizacji. Ludzie tworzą wielkie miasta, uniwersytety, korporacje i organizacje magiczne.

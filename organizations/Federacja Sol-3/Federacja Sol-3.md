@@ -53,7 +53,7 @@ Jednym z głównych celów Federacji Sol-3 jest zrównoważenie dystansu technol
 
 ## Znaczenie Członkostwa
 
-Każda planeta członkowska wnosi do Federacji Sol-3 coś wyjątkowego, niezależnie od jej strategicznego położenia, dostępnych surowców, czy specyficznych warunków środowiskowych. Jednak największą wartością dla Federacji są jej mieszkańcy – [Terranie](../../races/Człowiek.md), czyli ludzie. Różnorodność kulturowa, społeczna i intelektualna mieszkańców różnych wersji [Ziemi](../../locations/Ziemia%20(Sol-3-1725)/Ziemia%20(Sol-3-1725).md) jest bezcennym zasobem, który wzbogaca całą Federację i sprzyja rozwojowi międzyplanetarnej współpracy i zrozumienia.
+Każda planeta członkowska wnosi do Federacji Sol-3 coś wyjątkowego, niezależnie od jej strategicznego położenia, dostępnych surowców, czy specyficznych warunków środowiskowych. Jednak największą wartością dla Federacji są jej mieszkańcy - [Terranie](../../races/Człowiek.md), czyli ludzie. Różnorodność kulturowa, społeczna i intelektualna mieszkańców różnych wersji [Ziemi](../../locations/Ziemia%20(Sol-3-1725)/Ziemia%20(Sol-3-1725).md) jest bezcennym zasobem, który wzbogaca całą Federację i sprzyja rozwojowi międzyplanetarnej współpracy i zrozumienia.
 
 ## Komitety i Organizacje
 
@@ -63,7 +63,7 @@ Federacja Sol-3 charakteryzuje się złożoną i funkcjonalną strukturą organi
 
 Komitety są kluczowymi elementami struktury Federacji Sol-3, zajmującymi się szerokim zakresem spraw, od obrony przed zagrożeniami paranormalnymi, poprzez ochronę zabytków i historii, aż po kwestie zdrowotne. Każdy z komitetów ma możliwość tworzenia organizacji zależnych, które specjalizują się w określonych obszarach działania.
 
-Często wspominaną przez agentów organizacją jest **Biuro ds. Identyfikacji Czasoprzestrzennej (BIC)**. Jest to agencja odpowiedzialna za rejestrowanie sobowtórów i zapobieganie paradoksom. Pracownicy BIC to w większości zwykli ludzie wyposażeni w specjalne, magiczne detektory kłamstw, którzy egzekwują absurdalnie skomplikowaną biurokrację – agenci muszą na przykład wypełniać dokumenty porównujące preferencje kulinarne swoich odpowiedników. Karą za zabicie swojego odpowiednika i przejęcie jego życia jest bezwzględna śmierć.
+Często wspominaną przez agentów organizacją jest **Biuro ds. Identyfikacji Czasoprzestrzennej (BIC)**. Jest to agencja odpowiedzialna za rejestrowanie sobowtórów i zapobieganie paradoksom. Pracownicy BIC to w większości zwykli ludzie wyposażeni w specjalne, magiczne detektory kłamstw, którzy egzekwują absurdalnie skomplikowaną biurokrację - agenci muszą na przykład wypełniać dokumenty porównujące preferencje kulinarne swoich odpowiedników. Karą za zabicie swojego odpowiednika i przejęcie jego życia jest bezwzględna śmierć.
 
 ### Rada Najwyższa
 
@@ -132,7 +132,7 @@ Wyjątkowy charakter [Ziemi (Sol-3-1725)](../../locations/Ziemia%20(Sol-3-1725)/
 
 > [!gm]+ Tylko dla MG - Prawda o Wojnie Malferiańskiej i Xivell
 >
-> **Kto naprawdę zaczął wojnę:** Oficjalna narracja głosi, że [Konsorcjum Gwiezdne Malferian](Konsorcjum%20Gwiezdne%20Malferian.md) zaatakowało jako pierwsze w 2022 roku (EP −1). To nieprawda. Federacja Sol-3 uderzyła pierwsza - motywem było niedopuszczenie do spowolnienia ekspansji Sol-3 przez jakiekolwiek zewnętrzne mocarstwo. Prawda jest znana szczytom przywództwa Federacji i domom Malferian, oraz wyciekła do kręgów spiskowych jako plotka bez dowodów.
+> **Kto naprawdę zaczął wojnę:** Oficjalna narracja głosi, że [Konsorcjum Gwiezdne Malferian](Konsorcjum%20Gwiezdne%20Malferian.md) zaatakowało jako pierwsze w 2022 roku (EP -1). To nieprawda. Federacja Sol-3 uderzyła pierwsza - motywem było niedopuszczenie do spowolnienia ekspansji Sol-3 przez jakiekolwiek zewnętrzne mocarstwo. Prawda jest znana szczytom przywództwa Federacji i domom Malferian, oraz wyciekła do kręgów spiskowych jako plotka bez dowodów.
 >
 > **Prawdziwy cel kolonizacji Xivell:** Oficjalnie: wartości strategiczne i surowcowe. W rzeczywistości: wywiad Federacji odkrył ślady starożytnej wiedzy magicznej zakopane na Xivell (pozostałości po cywilizacji sprzed Upadku). Poza tym pozycja Xivell ma znaczenie strategiczne w galaktyce. Plaga pasożyta Xivell jest traktowana jako „akceptowalny koszt operacyjny".
 >

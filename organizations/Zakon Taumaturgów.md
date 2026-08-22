@@ -30,9 +30,9 @@ Koło liczy kilkudziesięciu członków, którzy spotykają się w piwnicznej sa
 Główną zasadą Koła jest: „Nie ma wstydu w byciu słabym magiem - jest tylko wstyd w byciu złym kolegą”. Klub promuje wzajemną pomoc, akceptację i kreatywność, nawet jeśli efekty są… nieprzewidywalne.
 
 ### Znani członkowie
-- **Diana Koniecpolska** – była przewodnicząca Koła, znana z tego, że mimo wybitnych zdolności magicznych (zbudowała broń tak potężną, że zdyskwalifikowano ją w półfinale szkolnego turnieju magii) przez pewien czas aktywnie wspierała słabszych uczniów i promowała ideę wzajemnej pomocy - zanim została usunięta z koła jako zbyt utalentowana.
-- **Zofia „Zonk” Zawadzka** – specjalistka od magicznych katastrof kuchennych.
-- **„Mikrofalka” Nowak** – wynalazca magicznej mikrofalówki, która nigdy nie działa dwa razy tak samo.
+- **Diana Koniecpolska** - była przewodnicząca Koła, znana z tego, że mimo wybitnych zdolności magicznych (zbudowała broń tak potężną, że zdyskwalifikowano ją w półfinale szkolnego turnieju magii) przez pewien czas aktywnie wspierała słabszych uczniów i promowała ideę wzajemnej pomocy - zanim została usunięta z koła jako zbyt utalentowana.
+- **Zofia „Zonk” Zawadzka** - specjalistka od magicznych katastrof kuchennych.
+- **„Mikrofalka” Nowak** - wynalazca magicznej mikrofalówki, która nigdy nie działa dwa razy tak samo.
 
 ### Wskazówki dla Mistrza Gry
 Koło Wzajemnej Pomocy to źródło komediowych wątków, nieudanych eksperymentów i szkolnych anegdot. Nie jest realną frakcją polityczną ani siłą w świecie magii - to raczej tło fabularne, które pozwala wprowadzić humor i oddech w poważniejszych kampaniach. Można je wykorzystać jako miejsce pierwszych kontaktów graczy z magią lub jako źródło nieoczekiwanych, zabawnych komplikacji.

@@ -14,3 +14,5 @@ tags:
 - [Egipt](conflicts/Egipt.md)
 - [Islamska Republika Pakistanu](conflicts/Islamska%20Republika%20Pakistanu.md)
 - [Republika Indii](conflicts/Republika%20Indii.md)
+- [Federacja Sol-3](organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)
+- [Konsorcjum Gwiezdne Malferian](organizations/Konsorcjum%20Gwiezdne%20Malferian.md)

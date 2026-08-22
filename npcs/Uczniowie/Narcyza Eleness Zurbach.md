@@ -17,7 +17,7 @@ aliases:
 | **Wzrost**              | *163 cm*                                                                                                                                                                       |
 | **Wygląd**              | *Długie, lawendowe włosy; długie, cienkie i proste rogi; długie, spiczaste uszy (dłuższe niż elfie); dwie pary małych, czarnych skrzydeł wyrastających z dolnej części pleców* |
 | **Organizacje**         | *Uczennica [WeSM](../../locations/Ziemia%20(Sol-3-1725)/Wschodnioeuropejska%20Szkoła%20Magii.md)*                                                                              |
-| **Pseudonim(y)**        | *—*                                                                                                                                                                             |
+| **Pseudonim(y)**        | *-*                                                                                                                                                                             |
 | **Tytuł(y)**            | *Księżniczka demonów*                                                                                                                                                          |
 | **Charakter**           | *Neutralny - opanowana, pragmatyczna, powierzchownie beznamiętna wobec cudzych uczuć*                                                                                          |
 | **Status**              | *Żyje*                                                                                                                                                                         |

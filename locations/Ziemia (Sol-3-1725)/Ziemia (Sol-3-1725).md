@@ -38,7 +38,7 @@ Pomimo że członkostwo Ziemi w Federacji przyniosło wiele korzyści, w tym dos
 Rok 2023 przyniósł jednak Ziemi wyzwania, których nikt się nie spodziewał. Masowe pojawienie się mocy paranormalnych, określanych mianem "magii", wśród ludzkiej populacji stało się faktem, który zaskoczył zarówno zwykłych mieszkańców, jak i władze oraz naukowców. Szacuje się, że od 10 do 15% ludzi na całym świecie otrzymało w różnym stopniu zdolności magiczne. Mimo braku jednoznacznych wyjaśnień źródła tych mocy, skutki ich pojawienia się były natychmiastowe i często katastrofalne. Osoby, które nagle znalazły się w posiadaniu tych nowych umiejętności, nie potrafiąc ich kontrolować, niejednokrotnie były przyczyną nieszczęść, nierzadko zagrażając własnym życiom oraz bezpieczeństwu otoczenia.
 
 >**Data, która zmieniła Ziemię**
-> 16 kwietnia 2023 – data uznawana za początek nowej ery dla ludzkości. Globalne pojawienie się magii uczyniło z niej fakt obserwowalny i mierzalny, zmieniając naukę, społeczeństwo i kulturę.
+> 16 kwietnia 2023 - data uznawana za początek nowej ery dla ludzkości. Globalne pojawienie się magii uczyniło z niej fakt obserwowalny i mierzalny, zmieniając naukę, społeczeństwo i kulturę.
 
 Data 16 kwietnia 2023 roku, kiedy to po raz pierwszy zarejestrowano globalne manifestacje mocy paranormalnych, została uznana za moment narodzin nowej ery dla ludzkości. Świat stanął przed wyzwaniem zrozumienia i integracji magii z dotychczasowym porządkiem, co otworzyło drogę do niezliczonych możliwości, ale również nieznanych dotąd zagrożeń. W tym nowym kontekście, zarówno indywidualni ludzie, jak i instytucje na całym świecie, musieli nauczyć się radzić sobie z potencjałem, jaki niesie za sobą magia, starając się jednocześnie odkryć jej pochodzenie i cel, jaki ma spełnić w ewolucji ludzkości.
 
@@ -46,7 +46,7 @@ Data 16 kwietnia 2023 roku, kiedy to po raz pierwszy zarejestrowano globalne man
 
 ### Pojawienie się elfów i początki szkół magii
 
-27 września 2023 roku zapisał się w historii Ziemi jako dzień pierwszego oficjalnego kontaktu z cywilizacją pozaziemską – elfami z planety, którą ludzie zaczęli nazywać [Hiondirs-4](../Hiondirs-4/Hiondirs-4.md). To niezwykłe wydarzenie wywołał ogromne emocje na całym świecie, przynosząc z sobą zarówno fascynację, jak i niepokój dotyczący przyszłości ludzkości i jej miejsca we wszechświecie. Elfy, przybywając na Ziemię, dokonały czegoś, co dla ludzi wydawało się niemożliwe – podróży międzygalaktycznej, co niektórzy naukowcy interpretowali jako próbę ukrycia prawdziwych mechanizmów działania magii i jej źródeł.
+27 września 2023 roku zapisał się w historii Ziemi jako dzień pierwszego oficjalnego kontaktu z cywilizacją pozaziemską - elfami z planety, którą ludzie zaczęli nazywać [Hiondirs-4](../Hiondirs-4/Hiondirs-4.md). To niezwykłe wydarzenie wywołał ogromne emocje na całym świecie, przynosząc z sobą zarówno fascynację, jak i niepokój dotyczący przyszłości ludzkości i jej miejsca we wszechświecie. Elfy, przybywając na Ziemię, dokonały czegoś, co dla ludzi wydawało się niemożliwe - podróży międzygalaktycznej, co niektórzy naukowcy interpretowali jako próbę ukrycia prawdziwych mechanizmów działania magii i jej źródeł.
 
 > **Ludzie i elfy**
 > Pierwszy kontakt: 27 września 2023.

@@ -144,7 +144,7 @@ Jak w Formie I (Rapier, Sprzężone Działa Entropii, Zwiadowcze Lustra, Amulet 
 
 Forma Otchłani Diany - "Eldritch Slime". Jej ciało traci ostre kontury i staje się amorficzną, lekko lepką substancją, choć wciąż potrafi przybrać swój dawny kształt na tyle, by mówić, patrzeć i walczyć jak człowiek. Ta sama utrata fizycznej formy pozwala jej też swobodnie latać, jakby grawitacja przestawała jej w pełni dotyczyć. W tej formie Diana nie ma limitu Many - czerpie moc wprost z Otchłani i z Nil, a raczej z tego, co z nich w niej zostało.
 
-Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy sięga po swoje najpotężniejsze zdolności, rzeczywistość wokół niej [pęka i składa się na nowo](../../../lore/02.%20Otchłań%20i%20Magia.md#Jak%20reaguje%20rzeczywistość), tak jak dzieje się to wokół samego Nil.
+Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy sięga po swoje najpotężniejsze zdolności, rzeczywistość wokół niej [pęka i składa się na nowo](../../../lore/02.%20Otchłań%20i%20Magia.md#Jak%20reaguje%20rzeczywistość), tak jak dzieje się to wokół samej Nil.
 
 ### Statystyki
 
@@ -177,8 +177,8 @@ Wszystkie Talenty z Form I i II (o ile wciąż mają zastosowanie w tej formie -
 
 - [Surowa Moc Posłańca](../Rozdział%20III%20-%20Talenty/Surowa%20Moc%20Posłańca.md) *(unikalny)*
 - [Zapora Posłańca](../Rozdział%20III%20-%20Talenty/Zapora%20Posłańca.md) *(unikalny)*
-- [Więcej, Niż Zniesie Śmiertelny Umysł](../Rozdział%20III%20-%20Talenty/Więcej,%20Niż%20Zniesie%20Śmiertelny%20Umysł.md) *(unikalny)*
-- [Nie do Zabicia](../Rozdział%20III%20-%20Talenty/Nie%20do%20Zabicia.md) *(unikalny)*
+- [Więcej, Niż Zniesie Śmiertelny Umysł](../Rozdział%20III%20-%20Talenty/Więcej,%20Niż%20Zniesie%20Śmiertelny%20Umysł.md)
+- [Nie do Zabicia](../Rozdział%20III%20-%20Talenty/Nie%20do%20Zabicia.md)
 
 #### Ekwipunek
 

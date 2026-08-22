@@ -14,7 +14,7 @@ Tempus zawsze wolał spędzać czas z ciepłą, tętniącą życiem Mundus, unik
 ## Obecny Stan (Rok 2026 / EP 3)
 Przytłoczony poczuciem winy i pragnieniem ucieczki od konsekwencji upadku Mundus, Tempus opuścił swój wymiar. Obecnie ukrywa się gdzieś indziej, w zupełnie odległym wszechświecie wewnątrz całego multiwersum. 
 
-Tymczasem obie jego starsze "siostry" – odmieniona i ucząca się ludzkich emocji Nil oraz całkowicie oszalała Mundus – nieustannie go poszukują z odmiennych powodów. Pozostawanie w ukryciu to nie tylko mechanizm obronny Tempusa, ale i konieczność dla ocalenia całego istnienia: gdyby wszystkie trzy Personifikacje zostały kiedykolwiek siłą połączone, doprowadziłoby to do odrodzenia ich pierwotnej, niszczycielskiej formy ("Abyss"), co oznaczałoby nieunikniony koniec wieloświata.
+Tymczasem obie jego starsze "siostry" - odmieniona i ucząca się ludzkich emocji Nil oraz całkowicie oszalała Mundus - nieustannie go poszukują z odmiennych powodów. Pozostawanie w ukryciu to nie tylko mechanizm obronny Tempusa, ale i konieczność dla ocalenia całego istnienia: gdyby wszystkie trzy Personifikacje zostały kiedykolwiek siłą połączone, doprowadziłoby to do odrodzenia ich pierwotnej, niszczycielskiej formy ("Abyss"), co oznaczałoby nieunikniony koniec wieloświata.
 
 ## Powiązania
 - [Tempus](../../npcs/Kult%20Otchłani/Tempus.md)

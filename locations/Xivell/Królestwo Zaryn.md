@@ -25,7 +25,7 @@ aliases:
 
 **Królestwo Zaryn** (Królestwo Wysp Zaryn) było następcą [Wyspowych Księstw Zaryn](Wyspowe%20Księstwa%20Zaryn.md), drugiego najstarszego państwa na [Xivell (planeta)](Xivell%20%28planeta%29.md), słynącego z magii krwi i długowieczności dynastii Zaryn. Powstało w 99 r. Przed Upadkiem, gdy książę [Robert Zaryn](../../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) - dotąd wasal Zjednoczonego [Królestwa Xivell](Królestwo%20Xivell.md) - poprowadził czteroletnie powstanie i ogłosił się pierwszym i, jak się okazało, jedynym królem. W przeciwieństwie do swojej poprzedniczki, Królestwo Zaryn miało już tylko jednego władcę zamiast wielu rywalizujących książąt.
 
-Stolicą i centrum mocy była Obsydianowa Wieża – dawne więzienie demonów i bogów, które Robert Zaryn ujarzmił jeszcze jako wasalny książę, i które stało się miejscem legendarnych rytuałów, przemian i ostatecznego upadku państwa.
+Stolicą i centrum mocy była Obsydianowa Wieża - dawne więzienie demonów i bogów, które Robert Zaryn ujarzmił jeszcze jako wasalny książę, i które stało się miejscem legendarnych rytuałów, przemian i ostatecznego upadku państwa.
 
 
 ## Spis treści
@@ -48,7 +48,7 @@ Druga Wojna nie miała wyraźnej przewagi żadnej ze stron, dopóki Xivell nie w
 
 Królestwo Zaryn upadło w 3 roku Po Upadku, ale ostatni bastion oporu - sama Wieża - przetrwał do 8 roku Po Upadku. To właśnie tam [Robert Zaryn](../../npcs/Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) podjął desperacką próbę ocalenia świata poprzez rytuał, licząc na moc, którą przez dwa stulecia hodował w więzieniu bogów i demonów. Skażenie i pasożyt dotarły do Wieży w trakcie samego rytuału, zabijając lub wypaczając wszystkich zgromadzonych tam wyznawców Zaryna. Nieudany rytuał kosztował go większość mocy i pozostawił go otumanionego na długie stulecia - zmuszając do powolnego odzyskiwania sił i wpływu na nowych magów krwi na innych światach. To właśnie to - i jego domniemana śmierć podczas rytuału - skłoniło wielu do nazywania go Bogiem Krwi. Zaryn przetrwał jako legenda i źródło nowej magii krwi na innych światach.
 
-Dziedzictwo Królestwa to ruiny, przeklęte artefakty, tradycje magii krwi i opowieści o Obsydianowej Wieży – miejscu, gdzie bogowie i demony byli więzieni, a granice życia i śmierci zostały zatarte.
+Dziedzictwo Królestwa to ruiny, przeklęte artefakty, tradycje magii krwi i opowieści o Obsydianowej Wieży - miejscu, gdzie bogowie i demony byli więzieni, a granice życia i śmierci zostały zatarte.
 
 
 ## Wskazówki dla MG

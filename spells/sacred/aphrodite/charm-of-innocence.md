@@ -49,10 +49,10 @@ overcastOptions:
     repeatable: true
     cost: 0
 description: >-
-  Cel wydaje się wszystkim w otoczeniu urzekający i nieszkodliwy – agresywne
+  Cel wydaje się wszystkim w otoczeniu urzekający i nieszkodliwy - agresywne
   działania przeciwników wobec celu wymagają dwóch Sukcesów więcej, a postronne
   osoby przyjmują wobec niego postawę przyjazną.
 ---
 # Urok Niewinności
 
-Cel wydaje się wszystkim w otoczeniu urzekający i nieszkodliwy – agresywne działania przeciwników wobec celu wymagają dwóch Sukcesów więcej, a postronne osoby przyjmują wobec niego postawę przyjazną.
+Cel wydaje się wszystkim w otoczeniu urzekający i nieszkodliwy - agresywne działania przeciwników wobec celu wymagają dwóch Sukcesów więcej, a postronne osoby przyjmują wobec niego postawę przyjazną.

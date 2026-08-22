@@ -20,7 +20,7 @@ status: kanoniczna
 
 Kraków to historyczne miasto na południu Polski, obecnie jedno z najważniejszych centrów magicznych Ziemi. Na jego obrzeżach, w subwymiarze, znajduje się Wschodnioeuropejska Szkoła Magii. Miasto jest miejscem spotkań dyplomatycznych, areną konfliktów magicznych i centrum badań nad nowymi dziedzinami magii.
 
-Kraków łączy tradycję z nowoczesnością – gotyckie zabytki sąsiadują z magicznymi laboratoriami i siedzibami frakcji. Miasto jest kluczowym punktem na mapie Wielkiej Trzynastki i miejscem, gdzie krzyżują się losy wielu bohaterów.
+Kraków łączy tradycję z nowoczesnością - gotyckie zabytki sąsiadują z magicznymi laboratoriami i siedzibami frakcji. Miasto jest kluczowym punktem na mapie Wielkiej Trzynastki i miejscem, gdzie krzyżują się losy wielu bohaterów.
 
 ## Powiązania fabularne
 

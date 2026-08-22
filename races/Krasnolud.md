@@ -10,7 +10,7 @@ tags:
 Krasnoludy to niska, krępa rasa znana z wytrzymałości, kunsztu rzemieślniczego i konserwatyzmu. Słyną z budowy podziemnych miast, mistrzostwa w magii runicznej i lojalności wobec klanów.
 
 ## Biologia i morfologia
-Krasnoludy są niskie (120–150 cm), krępe, mają gęste brody (u obu płci), jasną lub rudawą cerę. Ich kości są grube, a mięśnie silnie rozwinięte. Długość życia: 180–250 lat.
+Krasnoludy są niskie (120-150 cm), krępe, mają gęste brody (u obu płci), jasną lub rudawą cerę. Ich kości są grube, a mięśnie silnie rozwinięte. Długość życia: 180-250 lat.
 
 ## Kultura i Kapitalizm
 Klanowa struktura krasnoludów jest nierozerwalnie połączona z etosem pracy i niesłychanie zaciętym, bezlitosnym **kapitalizmem**. Krasnoludy wyznają wolny rynek jako fundament swojego społeczeństwa. Mają naturalną, wrodzoną żyłkę do biznesu i matematyki; w umysłach rodzą się już z wiedzą, jak obliczyć procent składany i inflację. Władza dziedziczona jest w rodach mistrzów, a pozycja zależy od zgromadzonego bogactwa. Ich rodzinną planetą jest **[Khazad-Morul](../locations/Khazad-Morul/Khazad-Morul.md)**.
@@ -49,6 +49,3 @@ Poza Magią Runiczną, Krasnoludy rzadko specjalizują się w innych szkołach. 
 ## Krasnoludy w świecie HbM
 
 Na Ziemi (Sol-3-1725), Krasnoludy zamieszkują głównie podziemne obszary górskie (np. Alpy, gdzie mieści się siedziba ich Banku). Zachowują neutralność polityczną, choć chętnie zarabiają na każdym konflikcie.
-
-
-Technologicznie, Krasnoludy odpowiadają poziomowi 5–6 według [Tabeli porównawczej poziomu technologii](../lore/Tabela%20poziomów%20technologii.md), z enklawami na wyższym poziomie dzięki dostępowi do artefaktów.

@@ -6,18 +6,18 @@ aliases:
   - Konsorcjum Malferian
   - Pierwsze Konsorcjum Gwiezdne Malferian
 ---
-| **Zdjęcie**                   | <img src="malferian-first-star-consortium.jpg" width="200" alt="malferian-first-star-consortium.jpg">                                                                                                                                                                         |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nazwa oficjalna**           | *Pierwsze Konsorcjum Gwiezdne Malferian*                                                                                                                                                                              |
-| **Nazwa potoczna**            | *Konsorcjum, Konsorcjum Malferian*                                                                                                                                                                                    |
-| **Data powstania**            | *Nieznana (prehistoryczna według ludzkiego kalendarza)*                                                                                                                                                               |
-| **Założyciel(e)**             | *Cztery Wielkie Domy Malferian: Dom Tyrris, Dom Veyran, Dom Kael, Dom Serath*                                                                                                                                         |
-| **Siedziba**                  | *Homeworld Malferian (lokalizacja tajna)*                                                                                                                                                                             |
-| **Status**                    | *Aktywne - znacznie osłabione po Pierwszej Wojnie z Federacją Sol-3*                                                                                                                                                  |
-| **Szacowana liczba członków** | *Do [Pierwszej Wojny](../conflicts/Pierwsza%20Wojna%20Federacji%20Sol-3%20i%20Malferian.md): dwanaście układów planetarnych. Po zakończeniu: pięć układów, w tym dwa kompletnie niezdatne do zamieszkania*                                    |
-| **Przywódca(cy)**             | *Rada Czterech Domów (Dom Tyrris, Dom Veyran, Dom Kael, Dom Serath)*                                                                                                                                                  |
-| **Ważniejsi członkowie**      | *[Princess Zayis](../npcs/Konsorcjum%20Gwiezdne%20Malferian/Princess%20Zayis.md) (Dom Veyran), [Prince Arkthar](../npcs/Konsorcjum%20Gwiezdne%20Malferian/Prince%20Arkthar.md) (Dom Tyrris)*                                                                                                                                                    |
-| **Powiązane organizacje**     | *Cztery Wielkie Domy Malferian*                                                                                                                                                                                       |
+| **Zdjęcie**                   | <img src="malferian-first-star-consortium.jpg" width="200" alt="malferian-first-star-consortium.jpg">                                                                                                      |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nazwa oficjalna**           | *Pierwsze Konsorcjum Gwiezdne Malferian*                                                                                                                                                                   |
+| **Nazwa potoczna**            | *Konsorcjum, Konsorcjum Malferian*                                                                                                                                                                         |
+| **Data powstania**            | *Nieznana (prehistoryczna według ludzkiego kalendarza)*                                                                                                                                                    |
+| **Założyciel(e)**             | *Cztery Wielkie Domy Malferian: Dom Tyrris, Dom Veyran, Dom Kael, Dom Serath*                                                                                                                              |
+| **Siedziba**                  | *Homeworld Malferian (lokalizacja tajna)*                                                                                                                                                                  |
+| **Status**                    | *Aktywne - znacznie osłabione po Pierwszej Wojnie z Federacją Sol-3*                                                                                                                                       |
+| **Szacowana liczba członków** | *Do [Pierwszej Wojny](../conflicts/Pierwsza%20Wojna%20Federacji%20Sol-3%20i%20Malferian.md): dwanaście układów planetarnych. Po zakończeniu: pięć układów, w tym dwa kompletnie niezdatne do zamieszkania* |
+| **Przywódca(cy)**             | *Rada Czterech Domów (Dom Tyrris, Dom Veyran, Dom Kael, Dom Serath)*                                                                                                                                       |
+| **Ważniejsi członkowie**      | *[Princess Zayis](../npcs/Konsorcjum%20Gwiezdne%20Malferian/Princess%20Zayis.md) (Dom Veyran), [Prince Arkthar](../npcs/Konsorcjum%20Gwiezdne%20Malferian/Prince%20Arkthar.md) (Dom Tyrris)*               |
+| **Powiązane organizacje**     | *Cztery Wielkie Domy Malferian*                                                                                                                                                                            |
 
 ## Krótki opis
 
@@ -34,7 +34,7 @@ Konsorcjum rządzone jest przez cztery równorzędne Wielkie Domy, z których ka
 
 ## Pierwsza Wojna z Federacją Sol-3
 
-W latach 2022–2023 (EP −1 – EP 0) doszło do [Pierwszej Wojny Federacji Sol-3 i Malferian](../conflicts/Pierwsza%20Wojna%20Federacji%20Sol-3%20i%20Malferian.md). Oficjalna narracja Federacji przypisuje agresję Konsorcjum. Po wojnie Konsorcjum utraciło siedem z dwunastu układów; dwa z pozostałych pięciu są kompletnie niezdatne do zamieszkania wskutek działań wojennych.
+W latach 2022-2023 (EP -1 - EP 0) doszło do [Pierwszej Wojny Federacji Sol-3 i Malferian](../conflicts/Pierwsza%20Wojna%20Federacji%20Sol-3%20i%20Malferian.md). Oficjalna narracja Federacji przypisuje agresję Konsorcjum. Po wojnie Konsorcjum utraciło siedem z dwunastu układów; dwa z pozostałych pięciu są kompletnie niezdatne do zamieszkania wskutek działań wojennych.
 
 ## Technologia i magia
 
@@ -46,8 +46,6 @@ Konsorcjum prowadzi ograniczoną dyplomację z [Federacją Sol-3](Federacja%20So
 
 > [!gm]+ Tylko dla MG
 >
-> **Kto naprawdę zaczął wojnę:** Wbrew oficjalnej narracji Federacji, to Federacja Sol-3 zaatakowała jako pierwsza w 2022 roku (EP −1). Motywem było niedopuszczenie do spowolnienia ekspansji Sol-3 przez Konsorcjum. Domy Malferian wiedzą o tym doskonale; wyższe kierownictwo Federacji też. Informacja wyciekła do kręgów spiskowych jako niedowodliwa plotka.
+> **Kto naprawdę zaczął wojnę:** Wbrew oficjalnej narracji Federacji, to Federacja Sol-3 zaatakowała jako pierwsza w 2022 roku (EP -1). Motywem było niedopuszczenie do spowolnienia ekspansji Sol-3 przez Konsorcjum. Domy Malferian wiedzą o tym doskonale; wyższe kierownictwo Federacji też. Informacja wyciekła do kręgów spiskowych jako niedowodliwa plotka.
 >
 > **Napięcia predysponowane do Drugiej Wojny:** Utrata siedmiu układów to dla Konsorcjum rana, nie gojąca się szybko. Dom Tyrris (wojownicy) naciska na rewanż; Dom Veyran (dyplomaci) uważa, że lepiej odbudować siłę w ukryciu przed otwartą konfrontacją. Dom Kael i Dom Serath są podzielone. Gracze mogą stać się pionkami lub agentami dowolnej ze stron.
->
-> **Princess Zayis i Prince Arkthar:** Zayis (Veyran) i Arkthar (Tyrris) reprezentują dwa przeciwstawne podejścia do polityki Konsorcjum. Ich rywalizacja i ewentualne sojusze mogą być osią całej kampanii.

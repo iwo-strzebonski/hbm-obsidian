@@ -14,7 +14,7 @@ aliases:
 | **Założyciel(e)**             | *[Bill Cipher](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)* |
 | **Siedziba**                  | *Drugi Wymiar*                                                     |
 | **Status**                    | *Zawieszona - wszyscy znani członkowie uwięzieni*                  |
-| **Szacowana liczba członków** | *ok. 10–15 demonów z różnych wymiarów*                             |
+| **Szacowana liczba członków** | *ok. 10-15 demonów z różnych wymiarów*                             |
 | **Przywódca(cy)**             | *[Bill Cipher](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)* |
 | **Data upadku**               | *n/d (uwięzienie, nie rozwiązanie)*                                |
 | **Ważniejsi członkowie**      | *[Bill Cipher](../npcs/Bill%20Cipher%20and%20Co/Bill%20Cipher.md)* |

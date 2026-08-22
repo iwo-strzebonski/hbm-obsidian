@@ -20,7 +20,7 @@ status: kanoniczna
 
 ## Opis
 
-Khazad-Morul to ojczysty świat krasnoludów, położony w głębi galaktyki, znany z monumentalnych podziemnych miast, kopalń i zaawansowanej magii runicznej. Planeta jest niemal całkowicie zamknięta dla obcych – wejście możliwe tylko za zgodą Domu Morul. Główne miasta to rozległe kompleksy pod powierzchnią, połączone siecią tuneli i magicznych portali.
+Khazad-Morul to ojczysty świat krasnoludów, położony w głębi galaktyki, znany z monumentalnych podziemnych miast, kopalń i zaawansowanej magii runicznej. Planeta jest niemal całkowicie zamknięta dla obcych - wejście możliwe tylko za zgodą Domu Morul. Główne miasta to rozległe kompleksy pod powierzchnią, połączone siecią tuneli i magicznych portali.
 
 Krasnoludy słyną z mistrzostwa w rzemiośle, metalurgii i magii runicznej. Ich społeczeństwo jest silnie zhierarchizowane, a tradycja i honor odgrywają kluczową rolę. Khazad-Morul jest źródłem wielu legendarnych artefaktów i broni, a także miejscem narodzin najpotężniejszych runomagów.
 

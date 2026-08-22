@@ -12,9 +12,9 @@ tags:
 | **Wzrost**          | *ok. 2 m*                                             |
 | **Dziedzina Magii** | *[Pierwotna Magia](../../disciplines/Magia%20Otchłani/Poddziedzina%20-%20Pierwotna%20Magia.md)* |
 | **Organizacje**     | *[Kult Otchłani](../../organizations/Kult%20Otchłani.md)*                                   |
-| **Pseudonim(y)**    | *—*                                                    |
+| **Pseudonim(y)**    | *-*                                                    |
 | **Tytuł(y)**        | *<ul><li>Czas</li></ul>*                              |
-| **Charakter**       | *Najbardziej enigmatyczny i nieuchwytny z trzech Personifikacji — doświadcza przeszłości, teraźniejszości i przyszłości równocześnie, co czyni rozmowę z nim dezorientującą: zdania bywają wypowiadane w złej kolejności czasowej albo odpowiadają na pytania, które rozmówca jeszcze nie zadał. Pozbawiony emocjonalnego zaangażowania Nil czy niepokojącej niestabilności Mundus — Tempus jest chłodny, cierpliwy i traktuje wszystkie wydarzenia jako już rozstrzygnięte.* |
+| **Charakter**       | *Najbardziej enigmatyczny i nieuchwytny z trzech Personifikacji - doświadcza przeszłości, teraźniejszości i przyszłości równocześnie, co czyni rozmowę z nim dezorientującą: zdania bywają wypowiadane w złej kolejności czasowej albo odpowiadają na pytania, które rozmówca jeszcze nie zadał. Pozbawiony emocjonalnego zaangażowania Nil czy niepokojącej niestabilności Mundus - Tempus jest chłodny, cierpliwy i traktuje wszystkie wydarzenia jako już rozstrzygnięte.* |
 
 Zmiany by nie zachodziły, gdyby nie upływ czasu. Życie by nie rozwijało się i nie niszczało, gdyby nie ten jeden z trzech elementów, z których składa się cały wszechświat.
 

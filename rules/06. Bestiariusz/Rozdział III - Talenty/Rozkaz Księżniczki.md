@@ -15,4 +15,4 @@ Jako Akcję Natychmiastową, kosztem 1 punktu Zapału, ta Postać wybiera jeden 
 
 W wypadku niepowodzenia cel musi wykonywać rozkazy tej Postaci aż do końca jej następnej Tury - łącznie z rozkazami wymierzonymi w jego sojuszników, o ile nie są one wprost samobójcze.
 
-Ponieważ jest to Akcja Natychmiastowa, nie koliduje ze zwykłą Akcją tej Postaci (Atakiem, rzuceniem zaklęcia czy ruchem) - w ramach limitu Akcji Natychmiastowych przysługującego jej w danej rundzie zgodnie ze standardowymi zasadami.
+Ponieważ jest to Akcja Natychmiastowa, nie koliduje ze zwykłą Akcją tej Postaci (Atakiem, rzuceniem zaklęcia czy ruchem). Pierwsze użycie w danej rundzie rozlicza się w ramach standardowego limitu Akcji Natychmiastowych przysługującego jej w tej rundzie. Każde kolejne użycie w tej samej rundzie to wciąż Akcja Natychmiastowa, ale nie zużywa już tego limitu - jej jedynym kosztem, tak jak za pierwszym razem, pozostaje 1 punkt Zapału.

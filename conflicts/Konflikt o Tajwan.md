@@ -20,7 +20,7 @@ aliases:
 
 ## Opis
 
-**Kryzys Tajwański** (listopad 2025) nie przerodził się w otwarty konflikt, ale był bliski. Chińska Republika Ludowa, przekonana o swojej przewadze magicznej, przygotowywała inwazję na wyspę, gdy krasnoludzkie klany ogłosiły, że uznają Tajwan za "strefę wolnego handlu pod krasnoludzką protekcją" i rozlokują na wyspie swoich przedstawicieli oraz artefakty obronne. Chiny nie były gotowe na konfrontację z krasnoludami – nie ze względu na ich moc militarną, lecz ekonomiczną. Blokada handlowa ze strony klanów zrujnowałaby chińską gospodarkę. Kryzys zakończył się kompromisem: Tajwan zachował niezależność, ale zobowiązał się do "neutralności magicznej".
+**Kryzys Tajwański** (listopad 2025) nie przerodził się w otwarty konflikt, ale był bliski. Chińska Republika Ludowa, przekonana o swojej przewadze magicznej, przygotowywała inwazję na wyspę, gdy krasnoludzkie klany ogłosiły, że uznają Tajwan za "strefę wolnego handlu pod krasnoludzką protekcją" i rozlokują na wyspie swoich przedstawicieli oraz artefakty obronne. Chiny nie były gotowe na konfrontację z krasnoludami - nie ze względu na ich moc militarną, lecz ekonomiczną. Blokada handlowa ze strony klanów zrujnowałaby chińską gospodarkę. Kryzys zakończył się kompromisem: Tajwan zachował niezależność, ale zobowiązał się do "neutralności magicznej".
 
 ## Powiązania fabularne
 - [Federacja Sol-3](../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md)
