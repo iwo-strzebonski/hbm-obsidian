@@ -15,11 +15,11 @@ status: draft
 
 Karta postaci do Bestiariusza. Pełne dane fabularne: [Narcyza Eleness Zurbach](../../../npcs/Uczniowie/Narcyza%20Eleness%20Zurbach.md).
 
-Narcyza nie musi walczyć, żeby wygrać - jej uroda, demoniczna natura i magia iluzji wystarczają, by rozbroić, oczarować i osłabić przeciwnika, zanim ten zorientuje się, że w ogóle doszło do starcia. Poniższe dwie karty odpowiadają dwóm warstwom jej mocy: skrępowanej kontraktem, który wymusiła na niej rada WeSM, i tej, którą uwalnia, gdy komuś zagraża prawdziwe niebezpieczeństwo.
+Narcyza nie musi walczyć, żeby wygrać - jej uroda, demoniczna natura i magia iluzji wystarczają, by rozbroić, oczarować i osłabić przeciwnika, zanim ten zorientuje się, że w ogóle doszło do starcia. Poniższe dwie karty odpowiadają dwóm warstwom jej mocy: skrępowanej kontraktem, który wymusiła na niej rada WeSM, i tej, którą uwalnia, gdy komuś zagraża prawdziwe niebezpieczeństwo. Niezależnie od formy, trudno jej ukryć wrodzone poczucie wyższości - traktuje innych uczniów z nutą protekcjonalności, jakby już wiedziała coś, czego oni nie wiedzą. (Wie.)
 
 ## Forma I - Uczennica WeSM (kontrakt mocy)
 
-Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna arcysukkubica ósmego poziomu nie będzie uczyć się pod ich dachem bez smyczy. Kontrakt, który podpisała, wiąże jej moc magicznymi więzami - w tej formie Narcyza polega głównie na swoim biczu, urodzie i garstce iluzji, trzymając w rezerwie to, co naprawdę potrafi.
+Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna arcysukkubica ósmego poziomu nie będzie uczyć się pod ich dachem bez smyczy. To, że jest demonem, nie jest żadną tajemnicą - sukkuby i inkuby, choć rzadkie, to normalny, jeśli budzący zainteresowanie, widok wśród uczniów WeSM. Tajemnicą jest to, jakim demonem naprawdę jest: kontrakt, który podpisała, wiąże jej moc magicznymi więzami, a ona sama świadomie gra rolę stosunkowo słabej, mało istotnej sukkubiej mieszanki - nie jednej z najpotężniejszych arcysukkubic, jakie istnieją. W tej formie polega głównie na swoim biczu, urodzie i garstce iluzji, trzymając w rezerwie to, co naprawdę potrafi. Pojedyncza para niewielkich, starannie utrzymanych skrzydeł i skromne rogi pasują do tego obrazu - nic w jej wyglądzie nie sugeruje, że to coś więcej niż przeciętna demoniczna uczennica. Nawet w tej formie skrzydła wystarczają, by unieść ją w powietrze, gdyby zechciała - lot to nie efekt jakiegoś zaklęcia, tylko naturalna zdolność każdej arcysukkubicy, wpisana w samą fizjologię demona; w praktyce jednak niemal nigdy z niej nie korzysta, bo rzadko widuje się latającą studentkę, a ona woli nie wyróżniać się bardziej, niż musi.
 
 ### Statystyki
 
@@ -29,7 +29,7 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 14 | 0 | - | 2k6+24 | 4 | 10 m |
+| 42 | 14 | 0 | - | 2k6+24 | 4 | 10 m (w tym Lot) |
 
 #### Umiejętności
 
@@ -68,7 +68,9 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 
 ## Forma II - Prawdziwa Moc Arcysukkubicy (kontrakt złamany)
 
-Kontrakt WeSM pęka w chwili, gdy Narcyzie - albo komuś, na kim jej zależy - zaczyna grozić realne niebezpieczeństwo, a czasem po prostu wtedy, gdy uzna, że kogoś trzeba nastraszyć. To, co było skrywane pod powierzchnią uprzejmej, opanowanej studentki, wychodzi na wierzch naraz: demoniczna aura księżniczki piekieł, potęgowana magią iluzji do punktu, w którym trudno odróżnić, co jest realne, a co tylko podsunięte jej ofiarom do głów. Uwalniają się też jej demoniczne skrzydła, dające jej naturalną, niewymagającą żadnego zaklęcia zdolność lotu.
+Kontrakt WeSM pęka w chwili, gdy Narcyzie - albo komuś, na kim jej zależy - zaczyna grozić realne niebezpieczeństwo, a czasem po prostu wtedy, gdy uzna, że kogoś trzeba nastraszyć. To, co było skrywane pod powierzchnią uprzejmej, opanowanej studentki, wychodzi na wierzch naraz: demoniczna aura księżniczki piekieł, potęgowana magią iluzji do punktu, w którym trudno odróżnić, co jest realne, a co tylko podsunięte jej ofiarom do głów.
+
+Razem z nią zmienia się też jej wygląd i strój. Rogi wydłużają się, a obok jedynej pary skrzydeł znanej z Formy I - równie demonicznej jak ta, która teraz do niej dołącza, po prostu wcześniej trzymanej w cieniu - wyrasta druga. Zdolność lotu nie jest niczym nowym - miała ją już w Formie I, to cecha jej natury jako arcysukkubicy, nie efekt liczby skrzydeł - po prostu przestaje się hamować i zaczyna z niej swobodnie korzystać. Jej paznokcie wydłużają się, przybierając kształt niemal szponiastych pazurów. Rysy twarzy stają się ostrzejsze, wyraźnie nieludzkie, a skromny mundurek uczennicy przeobraża się w strój przystający księżniczce piekieł: nieco odsłaniający, ale obwieszony zdobieniami jednoznacznie ogłaszającymi jej status. Gdy rzuca swoje najpotężniejsze zaklęcia ofensywne, jej skrzydła rozrastają się jeszcze bardziej, a pociski magiczne zdają się wylatywać wprost "przez" nie, jakby to one, nie jej dłonie, były źródłem ataku.
 
 ### Statystyki
 

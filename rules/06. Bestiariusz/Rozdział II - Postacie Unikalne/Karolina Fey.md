@@ -68,7 +68,7 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 ### Taktyka
 
 > [!gm]+ Tylko dla MG
-> Karolina gra rolę do samego końca - unika bezpośredniej konfrontacji, trzyma dystans i sięga po Klątwę Hekate rzadko, tylko gdy naprawdę musi. Jej prawdziwym atutem w tej formie jest obrona: skutecznie unika ciosów w zwarciu, co dla „zwykłej studentki" jest podejrzanie dobre, jeśli ktoś zwróci na to uwagę. Za wszelką cenę unika ujawnienia, że jest kimś więcej.
+> Karolina gra rolę do samego końca - unika bezpośredniej konfrontacji, trzyma dystans i sięga po Klątwę Hekate rzadko, tylko gdy naprawdę musi. Jej prawdziwym atutem w tej formie jest obrona: skutecznie unika ciosów w zwarciu, co dla „zwykłej studentki" jest podejrzanie dobre, jeśli ktoś zwróci na to uwagę. Za wszelką cenę unika ujawnienia, że jest kimś więcej. Na tym etapie gra przede wszystkim na ekonomię akcji - każdy ruch ma być efektywny, żadna Akcja nie może pójść na marne; to chłodna kalkulacja, nie desperacja.
 
 ## Forma II - Uczennica ze Skradzioną Księgą
 
@@ -121,7 +121,7 @@ Jak w Formie I (Amulet Hekate, Rytualny Sztylet), a ponadto:
 ### Taktyka
 
 > [!gm]+ Tylko dla MG
-> Karolina otwiera starcie darmowym zaklęciem Szkarłatu z Księgi, po czym przełącza się między rytuałami Szkarłatu a swoimi zaklęciami zamaskowanymi na prawdziwą Magię Otchłani, w zależności od tego, co wie o przeciwnikach (Szkarłat, gdy chce ich zmylić co do własnej natury; pozorowaną Magię Otchłani, gdy chce, by ktoś pomyślał, że ma do czynienia z Kultem Otchłani, nie z Sabatem). Unika zwarcia, jeśli to możliwe - obniżony Refleks w tej formie czyni ją realnie podatną na ataki, jeśli zostanie dopadnięta.
+> Karolina otwiera starcie darmowym zaklęciem Szkarłatu z Księgi, po czym przełącza się między rytuałami Szkarłatu a swoimi zaklęciami zamaskowanymi na prawdziwą Magię Otchłani, w zależności od tego, co wie o przeciwnikach (Szkarłat, gdy chce ich zmylić co do własnej natury; pozorowaną Magię Otchłani, gdy chce, by ktoś pomyślał, że ma do czynienia z Kultem Otchłani, nie z Sabatem). Unika zwarcia, jeśli to możliwe - obniżony Refleks w tej formie czyni ją realnie podatną na ataki, jeśli zostanie dopadnięta. Jeśli starcie dotrwało do tego etapu, jej opanowanie z Formy I zaczyna pękać - jest wyraźnie bardziej agresywna i mniej przewidywalna, chętniej ryzykuje, byle tylko skończyć walkę szybciej.
 
 ## Forma III - Baba Jaga Sabatu Otchłani
 
@@ -177,4 +177,4 @@ Jak w Formach I i II (Amulet Hekate, Rytualny Sztylet, Wielka Księga Obrzędów
 ### Taktyka
 
 > [!gm]+ Tylko dla MG
-> To punkt, w którym gracze dowiadują się, dlaczego Karolina jest jedną z najpotężniejszych agentek Federacji. Otwiera starcie kilkoma zaklęciami naraz (wchodząc w Koncentrację), po czym przełącza się między darmowym ponownym rzucaniem utrzymywanych zaklęć (Spleciona Moc) a bezpośrednim atakiem w zwarciu, korzystając z Szybkości 15 m, by dyktować dystans. Im dłużej trwa starcie, tym więcej zaklęć potrafi utrzymać naraz - powinna sprawiać wrażenie, że z każdą rundą staje się groźniejsza, nie słabsza. Przywileju Baby Jagi używa raz, w momencie, który realnie odwraca losy starcia - nigdy z automatu na pierwszy nieudany Test.
+> To punkt, w którym gracze dowiadują się, dlaczego Karolina jest jedną z najpotężniejszych agentek Federacji. Otwiera starcie kilkoma zaklęciami naraz (wchodząc w Koncentrację), po czym przełącza się między darmowym ponownym rzucaniem utrzymywanych zaklęć (Spleciona Moc) a bezpośrednim atakiem w zwarciu, korzystając z Szybkości 15 m, by dyktować dystans. Im dłużej trwa starcie, tym więcej zaklęć potrafi utrzymać naraz - powinna sprawiać wrażenie, że z każdą rundą staje się groźniejsza, nie słabsza. Przywileju Baby Jagi używa raz, w momencie, który realnie odwraca losy starcia - nigdy z automatu na pierwszy nieudany Test. Do tego etapu jej wcześniejsza dbałość o ekonomię akcji dawno ustąpiła miejsca czystej żądzy zadawania jak największych obrażeń na rundę - im dłużej trwa starcie, tym bardziej szaleńcza i nieobliczalna się staje, jakby sama przemiana podsycała w niej coraz słabiej kontrolowaną agresję.
