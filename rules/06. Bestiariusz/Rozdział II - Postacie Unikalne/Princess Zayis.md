@@ -26,7 +26,7 @@ Zayis nie jest wojowniczką - jest dowódczynią bez oddziału, dyplomatką bez 
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 30 | 0 | 4 (patrz Ekwipunek) | 2k6+29 | 5 | 10 m |
+| 52 | 30 | 0 | 4 (patrz Ekwipunek) | 2k6+17 | 5 | 10 m |
 
 #### Umiejętności
 
@@ -34,11 +34,11 @@ Zayis nie jest wojowniczką - jest dowódczynią bez oddziału, dyplomatką bez 
 - Wiedza Magiczna (Umysł) +1 (11)
 - Wiedza Ogólna (Umysł) +1 (11)
 - Intuicja (Umysł) +1 (11)
-- Spostrzegawczość (Umysł) +1 (11)
+- Spostrzegawczość (Umysł) +4 (14)
 - Przekonywanie (Dusza) +3 (12)
 - Determinacja (Dusza) +1 (10)
-- Empatia (Dusza) +2 (11) 
-- Refleks (Ciało) +1 (8)
+- Empatia (Dusza) +3 (12)
+- Refleks (Ciało) +3 (10)
 - Zręczność (Ciało) +1 (8)
 - Walka Wręcz (Ciało) +1 (8)
 - Skradanie się (Ciało) +1 (8)
@@ -47,6 +47,8 @@ Zayis nie jest wojowniczką - jest dowódczynią bez oddziału, dyplomatką bez 
 
 - [Głos Rozkazu](../Rozdział%20III%20-%20Talenty/Głos%20Rozkazu.md) - Autorytet na poziomie II; jako Akcja Natychmiastowa zmusza cel do wykonywania jej rozkazów przez rundę.
 - [Wymazana Chwila](../Rozdział%20III%20-%20Talenty/Wymazana%20Chwila.md) - usuwa lub zniekształca jedno niedawne wspomnienie celu. Zawodne wobec naprawdę potężnych umysłów - Zayis świadomie unika prób na kimkolwiek, kogo podejrzewa o taki kaliber.
+- [Dyplomata](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Dyplomata.md) - Przewaga na Testach Przeciwstawnych przy rozwiązywaniu konfliktów, ocenie emocji i intencji czy wykrywaniu kłamstw; większość ludzi traktuje ją z szacunkiem, nawet jeśli za nią nie przepadają.
+- [Gadanina](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gadanina.md) - podwojona pula kości z Przekonywania, gdy chce kogoś zagadać lub odwrócić czyjąś uwagę.
 
 #### Zaklęcia znane
 

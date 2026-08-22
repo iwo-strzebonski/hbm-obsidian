@@ -29,7 +29,7 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 36 | 12 | 0 | - | 2k6+23 | 3 | 10 m |
+| 36 | 12 | 0 | - | 2k6+12 | 3 | 10 m |
 
 #### Umiejętności
 
@@ -37,7 +37,7 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 - Wiedza Magiczna (Umysł) +1 (8)
 - Wiedza Ogólna (Umysł) +1 (8)
 - Intuicja (Umysł) +1 (8)
-- Spostrzegawczość (Umysł) +1 (8)
+- Spostrzegawczość (Umysł) +2 (9)
 - Refleks (Ciało) +3 (8) *(nienagannie unika ciosów w zwarciu, jak na "studentkę" niepokojąco dobrze)*
 - Zręczność (Ciało) +1 (6)
 - Walka Wręcz (Ciało) +1 (6)
@@ -82,7 +82,7 @@ Karolina wciąż formalnie jest tą samą "studentką" co w Formie I - ale przes
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 20 | 0 | - | 2k6+24 | 4 | 10 m |
+| 42 | 20 | 0 | - | 2k6+13 | 4 | 10 m |
 
 #### Umiejętności
 
@@ -90,7 +90,7 @@ Karolina wciąż formalnie jest tą samą "studentką" co w Formie I - ale przes
 - Wiedza Magiczna (Umysł) +3 (11)
 - Wiedza Ogólna (Umysł) +1 (9)
 - Intuicja (Umysł) +1 (9)
-- Spostrzegawczość (Umysł) +1 (9)
+- Spostrzegawczość (Umysł) +2 (10)
 - Refleks (Ciało) +1 (7) *(obniżone - obie ręce i większość uwagi zajmuje kontrolowanie Księgi, patrz Ekwipunek)*
 - Zręczność (Ciało) +1 (7)
 - Walka Wręcz (Ciało) +1 (7)
@@ -100,6 +100,7 @@ Karolina wciąż formalnie jest tą samą "studentką" co w Formie I - ale przes
 #### Talenty
 
 - [Zakazana Wiedza (Szkarłatny Kult)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Zakazana%20Wiedza%20%28Dziedzina%29.md) - zdobyta dzięki tygodniom potajemnej nauki z Wielkiej Księgi Obrzędów; podwaja pulę kości przy Testach Wiedza Magiczna związanych ze Szkarłatnym Kultem i jego rytuałami.
+- [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) - nie może zostać zaskoczona w walce; +2 do Inicjatywy.
 
 #### Zaklęcia znane
 
@@ -109,6 +110,7 @@ Wszystkie zaklęcia z Formy I, a ponadto:
 - [Klątwa Szkarłatu](../../../spells/crimson/crimson-curse.md)
 - [Szkarłatne Płomienie](../../../spells/crimson/crimson-flames.md)
 - [Tajemniczy Strumień](../../../spells/eldritch/mysterious-stream.md), [Neutralizacja](../../../spells/eldritch/neutralization.md), [Pierwotna Kula](../../../spells/eldritch/primal-orb.md) *(mechanicznie identyczne z prawdziwymi zaklęciami Magii Otchłani, ale to nie prawdziwa Magia Otchłani - to jej własna, dzika magia ucharakteryzowana tak, by nikt niewtajemniczony nie odróżnił jednej od drugiej)*
+- [Przeskok](../../../spells/general/blink.md) *(w jej wykonaniu to nie zwykły "skok" w przestrzeni, a otwarcie dwóch krótkotrwałych bramek - wchodzi jedną, wychodzi drugą; mechanicznie identyczne z podręcznikowym Przeskokiem)*
 
 #### Ekwipunek
 
@@ -135,7 +137,7 @@ Białe szaty studentki znikają - zdarte w walce albo zdjęte przez samą Karoli
 
 | Żywotność | Mana | Pancerz | Osłona Magiczna | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 58 | 35 | 0 | 15 (patrz Ekwipunek) | 2k6+32 | 5 | 15 m |
+| 58 | 35 | 0 | 15 (patrz Ekwipunek) | 2k6+19 | 5 | 15 m |
 
 #### Umiejętności
 
@@ -143,8 +145,8 @@ Białe szaty studentki znikają - zdarte w walce albo zdjęte przez samą Karoli
 - Wiedza Magiczna (Umysł) +3 (13)
 - Wiedza Ogólna (Umysł) +1 (11)
 - Intuicja (Umysł) +1 (11)
-- Spostrzegawczość (Umysł) +1 (11)
-- Refleks (Ciało) +1 (11)
+- Spostrzegawczość (Umysł) +3 (13)
+- Refleks (Ciało) +4 (14)
 - Zręczność (Ciało) +1 (11)
 - Walka Wręcz (Ciało) +2 (12) *(capoeira - unarmed, patrz Ekwipunek)*
 - Skradanie się (Ciało) +1 (11)

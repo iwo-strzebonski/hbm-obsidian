@@ -29,7 +29,7 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 14 | 0 | - | 2k6+24 | 4 | 10 m (w tym Lot) |
+| 42 | 14 | 0 | - | 2k6+13 | 4 | 10 m (w tym Lot) |
 
 #### Umiejętności
 
@@ -37,11 +37,11 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 - Wiedza Magiczna (Umysł) +1 (9)
 - Wiedza Ogólna (Umysł) +1 (9)
 - Intuicja (Umysł) +1 (9)
-- Spostrzegawczość (Umysł) +1 (9)
+- Spostrzegawczość (Umysł) +2 (10)
 - Empatia (Dusza) +3 (10)
 - Przekonywanie (Dusza) +1 (8)
 - Determinacja (Dusza) +1 (8)
-- Refleks (Ciało) +1 (7)
+- Refleks (Ciało) +3 (9)
 - Zręczność (Ciało) +1 (7)
 - Walka Wręcz (Ciało) +2 (8) *(bicz, patrz Ekwipunek)*
 - Skradanie się (Ciało) +1 (7)
@@ -80,7 +80,7 @@ Razem z nią zmienia się też jej wygląd i strój. Rogi wydłużają się, a o
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 60 | 30 | 0 | - | 2k6+33 | 5 | 10 m (w tym Lot) |
+| 60 | 30 | 0 | - | 2k6+18 | 5 | 10 m (w tym Lot) |
 
 *(Zapał odnawia się w tej formie o 2 punkty na rundę zamiast standardowego 1 - patrz Talent [Księżniczka Piekieł](../Rozdział%20III%20-%20Talenty/Księżniczka%20Piekieł.md))*
 
@@ -90,11 +90,11 @@ Razem z nią zmienia się też jej wygląd i strój. Rogi wydłużają się, a o
 - Wiedza Magiczna (Umysł) +1 (12)
 - Wiedza Ogólna (Umysł) +1 (12)
 - Intuicja (Umysł) +1 (12)
-- Spostrzegawczość (Umysł) +1 (12)
+- Spostrzegawczość (Umysł) +3 (14)
 - Empatia (Dusza) +3 (13) *(nieskrępowana już żadnym kontraktem)*
 - Przekonywanie (Dusza) +1 (11)
 - Determinacja (Dusza) +1 (11)
-- Refleks (Ciało) +1 (10)
+- Refleks (Ciało) +4 (13)
 - Zręczność (Ciało) +1 (10)
 - Walka Wręcz (Ciało) +2 (11)
 - Skradanie się (Ciało) +1 (10)

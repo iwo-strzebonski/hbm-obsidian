@@ -21,7 +21,7 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 18 | 1 | 3 | 2k6+24 | 4 | 10 m |
+| 42 | 18 | 1 | 3 | 2k6+19 | 4 | 10 m |
 
 ### Umiejętności
 
@@ -30,9 +30,9 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 - Wiedza Magiczna (Umysł) +1 (9)
 - Wiedza Ogólna (Umysł) +1 (9)
 - Intuicja (Umysł) +1 (9)
-- Spostrzegawczość (Umysł) +1 (9)
+- Spostrzegawczość (Umysł) +3 (11)
 - Umiejętności Strzeleckie (Ciało) +1 (7)
-- Refleks (Ciało) +1 (7)
+- Refleks (Ciało) +4 (10)
 - Walka Wręcz (Ciało) +1 (7)
 - Zręczność (Ciało) +1 (7)
 - Determinacja (Dusza) +1 (8)
@@ -50,6 +50,7 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 - [Riposta](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Riposta.md)
 - [Skarbiec Królów](../Rozdział%20III%20-%20Talenty/Skarbiec%20Królów.md) *(unikalny)*
 - [Oko, Które Widziało Wszystko](../Rozdział%20III%20-%20Talenty/Oko,%20Które%20Widziało%20Wszystko.md) *(unikalny)*
+- [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) *(wzięty dwukrotnie)* - nie może zostać zaskoczony w walce; +4 do Inicjatywy (2×2).
 
 ### Ekwipunek
 

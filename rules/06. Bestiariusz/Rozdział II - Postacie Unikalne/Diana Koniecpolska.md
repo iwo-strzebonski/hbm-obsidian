@@ -31,7 +31,7 @@ Diana jest, jak na maga, wyjątkowo słaba fizycznie - nigdy nie trenowała cia�
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 34 | 12 | 0 | 2 | 2k6+23 | 3 | 10 m |
+| 34 | 12 | 0 | 2 | 2k6+12 | 3 | 10 m |
 
 #### Umiejętności
 
@@ -94,7 +94,7 @@ Latem 2027 jej ciało zaczyna nosić pierwsze, ledwie widoczne ślady tego, czym
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 38 | 20 | 0 | 2 | 2k6+26 | 4 | 10 m |
+| 38 | 20 | 0 | 2 | 2k6+16 | 4 | 10 m |
 
 #### Umiejętności
 
@@ -103,9 +103,9 @@ Latem 2027 jej ciało zaczyna nosić pierwsze, ledwie widoczne ślady tego, czym
 - Wiedza Magiczna (Umysł) +1 (11)
 - Wiedza Ogólna (Umysł) +1 (11)
 - Intuicja (Umysł) +1 (11)
-- Spostrzegawczość (Umysł) +1 (11)
+- Spostrzegawczość (Umysł) +2 (12)
 - Umiejętności Strzeleckie (Ciało) +5 (7) *(przy Miotaczu Entropii liczone z Magią zamiast Ciałem)*
-- Refleks (Ciało) +3 (5)
+- Refleks (Ciało) +4 (6)
 - Walka Wręcz (Ciało) +1 (3)
 - Zręczność (Ciało) +2 (4)
 - Determinacja (Dusza) +1 (8)
@@ -154,7 +154,7 @@ Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy s
 
 | Żywotność | Mana | Pancerz | Osłona Magiczna | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 112 | Nieograniczona | 0 | regenerowana Zaporą Posłańca | 2k6+33 | 5 | 10 m (w tym Lot) |
+| 112 | Nieograniczona | 0 | regenerowana Zaporą Posłańca | 2k6+20 | 5 | 10 m (w tym Lot) |
 
 *(Żywotność podwojona względem standardowego wzoru - patrz Talent [Nie do Zabicia](../Rozdział%20III%20-%20Talenty/Nie%20do%20Zabicia.md))*
 
@@ -166,8 +166,8 @@ Nawet jako Posłaniec Diana wciąż nie jest wojowniczką - jej ciało w tej for
 - Rzemiosło (Umysł) +3 (15)
 - Wiedza Magiczna (Umysł) +1 (13)
 - Intuicja (Umysł) +1 (13)
-- Spostrzegawczość (Umysł) +1 (13)
-- Refleks (Ciało) +2 (8)
+- Spostrzegawczość (Umysł) +3 (15)
+- Refleks (Ciało) +5 (11)
 - Walka Wręcz (Ciało) +1 (7)
 - Determinacja (Dusza) +1 (11)
 

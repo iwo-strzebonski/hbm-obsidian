@@ -28,7 +28,7 @@ Ta karta nie przedstawia współczesnego Xillitha - to jego dawna, porzucona for
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 34 | 10 | 1 | - | 2k6+19 | 3 | 10 m |
+| 34 | 10 | 1 | - | 2k6+7 | 3 | 10 m |
 
 #### Umiejętności
 
@@ -77,16 +77,16 @@ Bezimienny w pełni przejmuje kontrolę nad ciałem Xillitha za pośrednictwem B
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 54 | 25 | 1 | - | 2k6+30 | 5 | 10 m |
+| 54 | 25 | 1 | - | 2k6+17 | 5 | 10 m |
 
 #### Umiejętności
 
 - Walka Wręcz (Ciało) +3 (11) *(Xillitha)*
-- Refleks (Ciało) +1 (9) *(Xillitha)*
+- Refleks (Ciało) +4 (12) *(Xillitha)*
 - Zdolności Magiczne (Magia) +3 (13) *(Bezimiennego)*
 - Wiedza Magiczna (Umysł) +3 (13) *(Bezimiennego)*
 - Wiedza Ogólna (Umysł) +1 (11)
-- Spostrzegawczość (Umysł) +1 (11)
+- Spostrzegawczość (Umysł) +3 (13)
 - Intuicja (Umysł) +1 (11)
 - Determinacja (Dusza) +1 (10)
 
@@ -129,27 +129,29 @@ Xillith wrócił do siebie na tyle, na ile to możliwe - mentor (za pośrednictw
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 40 | 16 | 1 | - | 2k6+22 | 3 | 10 m |
+| 40 | 16 | 1 | - | 2k6+14 | 3 | 10 m |
 
 #### Umiejętności
 
 - Walka Wręcz (Ciało) +3 (11)
-- Refleks (Ciało) +1 (9)
+- Refleks (Ciało) +4 (12)
 - Alchemia (Warzenie Eliksirów) (Umysł) +3 (9)
 - Zdolności Magiczne (Magia) +1 (5)
 - Wiedza Magiczna (Umysł) +1 (7)
-- Spostrzegawczość (Umysł) +1 (7)
+- Spostrzegawczość (Umysł) +2 (8)
 - Determinacja (Dusza) +1 (7)
 
 #### Talenty
 
 - [Otoczony](../Rozdział%20III%20-%20Talenty/Otoczony.md) - jak w Formie II.
+- [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) - nie może zostać zaskoczony w walce; +2 do Inicjatywy.
 
 #### Zaklęcia znane
 
 - [Szkarłatny Pocisk](../../../spells/crimson/crimson-bolt.md)
 - [Klątwa Szkarłatu](../../../spells/crimson/crimson-curse.md)
 - [Szkarłatne Płomienie](../../../spells/crimson/crimson-flames.md)
+- [Przeskok](../../../spells/general/blink.md) *(zaklęcie, z którym nigdy się nie polubił - w praktyce udaje mu się rzadziej, niż powinno, a gracze, którzy widzieli go próbującego "przeskoczyć" na sesjach, wiedzą, że lepiej na to nie liczyć)*
 
 #### Ekwipunek
 
@@ -178,16 +180,16 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 30 | 1 | - | 2k6+29 | 4 | 10 m |
+| 52 | 30 | 1 | - | 2k6+18 | 4 | 10 m |
 
 #### Umiejętności
 
 - Walka Wręcz (Ciało) +3 (12)
-- Refleks (Ciało) +1 (10)
+- Refleks (Ciało) +4 (13)
 - Zdolności Magiczne (Magia) +3 (9)
 - Wiedza Magiczna (Umysł) +1 (10)
 - Alchemia (Warzenie Eliksirów) (Umysł) +1 (10)
-- Spostrzegawczość (Umysł) +1 (10)
+- Spostrzegawczość (Umysł) +3 (12)
 - Determinacja (Dusza) +1 (9)
 
 #### Talenty
@@ -198,6 +200,7 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 - [Otoczony](../Rozdział%20III%20-%20Talenty/Otoczony.md)
 - [Skaza z Xivell](../Rozdział%20III%20-%20Talenty/Skaza%20z%20Xivell.md)
 - **Natychmiastowe Rozproszenie** *(unikalny)* - Reakcja, koszt 1 Zapał: gdy w zasięgu 10 m ktoś rzuca zaklęcie dowolnej Dziedziny, Postać automatycznie je przerywa i rozprasza, bez Testu.
+- [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) - nie może zostać zaskoczony w walce; +2 do Inicjatywy.
 #### Zaklęcia znane
 
 Jak w Formie II.
