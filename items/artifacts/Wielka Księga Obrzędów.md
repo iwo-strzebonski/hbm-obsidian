@@ -9,6 +9,10 @@ tags:
 
 Księga, w której Pierwszy Patriarcha spisał wszystkie reguły Szkarłatnego Kultu i jego historię oraz podwaliny Magii Szkarłatu. Dawno temu skradziona przez Kultystów Otchłani, obecnie trwają jej poszukiwania, jednak każdy kultysta będący w pełni członkiem Kultu jest wyposażony w kopię fragmentów Wielkiej Księgi Obrzędów, zwanej Małą Księgą Obrzędów, która jest jednocześnie magicznym fokusem.
 
+Formalnie Księga trafiła w ręce [Zakonu Otwartego Oka](../../organizations/Kult%20Otchłani.md), który od tamtej pory studiuje ją jako jeden z kluczowych artefaktów swoich rytuałów. Niewiele osób jednak wie, że dziś fizycznie znajduje się ona w rękach [Karoliny Fey](../../npcs/Federacja%20Sol-3/Karolina%20Fey.md) - Baby Jagi Sabatu Otchłani, która wykradła ją Zakonowi.
+
+Karolina nie spełnia w pełni wymagań potrzebnych do Złączenia się z Księgą - nie jest Magiem Pierwotnej Magii, a członkostwo w Sabacie Otchłani to, zdaniem samego Zakonu, nie to samo, co członkostwo w Zakonie Otwartego Oka. Karolina uważa to rozróżnienie za "głupią formalność, która nie dotyczy Baby Jagi" - i w pewnym sensie ma rację: jej więź z Otchłanią poprzez Sabat jest wystarczająco realna, by częściowo spełnić ten warunek siłą własnej pozycji i woli, ale nie na tyle, by uzyskać pełne Złączenie. W efekcie korzysta z Księgi w ograniczonym zakresie - znacznie mniej efektywnie, niż w pełni Złączony członek Zakonu, ale wciąż realnie, nie tylko jako źródło wiedzy do nauki zaklęć własnymi środkami.
+
 W rzeczywistości ta księga została stworzona długo po założeniu Szkarłatnego Kultu, a jej historia została zmieniona w Otchłani przez samą Nil - tę samą istotę, która pokonała Pierwszego Patriarchę.
 
 ## Statystyki Wielkiej Księgi Obrzędów

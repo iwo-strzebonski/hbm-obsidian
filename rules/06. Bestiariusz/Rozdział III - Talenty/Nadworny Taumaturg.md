@@ -12,5 +12,5 @@ Raz na rundę Postać może zanegować efekt, którego źródłem jest Taumaturg
 
 | Zaklęcie wynikowe | Koszt |
 | --- | --- |
-| Autocast + 1 poziom overcastu | 2 zwykłe zaklęcia |
-| Autocast + No dispell + 2 poziomy overcastu | 4 zwykłe zaklęcia |
+| Automatyczne rzucenie + 1 poziom Nadczarowania | 2 zwykłe zaklęcia |
+| Automatyczne rzucenie + Nierozpraszalne + 2 poziomy Nadczarowania | 4 zwykłe zaklęcia |
