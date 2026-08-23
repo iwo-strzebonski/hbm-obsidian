@@ -6,15 +6,15 @@ tags:
   - task-force-x
 aliases: []
 ---
-| **Zdjęcie**             | **                                                                                                                                         |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Imię (imiona)**       | *Joe*                                                                                                                                      |
-| **Nazwisko (nazwiska)** | *Cox*                                                                                                                                      |
-| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                                      |
-| **Wzrost**              | *wysoki, umięśniony*                                                                                                                       |
+| **Zdjęcie**             | **                                                                                                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Joe*                                                                                                                                                            |
+| **Nazwisko (nazwiska)** | *Cox*                                                                                                                                                            |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                                                            |
+| **Wzrost**              | *wysoki, umięśniony*                                                                                                                                             |
 | **Organizacje**         | [Federacja Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md), [Siły Specjalne X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md) |
-| **Tytuł(y)**            | Porucznik, dowódca 1. Plutonu [Sił Specjalnych X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)                               |
-| **Status**              | *Żyje*                                                                                                                                     |
+| **Tytuł(y)**            | Porucznik, dowódca 1. Plutonu [Sił Specjalnych X](../../organizations/Federacja%20Sol-3/Siły%20Specjalne%20X.md)                                                 |
+| **Status**              | *Żyje*                                                                                                                                                           |
 
 ## Opis
 

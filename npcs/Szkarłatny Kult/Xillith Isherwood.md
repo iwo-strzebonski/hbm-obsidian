@@ -3,7 +3,6 @@ tags:
   - npc
   - crimson-cult
   - thaumaturge
-  - xivell
   - avatar
 aliases:
   - Xillith

@@ -4,28 +4,30 @@ tags:
   - crimson-cult
   - thaumaturge
   - patriarch
-  - avatar
-aliases: 
+  - kingdom-xivell
+  - xivell
+  - planet-xivell
+aliases:
   - Pierwszy Patriarcha
   - Bezimienny
 ---
 > [!note] Ujednoznacznienie
 > Ta strona dotyczy postaci zwanej **Bezimiennym** lub **Pierwszym Patriarchą** (którego prawdziwe imię brzmiało **Xillith**, dawny Nadworny Taumaturg Xivell). Nie mylić z **[Xillith Isherwood](Xillith%20Isherwood.md)** (uczniem WeSM), którego ciało służy mu za współczesnego awatara - a to za sprawą przynależności Isherwooda do [Szkarłatnego Kultu](../../organizations/Szkarłatny%20Kult.md) i zdobycia przez niego "Broni Szkarłatnego Patriarchy", nie z powodu wspólnego imienia. Zbieżność imion jest czystym przypadkiem.
 
-| **Zdjęcie**             | <img src="../../_assets/characters/Bezimienny_Full.webp" width="200" alt="Bezimienny_Full.webp"> |
-| ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Imię (imiona)**       | *Bezimienny*                                                                                           |
-| **Nazwisko (nazwiska)** | *nieznane*                                                                                             |
-| **Rasa**                | *[Człowiek](../../races/Człowiek.md) (pierwotnie); Duch / Głos*                                                          |
-| **Wiek**                | *nieznany (starożytny)*                                                                               |
-| **Wzrost**              | *zależy od awatara*                                                                                   |
-| **Waga**                | *zależy od awatara*                                                                                   |
-| **Dziedzina Magii**     | *[Taumaturgia](../../disciplines/Taumaturgia.md), [Botanika](../../disciplines/Botanika.md)*                                                                        |
+| **Zdjęcie**             | <img src="../../_assets/characters/Bezimienny_Full.webp" width="200" alt="Bezimienny_Full.webp">                                                                                                |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Bezimienny*                                                                                                                                                                                    |
+| **Nazwisko (nazwiska)** | *nieznane*                                                                                                                                                                                      |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md) (pierwotnie); Duch / Głos*                                                                                                                                 |
+| **Wiek**                | *nieznany (starożytny)*                                                                                                                                                                         |
+| **Wzrost**              | *zależy od awatara*                                                                                                                                                                             |
+| **Waga**                | *zależy od awatara*                                                                                                                                                                             |
+| **Dziedzina Magii**     | *[Taumaturgia](../../disciplines/Taumaturgia.md), [Botanika](../../disciplines/Botanika.md)*                                                                                                    |
 | **Organizacje**         | *<ul><li>[Szkarłatny Kult](../../organizations/Szkarłatny%20Kult.md) (założyciel, pośrednio)</li><li>[Królestwo Xivell](../../locations/Xivell/Królestwo%20Xivell.md) (historycznie)</li></ul>* |
-| **Pseudonim(y)**        | *Pierwszy Patriarcha*                                                                                  |
-| **Tytuł(y)**            | *<ul><li>Pierwszy Patriarcha</li><li>Założyciel [Taumaturgi](../../disciplines/Taumaturgia.md) na [Xivell](../../locations/Xivell/Xivell%20%28planeta%29.md)</li></ul>* |
-| **Charakter**           | *nieznany*                                                                                             |
-| **Status**              | *Żyje (jako głos/duch w ciele awatara)*                                                              |
+| **Pseudonim(y)**        | *Pierwszy Patriarcha*                                                                                                                                                                           |
+| **Tytuł(y)**            | *<ul><li>Pierwszy Patriarcha</li><li>Nadworny [Taumaturg](../../disciplines/Taumaturgia.md)</li></ul>*                                                                                          |
+| **Charakter**           | *nieznany*                                                                                                                                                                                      |
+| **Status**              | *Żyje (jako głos/duch w ciele awatara)*                                                                                                                                                         |
 
 ## Opis
 
@@ -39,9 +41,10 @@ Obecnie dusza Pierwszego Patriarchy jest przywiązana do artefaktu nazywanego **
 
 ## Rola w kampanii
 
-Bezimienny jest cichym graczem za kulisami. Postaci graczy mogą natknąć się na wzmianki o Pierwszym Patriarsze w archiwach [Szkarłatnego Kultu](../../organizations/Szkarłatny%20Kult.md), w akademickich tekstach o [taumaturgi](../../disciplines/Taumaturgia.md) lub w rozmowach z członkami kultu, którzy czcą jego pamięć. Żaden z szeregowych członków kultu nie wie, że Patriarcha wciąż istnieje - ani kim jest jego awatar.
+Bezimienny jest cichym graczem za kulisami. Postaci graczy mogą natknąć się na wzmianki o Pierwszym Patriarsze w archiwach [Szkarłatnego Kultu](../../organizations/Szkarłatny%20Kult.md), w akademickich tekstach o [taumaturgi](../../disciplines/Taumaturgia.md) lub w rozmowach z członkami kultu, którzy czczą jego pamięć. Żaden z szeregowych członków kultu nie wie, że Patriarcha wciąż istnieje - ani kim jest jego awatar.
 
 Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamierza wykorzystać [Federację Sol-3](../../organizations/Federacja%20Sol-3/Federacja%20Sol-3.md) do realizacji planu związanego z oczyszczeniem [Xivell](../../locations/Xivell/Xivell%20%28planeta%29.md) - planety, którą sam niegdyś zniszczył.
+
 
 > [!gm]+ Tylko dla MG
 >
@@ -74,4 +77,4 @@ Jego cel pozostaje niejasny, lecz wszystkie poszlaki wskazują na to, że zamier
 >
 > ### Interwencja podczas rytuału Nil
 >
-> To właśnie Bezimienny, działając przez ciało Xillitha Isherwooda, wraz z [Robertem Zarynem](../Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) przerwał [Nil](../Kult%20Otchłani/Nil.md) opętującą ciało [Diany Koniecpolskiej](../Kult%20Otchłani/Diana%20Koniecpolska.md) podczas nieudanej próby jej pełnej manifestacji na Ziemi, umożliwiając graczom ucieczkę i przerwanie rytuału. Czy zrobił to celowo, czy przypadkiem, walcząc w tym samym miejscu i czasie co Zaryn (jego jedyny żyjący wróg), pozostaje otwarte do ustalenia.
+> To właśnie Bezimienny, działając przez ciało Xillitha Isherwooda, wraz z [Robertem Zarynem](../Magowie%20Krwi/Ten,%20Który%20jest%20Mroczny.md) powtrzymał [Nil](../Kult%20Otchłani/Nil.md) opętującą ciało [Diany Koniecpolskiej](../Kult%20Otchłani/Diana%20Koniecpolska.md) podczas nieudanej próby jej pełnej manifestacji na Ziemi, umożliwiając graczom ucieczkę i przerwanie rytuału. Czy zrobił to celowo, czy przypadkiem, walcząc w tym samym miejscu i czasie co Zaryn, pozostaje otwarte do ustalenia.

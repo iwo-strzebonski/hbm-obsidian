@@ -13,7 +13,7 @@ Taumaturgia to dyscyplina magii zajmująca się badaniem uniwersalnych praw magi
 ## Historia szkoły
 Taumaturgia wywodzi się z prób zrozumienia, co łączy wszystkie formy magii. Jej korzenie sięgają czasów **Pierwszego Patriarchy** - [Xilitha / Bezimiennego](../npcs/Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md), Nadwornego Taumaturga Zjednoczonych Królestw Xivell. To on jako pierwszy opisał meta-prawa rządzące wszystkimi dyscyplinami magii i stworzył taumaturgię jako dyscyplinę badawczą.
 
-Po śmierci Pierwszego Patriarchy (poraził go Nil za stworzenie pasożyta, który skonsumował całą planetę Xivell w wydarzeniu zwanym Upadkiem) taumaturgia rozpadła się na współczesne szkoły magii. Każda z istniejących dyscyplin jest w pewnym sensie fragmentem lub pochodną oryginalnej taumaturgii Bezimiennego. Studenci Pierwszego Patriarchy, którzy przeżyli Upadek, założyli [Szkarłatny Kult](../organizations/Szkarłatny%20Kult.md), aby zachować tę wiedzę - choć organizacja od tamtej pory w dużej mierze utraciła swój pierwotny cel.
+Po śmierci Pierwszego Patriarchy Taumaturgia rozpadła się na współczesne szkoły magii. Każda z istniejących dyscyplin jest w pewnym sensie fragmentem lub pochodną oryginalnej taumaturgii Bezimiennego. Studenci Pierwszego Patriarchy, którzy przeżyli Upadek, założyli [Szkarłatny Kult](../organizations/Szkarłatny%20Kult.md), aby zachować tę wiedzę - choć organizacja od tamtej pory w dużej mierze utraciła swój pierwotny cel.
 
 Współcześnie taumaturgia jest nauczana jako interdyscyplinarna dziedzina w wielu szkołach [Wielkiej Trzynastki](../locations/Ziemia%20%28Sol-3-1725%29/Wielka%20Trzynastka.md), traktowana jako „magia dla magów" lub domena teoretyków.
 
@@ -29,6 +29,7 @@ Taumaturdzy wierzą, że każda magia ma wspólne fundamenty, a zrozumienie ich 
 ## Znani praktycy
 - [Xillith / Pierwszy Patriarcha / Bezimienny](../npcs/Szkarłatny%20Kult/Bezimienny,%20Pierwszy%20Patriarcha.md) (twórca taumaturgii, mistrz eksperymentów magicznych)
 - [Pelagius Caudex](../npcs/Nauczyciele/Pelagius%20Caudex.md) (współczesny badacz, nauczyciel teorii magii)
+- 
 
 ## Status prawny (Inkwizycja)
 Taumaturgia jest legalna, ale eksperymenty wymagają zgłoszenia i nadzoru. Zakazane są badania nad destabilizacją rzeczywistości, tworzeniem zaklęć masowego rażenia i manipulacją Otchłanią bez zgody.

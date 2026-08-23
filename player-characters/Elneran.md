@@ -8,20 +8,20 @@ tags:
 aliases: []
 status: draft
 ---
-| **Zdjęcie**              | ![[.jpg\|200]] |
-| ------------------------ | -------------- |
-| **Gracz**                | *Łucja Wuls*   |
-| **Imię (imiona)**        | *Elneran*      |
-| **Nazwisko (nazwiska)**  | **             |
-| **Rasa**                 | *[Elf](../races/Elf.md)* |
-| **Wiek**                 | **             |
-| **Wzrost**               | **             |
-| **Dziedzina Magii**      | *[Magia Ognia](../disciplines/Magia%20Żywiołów/Poddziedzina%20-%20Magia%20Ognia.md)* |
-| **Organizacje**          | *Uczennica-transferka [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (Klasa 2Pb, dołączyła w drugim tygodniu roku), drużyna "Cień Otchłani nad Integrą"* |
-| **Pseudonim(y)**         | **             |
-| **Tytuł(y)**             | **             |
-| **Charakter**            | **             |
-| **Status**               | *Żyje*         |
+| **Zdjęcie**             | ![[.jpg\|200]]                                                                                                                                                                                   |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Gracz**               | *Łucja Wuls*                                                                                                                                                                                     |
+| **Imię (imiona)**       | *Elneran*                                                                                                                                                                                        |
+| **Nazwisko (nazwiska)** | **                                                                                                                                                                                               |
+| **Rasa**                | *[Elf](../races/Elf.md)*                                                                                                                                                                         |
+| **Wiek**                | **                                                                                                                                                                                               |
+| **Wzrost**              | **                                                                                                                                                                                               |
+| **Dziedzina Magii**     | *[Magia Ognia](../disciplines/Magia%20Żywiołów/Poddziedzina%20-%20Magia%20Ognia.md)*                                                                                                             |
+| **Organizacje**         | *Uczennica-transferka [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (Klasa 2Pb, dołączyła w drugim tygodniu roku), drużyna "Cień Otchłani nad Integrą"* |
+| **Pseudonim(y)**        | **                                                                                                                                                                                               |
+| **Tytuł(y)**            | **                                                                                                                                                                                               |
+| **Charakter**           | **                                                                                                                                                                                               |
+| **Status**              | *Żyje*                                                                                                                                                                                           |
 
 ## Opis
 Elneran dołączyła do WeSM jako uczennica-transferka w drugim tygodniu roku szkolnego, razem z Xillithem i Talonosem Isherwoodami. Zamieszkała w pokoju po zmarłej Annie Heide, nie wiedząc jeszcze o jej losie - dopiero później pomogła nowo poznanym przyjaciołom przeszukać ten pokój w poszukiwaniu poszlak.
