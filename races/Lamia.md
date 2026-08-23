@@ -2,9 +2,13 @@
 tags:
   - race
   - lamia
+aliases:
+  - Naga
 ---
 
 # Lamia
+
+Mechanika rasy znajduje się w [tym](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Lamia.md) wpisie.
 
 ## Krótki opis
 Lamie to rasa półwężowych istot, znana z tajemniczości, uroku i potężnych zdolności magicznych. Ich społeczeństwa są matriarchalne, a tradycja przekazywana jest przez rody kapłanek.

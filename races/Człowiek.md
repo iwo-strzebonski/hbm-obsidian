@@ -1,10 +1,15 @@
 ---
-tags: [race, lore]
-aliases: [Człowiek, Ludzie]
-status: draft
+tags:
+  - race
+  - lore
+aliases:
+  - Człowiek
+  - Ludzie
 ---
 
 # Człowiek
+
+Mechanika rasy znajduje się w [tym](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Człowiek.md) wpisie.
 
 ## Krótki opis
 Człowiek to najbardziej rozpowszechniona rasa świata HbM, znana z elastyczności, ambicji i zdolności adaptacyjnych. Ludzie szybko przystosowują się do zmian, są pionierami technologii i magii, a ich społeczeństwa cechuje ogromna różnorodność.

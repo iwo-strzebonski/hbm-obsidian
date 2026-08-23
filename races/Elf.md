@@ -6,6 +6,8 @@ tags:
 
 # Elf
 
+Mechanika rasy znajduje się w [tym](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Elf.md) wpisie.
+
 ## Krótki opis
 Elfy to długowieczna, magicznie utalentowana rasa, znana z elegancji, harmonii z naturą i zaawansowanej kultury. Występują w dwóch głównych odmianach: Elfy Wysokie i Elfy Leśne.
 

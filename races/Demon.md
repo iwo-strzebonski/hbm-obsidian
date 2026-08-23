@@ -2,6 +2,9 @@
 tags:
   - race
   - demon
+aliases:
+  - Sukkub
+  - Inkub
 ---
 
 # Demon

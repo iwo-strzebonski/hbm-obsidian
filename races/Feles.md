@@ -6,6 +6,8 @@ tags:
 
 # Feles
 
+Mechanika rasy znajduje się w [tym](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Feles.md) wpisie.
+
 ## Krótki opis
 Feles to rasa antropomorficznych kotów, znana z gracji, zwinności i niezależności. Ich społeczeństwa są luźno zorganizowane, a jednostki cenią wolność i indywidualizm.
 

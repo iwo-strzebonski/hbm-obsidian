@@ -2,9 +2,14 @@
 tags:
   - race
   - angel
+aliases:
+  - Anioł
+  - Anielica
 ---
 
 # Anioł
+
+Mechanika rasy znajduje się w [tym](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Anioł-Anielica.md) wpisie.
 
 ## Krótki opis
 Anioły to istoty pochodzące z wyższych wymiarów lub powołane przez bóstwa. Są symbolem czystości, ładu i opieki, choć nie wszystkie anioły są „dobre” - ich lojalność zależy od patrona.
