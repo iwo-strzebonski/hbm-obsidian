@@ -17,10 +17,11 @@ Cechy Rasowe:
    * Magia Żywiołów
    * Magia Sakralna
 * 4 punktów do rozdania w Atrybuty
-* Darmowe Talenty:
+* Darmowe Talenty (trzy z czterech):
    * Oportunista
    * Gotowość do Walki
    * Magiczna Oporność
+   * Sztuki Walki
 * 1 Punkt Umiejętności w Refleksie
 * 1 Punkt Umiejętności w Walce Wręcz
 * 1 Punkt Umiejętności w Umiejętnościach Strzeleckich

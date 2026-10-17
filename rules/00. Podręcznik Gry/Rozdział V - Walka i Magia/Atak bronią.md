@@ -21,3 +21,13 @@ Gdy cel próbuje uniknąć ataku, od ilości Sukcesów atakującego należy odj�
 
 
 Gdy cel próbuje odpierać atak, należy porównać ilość Sukcesów atakującego i atakowanego. Postać, która uzyska mniej Sukcesów, otrzymuje pełną ilość Obrażeń wynikającą z ilości Sukcesów Postaci, która wygrała pojedynek (patrz: Zadawanie Obrażeń).
+
+
+## Atak bez Broni
+
+Atak pięściami, nogami, ogonem bądź przedmiotem, który nie jest bronią (Atak Improwizowany), wykonuje się jak Atak bronią, jednak:
+* test jest trudniejszy o jeden Stopień,
+* atak nie ma punktów Obrażeń broni (zadaje wyłącznie Obrażenia z Sukcesów) i zadaje Obrażenia Obuchowe,
+* nie można nim Odpierać ataków ani wykorzystywać Talentów wymagających broni białej.
+
+Postać z Talentem Sztuki Walki nie stosuje tych kar.

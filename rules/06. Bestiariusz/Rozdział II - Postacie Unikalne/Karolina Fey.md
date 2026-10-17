@@ -38,7 +38,7 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 - Wiedza Ogólna (Umysł) +1 (8)
 - Intuicja (Umysł) +1 (8)
 - Spostrzegawczość (Umysł) +2 (9)
-- Refleks (Ciało) +3 (8) *(nienagannie unika ciosów w zwarciu, jak na "studentkę" niepokojąco dobrze)*
+- Refleks (Ciało) +3 (8) *(nienagannie unika ciosów w zwarciu, jak na "uczennicę" niepokojąco dobrze)*
 - Zręczność (Ciało) +1 (6)
 - Walka Wręcz (Ciało) +1 (6)
 - Skradanie się (Ciało) +1 (6)
@@ -47,7 +47,12 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 
 #### Talenty
 
-Żadnych unikalnych na tym etapie - w tej formie Karolina świadomie nie wyróżnia się ponad przeciętnie zdolną studentkę.
+- [Błogosławieństwo (Hekate)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Błogosławieństwo%20%28Bóstwo%29.md) - formalnie pobłogosławiona przez Hekate; to na tym Talencie opiera się cała przykrywka „darów bogini" i możliwość rzucania zaklęć sakralnych jako modlitw.
+- [Rozplatanie Zaklęć](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Rozplatanie%20Zaklęć.md) - raz na rundę może za darmo spróbować rozpleść rzucane w jej zasięgu zaklęcie.
+- [Magiczny Zmysł (Wzrok)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Magiczny%20Zmysł%20%28Zmysł%29.md) - magię „widzi" jako wstęgi w powietrzu; Testy na opieranie się efektom zaklęć i na rozplatanie zaklęć wymagają u niej jednego Sukcesu mniej.
+- [Sztuki Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Sztuki%20Walki.md) - jej pięści, kopnięcia i improwizowane przedmioty nie podlegają karom do Ataków bez Broni; do tego dwie dodatkowe kości przy Powaleniu i Rozbrojeniu.
+- [Parowanie](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Parowanie.md) - raz na rundę może sparować atak wręcz zamiast go unikać (pięściami dzięki Sztukom Walki, ewentualnie Rytualnym Sztyletem); u „zwykłej studentki" wygląda to na szczęśliwy refleks.
+- [Metamagia](../../02.%20Klątwa%20Otchłani/Rozdział%20II%20-%20Talenty/Metamagia.md) - dostęp do Akcji Rozdwojone Zaklęcie, Niezniszczalne Zaklęcie, Rozproszenie Magii i Błyskawiczne Czarostwo; Punkty Metamagii to połowa Duszy w górę +1 (Forma I: 4, Forma II: 5, Forma III: 6). Rozbijanie cudzej magii nie jest niczym nadzwyczajnym u studentki trzeciego roku, choć należy do rzadkości.
 
 #### Zaklęcia znane
 
@@ -98,6 +103,8 @@ Karolina wciąż formalnie jest tą samą "studentką" co w Formie I - ale przes
 - Przekonywanie (Dusza) +1 (8)
 
 #### Talenty
+
+Talenty z Formy I, a ponadto:
 
 - [Zakazana Wiedza (Szkarłatny Kult)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Zakazana%20Wiedza%20%28Dziedzina%29.md) - zdobyta dzięki tygodniom potajemnej nauki z Wielkiej Księgi Obrzędów; podwaja pulę kości przy Testach Wiedza Magiczna związanych ze Szkarłatnym Kultem i jego rytuałami.
 - [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) - nie może zostać zaskoczona w walce; +2 do Inicjatywy.
@@ -155,12 +162,12 @@ Białe szaty studentki znikają - zdarte w walce albo zdjęte przez samą Karoli
 
 #### Talenty
 
-Wszystkie Talenty z Form I i II (obniżenie Refleksu z Formy II obowiązuje wyłącznie w rundach, w których aktywnie konsultuje Wielką Księgę Obrzędów - w tej formie może swobodnie zdecydować, że danej rundy z niej nie korzysta, by zachować pełny Refleks), a ponadto:
+Wszystkie Talenty z Form I i II, w tym Sztuki Walki (obniżenie Refleksu z Formy II obowiązuje wyłącznie w rundach, w których aktywnie konsultuje Wielką Księgę Obrzędów - w tej formie może swobodnie zdecydować, że danej rundy z niej nie korzysta, by zachować pełny Refleks), a ponadto:
 
+- [Riposta](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Riposta.md) - raz na rundę po udanym Parowaniu wyprowadza kontratak (capoeira), przeciwko któremu cel nie może się Odpierać; może go tylko Uniknąć za punkt Zapału.
 - [Spleciona Moc](../Rozdział%20III%20-%20Talenty/Spleciona%20Moc.md) - jednoczesna Koncentracja na wielu zaklęciach, rosnąca w miarę trwania starcia (do 5), z darmowym ponownym rzucaniem utrzymywanych zaklęć.
 - [Przywilej Baby Jagi](../Rozdział%20III%20-%20Talenty/Przywilej%20Baby%20Jagi.md) - raz na dobę (dwa razy w pełnię, zero razy w nów) wymusza pełny sukces dowolnego swojego Testu.
 - [Pełnia Mocy](../Rozdział%20III%20-%20Talenty/Pełnia%20Mocy.md) - rzuca Superzaklęcia samodzielnie, tak jakby były zwykłymi, potężnymi zaklęciami.
-- [Metamagia](../../02.%20Klątwa%20Otchłani/Rozdział%20II%20-%20Talenty/Metamagia.md) - dostęp do Akcji Rozdwojone Zaklęcie, Niezniszczalne Zaklęcie, Rozproszenie Magii i Błyskawiczne Czarostwo - narzędzie prawdziwej, doświadczonej czarownicy, nie tylko potężnej maszki.
 
 #### Zaklęcia znane
 
@@ -172,7 +179,7 @@ Jak w Formach I i II (Amulet Hekate, Rytualny Sztylet, Wielka Księga Obrzędów
 
 **Kombinezon Bojowy "Gaja"** - dostarczony przez Federację Sol-3, ukryty pod studenckimi szatami. Gdy Karolina "zamyka się w starciu" i przestaje udawać, kombinezon aktywuje się w pełni: zapewnia 15 punktów Osłony Magicznej, odnawianej w całości na początku każdej jej Tury. Jeśli jednak pierwsze trafienie, jakie otrzymuje w danym starciu, jest Atakiem z zaskoczenia i byłoby samo w sobie potencjalnie śmiertelne, kombinezon nie zdąży się aktywować na czas i to jedno trafienie przyjmuje bez żadnej ochrony - każde kolejne działa już normalnie.
 
-**Walka wręcz (capoeira)** - lata treningu capoeira czynią jej ciosy i kopnięcia równie skuteczne jak broń w rękach innych. Na potrzeby obrażeń traktuj jak broń jednoręczną.
+**Walka wręcz (capoeira)** - lata treningu capoeira czynią jej ciosy i kopnięcia pełnoprawną bronią dzięki Talentowi Sztuki Walki.
 - **Obrażenia:** 1+S
 - **Cechy:** brak broni do rozbrojenia; niemożliwa do odebrania
 
