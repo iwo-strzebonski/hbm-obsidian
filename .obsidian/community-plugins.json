@@ -9,5 +9,6 @@
   "obsidian-html-tags-autocomplete",
   "extended-markdown-syntax",
   "advanced-exclude",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-local-rest-api"
 ]
