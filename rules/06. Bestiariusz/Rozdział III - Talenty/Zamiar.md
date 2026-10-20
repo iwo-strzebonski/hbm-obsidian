@@ -10,7 +10,7 @@ Ta Postać nie musi wybierać między przebiciem tarczy a przebiciem pancerza - 
 
 Zanim ta Postać rozstrzygnie efekt swojego Ataku, może wybrać dowolną liczbę poniższych właściwości - za darmo, bez dodatkowego kosztu:
 
-- **Rozerwanie Run** - trwale niszczy 1 punkt Runicznego Pancerza celu (jak przy przełamywaniu Runicznego Pancerza).
+- **Rozerwanie Run** - trwale niszczy 1 punkt Runicznego Pancerza celu (w odróżnieniu od zwykłego przełamania nie da się go przywrócić). Jeżeli był to ostatni punkt Runicznego Pancerza z artefaktu, artefakt zostaje zniszczony (patrz [Zasady Artefaktów](../../01.%20Księga%20Magii/Rozdział%20IV%20-%20Artefakty/Zasady%20Artefaktów.md)).
 - **Rozerwanie Osłony** - niszczy Magiczną Osłonę celu.
 - **Rozdzieranie** - trwale zmniejsza Pancerz celu o 1 do końca starcia (jak cecha broni Rozdzierający).
 - **Ignorowanie Run** - ten Atak ignoruje Runiczny Pancerz celu.
