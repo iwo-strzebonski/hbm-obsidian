@@ -71,6 +71,9 @@ Dzięki Talentom *Parowanie*, *Finta* i *Riposta* Pelagius, gdy już dobędzie �
 
 ## Taktyka
 
+> [!info] Dlaczego Pelagius jest tak wysoko
+> Samymi statystykami Pelagius ustępuje Narcyzie i Xillithowi. Wysoką pozycję daje mu Skarbiec: Diadem Szamasza czyni go odpornym na wszystkie sztuczki Narcyzy, Pieczęć Enlila podnosi jego Zdolności Magiczne, a Brama Babilonu daje mu odpowiedź na niemal każdy rodzaj przeciwnika. Dlatego sam Pelagius, pozbawiony artefaktów, jest znacznie słabszy niż na papierze - choć nadal bardzo dobrym wojownikiem.
+
 > [!gm]+ Tylko dla MG
 > Pelagius jest kompetentnym magiem, ale rzucanie skomplikowanych zaklęć uważa za marnotrawstwo czasu, gdy można po prostu rzucić w przeciwnika artefaktem. Walczy niemal wyłącznie na dystans, otwierając złote kręgi ze swojego Skarbca i zasypując przeciwników wytworami tysięcy lat rzemiosła, sam sięgając po broń tylko wtedy, gdy naprawdę musi.
 > 

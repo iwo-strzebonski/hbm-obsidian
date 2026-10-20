@@ -148,7 +148,7 @@ Białe szaty studentki znikają - zdarte w walce albo zdjęte przez samą Karoli
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) +3 (11)
+- Zdolności Magiczne (Magia) +4 (12)
 - Wiedza Magiczna (Umysł) +3 (13)
 - Wiedza Ogólna (Umysł) +1 (11)
 - Intuicja (Umysł) +1 (11)
