@@ -75,7 +75,7 @@ Rodzaje Testów: [Umiejętności](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Wa
 ```
 Sukcesy + obrażenia broni + bonusy z Talentów
    ± Wrażliwość / Odporność celu
-   - Runiczny Pancerz        (obrażenia > 5 niszczą go o 1 trwale)
+   - Runiczny Pancerz        (obrażenia > 5 w jednym trafieniu wyłączają 1 punkt do końca walki; można go przywrócić Akcją Natychmiastową)
    - Magiczna Osłona         (odejmuje punkt za punkt, aż pęknie)
    - Pancerz
    = to, co zostało (jeśli > 0) odejmij od Żywotności

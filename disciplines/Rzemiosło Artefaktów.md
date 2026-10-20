@@ -153,9 +153,9 @@ Magiczne Lustra mają nieskończony zasięg, nawet między światami (ale nie mi
 
 Amulet Osłony zapewnia jeden punkt Runicznego Pancerza.
 
-Amulet można naładować podczas walki w ramach Akcji, poświęcając dwa punkty Many za każdy punkt Runicznego Pancerza, do maksymalnie jednego punktów Runicznego Pancerza.
+Amulet można naładować podczas walki w ramach Akcji Natychmiastowej, poświęcając dwa punkty Many za każdy punkt Runicznego Pancerza, do maksymalnie jednego punktów Runicznego Pancerza.
 
-*Runiczny Pancerz* - magiczny odpowiednik Pancerza (patrz: Kolejność Redukcji Obrażeń), który może łączyć się z Magiczną Tarczą. Runiczny Pancerz jest traktowany jak Pancerz przed Magiczną Tarczą, osłabiający ataki zanim ją trafią. Każde pięć punktów Obrażeń wyłącza jeden punkt Runicznego Pancerza - zadawane obrażenia przenoszą się do końca walki.
+*Runiczny Pancerz* - magiczny odpowiednik Pancerza (patrz: Kolejność Redukcji Obrażeń), który może łączyć się z Magiczną Tarczą. Runiczny Pancerz jest traktowany jak Pancerz przed Magiczną Tarczą, osłabiający ataki zanim ją trafią. Obrażenia przekraczające 5 punktów w jednym trafieniu wyłączają jeden punkt Runicznego Pancerza do końca walki (patrz Kolejność Redukcji Obrażeń) - wyłączony punkt można przywrócić, ładując amulet.
 #### Ulepszenie: Wzmocniona Osłona
 - Czas wytworzenia: 3 tygodnie
 - Próg Trudności: 5:6
