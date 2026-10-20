@@ -7,7 +7,7 @@ castingMode: standard
 school: necromancy
 sourceBook: ksiega-magii
 manaCost: 2
-threshold: 6
+threshold: 5
 successes: 1
 requiresDiscipline:
   - necromancy

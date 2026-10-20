@@ -8,7 +8,7 @@ tags:
 Postać próbuje podciąć, przewrócić bądź zepchnąć przeciwnika na ziemię zamiast go ranić.
 
 
-Rodzaj Testu: Przeciwstawny - Ciało (Walka Wręcz) przeciwko Ciało (Walka Wręcz) lub Ciało (Refleks) celu
+Rodzaj Testu: Przeciwstawny - Ciało (Walka Wręcz) przeciwko Ciało (Refleks) celu
 
 
 Cel musi znajdować się w zasięgu ataku wręcz. Jeżeli atakujący wygra Test Przeciwstawny, nie zadaje Obrażeń, a cel zostaje [Przewrócony](../Aneks%20A%20-%20Stany%20Postaci/Przewrócony.md). Powalenie nie może zostać Odparte ani Sparowane, ale cel może je Uniknąć (wtedy Test Przeciwstawny przebiega jak przy Unikach).

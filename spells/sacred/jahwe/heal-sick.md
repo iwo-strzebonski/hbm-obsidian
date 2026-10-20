@@ -7,7 +7,7 @@ castingMode: sacred
 school: sacred
 deity: jahwe
 sourceBook: ksiega-magii
-manaCost: 4
+manaCost: 3
 threshold: 5
 successes: 2
 requiresDiscipline:

@@ -22,10 +22,10 @@ range: 10 m
 targets: '1'
 duration: 2 rundy
 overcast:
-  - +2 do Many lub +1 do Maksymalnego Kosztu Zaklęcia lub +1 runda trwania
+  - +1 runda trwania lub cel traci dodatkowo 1 punkt Maksymalnego Kosztu Zaklęcia
 ---
 # Kradzież Many
 
 Hekate spogląda krzywym wzrokiem na wskazanego przez swojego wyznawcę niewiernego, przekazując część mocy magicznej celu magowi rzucającego to zaklęcie.
 
-Do końca trwania zaklęcia, mag rzucający to zaklęcie zwiększa swoją Manę o 2 oraz Maksymalny Koszt Zaklęcia o 1, zaś cel zmniejsza swój Maksymalny Koszt Zaklęcia o 2.
+Mag rzucający to zaklęcie natychmiast odzyskuje 1k6 punktów Many - jego Mana nie może jednak przekroczyć dziennej puli. Ponadto do końca trwania zaklęcia Maksymalny Koszt Zaklęcia maga zwiększa się o 1, zaś Maksymalny Koszt Zaklęcia celu zmniejsza się o 2.

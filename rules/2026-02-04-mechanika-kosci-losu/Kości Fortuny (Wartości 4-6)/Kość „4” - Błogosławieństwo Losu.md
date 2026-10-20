@@ -12,8 +12,8 @@ aliases:
 
 **Efekt:** Wybierz jeden z poniższych:
 
-1. **Szczęśliwy traf** - Dodaj **+3 Sukcesy** do właśnie wykonanego Testu (można użyć po zobaczeniu wyniku, ale przed poznaniem efektu).
+1. **Szczęśliwy traf** - Dodaj **+2 Sukcesy** do właśnie wykonanego Testu (można użyć po zobaczeniu wyniku, ale przed poznaniem efektu).
 
-2. **Ochrona fortuny** - Zignoruj **całość obrażeń** z jednego ataku lub źródła (łącznie z efektami dodatkowymi jak trucizna czy podpalenie).
+2. **Ochrona fortuny** - Zignoruj **Obrażenia do wysokości połowy Maks. Żywotności** (w górę) z jednego ataku lub źródła.
 
-3. **Szybka reakcja** - Natychmiast wykonaj dodatkową **Akcję Ruchu** lub **Reakcję** poza normalną kolejnością inicjatywy.
+3. **Szybka reakcja** - Natychmiast wykonaj dodatkowy **Ruch** poza normalną kolejnością inicjatywy.

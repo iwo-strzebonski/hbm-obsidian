@@ -12,7 +12,7 @@ Pierwszy krok to znalezienie kogoś, kto może zaoferować (lub kupić) nielegal
 
 - Sukces oznacza, że postać znajduje kontakt - pośrednika gotowego zorganizować transakcję.
 - Porażka oznacza, że trafia na oszusta, policyjnego informatora lub w ogóle nikogo.
-- Krytyczna porażka: postać zwraca na siebie uwagę organów ścigania lub wrogiej organizacji przestępczej.
+- Jeśli nie padł ani jeden Sukces: postać zwraca na siebie uwagę organów ścigania lub wrogiej organizacji przestępczej.
 
 **Modyfikatory:**
 - Postać ma Talent "Sieć Kontaktów": -1 do trudności

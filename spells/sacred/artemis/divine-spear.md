@@ -7,7 +7,7 @@ castingMode: sacred
 school: sacred
 deity: artemis
 sourceBook: ksiega-magii
-manaCost: 3
+manaCost: 4
 threshold: 5
 successes: 2
 requiresDiscipline:

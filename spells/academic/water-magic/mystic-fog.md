@@ -6,7 +6,7 @@ tags:
 castingMode: standard
 school: elementsWater
 sourceBook: ksiega-magii
-manaCost: 4
+manaCost: 5
 threshold: 5
 successes: 3
 complexityLevel: 2

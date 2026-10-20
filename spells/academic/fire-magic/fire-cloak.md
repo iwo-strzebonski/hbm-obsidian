@@ -18,7 +18,8 @@ requiresDiscipline:
 castingTime: Instant
 range: Self
 targets: Trzymana broń
-duration: 3 tury
+duration: 3 rundy
+damageBase: 2
 overcast:
   - +1 punkt Obrażeń
 ---

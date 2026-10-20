@@ -6,9 +6,9 @@ tags:
 aliases:
   - Tabela Podstawowych Cen
 ---
-*Ceny podane w PLN dla rynku polskiego. W innych krajach Europejskiej Federacji ceny mogą się różnić o ±15%.*
+*Ceny podane w zł dla rynku polskiego. W innych krajach Europejskiej Federacji ceny mogą się różnić o ±15%.*
 
-| Przedmiot | Cena (PLN) | Dostępność |
+| Przedmiot | Cena (zł) | Dostępność |
 |-----------|------------|------------|
 | **Materiały podstawowe** |||
 | Surowe żelazo (kg) | 5 | Powszechna |
@@ -30,8 +30,8 @@ aliases:
 | **Artefakty** |||
 | Podstawowa różdżka | 1 000-5 000 | Powszechna |
 | Różdżka krasnoludzia (runowa) | 8 000-20 000 | Umiarkowana |
-| Amulet ochronny (+1 KP) | 10 000 | Umiarkowana |
-| Pierścień mocy (+1 Magia) | 50 000+ | Rzadka |
+| Amulet ochronny (+1 Pancerz) | 10 000 | Umiarkowana |
+| Pierścień mocy (+1 Magia) | 250 000+ | Rzadka |
 | **Usługi** |||
 | Identyfikacja przedmiotu | 250-2 500 | Powszechna |
 | Naprawa artefaktu | 500-25 000 | Umiarkowana |

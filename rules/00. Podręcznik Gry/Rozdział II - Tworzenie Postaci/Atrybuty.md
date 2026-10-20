@@ -29,11 +29,11 @@ Rzut (Poziom Mocy)
 	III
 	3
 	5
-	21
+	24
 	IV
 	3
 	4
-	24
+	21
 	V
 	3
 	4

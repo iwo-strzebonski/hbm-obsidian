@@ -25,6 +25,6 @@ overcast:
 
 Mag splata wiatr, aby wspomóc się przy poruszaniu się.
 
-Prędkość maga zwiększa się dwukrotnie, a ponadto mag nie może zostać Powalony.
+Prędkość maga zwiększa się dwukrotnie, a ponadto mag nie może zostać Przewrócony.
 
 ---

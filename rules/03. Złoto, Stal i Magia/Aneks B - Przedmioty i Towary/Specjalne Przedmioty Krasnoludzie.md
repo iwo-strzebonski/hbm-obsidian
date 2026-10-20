@@ -9,7 +9,7 @@ aliases:
 **Sakwa Kupca**
 *Rzadki artefakt krasnoludzki*
 Magiczna sakwa, która zawsze pokazuje dokładną sumę znajdujących się w niej monet. Dodatkowo chroni zawartość przed kradzieżą - tylko właściciel może ją otworzyć.
-Cena: 7 500 PLN
+Cena: 7 500 zł
 
 **Pieczęć Klanu**
 *Bardzo rzadki artefakt*
@@ -18,10 +18,10 @@ Cena: Nie na sprzedaż (tylko dla członków klanu)
 
 **Lunetka Wartości**
 *Rzadki artefakt*
-Pozwala określić dokładną wartość rynkową dowolnego przedmiotu patrzącemu przez nią. Działa na przedmioty niemagiczne automatycznie, na magiczne wymaga testu Wiedzy Magicznej (PT 3).
-Cena: 15 000 PLN
+Pozwala określić dokładną wartość rynkową dowolnego przedmiotu patrzącemu przez nią. Działa na przedmioty niemagiczne automatycznie, na magiczne wymaga testu Wiedzy Magicznej (T:S 4:2).
+Cena: 15 000 zł
 
 **Kufer Nieskończonych Przegródek**
 *Bardzo rzadki artefakt*
 Kufer, który wewnątrz jest znacznie większy niż na zewnątrz. Może pomieścić do 1000 kg przedmiotów przy wadze własnej 5 kg. Przedmioty są magicznie katalogowane.
-Cena: 2000 zł
+Cena: 200 000 zł

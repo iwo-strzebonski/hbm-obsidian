@@ -13,7 +13,7 @@ Mag rzuca tyloma kośćmi sześciościennymi, ile Sukcesów zabrakło mu do zdan
 | Suma (Nk6) | Tier | Efekt |
 | :---: | --- | --- |
 | 1-4 | Drobne Zakłócenie | Postać ma jedną kość mniej do końca rundy przy Testach związanych z Atrybutem Magia. |
-| 5-8 | Niestabilność | Postać traci dodatkowo tyle punktów Many, ile wynosił bazowy koszt zaklęcia (do końca rundy), oraz otrzymuje 1k3 punkty Obrażeń ignorujących Pancerz. |
+| 5-8 | Niestabilność | Postać traci dodatkowo tyle punktów Many z dziennej puli, ile wynosił bazowy koszt zaklęcia, oraz otrzymuje 1k3 punkty Obrażeń ignorujących Pancerz. |
 | 9-12 | Poważne Wypaczenie | Postać otrzymuje 1k6 punkty Obrażeń ignorujących Pancerz i wszelkie odporności. Ślad magiczny Postaci migocze niekontrolowanie przez godzinę - Testy na jej wykrycie lub wyśledzenie dzięki magii są przez ten czas prostsze o jeden stopień. |
 | 13-16 | Katastrofa Magiczna | Moc eksploduje: wszystkie istoty w promieniu 3 m (łącznie z rzucającym) otrzymują 2k6 punkty Obrażeń ignorujących Pancerz i wszelkie odporności. Postać otrzymuje dodatkowo 1 Punkt Obłędu. |
 | 17-20 | Rozdarcie Zasłony | Postać otrzymuje 2k6 punkty Obrażeń ignorujących Pancerz i wszelkie odporności oraz 1k3 Punkty Obłędu. Mistrz Gry może zadecydować, że w promieniu 5 m na krótko pojawia się pomniejsza Istota Otchłani. |

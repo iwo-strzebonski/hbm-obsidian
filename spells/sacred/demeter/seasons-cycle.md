@@ -8,11 +8,11 @@ school: sacred
 deity: demeter
 sourceBook: ksiega-magii
 manaCost: 6
-threshold: 6
-successes: 6
+threshold: 5
+successes: 4
 requiresDiscipline:
   - sacred
-castingTime: Instant
+castingTime: 10 minut
 range: Self
 targets: Kwadrat o boku 10 m
 duration: 1 godzina

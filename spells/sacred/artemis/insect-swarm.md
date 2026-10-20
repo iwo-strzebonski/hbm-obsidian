@@ -9,7 +9,7 @@ deity: artemis
 sourceBook: ksiega-magii
 manaCost: 4
 threshold: 4
-successes: 5
+successes: 4
 requiresDiscipline:
   - sacred
 castingTime: Instant

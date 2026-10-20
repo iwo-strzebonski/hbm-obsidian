@@ -18,7 +18,7 @@ targets: Kwadrat o boku 5 m
 duration: Instant
 damageBase: magicalAbilities*2
 overcast:
-  - +1k6 Obrażeń
+  - +1k6 Obrażeń dla każdego przeciwnika, który nie zdał Testu, lub +2 do liczby Sukcesów wymaganych od celów do zdania Testu
 ---
 # Grom z Nieba
 

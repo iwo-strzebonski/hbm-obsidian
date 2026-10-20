@@ -7,7 +7,7 @@ school: eldritch
 sourceBook: klatwa-otchlani
 manaCost: 6
 threshold: 6
-successes: 1
+successes: 2
 castingTime: 1 Akcja
 range: 5 m
 targets: N/A

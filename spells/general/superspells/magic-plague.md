@@ -25,7 +25,7 @@ Zakazana Wiedza nie bez powodu jest nazywana w ten sposób. Są po prostu rzeczy
 
 W trakcie nowiu spotkała się wiedźma, botanik i alchemik, cała trójka studiująca Otchłań. Chcąc zasiać zniszczenie w mieście, które ich wygnało, przez całą noc opracowywali zemstę - coś, co zniszczy chlubę tego miasta, czyli magiczną akademię. Stworzyli zarazę, która bardzo szybko się rozprzestrzeniła, zabijając najpierw wszystkich uczniów, następnie pozostałych magów, a na końcu ich samych.
 
-Zaklęcie uwalnia zakaźną plagę magiczną, która rozprzestrzenia się w promieniu 10 km od punktu rytuału. Plaga atakuje zdolności magiczne - dotknięte nią istoty tracą 1 punkt Magii dziennie, zaś Mana odnawia się dopiero po Krótkim Odpoczynku, nie na koniec tury. Nieleczone chore istoty umierają, gdy ich Magia spadnie do 0. Plaga przenosi się przez kontakt z zakażonymi istotami.
+Zaklęcie uwalnia zakaźną plagę magiczną, która rozprzestrzenia się w promieniu 10 km od punktu rytuału. Plaga atakuje zdolności magiczne - dotknięte nią istoty tracą 1 punkt Magii dziennie, a ich Mana nie odnawia się podczas Odetchnięcia ani Krótkiego Odpoczynku - przywraca ją wyłącznie Długi Odpoczynek, i to tylko do połowy dziennej puli. Nieleczone chore istoty umierają, gdy ich Magia spadnie do 0. Plaga przenosi się przez kontakt z zakażonymi istotami.
 
 Istoty niemagiczne i niemagowie są odporni na chorobę, jednak dalej mogą być jej nosicielami.
 

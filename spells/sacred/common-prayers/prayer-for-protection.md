@@ -7,7 +7,7 @@ castingMode: sacred
 school: sacred
 deity: common
 sourceBook: ksiega-magii
-manaCost: 1
+manaCost: 2
 threshold: 5
 successes: 1
 requiresDiscipline:

@@ -5,7 +5,7 @@ tags:
 castingMode: standard
 school: eldritch
 sourceBook: klatwa-otchlani
-manaCost: 2
+manaCost: 3
 threshold: 5
 successes: 2
 castingTime: Instant
@@ -20,6 +20,6 @@ overcast:
 
 Mag wyczarowywuje kulę pierwotnej energii, którą następnie ciska w wybranego przeciwnika.
 
-Zaklęcie zadaje celowi zadaje tyle punktów obrażeń, ile mag wynosi suma wartości Umiejętności Zdolności Magiczne oraz rzutu jedną kością sześciościenną (1k6).
+Zaklęcie zadaje celowi tyle punktów obrażeń, ile wynosi suma wartości Umiejętności Zdolności Magiczne oraz rzutu jedną kością sześciościenną (1k6).
 
 Pierwotna Kula porusza się bardzo chaotycznie. Jeżeli w promieniu 2 m od celu, ale w zasięgu zaklęcia, jest jeszcze co najmniej jedna wroga Istota, należy wykonać rzut kością sześciościenną. Jeżeli wynik będzie niższy niż 3, to kula zamiast w wybrany cel trafia w najbliższą do celu Istotę.

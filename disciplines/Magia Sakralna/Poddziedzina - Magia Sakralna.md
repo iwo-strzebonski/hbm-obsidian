@@ -13,6 +13,6 @@ tags:
 
 ### Darmowy talent - _Miłosierdzie_
 
-**Efekty leczące i chroniące zaklęć Magii Sakralnej są o połowę mocniejsze.**
+**Efekty leczące i chroniące zaklęć Magii Sakralnej są o połowę mocniejsze (wartość po zwiększeniu zaokrąglamy w górę).**
 
 ---

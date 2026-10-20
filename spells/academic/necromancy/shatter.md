@@ -17,7 +17,7 @@ targets: '1'
 duration: Instant
 damageBase: magicalAbilities*2
 overcast:
-  - +1k3 punktów Obrażeń
+  - +1k6 punktów Obrażeń
 ---
 # Rozsypanie
 

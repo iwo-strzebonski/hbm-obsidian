@@ -11,7 +11,7 @@ aliases:
 Postać musi zarejestrować firmę w lokalnym urzędzie. Wymaga to:
 
 - **Kapitału początkowego:** Minimum 50 000 zł na koncie firmowym
-- **Licencji handlowej:** Test Przekonywania (T:S 4:3) podczas rozmowy z urzędnikiem + opłata 2 000 zł
+- **Licencji handlowej:** Test Przekonywania (T:S 4:3) podczas rozmowy z urzędnikiem + opłata rejestracyjna 5 000 zł
 - **Adresu siedziby:** Wynajem biura (od 2 000 zł miesięcznie) lub rejestracja na własny adres
 
 **Modyfikatory:** 

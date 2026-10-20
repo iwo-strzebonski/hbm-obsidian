@@ -15,4 +15,4 @@ Główni antagoniści kampanii również mogą posiadać Kości Losu. Zwiększa 
 Drużyna dzieli wspólną pulę Kości Losu (max 6). Każdy gracz może z niej korzystać, ale wymaga to zgody całej drużyny.
 
 **Wariant: Odwrócenie Losu**
-Gdy przeciwnik użyje Kości Losu przeciwko postaci, postać może poświęcić własną Kość Losu o równej lub wyższej wartości, aby anulować efekt.
+Gdy przeciwnik użyje Kości Losu przeciwko postaci, postać może poświęcić własną Kość Losu o równej lub niższej wartości, aby anulować efekt.

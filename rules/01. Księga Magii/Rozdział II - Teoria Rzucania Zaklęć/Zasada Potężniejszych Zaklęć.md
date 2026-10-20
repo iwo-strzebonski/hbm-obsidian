@@ -6,6 +6,15 @@ tags:
 aliases:
   - Zasada Potężniejszych Zaklęć
 ---
-W przypadku, w którym mag wyrzuci więcej Sukcesów, niż jest to wymagane przez zaklęcie, to wtedy zwiększana jest wymagana ilość Sukcesów do unikania efektów zaklęcia oraz *Rozplatania* zaklęcia.
+Gdy mag wyrzuci więcej Sukcesów, niż wymaga zaklęcie, nadwyżka podnosi liczbę Sukcesów potrzebnych do przeciwstawienia się efektowi zaklęcia oraz do jego *Rozplatania*.
 
-Od wyrzuconej ilości Sukcesów należy odjąć ilość wymaganych przez Zaklęcie Sukcesów - różnica ta jest ilością Sukcesów potrzebną do przeciwstawienia się efektowi bądź do rozplecenia zaklęcia.
+**Nadwyżka** = Sukcesy wyrzucone przez maga - wymagana liczba Sukcesów (S) zaklęcia (minimum 0).
+
+| Co robi przeciwnik | Wymagana liczba Sukcesów |
+| --- | --- |
+| Przeciwstawia się efektowi (unik, test obronny) | **1 + nadwyżka** |
+| Rozplata zaklęcie | **2 + nadwyżka** + bonusy z zaklęć Niezniszczalnych |
+
+Pierwsza jedynka w obu wzorach to Sukces, który udane zaklęcie zawsze „oddaje”, by dało się mu przeciwstawić. Dodatkowa jedynka przy Rozplataniu to koszt samego rozplatania. Bonusy z zaklęć Niezniszczalnych to Talent [Niezniszczalne Zaklęcia](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Niezniszczalne%20Zaklęcia.md) oraz [Niezniszczalne Zaklęcie](../../02.%20Klątwa%20Otchłani/Rozdział%20II%20-%20Talenty/Niezniszczalne%20Zaklęcie.md) (Metamagia).
+
+*Przykład:* zaklęcie 5:2, mag wyrzuca 4 Sukcesy, czyli nadwyżka wynosi 2. Cel musi uzyskać **3** Sukcesy, by się przeciwstawić, a rozplatający **4**.

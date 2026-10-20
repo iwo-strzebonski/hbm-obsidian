@@ -20,10 +20,10 @@ Kasia już posiada:
 
 Kasia udaje się do Krakowa, przekracza Bramę i spotyka się z Arandorem. Chce kupić 10 kryształów mocy o łącznej wartości katalogowej 100 000 zł.
 
-**Test Przekonywania (T:S 4:3):**
+**Test Przekonywania (T:S 4:1):**
 - Kasia ma Przekonywanie na poziomie 6
-- Talent "Kupiecka Intuicja": -1 do Trudności (teraz T:S 3:3)
-- Długoletnia współpraca: -1 do Trudności (teraz T:S 2:3)
+- Talent "Kupiecka Intuicja": -1 do Trudności (teraz T:S 3:1)
+- Długoletnia współpraca: -1 do Trudności (teraz T:S 2:1 - na granicy dolnego limitu Trudności)
 - Rzut: 4 Sukcesy
 
 **Wynik:** 20% zniżki. Cena zakupu: **80 000 zł** (zamiast 100 000 zł).
@@ -42,10 +42,10 @@ Kasia rozważa przemyt (zaoszczędziłaby 12 000 zł), ale obawia się konsekwen
 
 Kasia spotyka się z przedstawicielem Klanu Miedzianych Kowadeł w Katowicach. Krasnolud jest zainteresowany kryształami do produkcji magicznych artefaktów.
 
-**Test Przekonywania (T:S 4:3):**
+**Test Przekonywania (T:S 4:1):**
 - Kasia ma Przekonywanie na poziomie 6
-- Talent "Kupiecka Intuicja": -1 do Trudności (teraz T:S 3:3)
-- Kryształy rzadkie: -2 do Trudności (teraz T:S 1:3) - bardzo łatwy test
+- Talent "Kupiecka Intuicja": -1 do Trudności (teraz T:S 3:1)
+- Kryształy rzadkie: -2 do Trudności (wychodzi T:S 1:1, ale Trudność nie może spaść poniżej 2, więc obowiązuje T:S 2:1) - bardzo łatwy test
 - Rzut: 5 Sukcesów
 
 **Wynik:** +20% do ceny rynkowej. Cena sprzedaży: **120 000 zł** (zamiast 100 000 zł).
@@ -56,7 +56,7 @@ Kasia spotyka się z przedstawicielem Klanu Miedzianych Kowadeł w Katowicach. K
 **Koszty:** 92 000 zł  
 **Zysk:** **28 000 zł** (30,4% marży)
 
-Przy założeniu, że Kasia przeprowadza takie transakcje regularnie (raz w miesiącu), jej firma generuje około **336 000 zł zysku rocznie** - solidny dochód dla małej firmy handlowej.
+Przy założeniu, że Kasia przeprowadza takie transakcje regularnie (raz w miesiącu, z tą samą parą dostawca-klient, co mieści się w limicie jednej transakcji na miesiąc), jej firma generuje około **336 000 zł zysku rocznie** - solidny dochód dla małej firmy handlowej.
 
 **Analiza:**
 - Talent "Kupiecka Intuicja" znacząco pomógł (obniżył Trudność o 1 we wszystkich testach)

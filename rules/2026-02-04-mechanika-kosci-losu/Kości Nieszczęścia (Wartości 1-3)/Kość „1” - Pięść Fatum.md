@@ -12,8 +12,8 @@ aliases:
 
 **Efekt:** Wybierz jeden z poniższych:
 
-1. **Katastrofalny błąd** - Wybrany przeciwnik w zasięgu wzroku automatycznie ponosi **krytyczną porażkę** na następnym Teście lub rzucie ataku (niezależnie od wyniku na kościach). Efekty krytycznej porażki określa MG.
+1. **Katastrofalny błąd** - Wybrany przeciwnik w zasięgu wzroku automatycznie ponosi porażkę: **wszystkie kości jego następnego Testu lub Ataku liczone są jako porażki** (niezależnie od wyniku na kościach).
 
-2. **Przerwanie zaklęcia** - Natychmiast przerywasz rzucanie dowolnego zaklęcia w zasięgu wzroku. Mag traci akcję i wszystkie wydane na zaklęcie zasoby (Punkty Magii, komponenty).
+2. **Przerwanie zaklęcia** - Natychmiast przerywasz rzucanie dowolnego zaklęcia w zasięgu wzroku. Mag traci akcję i wszystkie wydane na zaklęcie zasoby (Mana, komponenty). Nie działa na efekty Nieprzerywalne ani Superzaklęcia.
 
-3. **Załamanie losu** - Wybrany przeciwnik traci następną turę całkowicie (nie może wykonać żadnych akcji, w tym reakcji). Może być użyte tylko raz na walkę przeciwko temu samemu celowi.
+3. **Załamanie losu** - Wybrany przeciwnik w swojej następnej Turze **nie może wykonać Akcji ani Ruchu** (zachowuje darmową Akcję Natychmiastową). Można użyć tylko raz na walkę na dany cel i nie działa na Postacie Unikalne.

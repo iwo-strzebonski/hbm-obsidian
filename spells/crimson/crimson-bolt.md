@@ -5,7 +5,7 @@ tags:
 castingMode: standard
 school: crimson
 sourceBook: crimson-cult
-manaCost: 1
+manaCost: 2
 threshold: 6
 successes: 1
 castingTime: Instant

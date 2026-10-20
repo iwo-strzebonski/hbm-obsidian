@@ -22,7 +22,7 @@ targets: Kwadrat o boku 5 m
 duration: 2 rundy
 damageBase: magicalAbilities
 overcast:
-  - +1 runda trwania lub +1k3 punktów Obrażeń lub +2 do wymaganej liczby sukcesów
+  - +1 runda trwania lub +1k3 punktów Obrażeń lub +2 do liczby Sukcesów wymaganych od celów do zdania Testu
 ---
 # Gradobicie
 

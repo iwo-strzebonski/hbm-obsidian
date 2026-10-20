@@ -10,7 +10,7 @@ aliases:
 
 Postać musi znaleźć dostawcę i wynegocjować cenę. Test Przekonywania pozwala uzyskać zniżkę od ceny katalogowej:
 
-**Negocjacje Ceny Zakupu:** Test Przekonywania (T:S 4:3)
+**Negocjacje Ceny Zakupu:** Test Przekonywania (T:S 4:1)
 - **1-2 Sukcesy:** 10% zniżki
 - **3-4 Sukcesy:** 20% zniżki
 - **5-6 Sukcesów:** 30% zniżki
@@ -26,9 +26,10 @@ Postać musi znaleźć dostawcę i wynegocjować cenę. Test Przekonywania pozwa
 
 **Alternatywa: Łapówka/Przekupstwo**
 Zamiast negocjacji, postać może zaoferować łapówkę:
-- **500-2 000 zł:** 10% zniżki (bez rzutu)
-- **2 000-5 000 zł:** 20% zniżki (bez rzutu)
-- **5 000+ zł:** 30% zniżki (bez rzutu)
+- **Co najmniej 2% wartości zakupu:** 10% zniżki (bez rzutu)
+- **Co najmniej 5% wartości zakupu:** 20% zniżki (bez rzutu)
+- **Co najmniej 8% wartości zakupu:** 30% zniżki (bez rzutu)
+- Minimalna kwota łapówki wynosi 500 zł, niezależnie od wartości zakupu
 
 ### Faza 2: Transport i Cło
 
@@ -69,7 +70,7 @@ Postać może spróbować przemycić towar bez płacenia cła. Wymaga to jednej 
 
 Postać sprzedaje towar klientowi końcowemu. Test Przekonywania pozwala uzyskać wyższą cenę niż rynkowa:
 
-**Negocjacje Ceny Sprzedaży:** Test Przekonywania (T:S 4:3)
+**Negocjacje Ceny Sprzedaży:** Test Przekonywania (T:S 4:1)
 - **1-2 Sukcesy:** Sprzedaż po cenie rynkowej (marża 0%)
 - **3-4 Sukcesy:** +10% do ceny rynkowej
 - **5-6 Sukcesów:** +20% do ceny rynkowej
@@ -88,3 +89,11 @@ Zamiast bezpośredniej sprzedaży, postać może wystawić towar na aukcję (fiz
 - Koszt prowizji: 5-10% wartości sprzedaży
 - Czas oczekiwania: 1-4 tygodnie
 - Potencjalna cena: 80-150% ceny rynkowej (rzut 2k6: 2-4 = 80%, 5-6 = 90%, 7-8 = 100%, 9-10 = 120%, 11 = 140%, 12 = 150%)
+
+### Ograniczenia Handlu
+
+Aby żadna pętla zakupu i odsprzedaży (kupno ze zniżką do 40%, sprzedaż z premią do 30%) nie dała nieograniczonego zysku, obowiązują następujące limity:
+
+- **Dolna granica Trudności:** Trudność (T) testów handlowych nie może spaść poniżej 2, bez względu na liczbę kumulujących się modyfikatorów.
+- **Jedna transakcja na parę:** ta sama para dostawca-klient może zawrzeć najwyżej jedną transakcję na miesiąc.
+- **Jedna minigra na firmę:** firma może przeprowadzić najwyżej jedną minigrę handlową (patrz: Opcjonalnie - Handel jako Minigra) na miesiąc.

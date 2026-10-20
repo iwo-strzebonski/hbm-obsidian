@@ -11,7 +11,7 @@ threshold: 4
 successes: 2
 complexityLevel: 2
 symbols:
-  - Cognito
+  - Cognitio
   - Alienis
 requiresDiscipline:
   - illusion

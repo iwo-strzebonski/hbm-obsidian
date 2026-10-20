@@ -10,7 +10,7 @@ Jeśli postać zostanie schwytana z nielegalnymi przedmiotami, konsekwencje zale
 
 **Kategoria B (regulowany - eliksiry, podstawowe artefakty):**
 - Kara: Grzywna 5 000-20 000 zł, konfiskata towaru
-- Możliwość: Negocjacje z wymiarem sprawiedliwości (test Przekonywania PT 3 dla zmniejszenia kary)
+- Możliwość: Negocjacje z wymiarem sprawiedliwości (test Przekonywania, T:S 4:2 dla zmniejszenia kary)
 
 **Kategoria C (nielegalny - artefakty magiczne bez licencji):**
 - Kara: 1-3 lata więzienia + grzywna 20 000-100 000 zł

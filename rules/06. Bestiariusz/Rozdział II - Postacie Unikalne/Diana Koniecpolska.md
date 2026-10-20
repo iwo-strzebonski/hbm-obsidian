@@ -36,7 +36,7 @@ Diana jest, jak na maga, wyjątkowo słaba fizycznie - nigdy nie trenowała cia�
 #### Umiejętności
 
 - Rzemiosło (Umysł) +3 (12)
-- Zdolności Magiczne (Magia) +2 (6)
+- Zdolności Magiczne (Magia) +8 (12) *(uczennica-samorodek: poziom, na którym większość studentów kończy studia)*
 - Wiedza Magiczna (Umysł) +1 (10)
 - Wiedza Ogólna (Umysł) +1 (10)
 - Intuicja (Umysł) +1 (10)
@@ -99,7 +99,7 @@ Latem 2027 jej ciało zaczyna nosić pierwsze, ledwie widoczne ślady tego, czym
 #### Umiejętności
 
 - Rzemiosło (Umysł) +3 (13)
-- Zdolności Magiczne (Magia) +2 (8)
+- Zdolności Magiczne (Magia) +9 (15) *(prawdziwy talent wreszcie z ciałem, które nie przeszkadza)*
 - Wiedza Magiczna (Umysł) +1 (11)
 - Wiedza Ogólna (Umysł) +1 (11)
 - Intuicja (Umysł) +1 (11)
@@ -142,7 +142,7 @@ Jak w Formie I (Rapier, Sprzężone Działa Entropii, Zwiadowcze Lustra, Amulet 
 
 ## Forma III - Posłaniec Przeszłości (Harbinger)
 
-Forma Otchłani Diany - "Eldritch Slime". Jej ciało traci ostre kontury i staje się amorficzną, lekko lepką substancją, choć wciąż potrafi przybrać swój dawny kształt na tyle, by mówić, patrzeć i walczyć jak człowiek. Ta sama utrata fizycznej formy pozwala jej też swobodnie latać, jakby grawitacja przestawała jej w pełni dotyczyć. W tej formie Diana nie ma limitu Many - czerpie moc wprost z Otchłani i z Nil, a raczej z tego, co z nich w niej zostało.
+Forma Otchłani Diany - „Szlam Otchłani”. Jej ciało traci ostre kontury i staje się amorficzną, lekko lepką substancją, choć wciąż potrafi przybrać swój dawny kształt na tyle, by mówić, patrzeć i walczyć jak człowiek. Ta sama utrata fizycznej formy pozwala jej też swobodnie latać, jakby grawitacja przestawała jej w pełni dotyczyć. W tej formie Diana nie ma limitu Many - czerpie moc wprost z Otchłani i z Nil, a raczej z tego, co z nich w niej zostało.
 
 Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy sięga po swoje najpotężniejsze zdolności, rzeczywistość wokół niej [pęka i składa się na nowo](../../../lore/02.%20Otchłań%20i%20Magia.md#Jak%20reaguje%20rzeczywistość), tak jak dzieje się to wokół samej Nil.
 
@@ -162,7 +162,7 @@ Nawet jako Posłaniec Diana wciąż nie jest wojowniczką - jej ciało w tej for
 
 #### Umiejętności
 
-- Zdolności Magiczne (Magia) +6 (12)
+- Zdolności Magiczne (Magia) +11 (17)
 - Rzemiosło (Umysł) +3 (15)
 - Wiedza Magiczna (Umysł) +1 (13)
 - Intuicja (Umysł) +1 (13)

@@ -16,7 +16,7 @@ Niektórzy Magowie są w stanie zjednoczyć się z magią, jednak w przeciwieńs
 
 Ten Talent można brać wielokrotnie do maksymalnie dwóch dodatkowych razy, za każdym razem zwiększając maksymalną ilość Punktów Metamagii o 2.
 
-Postać może mieć jednocześnie tyle punktów Magii, ile wynosi zaokrąglona w górę połowa wartości Atrybutu Dusza + 1. Każda z Akcji Metamagii może być wykonana wyłącznie raz w trakcie rundy oraz nie mogą wpływać na to samo zaklęcie, chyba że jest napisane inaczej.
+Postać może mieć jednocześnie tyle Punktów Metamagii, ile wynosi zaokrąglona w górę połowa wartości Atrybutu Dusza + 1. Każda z Akcji Metamagii może być wykonana wyłącznie raz w trakcie rundy oraz nie mogą wpływać na to samo zaklęcie, chyba że jest napisane inaczej.
 
 Wszystkie Punkty Metamagii odnawiają się po Długim Odpoczynku.
 

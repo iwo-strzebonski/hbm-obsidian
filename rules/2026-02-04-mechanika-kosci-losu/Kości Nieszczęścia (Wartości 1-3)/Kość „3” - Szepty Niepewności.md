@@ -12,8 +12,8 @@ aliases:
 
 **Efekt:** Wybierz jeden z poniższych:
 
-1. **Chwila wahania** - Wybrany przeciwnik traci **1 Akcję** w swojej następnej turze (może wykonać tylko jedną akcję główną lub ruch, nie obie).
+1. **Chwila wahania** - Wybrany przeciwnik w swojej następnej Turze może wykonać **tylko Ruch albo Akcję** (nie oba).
 
-2. **Rozkojarzenie** - Przeciwnik ma **Utrudnienie** (podwaja próg Trudności) na następny Test lub rzut ataku.
+2. **Rozkojarzenie** - Przeciwnik ma następny Test lub Atak **o dwa Stopnie trudniejszy**.
 
-3. **Złowróżbny cień** - Przeciwnik musi wykonać Test Woli (Dusza + Opanowanie, TS 5:2). Porażka oznacza, że jest **Przestraszony** postacią do końca walki i musi utrzymywać dystans minimum 5 metrów.
+3. **Złowróżbny cień** - Przeciwnik musi wykonać Test Dusza (Determinacja) 5:2. Porażka oznacza, że jest **Przerażony** do końca walki i nie może zbliżyć się do Ciebie na mniej niż 5 metrów.

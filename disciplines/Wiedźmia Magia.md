@@ -29,7 +29,7 @@ W ostatnich latach, w związku z prośbami Brytyjskiej Akademii Wiedźm, w Polsc
 * Ta Dziedzina Magii jest zarezerwowana wyłącznie dla kobiet
 ### Darmowy Talent - *Arytmetyczna Koncentracja*
 
-**Ilość kości w Testach na utrzymanie Koncentracji jest zwiększona o połowę wartości Atrybutu Umysł.**
+**Ilość kości w Testach na utrzymanie Koncentracji jest zwiększona o zaokrągloną w górę połowę wartości Atrybutu Umysł.**
 
 ### Sugerowany Atrybut
 - Umysł

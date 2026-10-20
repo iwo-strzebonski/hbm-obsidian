@@ -10,7 +10,7 @@ Postać gracza, która chce założyć własne przedsiębiorstwo magiczne, może
 
 **Kapitał początkowy:** minimum 50 000 zł (lub ekwiwalent w innej walucie) dla małego przedsiębiorstwa; 200 000 zł dla średniego; 1 000 000 zł dla dużego.
 
-**Licencja:** wymagany test Przekonywania (PT 3) podczas rozmowy z urzędnikiem + opłata administracyjna (1000-5000 zł zależnie od rodzaju działalności).
+**Licencja:** wymagany test Przekonywania (T:S 4:3) podczas rozmowy z urzędnikiem + opłata rejestracyjna 5 000 zł.
 
 **Lokalizacja:** zakup lub wynajem odpowiedniej nieruchomości. Bank oferuje preferencyjne kredyty na zakup lokali dla przedsiębiorców z dobrą historią kredytową.
 

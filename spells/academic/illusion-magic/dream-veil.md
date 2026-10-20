@@ -6,7 +6,7 @@ tags:
 castingMode: standard
 school: illusion
 sourceBook: ksiega-magii
-manaCost: 4
+manaCost: 5
 threshold: 6
 successes: 3
 complexityLevel: 3
@@ -31,6 +31,6 @@ Woal Snów przekształca obszar o promieniu 2 m (mechanicznie reprezentowanym pr
 
 Wszyscy przeciwnicy w obszarze działania zaklęcia muszą wykonać Test na Dusza (Determinacja) 4:S, gdzie liczba wymaganych sukcesów (S) jest równa liczbie wyrzuconych przez maga sukcesów na początku swojej tury lub po wejściu do obszaru.
 
-Niepowodzenie skutkuje otrzymaniem tylu obrażeń ignorujących Pancerz, ile wynosi zaokrąglona w górę połowa wartości Umiejętności Zdolności Magiczne maga rzucającego to zaklęcie, a ponadto Postać staje się Przerażona i wszystkie Testy związane z Umiejętnością Spostrzegawczość wymagają dwóch Sukcesów więcej.
+Niepowodzenie skutkuje otrzymaniem tylu obrażeń ignorujących Pancerz, ile wynosi zaokrąglona w górę połowa wartości Umiejętności Zdolności Magiczne maga rzucającego to zaklęcie, a ponadto Postać staje się [Przerażona](../../../rules/00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Przerażony.md) i wszystkie Testy związane z Umiejętnością Spostrzegawczość wymagają dwóch Sukcesów więcej.
 
 W przypadku zdania Testu Postać tak czy inaczej ma karę do Testów związanych z Umiejętnością Spostrzegawczość.

@@ -21,11 +21,11 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 18 | 1 | 3 | 2k6+19 | 4 | 10 m |
+| 42 | 18 | 1 | 3 | 2k6+19 | 4 | 15 m *(Sandały Etany)* |
 
 ### Umiejętności
 
-- Zdolności Magiczne (Magia) +3 (7)
+- Zdolności Magiczne (Magia) +6 (10) *(w tym +3 z Pieczęci Enlila, patrz Ekwipunek; bez niej +3 (7))*
 - Rzemiosło (Umysł) +3 (11)
 - Wiedza Magiczna (Umysł) +1 (9)
 - Wiedza Ogólna (Umysł) +1 (9)
@@ -61,6 +61,11 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 - **Cechy:** Sięgająca (4 m), Spętanie - zamiast zadać Obrażenia, Pelagius może z powodzeniem trafionym Atakiem unieruchomić cel (staje się on Unieruchomiony do końca swojej następnej tury, chyba że zda Test Przeciwstawny Ciało (Siła) przeciwko Ciału Pelagiusa)
 
 Dzięki Talentom *Parowanie*, *Finta* i *Riposta* Pelagius, gdy już dobędzie Łańcuchów, jest przeciwnikiem w zwarciu równie niebezpiecznym co na dystans - potrafi sparować cios, zmylić przeciwnika Fintą, by chwilę później skarcić go Ripostą, której nie da się ani sparować, ani odeprzeć.
+
+**Artefakty z Bramy Babilonu noszone na stałe** - Pelagius nie poleguje wyłącznie na tym, co wyrzuca z Kręgów. Kilka najważniejszych wytworów ze Skarbca nosi stale przy sobie, a każdy z nich daje mu odrębną przewagę (opis w Talencie *Skarbiec Królów*):
+- **Diadem Szamasza** - pełna odporność na efekty wpływające na umysł: Zauroczenie, rozkazy (w tym Autorytet, Rozkaz Księżniczki, Głos Rozkazu), Przerażenie i Złowróżbny cień.
+- **Pieczęć Enlila** - +3 do Zdolności Magicznych.
+- **Sandały Etany** - Szybkość 15 m zamiast 10 m i brak kary za Ruch przez Teren Trudny.
 
 **Amulet Osłony (wzmocniony)** - źródło Runicznego Pancerza Pelagiusa; jedna z pierwszych rzeczy, jakie dla siebie wykuł.
 

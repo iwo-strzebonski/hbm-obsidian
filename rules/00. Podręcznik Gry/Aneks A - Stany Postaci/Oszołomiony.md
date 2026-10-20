@@ -4,4 +4,4 @@ tags:
   - podrecznik-gry
   - status-effect
 ---
-Postać zostaje automatycznie Oszołomiona, gdy otrzyma obrażenia, których wartość jest większa bądź równa połowie punktów Żywotności (sumie wartości Atrybutów Ciało, Umysł i Dusza). Postać może wykonać najwyżej jedną Akcję w swojej turze (nie może wykorzystywać punktów Zapału) a ponadto Ruch zostaje zmniejszony o połowę.
+Postać zostaje automatycznie Oszołomiona, gdy w jednym ataku lub efekcie utraci (po redukcji obrażeń przez Pancerz i osłony) co najmniej połowę maksymalnej Żywotności, czyli sumę wartości Atrybutów Ciało, Umysł i Dusza. Postać może wykonać najwyżej jedną Akcję w swojej turze (nie może wykorzystywać punktów Zapału) a ponadto Ruch zostaje zmniejszony o połowę (zaokrąglając w górę). Oszołomienie trwa do końca następnej Tury Postaci, chyba że opis efektu mówi inaczej.

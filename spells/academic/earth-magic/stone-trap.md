@@ -21,6 +21,8 @@ range: 15 m
 targets: Kwadrat o boku 5 m
 duration: Zaklęcie zaczyna działać, gdy dowolna istota wejdzie w dany obszar lub przestaje działać po 1 minucie
 damageBase: magicalAbilities
+overcast:
+  - +1k3 punktów Obrażeń
 ---
 # Skalista Pułapka
 

@@ -12,11 +12,11 @@ Każda transakcja na czarnym rynku niesie ze sobą ryzyko zwrócenia uwagi organ
 
 | Wynik (2k6) | Konsekwencja |
 |--------------|--------------|
-| 1-3 | Brak konsekwencji - transakcja przeszła niezauważona |
+| 3 lub mniej | Brak konsekwencji - transakcja przeszła niezauważona |
 | 4-5 | Pogłoski - postać jest "na radarze", przyszłe transakcje mają +1 do trudności przez miesiąc |
-| 6-7 | Obserwacja - organy ścigania dyskretnie monitorują postać; test Spostrzegawczości (PT 4) by to zauważyć |
+| 6-7 | Obserwacja - organy ścigania dyskretnie monitorują postać; test Spostrzegawczości (T:S 4:1) by to zauważyć |
 | 8-9 | Przeszukanie - postać zostaje zatrzymana do kontroli; znalezienie nielegalnych przedmiotów = aresztowanie |
-| 10 | Najazd - Inkwizycja lub policja przeprowadza nalot; postać musi uciekać lub stawić czoła aresztowaniu |
+| 10 lub więcej | Najazd - Inkwizycja lub policja przeprowadza nalot; postać musi uciekać lub stawić czoła aresztowaniu |
 
 **Modyfikatory do rzutu:**
 - Przedmiot Kategorii D (ekstremalnie nielegalny): +3

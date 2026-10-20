@@ -6,7 +6,7 @@ tags:
 castingMode: standard
 school: thaumaturgy
 sourceBook: ksiega-magii
-manaCost: 6
+manaCost: 4
 threshold: 5
 successes: 2
 complexityLevel: 2
@@ -20,8 +20,9 @@ castingTime: Instant
 range: 15 m
 targets: '1'
 duration: 4 rundy
+damageBase: magicalAbilities+3
 overcast:
-  - +1k3 punktów wytrzymałości Tarczy lub +1 runda trwania
+  - +1k6 punktów wytrzymałości Tarczy lub +2 rundy trwania
 ---
 # Tarcza Domu
 

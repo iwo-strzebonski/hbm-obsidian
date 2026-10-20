@@ -12,6 +12,7 @@ castingTime: Instant
 range: Self
 targets: Na siebie
 duration: Do przełamania osłony lub końca walki
+damageBase: magicalAbilities/3
 overcast:
   - +1k2 punktów wytrzymałości
 ---

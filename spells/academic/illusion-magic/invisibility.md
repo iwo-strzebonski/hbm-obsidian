@@ -6,7 +6,7 @@ tags:
 castingMode: standard
 school: illusion
 sourceBook: ksiega-magii
-manaCost: 5
+manaCost: 4
 threshold: 5
 successes: 2
 complexityLevel: 2

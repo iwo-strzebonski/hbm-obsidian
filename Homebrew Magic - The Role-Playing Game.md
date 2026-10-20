@@ -7,7 +7,10 @@ tags: ["moc", "hub", "root", "index"]
 Witaj w głównym kompendium wiedzy o Homebrew Magic RPG! Poniżej znajdują się najważniejsze węzły (Hubs) łączące wszystkie elementy świata i mechaniki.
 
 ## 📖 Podręczniki i Mechanika
+- [Ściągawka Gracza](rules/Ściągawka%20Gracza.md) - walka i magia na jednej stronie
+- [Ściągawka Mistrza Gry](rules/Ściągawka%20Mistrza%20Gry.md) - odświeżenie zasad przed sesją
 - [Zasady Gry](rules/Zasady%20Gry.md)
+- [Zaokrąglanie i Konwencje](rules/Zaokrąglanie%20i%20Konwencje.md) - zawsze w górę, chyba że napisano inaczej
 - [Klasy](classes.md)
 - [Dziedziny Magii](disciplines.md)
 

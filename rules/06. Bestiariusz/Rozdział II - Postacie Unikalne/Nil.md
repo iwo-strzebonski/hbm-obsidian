@@ -64,7 +64,7 @@ Jako Ruch, zamiast zwykłego przemieszczania się, Nil może się teleportować 
 
 - [Chaos Pierwotny](../Rozdział%20III%20-%20Talenty/Chaos%20Pierwotny.md) - co rundę losuje, jakie działanie wykona.
 - [Zachcianka](../Rozdział%20III%20-%20Talenty/Zachcianka.md) - raz na rundę, niezależnie od wyniku Chaosu Pierwotnego, może zadeklarować drobne dodatkowe działanie.
-- [Pożeranie Zaklęć](../Rozdział%20III%20-%20Talenty/Pożeranie%20Zaklęć.md) - Reakcją może pochłonąć zaklęcie skierowane w nią (Test 4:1 w tej formie) i odpowiedzieć darmowym Atakiem.
+- [Pożeranie Zaklęć](../Rozdział%20III%20-%20Talenty/Pożeranie%20Zaklęć.md) - Akcją Natychmiastową może pochłonąć zaklęcie skierowane w nią (Test 4:1 w tej formie) i odpowiedzieć darmowym Atakiem.
 - [Zamiar](../Rozdział%20III%20-%20Talenty/Zamiar.md) - swobodnie wybiera właściwości swoich Ataków (niszczenie/ignorowanie Pancerza, Run, Osłon, zerowe Obrażenia, wymuszony Test Obłędu).
 - [Nieuchronność](../Rozdział%20III%20-%20Talenty/Nieuchronność.md) - jej Ataki i zaklęcia są domyślnie Nieunikalne i Nieprzerywalne.
 - [Mackowate Więzy Otchłani](../Rozdział%20III%20-%20Talenty/Mackowate%20Więzy%20Otchłani.md) - jej podstawowy Atak w tej formie (unikalny).

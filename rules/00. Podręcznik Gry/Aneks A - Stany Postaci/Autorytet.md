@@ -23,5 +23,3 @@ Sukcesy (S) wymagane do zdania Testu wynikają z opisu efektu, który go spowodo
 
 
 Ten Stan nie jest usuwany przez efekty usuwające inne Stany.
-
-Przerażony[a]

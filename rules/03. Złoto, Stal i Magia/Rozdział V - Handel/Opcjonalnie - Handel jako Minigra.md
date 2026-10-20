@@ -10,11 +10,13 @@ Dla grup, które chcą skupić się na innych aspektach gry (przygody, intrygi, 
 
 1. **Postać określa:** Jaki towar chce kupić i sprzedać
 2. **Mistrz Gry określa:** Bazowy zysk z transakcji (np. 10-30% w zależności od rzadkości towaru)
-3. **Postać wykonuje:** Jeden test Przekonywania (T:S 4:3)
+3. **Postać wykonuje:** Jeden test Przekonywania (T:S 4:1)
    - 1-2 Sukcesy: Zysk bazowy
    - 3-4 Sukcesy: Zysk bazowy +10%
    - 5+ Sukcesów: Zysk bazowy +20%
-   - Porażka: Strata 10% za każdy brakujący Sukces
-4. **Mistrz Gry rzuca:** 2k6 na Tabeli Komplikacji, opcjonalnie - albo raz, albo tyle razy, ile brakowało Sukcesów
+   - Porażka (0 Sukcesów): Strata 10%
+4. **Mistrz Gry rzuca:** 2k6 na Tabeli Komplikacji (opcjonalnie)
 
 Ten uproszczony system pozwala na szybkie rozstrzygnięcie transakcji bez wchodzenia w szczegóły, zachowując element ryzyka i nagrody.
+
+Obowiązują te same Ograniczenia Handlu co w zwykłych transakcjach: Trudność testu nie może spaść poniżej 2, a firma może przeprowadzić najwyżej jedną minigrę handlową na miesiąc.

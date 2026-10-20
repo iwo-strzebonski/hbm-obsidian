@@ -16,6 +16,7 @@ castingTime: Instant
 range: Self
 targets: Trzymana broń biała
 duration: 1 runda
+damageBase: 1
 overcast:
   - +1 runda trwania lub -1 kość do testów związanych z Umiejętnością Refleks
 ---

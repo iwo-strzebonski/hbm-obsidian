@@ -11,7 +11,8 @@ threshold: 5
 successes: 3
 complexityLevel: 3
 symbols:
-  - Terra. Perfodio
+  - Terra
+  - Perfodio
   - Vinculum
 requiresDiscipline:
   - elementsEarth
@@ -19,6 +20,8 @@ castingTime: Instant
 range: 10 m
 targets: Kwadrat o boku 5 m
 duration: 2 rundy
+overcast:
+  - +1 runda trwania
 ---
 # Ruchome Piaski
 

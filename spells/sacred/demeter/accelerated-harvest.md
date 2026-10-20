@@ -7,7 +7,7 @@ castingMode: sacred
 school: sacred
 deity: demeter
 sourceBook: ksiega-magii
-manaCost: 5
+manaCost: 6
 threshold: 6
 successes: 4
 requiresDiscipline:

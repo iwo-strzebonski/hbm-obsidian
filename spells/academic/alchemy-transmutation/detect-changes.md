@@ -15,6 +15,8 @@ castingTime: Instant
 range: Self
 targets: Dotykany przedmiot
 duration: Instant
+overcast:
+  - +1 dodatkowy dotykany przedmiot
 ---
 # Wykrycie Zmian
 

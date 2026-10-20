@@ -19,4 +19,4 @@ overcast:
 
 Cel zostaje spowity ciemną mgłą, która, gdy cel spróbuje rzucić zaklęcie, wchłonie w siebie część użytej magii i odda ją magowi, który chce rzucić zaklęcie.
 
-Gdy cel tego zaklęcia rzuci z powodzeniem zaklęcie, musi wykonać udany Test na Determinację (Dusza) 4:S, gdzie liczba wymaganych sukcesów (S) jest równa liczbie wyrzuconych przez maga sukcesów. W wypadku niepowodzenia postać staje się Nieprzytomna. Niezależnie od wyniku testu cel otrzymuje tyle punktów obrażeń, ile wynosi suma wartości Umiejętności Zdolności Magiczne maga i celu.
+Gdy cel tego zaklęcia rzuci z powodzeniem zaklęcie, musi wykonać udany Test na Determinację (Dusza) 4:S, gdzie liczba wymaganych sukcesów (S) jest równa liczbie wyrzuconych przez maga sukcesów. W wypadku niepowodzenia postać staje się Nieprzytomna i otrzymuje tyle punktów obrażeń, ile wynosi suma wartości Umiejętności Zdolności Magiczne maga i celu. Jeżeli cel zda Test, otrzymuje jedynie połowę tych obrażeń (zaokrągloną w górę) i nie traci przytomności.

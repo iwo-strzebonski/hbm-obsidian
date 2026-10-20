@@ -21,7 +21,7 @@ targets: '1'
 duration: Instant
 damageBase: magicalAbilities
 overcast:
-  - +1k3 punktów Obrażeń lub +2 do wymaganej liczby sukcesów
+  - +1k3 punktów Obrażeń lub +2 do liczby Sukcesów wymaganych od celu do zdania Testu
 ---
 # Kula Ognia
 

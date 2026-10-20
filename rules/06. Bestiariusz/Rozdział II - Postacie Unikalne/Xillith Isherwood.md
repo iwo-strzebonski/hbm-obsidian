@@ -199,7 +199,7 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 - [Nadworny Taumaturg](../Rozdział%20III%20-%20Talenty/Nadworny%20Taumaturg.md)
 - [Otoczony](../Rozdział%20III%20-%20Talenty/Otoczony.md)
 - [Skaza z Xivell](../Rozdział%20III%20-%20Talenty/Skaza%20z%20Xivell.md)
-- **Natychmiastowe Rozproszenie** *(unikalny)* - Reakcja, koszt 1 Zapał: gdy w zasięgu 10 m ktoś rzuca zaklęcie dowolnej Dziedziny, Postać automatycznie je przerywa i rozprasza, bez Testu.
+- **Natychmiastowe Rozproszenie** *(unikalny)* - Akcja Natychmiastowa, własny koszt 1 Zapał: gdy w zasięgu 10 m ktoś rzuca zaklęcie dowolnej Dziedziny, Postać automatycznie je przerywa i rozprasza, bez Testu.
 - [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) - nie może zostać zaskoczony w walce; +2 do Inicjatywy.
 #### Zaklęcia znane
 

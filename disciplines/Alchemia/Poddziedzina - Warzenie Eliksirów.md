@@ -68,8 +68,8 @@ Składniki (na 1 dawkę - 100 ml):
 
 W trakcie intensywnych treningów, pojedynków czy prawdziwych walk magowie muszą borykać się z szybko kończącą się maną. Tak oto powstał ten eliksir.
 
-- Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Odnowienia Many. Do końca swojej następnej tury ilość Many zwiększa się o 3, a Maksymalny Koszt Zaklęcia zwiększa się o 1 (ten eliksir nie pozwala jednak na rzucanie zaklęć, których bazowy koszt Many jest wyższy niż bazowa wartość Maksymalnego Kosztu Zaklęcia maga).
-- Działanie szybkie: W ramach Akcji Natychmiastowej (Użycie Przedmiotu) Postać może wypić Eliksir Odnowienia Many.  Do końca swojej następnej tury ilość Many zwiększa się o 1k3.
+- Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Odnowienia Many. Postać natychmiast odzyskuje 3 punkty Many (nie więcej, niż wynosi jej dzienna pula), a do końca swojej następnej tury jej Maksymalny Koszt Zaklęcia zwiększa się o 1 (ten eliksir nie pozwala jednak na rzucanie zaklęć, których bazowy koszt Many jest wyższy niż bazowa wartość Maksymalnego Kosztu Zaklęcia maga).
+- Działanie szybkie: W ramach Akcji Natychmiastowej (Użycie Przedmiotu) Postać może wypić Eliksir Odnowienia Many.  Postać natychmiast odzyskuje 1k3 punktów Many (nie więcej, niż wynosi jej dzienna pula).
 - Moc eliksiru: 2
 
 Przedawkowanie:

@@ -4,4 +4,4 @@ tags:
   - podrecznik-gry
   - combat
 ---
-Atak dystansowy trafia, jeżeli atakujący wyrzuci więcej sukcesów niż cel ataku.
+Atak dystansowy to Test Przeciwstawny: atakujący rzuca Ciało (Umiejętności Strzeleckie), a cel Ciało (Refleks). Atak trafia, jeżeli atakujący wyrzuci więcej Sukcesów niż cel ataku (przy remisie pudłuje).

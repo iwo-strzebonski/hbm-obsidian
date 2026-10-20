@@ -6,7 +6,7 @@ tags:
 castingMode: standard
 school: thaumaturgy
 sourceBook: ksiega-magii
-manaCost: 8
+manaCost: 5
 threshold: 5
 successes: 2
 complexityLevel: 2
@@ -20,8 +20,9 @@ castingTime: Instant
 range: 15 m
 targets: do 4
 duration: 4 rundy
+damageBase: magicalAbilities/2+1
 overcast:
-  - +1 dodatkowy cel lub +1 runda trwania
+  - +1k3 punktów wytrzymałości każdej z Tarcz lub +2 dodatkowe cele
 ---
 # Osłona Świty
 

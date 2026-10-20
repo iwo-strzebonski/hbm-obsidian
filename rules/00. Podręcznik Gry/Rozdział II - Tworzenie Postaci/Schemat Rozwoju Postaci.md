@@ -14,22 +14,22 @@ Atrybuty
 	3 PD
 	Z 2 na 3
 	5 PD
-	7 PD
+	8 PD
 	Z 3 na 4
 	7 PD
-	14 PD
+	15 PD
 	Z 4 na 5
 	9 PD
-	23 PD
+	24 PD
 	Z 5 na 6
 	11 PD
-	34 PD
+	35 PD
 	Z 6 na 7
 	13 PD
-	47 PD
+	48 PD
 	Z 7 na 8
 	15 PD
-	62 PD
+	63 PD
 	Umiejętności
 Koszt podniesienia Umiejętności o jeden poziom jest zawsze równy nowej (docelowej) wartości tej Umiejętności - np. podniesienie Umiejętności z 2 na 3 kosztuje 3 PD, a podniesienie z 1 do 3 kosztuje łącznie 5 PD (2 PD za poziom 2. oraz 3 PD za poziom 3.).
 	Podwyższenie Umiejętności
