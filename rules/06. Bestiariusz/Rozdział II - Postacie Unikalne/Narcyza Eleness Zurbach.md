@@ -59,7 +59,10 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 
 **Bicz o Dwóch Splotach** - jej osobista broń, rzemień zakończony dwoma splecionymi końcówkami zamiast jednego.
 - **Obrażenia:** 1+S
-- **Cechy:** Dosięgająca; dzięki dwóm splotom, w ramach jednego Ataku Postać może wyprowadzić cios w dwa różne cele w zasięgu broni, każdy rozstrzygany osobnym Testem Ataku.
+- **Cechy:** Dosięgająca; dzięki dwóm splotom, w ramach jednego Ataku Postać wykonuje jeden Test Ataku i wybiera jeden z dwóch sposobów użycia:
+  - **Dwa cele** - jeden Test Ataku jest porównywany osobno z obroną (Unikiem lub Odparciem) każdego z dwóch celów w zasięgu broni, a Obrażenia liczy się dla każdego z nich z jego własnej różnicy Sukcesów.
+  - **Jeden cel** - cel broni się raz. Jeżeli Atak się powiedzie, Obrażenia zadaje się dwukrotnie, po jednym razie na każdy spleciony koniec (każde z dwóch trafień jest osobno redukowane przez Runiczny Pancerz, Magiczną Osłonę i Pancerz celu).
+  Zabójczy Urok działa nadal raz na rundę, niezależnie od liczby trafionych celów.
 
 ### Taktyka
 
