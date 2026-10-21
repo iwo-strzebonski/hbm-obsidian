@@ -3,6 +3,7 @@ tags:
   - item
   - artifact
   - crimson-cult
+wound: slashing
 ---
 
 # Miecz Taumiczny
@@ -20,6 +21,8 @@ Broń wymaga poświęcenia godziny Krótkiego lub Długiego odpoczynku na Złąc
 **Obrażenia broni**: 1+S
 
 **Cechy broni**: Magiczny, Subtelna
+
+**Rodzaj rany**: sieczne
 
 **Cecha Specjalna - Rozdzieranie Konceptów**: Gdy Postać trafi tym mieczem efekt magiczny, który normalnie wymagałby Testu Rozplatania Zaklęć lub podobnego Testu opartego na Magii lub Duszy, może zamiast tego wykonać Test Ciało (Walka Wręcz) o tej samej Trudności i wymaganej liczbie Sukcesów. Dotyczy to również ataków w Postacie i konstrukty, których istnienie zależy od magii (np. przywołane istoty, iluzje, magiczne konstrukty) - w takich przypadkach ten Test można wykonać jako część normalnego Ataku, zamiast osobnej Akcji.
 

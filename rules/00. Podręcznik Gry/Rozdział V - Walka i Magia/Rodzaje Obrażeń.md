@@ -13,6 +13,8 @@ Obrażenia fizyczne są to obrażenia zadawane metodami konwencjonalnymi. Do tej
 
 
 Wszystkie obrażenia fizyczne są zmniejszane przez Pancerz, choć niektóre ataki mogą się przez niego przebijać, a czasem nawet i niszczyć.
+
+**Rodzaj rany.** Każda broń ma w swojej karcie zapisany rodzaj rany, jaką zadaje: obuchowe, sieczne lub kłute (w danych: `wound` - `blunt`, `slashing`, `piercing`). Broń może zadawać więcej niż jeden rodzaj (np. Sztylet kłuje i tnie), a przy broniach ogólnych (np. Broń jednoręczna) rodzaj wynika z konkretnej broni. Ataki bez broni zadają rany obuchowe. Rodzaj rany ma znaczenie dla efektów, które na nim polegają - np. wszystkie Akcje i Talenty Magii Krwi (Szacunek do Życia, Złożenie w Ofierze) liczą wyłącznie rany sieczne i kłute, a nie obuchowe.
 ## Obrażenia Środowiskowe
 Obrażenia środowiskowe to wszystkie rodzaje obrażeń, na które można się napotkać - od obrażeń od ognia przez trucizny do porażenia prądem elektrycznym.
 
