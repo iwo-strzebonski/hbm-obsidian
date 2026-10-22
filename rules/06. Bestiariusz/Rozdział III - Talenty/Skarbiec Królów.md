@@ -11,7 +11,7 @@ publish-note: Brama Babilonu / Enkidu echo Fate/stay night; needs a design discu
 ---
 Nikt na Ziemi nie wie, ile artefaktów naprawdę spoczywa w Bramie Babilonu - a Pelagius Caudex nie ma zamiaru nikomu tego zdradzać. Wystarczy, że uchyli jej wrota, a dziesiątki złotych kręgów rozkwitają w powietrzu wokół niego, każdy gotowy wypluć z siebie inny wytwór tysięcy lat rzemiosła.
 
-Jako Akcję, Postać może otworzyć liczbę Złotych Kręgów równą wartości Umiejętności Rzemiosło - każdy Krąg wykonuje osobny Atak Dystansowy (Magia (Umiejętności Strzeleckie)) S+3 Punktów Obrażeń, zasięg 15 m, wymierzony w dowolne, niezależnie wybrane cele w zasięgu. Pula kości Ataku dzieli się między wszystkie otwarte Kręgi tak, jak przy walce oburącz z wieloma przeciwnikami.
+Jako Akcję, Postać może otworzyć liczbę Złotych Kręgów równą wartości Umiejętności Rzemiosło - każdy Krąg wykonuje osobny Atak Dystansowy (Umysł (Rzemiosło)) S+4 Punktów Obrażeń, zasięg 15 m, wymierzony w dowolne, niezależnie wybrane cele w zasięgu. To nie magia, tylko rzemiosło i wiedza o tym, który przedmiot pasuje do którego celu: każdy Krąg rzuca pełną pulą kości, a pula nie jest dzielona między Kręgi.
 
 Raz na starcie Postać może poświęcić 2 punkty Zapału, aby jeden z Kręgów przywołał broń na tyle potężną, że Test Ataku wykonywany przez ten Krąg otrzymuje dodatkowe 2 kości, a trafienie zadaje dodatkowo 1k6 Obrażeń ignorujących Pancerz.
 
@@ -20,6 +20,8 @@ Raz na starcie Postać może poświęcić 2 punkty Zapału, aby jeden z Kręgów
 > - **Diadem Szamasza** - pełna odporność na efekty wpływające na umysł (Zauroczenie, rozkazy i Autorytet, Przerażenie, Złowróżbny cień). To dlatego sztuczki Narcyzy nie mają na niego wpływu.
 > - **Pieczęć Enlila** - +3 do Zdolności Magicznych.
 > - **Sandały Etany** - Szybkość 15 m i ignorowanie Terenu Trudnego.
+> - **Napierśnik Ninurty** - +1 do Pancerza (łącznie 2); jest tak lekki, że nie krępuje rzucania zaklęć.
+> - **Puchar Utnapisztima** - +10 do maksymalnej Żywotności.
 >
 > Arsenał jest dużo większy, niż Pelagius kiedykolwiek pokazał, więc MG może dodać Pelagiusowi kolejne przedmioty z Bramy, o ile każdy z nich daje wyłącznie jedną przewagę i da się go zdjąć lub zniszczyć.
 

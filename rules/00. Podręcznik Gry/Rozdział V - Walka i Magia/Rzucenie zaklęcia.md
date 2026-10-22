@@ -20,6 +20,6 @@ Ciężki pancerz krępuje ruchy i rozprasza skupienie. Kary dotyczą każdego rz
 | --- | --- |
 | Lekki (1) | brak |
 | Średni (2) | rzucasz o **1 kość mniej** w Teście Magia |
-| Ciężki (3) | rzucasz o **2 kości mniej** w Teście Magia, a koszt Many każdego zaklęcia rośnie o **1** |
+| Ciężki (3) | rzucasz o **3 kości mniej** w Teście Magia, a koszt Many każdego zaklęcia rośnie o **2** |
 
 Kary nie dotyczą Runicznego Pancerza ani Magicznych Osłon. Pozwala je znieść Talent [Pancerz Wiary](../Rozdział%20IV%20-%20Talenty/Pancerz%20Wiary.md).

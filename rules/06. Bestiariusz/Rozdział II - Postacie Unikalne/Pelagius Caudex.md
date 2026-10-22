@@ -23,7 +23,7 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 18 | 1 | 3 | 2k6+19 | 4 | 15 m *(Sandały Etany)* |
+| 52 | 18 | 2 | 4 | 2k6+19 | 4 | 15 m *(Sandały Etany)* |
 
 ### Umiejętności
 
@@ -68,13 +68,15 @@ Dzięki Talentom *Parowanie*, *Finta* i *Riposta* Pelagius, gdy już dobędzie �
 - **Diadem Szamasza** - pełna odporność na efekty wpływające na umysł: Zauroczenie, rozkazy (w tym Autorytet, Rozkaz Księżniczki, Głos Rozkazu), Przerażenie i Złowróżbny cień.
 - **Pieczęć Enlila** - +3 do Zdolności Magicznych.
 - **Sandały Etany** - Szybkość 15 m zamiast 10 m i brak kary za Ruch przez Teren Trudny.
+- **Napierśnik Ninurty** - +1 do Pancerza (łącznie 2); nie krępuje rzucania zaklęć.
+- **Puchar Utnapisztima** - +10 do maksymalnej Żywotności (łącznie 52).
 
-**Amulet Osłony (wzmocniony)** - źródło Runicznego Pancerza Pelagiusa; jedna z pierwszych rzeczy, jakie dla siebie wykuł.
+**Amulet Osłony (wzmocniony)** - źródło Runicznego Pancerza Pelagiusa (4 punkty); jedna z pierwszych rzeczy, jakie dla siebie wykuł.
 
 ## Taktyka
 
 > [!info] Dlaczego Pelagius jest tak wysoko
-> Samymi statystykami Pelagius ustępuje Narcyzie i Xillithowi. Wysoką pozycję daje mu Skarbiec: Diadem Szamasza czyni go odpornym na wszystkie sztuczki Narcyzy, Pieczęć Enlila podnosi jego Zdolności Magiczne, a Brama Babilonu daje mu odpowiedź na niemal każdy rodzaj przeciwnika. Dlatego sam Pelagius, pozbawiony artefaktów, jest znacznie słabszy niż na papierze - choć nadal bardzo dobrym wojownikiem.
+> Samymi atrybutami Pelagius ustępuje Narcyzie i Xillithowi. Wysoką pozycję daje mu Skarbiec: Diadem Szamasza czyni go odpornym na wszystkie sztuczki Narcyzy, Napierśnik i Puchar czynią go wytrzymałym, a Złote Kręgi, rzucane pełną pulą kości Rzemiosła, dają mu odpowiedź na niemal każdego przeciwnika. W symulowanych pojedynkach (jedna runda, jeden Skarbiec) z Narcyzą wygrywa mniej więcej w połowie starć; z Xillithem w Formie IV (Awatar) częściej przegrywa. Dlatego sam Pelagius, pozbawiony artefaktów, jest znacznie słabszy niż na papierze - choć nadal bardzo dobrym wojownikiem.
 
 > [!gm]+ Tylko dla MG
 > Pelagius jest kompetentnym magiem, ale rzucanie skomplikowanych zaklęć uważa za marnotrawstwo czasu, gdy można po prostu rzucić w przeciwnika artefaktem. Walczy niemal wyłącznie na dystans, otwierając złote kręgi ze swojego Skarbca i zasypując przeciwników wytworami tysięcy lat rzemiosła, sam sięgając po broń tylko wtedy, gdy naprawdę musi.
