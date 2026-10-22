@@ -51,11 +51,10 @@ Los w świecie HbM nie jest przypadkowy. Kości Losu to fragmenty przeznaczenia,
 
 ## Pozyskiwanie Kości Losu
 
-Kości Losu to rzadkie i cenne artefakty. Można je zdobyć na kilka sposobów:
+Kości Losu to rzadkie i cenne artefakty. Nie można ich ani kupić, ani stworzyć. Zdobywa się je na dwa sposoby:
 
 - [Nagroda od MG](2026-02-04-mechanika-kosci-losu/Pozyskiwanie%20Kości%20Losu/Nagroda%20od%20MG.md)
 - [Odnalezienie](2026-02-04-mechanika-kosci-losu/Pozyskiwanie%20Kości%20Losu/Odnalezienie.md)
-- [Zakup](2026-02-04-mechanika-kosci-losu/Pozyskiwanie%20Kości%20Losu/Zakup.md)
 
 ---
 
