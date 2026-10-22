@@ -60,5 +60,5 @@ Rzut (Poziom Mocy)
 	3
 	
 
-Ilość Many to dzienna pula many, którą mag może wykorzystać na rzucanie zaklęć - z każdym rzuconym zaklęciem (uwzględniając Nadczarowanie) zmniejsza się o jego koszt, aż do wyzerowania. Nie ma osobnego limitu many na rundę - do ograniczenia pojedynczego rzucenia zaklęcia służy Maksymalny Koszt Zaklęcia, a do regeneracji tej puli - Odpoczynek (patrz: Rozdział VI - Odpoczywanie i Leczenie). Rzucanie zaklęć po wyczerpaniu dziennej puli jest możliwe, ale niesie ze sobą ryzyko (patrz: Wyczerpanie Many, Rozdział VI).
+Ilość Many to dzienna pula many, którą mag może wykorzystać na rzucanie zaklęć - z każdym rzuconym zaklęciem (uwzględniając Nadczarowanie) zmniejsza się o jego koszt, aż do wyzerowania. Koszt zostaje poniesiony także wtedy, gdy rzucenie zaklęcia się nie powiodło albo gdy zaklęcie zostało rozproszone. Samo rozpraszanie cudzego zaklęcia nie kosztuje Many. Nie ma osobnego limitu many na rundę - do ograniczenia pojedynczego rzucenia zaklęcia służy Maksymalny Koszt Zaklęcia, a do regeneracji tej puli - Odpoczynek (patrz: Rozdział VI - Odpoczywanie i Leczenie). Rzucanie zaklęć po wyczerpaniu dziennej puli jest możliwe, ale niesie ze sobą ryzyko (patrz: Wyczerpanie Many, Rozdział VI).
 Maksymalny Koszt Zaklęcia to maksymalna ilość many, którą mag może wydać na rzucenie danego zaklęcia.

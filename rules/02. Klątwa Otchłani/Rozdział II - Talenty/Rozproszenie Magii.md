@@ -9,4 +9,4 @@ aliases:
 **Koszt**: 2 Punkty Metamagii, 1 Punkt Zapału
 **Wymagania**: Inna Postać rzucająca zaklęcie
 
-Gdy wybrany cel rzuca zaklęcie, Postać może rzucić kością 1k3. Rzucane przez cel zaklęcie wymaga tyle dodatkowych Sukcesów, ile wyniósł ten rzut.
+Gdy wybrany cel rzuca zaklęcie, Postać może rzucić kością 1k3. Rzucane przez cel zaklęcie wymaga tyle dodatkowych Sukcesów, ile wyniósł ten rzut. Rozproszenie nie kosztuje Many, a Mana na zaklęcie celu zostaje zużyta także wtedy, gdy mu się ono nie powiedzie.

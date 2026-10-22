@@ -13,3 +13,5 @@ Gdy postać ma otrzymać obrażenia, są one redukowane po kolei w następujący
 4. **Żywotność** - to, co zostanie z obrażeń po powyższych trzech krokach, obniża punkty Żywotności postaci.
 
 Niektóre zaklęcia i efekty ignorują lub pomijają wybrane kroki tej kolejności - np. ignorują Pancerz, przełamują Magiczną Osłonę zamiast być przez nią w pełni zatrzymywane, albo ignorują całą magiczną obronę naraz. Patrz opis konkretnego zaklęcia lub efektu.
+
+**Wartość Pancerza.** Pancerz 1 to pancerz lekki, 2 - średni, 3 - ciężki. Wartość 4 lub więcej występuje wyłącznie w szczególnych przypadkach (artefakty, unikalne istoty, efekty magiczne).
