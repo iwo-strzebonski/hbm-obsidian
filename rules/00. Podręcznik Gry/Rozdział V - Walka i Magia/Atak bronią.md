@@ -22,7 +22,7 @@ Gdy cel próbuje uniknąć ataku, od ilości Sukcesów atakującego należy odj�
 
 Gdy cel próbuje odpierać atak, należy porównać ilość Sukcesów atakującego i atakowanego. Jeżeli atakujący ma ich więcej, Odparcie się nie udało i cel otrzymuje Obrażenia z pełnej ilości Sukcesów atakującego (bez dodawania 2), powiększonej o punkty Obrażeń broni atakującego i bonusy z jego Talentów (patrz: Zadawanie Obrażeń). Jeżeli więcej Sukcesów ma odpierający albo jest remis, atak zostaje odparty. Atakujący nigdy nie otrzymuje Obrażeń z tytułu przegranego Odparcia.
 
-Obrońca rzuca na Unik lub Odparcie z Progiem Trudności 4, chyba że efekt stanowi inaczej.
+Zarówno atakujący, jak i broniący się (Unik lub Odparcie) rzucają z Progiem Trudności 4, chyba że efekt lub Talent stanowi inaczej.
 
 
 ## Atak bez Broni
