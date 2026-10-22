@@ -56,7 +56,6 @@ Kości Losu to rzadkie i cenne artefakty. Można je zdobyć na kilka sposobów:
 - [Nagroda od MG](2026-02-04-mechanika-kosci-losu/Pozyskiwanie%20Kości%20Losu/Nagroda%20od%20MG.md)
 - [Odnalezienie](2026-02-04-mechanika-kosci-losu/Pozyskiwanie%20Kości%20Losu/Odnalezienie.md)
 - [Zakup](2026-02-04-mechanika-kosci-losu/Pozyskiwanie%20Kości%20Losu/Zakup.md)
-- [Rytuał Schwytania Losu](2026-02-04-mechanika-kosci-losu/Pozyskiwanie%20Kości%20Losu/Rytuał%20Schwytania%20Losu.md)
 
 ---
 

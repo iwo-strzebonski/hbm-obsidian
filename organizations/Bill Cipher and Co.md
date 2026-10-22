@@ -6,6 +6,8 @@ tags:
   - gravity-falls
 aliases:
   - Bill Cipher and Co.
+publish: campaign-only
+publish-note: Gravity Falls parody; session-only, excluded from the books
 ---
 | **Zdjęcie**                   | ![[.jpg\|200]]                                                     |
 | ----------------------------- | ------------------------------------------------------------------ |

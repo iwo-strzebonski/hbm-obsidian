@@ -2,6 +2,8 @@
 tags:
   - npc
   - thaumaturge
+publish: ip-issues
+publish-note: deliberate tribute to the Thaumcraft author; kept on purpose, decide before publication
 ---
 | **Zdjęcie**         | ![[.jpg\|200]]                                 |
 | ------------------- | ---------------------------------------------- |

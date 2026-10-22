@@ -6,6 +6,8 @@ tags:
   - artifact-crafting
 aliases:
   - Skarbiec Królów
+publish: ip-issues
+publish-note: Brama Babilonu / Enkidu echo Fate/stay night; needs a design discussion
 ---
 Nikt na Ziemi nie wie, ile artefaktów naprawdę spoczywa w Bramie Babilonu - a Pelagius Caudex nie ma zamiaru nikomu tego zdradzać. Wystarczy, że uchyli jej wrota, a dziesiątki złotych kręgów rozkwitają w powietrzu wokół niego, każdy gotowy wypluć z siebie inny wytwór tysięcy lat rzemiosła.
 

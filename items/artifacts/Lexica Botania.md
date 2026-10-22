@@ -4,6 +4,8 @@ tags:
   - artifact
   - abyss-cult
   - botany
+publish: ip-issues
+publish-note: name taken from the Botania mod; placeholder, rename
 ---
 
 # Lexica Botania
