@@ -125,7 +125,7 @@ Jak w Formie I (Amulet Hekate, Rytualny Sztylet), a ponadto:
 
 **[Wielka Księga Obrzędów](../../../items/artifacts/Wielka%20Księga%20Obrzędów.md) (skradziona)** - Karolina nie spełnia formalnie wymagań do pełnego Złączenia się z Księgą, ale jako Baba Jaga Sabatu Otchłani uważa, że "głupia formalność" jej nie dotyczy - i siłą własnej pozycji częściowo ją obchodzi. Dopóki aktywnie trzyma i kontroluje Księgę (patrz obniżony Refleks powyżej), raz na swoją Turę może darmowo rzucić jedno ze znanych sobie zaklęć Szkarłatu z dodatkową kością do puli. To ułamek mocy, jaką dawałoby pełne Złączenie - ale wciąż więcej, niż powinna mieć osoba w jej sytuacji.
 
-**[Lexica Botania](../../../items/artifacts/Lexica%20Botania.md)** - mniejsza, słabsza z Wielkich Ksiąg, którą udało jej się zdobyć osobno od Wielkiej Księgi Obrzędów. Kilka razy w trakcie starcia (do 2-3 razy, wedle uznania Mistrza Gry) może w ramach swojej Akcji za darmo rzucić dowolne znane zaklęcie z dyscypliny Botaniki lub wykonać inne, podobnej wagi działanie botaniczne - w tej formie korzysta z tego głównie do wsparcia (przyspieszona roślinność jako osłona lub utrudnienie terenu), nie do bezpośrednich obrażeń.
+**[Herbarium Minor](../../../items/artifacts/Herbarium%20Minor.md)** - mniejsza, słabsza z Wielkich Ksiąg, którą udało jej się zdobyć osobno od Wielkiej Księgi Obrzędów. Kilka razy w trakcie starcia (do 2-3 razy, wedle uznania Mistrza Gry) może w ramach swojej Akcji za darmo rzucić dowolne znane zaklęcie z dyscypliny Botaniki lub wykonać inne, podobnej wagi działanie botaniczne - w tej formie korzysta z tego głównie do wsparcia (przyspieszona roślinność jako osłona lub utrudnienie terenu), nie do bezpośrednich obrażeń.
 
 ### Taktyka
 
@@ -175,7 +175,7 @@ Wszystkie zaklęcia z Form I i II - w tej formie różnicę robi nie nowy repert
 
 #### Ekwipunek
 
-Jak w Formach I i II (Amulet Hekate, Rytualny Sztylet, Wielka Księga Obrzędów, Lexica Botania), a ponadto:
+Jak w Formach I i II (Amulet Hekate, Rytualny Sztylet, Wielka Księga Obrzędów, Herbarium Minor), a ponadto:
 
 **Kombinezon Bojowy "Gaja"** - dostarczony przez Federację Sol-3, ukryty pod studenckimi szatami. Gdy Karolina "zamyka się w starciu" i przestaje udawać, kombinezon aktywuje się w pełni: zapewnia 15 punktów Osłony Magicznej, odnawianej w całości na początku każdej jej Tury. Jeśli jednak pierwsze trafienie, jakie otrzymuje w danym starciu, jest Atakiem z zaskoczenia i byłoby samo w sobie potencjalnie śmiertelne, kombinezon nie zdąży się aktywować na czas i to jedno trafienie przyjmuje bez żadnej ochrony - każde kolejne działa już normalnie.
 

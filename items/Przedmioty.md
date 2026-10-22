@@ -14,7 +14,6 @@ tags: [moc, hub, items]
 - [Księga Taumaturgii](artifacts/Księga%20Taumaturgii.md)
 - [Laska_Quarterstaff](weapons/Laska_Quarterstaff.md)
 - [Miecz treningowy](gear/Miecz%20treningowy.md)
-- [Miecz świetlny](gear/Miecz%20świetlny.md)
 - [Miotacz Entropii](artifacts/Miotacz%20Entropii.md)
 - [Pancerz Ciężki](armor/Pancerz%20Ciężki.md)
 - [Pancerz Lekki](armor/Pancerz%20Lekki.md)

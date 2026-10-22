@@ -20,7 +20,7 @@ Ten przedmiot jest niezniszczalny - nawet wszechpotężne Personifikacje Otchła
 * Magia Runiczna
 * Botanika
 
-Część rozdziałów została wyrwana przez Nil. Obecnie rozdziały dotyczące Alchemii Transmutacji i Rzemiosła Artefaktów znajdują się w Księdze Taumaturgii, rozdziały dotyczące Golemancji i Magii Runicznej są częścią Wielkiej Księgi Obrzędów, zaś rozdział dotyczący Botaniki został skradziony przez jednego z byłych uczniów Wielkiego Taumaturga, który następnie stworzył na jego podstawie księgę zatytułowaną *Lexica Botania*.
+Część rozdziałów została wyrwana przez Nil. Obecnie rozdziały dotyczące Alchemii Transmutacji i Rzemiosła Artefaktów znajdują się w Księdze Taumaturgii, rozdziały dotyczące Golemancji i Magii Runicznej są częścią Wielkiej Księgi Obrzędów, zaś rozdział dotyczący Botaniki został skradziony przez jednego z byłych uczniów Wielkiego Taumaturga, który następnie stworzył na jego podstawie księgę zatytułowaną *Herbarium Minor*.
 
 Każda zmiana w Księdze Taumaturgii wpływa na Sztuki Taumaturgiczne:
 * jeżeli wszystkie rozdziały znajdą się z powrotem w Księdze Taumaturgii, Wielka Księga Obrzędów przestanie istnieć, a ponadto część obecnych kultystów Szkarłatnego Kultu zostanie nowymi Taumaturgami.
