@@ -10,3 +10,4 @@ traits: '-'
 * **Punkty Pancerza:** 2
 * **Wymagania:** Ciało >= 2
 * **Cechy:** -
+* **Rzucanie zaklęć:** -1 kość w Teście Magia (znosi Talent Pancerz Wiary)

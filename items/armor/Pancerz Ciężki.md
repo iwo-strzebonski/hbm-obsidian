@@ -10,3 +10,4 @@ traits: 'Hałaśliwy'
 * **Punkty Pancerza:** 3
 * **Wymagania:** Ciało >= 4
 * **Cechy:** Hałaśliwy
+* **Rzucanie zaklęć:** -2 kości w Teście Magia i +1 do kosztu Many każdego zaklęcia (znosi Talent Pancerz Wiary)
