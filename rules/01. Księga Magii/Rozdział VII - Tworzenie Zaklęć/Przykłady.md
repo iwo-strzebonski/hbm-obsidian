@@ -10,7 +10,7 @@ aliases:
 
 * Efekt: Wystrzelenie ognistej strzały, która podpala cel. Zadaje obrażenia równe pełnej wartości Umiejętności Zdolności Magiczne, a cel zostaje Podpalony.
 * Kategoria: Obrażenia (modyfikator -0,4).
-* Potęga Efektu: Standardowa, ×1,0 (modyfikator 0,0) - obrażenia równe pełnej wartości Umiejętności.
+* Potęga Efektu: Standardowa, ×1,0 (modyfikator 0,0) - obrażenia równe pełnej wartości Umiejętności (+1 premii zaklęć z kategorii Obrażenia, czyli w praktyce wartość Umiejętności +1).
 * Parametry: T=5, S=1.
 * Modyfikatory: Pojedynczy cel (-0,8), natychmiastowe (-1,0), Dodatkowy Stan - Podpalony (+0,5).
 * Koszt bazowy: 0,5×(5+1)=3,0

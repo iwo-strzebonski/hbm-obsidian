@@ -11,7 +11,7 @@ W trakcie swojej tury każda postać może wykonać Ruch (Akcja Ruchu) oraz jedn
 | Rodzaj | Ile na turę / rundę | Uwagi |
 | --- | --- | --- |
 | **Ruch** | jeden na turę | patrz: [Ruch](Ruch.md) |
-| **Akcja** | jedna na turę | atak, rzucenie zaklęcia, użycie Talentu, [Pomoc](Pomoc.md) itd.; **1 Zapał opłaca jedną dodatkową Akcję** w Twojej turze |
+| **Akcja** | jedna na turę | atak, rzucenie zaklęcia, użycie Talentu, [Pomoc](Pomoc.md) itd.; **1 Zapał opłaca jedną dodatkową Akcję** w Twojej turze; po niej nie odnawiasz Zapału na początku następnej tury ([Zapał](../Rozdział%20II%20-%20Tworzenie%20Postaci/Zapał.md)) |
 | **Akcja Darmowa** | bez ścisłego limitu - MG pilnuje rozsądku | np. wyciągnięcie broni, przerwanie Koncentracji |
 | **Akcja Natychmiastowa** | **jedna darmowa na rundę** | nie zużywa Ruchu ani Akcji; patrz niżej |
 

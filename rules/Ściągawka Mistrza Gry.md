@@ -43,7 +43,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 - **Akcje Natychmiastowe** (Parowanie, Rozplatanie, Talenty reaktywne): jedna darmowa na rundę, 1 Zapał opłaca dwie kolejne (Talenty z własnym kosztem Zapału liczą się osobno). Dotyczy też Twoich NPC.
 - **Zapał:** 1 punkt = 1 dodatkowa Akcja w turze albo 2 dodatkowe Akcje Natychmiastowe.
 - **Unik, który zawiódł:** Obrażenia liczysz z **różnicy Sukcesów + 2** ([Atak bronią](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Atak%20bronią.md)).
-- **Zapał** regeneruje się o 1 na początku tury własnej postaci. Oszołomiony nie ma Zapału.
+- **Zapał** regeneruje się o 1 na początku tury własnej postaci, chyba że w poprzedniej turze postać wzięła dodatkową Akcję za Zapał (wtedy bez regeneracji; modlitwy, Akcje Natychmiastowe i Talenty z własnym kosztem tego nie wstrzymują). Oszołomiony nie ma Zapału.
 - **Atak - dwa warianty obrony:** Unik = Sukcesy atakującego minus Sukcesy broniącego; Odparcie = test przeciwstawny, przegrany dostaje pełne obrażenia zwycięzcy. Atak dystansowy: Test Przeciwstawny z Refleksem celu.
 - **Kolejność redukcji:** Runiczny Pancerz → Magiczna Osłona → Pancerz → Żywotność. Rodzaje: Fizyczne, Środowiskowe (omijają Pancerz), Magiczne.
 - **Oszołomienie:** jednorazowa utrata ≥ ½ maks. Żywotności (po redukcji), trwa do końca następnej tury. **Koncentracja:** test po każdym trafieniu, S = ⌈⅓ utraconej Żywotności⌉ (min. 1).

@@ -17,8 +17,8 @@ Jedna strona, która ma pozwolić Ci wejść do walki bez zatrzymywania całego 
 ## Twoja tura w 30 sekund
 
 1. **Zanim przyjdzie Twoja kolej** - zdecyduj, co robisz, i weź kości do ręki.
-2. **Ruch** (zwykle 10 m) **+ jedna Akcja** (atak, zaklęcie, Talent, Przedmiot, Interakcja, Pomoc, Szarża, Powalenie...). Kolejność dowolna. **1 Zapał opłaca jedną dodatkową Akcję.**
-3. **Na początku tury** odzyskujesz 1 punkt Zapału.
+2. **Ruch** (zwykle 10 m) **+ jedna Akcja** (atak, zaklęcie, Talent, Przedmiot, Interakcja, Pomoc, Szarża, Powalenie...). Kolejność dowolna. **1 Zapał opłaca jedną dodatkową Akcję** (po niej w następnej turze nie odnawiasz Zapału).
+3. **Na początku tury** odzyskujesz 1 punkt Zapału (chyba że w poprzedniej turze wykonano dodatkową Akcję za Zapał).
 4. **Powiedz głośno**: cel, Akcja, ile kości rzucasz. Rzuć, policz Sukcesy, podaj wynik MG.
 5. **Koniec** - powiedz "koniec tury" i oddaj głos.
 

@@ -24,4 +24,6 @@ Wszystkie obrażenia środowiskowe ignorują Pancerz ale można zdobyć niewraż
 Obrażenia magiczne są zadawane przez zaklęcia, klątwy oraz artefakty.
 
 
+**Premia zaklęć bojowych:** każde zaklęcie z kategorii Obrażenia zadaje o 1 punkt Obrażeń więcej, niż wynika z jego opisu. Premię dolicza się raz, po przeliczeniu mnożników i dzielenia (zaklęcie zadające "połowę Umiejętności" zadaje połowę Umiejętności +1), a więc nawet mag bez Umiejętności Zdolności Magiczne zadaje trafionym zaklęciem co najmniej 1 punkt Obrażeń. Premia nie dotyczy obrażeń okresowych (np. Podpalenia), bonusów z Nadczarowania, zaklęć innych kategorii, klątw ani artefaktów. Nie zmienia ona kosztu many zaklęcia.
+
 Obrażenia te ignorują odporność na broń konwencjonalną (np. eteryczność duchów), a ponadto niektóre obrażenia z tej kategorii mogą całkowicie ignorować pancerz.
