@@ -71,7 +71,7 @@ Dzięki Talentom *Parowanie*, *Finta* i *Riposta* Pelagius, gdy już dobędzie �
 - **Napierśnik Ninurty** - +1 do Pancerza (łącznie 2); nie krępuje rzucania zaklęć.
 - **Puchar Utnapisztima** - +10 do maksymalnej Żywotności (łącznie 52).
 
-**Sierp Marduka** - broń na bogów, którą Pelagius przywołuje z Bramy Babilonu tylko przeciwko bóstwom i Awatarom (np. Xillithowi opętanemu przez Pierwszego Patriarchę, w Formie IV): wzmocniony Krąg Skarbca Królów zadaje wtedy dodatkowo 8k6 Obrażeń ignorujących Pancerz, a cel traci na resztę starcia korzyści z Talentów łamiących ogólne zasady. Szczegóły w Talencie *Skarbiec Królów*.
+**Sierp Marduka** - broń na bogów, którą Pelagius przywołuje z Bramy Babilonu tylko przeciwko bóstwom i Awatarom (np. Xillithowi opętanemu przez Pierwszego Patriarchę, w Formie IV): wzmocniony Krąg Skarbca Królów zadaje wtedy dodatkowo 8k6 Obrażeń ignorujących Pancerz, a cel traci na resztę starcia korzyści z Talentów łamiących ogólne zasady (dla Xillitha: dodatkowy Zapał z Pierwszego Patriarchy; darmowe zaklęcia tego Talentu działają tylko przeciwko Magom Otchłani, więc Pelagiusa i tak nie dotyczą). Szczegóły w Talencie *Skarbiec Królów*.
 
 **Amulet Osłony (wzmocniony)** - źródło Runicznego Pancerza Pelagiusa (4 punkty); jedna z pierwszych rzeczy, jakie dla siebie wykuł.
 
