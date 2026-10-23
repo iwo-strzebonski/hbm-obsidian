@@ -71,12 +71,14 @@ Dzięki Talentom *Parowanie*, *Finta* i *Riposta* Pelagius, gdy już dobędzie �
 - **Napierśnik Ninurty** - +1 do Pancerza (łącznie 2); nie krępuje rzucania zaklęć.
 - **Puchar Utnapisztima** - +10 do maksymalnej Żywotności (łącznie 52).
 
+**Sierp Marduka** - broń na bogów, którą Pelagius przywołuje z Bramy Babilonu tylko przeciwko bóstwom i Awatarom (np. Xillithowi opętanemu przez Pierwszego Patriarchę, w Formie IV): wzmocniony Krąg Skarbca Królów zadaje wtedy dodatkowo 8k6 Obrażeń ignorujących Pancerz, a cel traci na resztę starcia korzyści z Talentów łamiących ogólne zasady. Szczegóły w Talencie *Skarbiec Królów*.
+
 **Amulet Osłony (wzmocniony)** - źródło Runicznego Pancerza Pelagiusa (4 punkty); jedna z pierwszych rzeczy, jakie dla siebie wykuł.
 
 ## Taktyka
 
 > [!info] Dlaczego Pelagius jest tak wysoko
-> Samymi atrybutami Pelagius ustępuje Narcyzie i Xillithowi. Wysoką pozycję daje mu Skarbiec: Diadem Szamasza czyni go odpornym na wszystkie sztuczki Narcyzy, Napierśnik i Puchar czynią go wytrzymałym, a Złote Kręgi, rzucane pełną pulą kości Rzemiosła, dają mu odpowiedź na niemal każdego przeciwnika. W symulowanych pojedynkach (jedna runda, jeden Skarbiec) z Narcyzą wygrywa mniej więcej w połowie starć; z Xillithem w Formie IV (Awatar) częściej przegrywa. Dlatego sam Pelagius, pozbawiony artefaktów, jest znacznie słabszy niż na papierze - choć nadal bardzo dobrym wojownikiem.
+> Samymi atrybutami Pelagius ustępuje Narcyzie i Xillithowi. Wysoką pozycję daje mu Skarbiec: Diadem Szamasza czyni go odpornym na wszystkie sztuczki Narcyzy, Napierśnik i Puchar czynią go wytrzymałym, a Złote Kręgi, rzucane pełną pulą kości Rzemiosła, dają mu odpowiedź na niemal każdego przeciwnika. W symulowanych pojedynkach z Narcyzą wygrywa mniej więcej w połowie starć; z Xillithem w Formie IV (Awatar) również, ale tylko dlatego, że ma Sierp Marduka - bez niego przegrywałby około 70% starć. Dlatego sam Pelagius, pozbawiony artefaktów, jest znacznie słabszy niż na papierze - choć nadal bardzo dobrym wojownikiem.
 
 > [!gm]+ Tylko dla MG
 > Pelagius jest kompetentnym magiem, ale rzucanie skomplikowanych zaklęć uważa za marnotrawstwo czasu, gdy można po prostu rzucić w przeciwnika artefaktem. Walczy niemal wyłącznie na dystans, otwierając złote kręgi ze swojego Skarbca i zasypując przeciwników wytworami tysięcy lat rzemiosła, sam sięgając po broń tylko wtedy, gdy naprawdę musi.

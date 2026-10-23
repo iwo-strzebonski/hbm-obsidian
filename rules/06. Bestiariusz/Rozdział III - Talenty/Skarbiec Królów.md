@@ -15,6 +15,8 @@ Jako Akcję, Postać może otworzyć liczbę Złotych Kręgów równą wartości
 
 Raz na starcie Postać może poświęcić 2 punkty Zapału, aby jeden z Kręgów przywołał broń na tyle potężną, że Test Ataku wykonywany przez ten Krąg otrzymuje dodatkowe 2 kości, a trafienie zadaje dodatkowo 1k6 Obrażeń ignorujących Pancerz.
 
+Jeśli celem tego Kręgu jest bóstwo albo Awatar (istota, której Talenty jawnie łamią zasady śmiertelników, jak Pierwszy Patriarcha), z Bramy wypada jednak coś zupełnie innego: **Sierp Marduka**, oręż wykuty na zabicie boga. Zamiast 1k6 trafienie zadaje dodatkowo **8k6** Obrażeń ignorujących Pancerz, a cel traci do końca starcia wszystkie korzyści wynikające z Talentów, które łamią ogólne zasady (np. darmowe zaklęcia i dodatkowy Zapał z Pierwszego Patriarchy). Sierp jest jednorazowy: po trafieniu rozsypuje się w pył, a po chybieniu wraca do Bramy.
+
 > [!info] Artefakty noszone na stałe
 > Poza wytworami, które Pelagius wyrzuca w przeciwników, Brama Babilonu zawiera przedmioty, które zakłada na siebie, zanim zacznie się jakiekolwiek starcie. Każdy z nich daje jedną, ściśle określoną przewagę:
 > - **Diadem Szamasza** - pełna odporność na efekty wpływające na umysł (Zauroczenie, rozkazy i Autorytet, Przerażenie, Złowróżbny cień). To dlatego sztuczki Narcyzy nie mają na niego wpływu.
