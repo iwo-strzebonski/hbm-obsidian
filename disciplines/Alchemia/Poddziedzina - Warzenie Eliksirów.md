@@ -49,14 +49,14 @@ Potrafisz warzyć wybrane eliksiry a także je rozpoznawać.
 ---
 ## Eliksiry
 
-Każdy eliksir ma **Moc** - obciążenie Tolerancji, jakie daje jedna dawka ([Przekroczenie Tolerancji Eliksirów](../../rules/01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Przekroczenie%20Tolerancji%20Eliksirów.md)) - oraz własną tabelę **Przedawkowania**, liczoną w dawkach tego samego eliksiru wypitych jednego dnia. Progi Przedawkowania ustala się dla każdej substancji osobno: im groźniejsza, tym niższy pierwszy próg (zwykle między 2 a 5 dawkami). Eliksiry opisane jako działające "do końca walki" poza walką trwają 10 minut. O tym, czy eliksir można nanieść na broń, decyduje MG ([Nanoszenie Eliksirów na Broń](../../rules/01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Nanoszenie%20Eliksirów%20na%20Broń.md)).
+Każdy eliksir ma **Moc** - obciążenie Tolerancji, jakie daje jedna dawka ([Przekroczenie Tolerancji Eliksirów](../../rules/01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Przekroczenie%20Tolerancji%20Eliksirów.md)) - oraz własną tabelę **Przedawkowania**, liczoną w dawkach tego samego eliksiru wypitych jednego dnia. Progi Przedawkowania ustala się dla każdej substancji osobno: im groźniejsza, tym niższy pierwszy próg (zwykle między 2 a 5 dawkami). Eliksiry opisane jako działające "do końca walki" poza walką trwają 10 minut. Magia eliksiru działa poprzez **własną manę pijącego**: eliksir wzmacnia jej obieg i w ten sposób leczy lub wspomaga ciało. Dlatego standardowe eliksiry lecznicze - w tym Eliksir Zdrowia - **nie działają na istoty, które nie mają puli Many** (zwykłych ludzi, zwierzęta). Dawka nadal liczy się do Zatrucia Eliksirami i Przedawkowania, a jej skutki uboczne działają normalnie. O tym, czy eliksir można nanieść na broń, decyduje MG ([Nanoszenie Eliksirów na Broń](../../rules/01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Nanoszenie%20Eliksirów%20na%20Broń.md)).
 
 ### Eliksir Zdrowia
 Najpopularniejsza, a przy tym stosunkowo tania metoda leczenia w magicznym świecie, niestety nie doskonała - Eliksir Zdrowia.
 
 Eliksir Zdrowia leczy mniej poważne rany, ale nie poradzi sobie ze złamaniami czy uszkodzonymi organami.
 
-- Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Zdrowia. Natychmiast odzyskuje 6 Punktów Żywotności.
+- Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Zdrowia. Natychmiast odzyskuje 6 Punktów Żywotności (tylko istota z pulą Many).
 - Działanie szybkie: W ramach Akcji Natychmiastowej (Użycie Przedmiotu) Postać może wypić Eliksir Zdrowia. Natychmiast odzyskuje 1k6 Punktów Żywotności.
 - Moc eliksiru: 2
 - Warzenie: 4:3, 1 dzień (najrzadsze składniki: Powszechne)

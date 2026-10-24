@@ -27,9 +27,15 @@ Czas warzenia zależy od Mocy eliksiru. Alchemik poświęca na pracę kilka godz
 | 5-7          | 14 dni        |
 | 8 i więcej   | 28 dni        |
 
+## Nasycenie maną
+
+Surowy wywar staje się eliksirem dopiero wtedy, gdy alchemik nasyci go własną maną. Dzieje się to w chwili wykonania Testu, na końcu czasu warzenia: alchemik wydaje **Manę równą Mocy eliksiru (minimum 1) plus 1 za każdą dawkę w partii**. Mana przepada niezależnie od wyniku Testu - tak samo jak przy nieudanym zaklęciu. Alchemik, który nie ma tyle Many, może uwarzyć mniejszą partię. Przykład: 10 dawek Eliksiru Zdrowia (Moc 2) kosztuje 12 Many, a pojedyncza dawka Eliksiru Prawdomówności (Moc 8) 9 Many.
+
+Właśnie ta mana sprawia, że eliksiry działają przez własną manę pijącego (patrz: [Eliksiry](../../../disciplines/Alchemia/Poddziedzina%20-%20Warzenie%20Eliksirów.md#Eliksiry)).
+
 ## Partia i porażka
 
-Jedna partia to do 10 dawek, o ile alchemik ma składniki na każdą z nich (w opisie eliksiru podano, na ile dawek wystarczy wymieniona ilość składników). Przy tej samej partii wykonuje się jeden Test.
+Jedna partia to do 10 dawek, o ile alchemik ma składniki (i Manę) na każdą z nich (w opisie eliksiru podano, na ile dawek wystarczy wymieniona ilość składników). Przy tej samej partii wykonuje się jeden Test.
 
 * **Sukces:** partia jest gotowa.
 * **Porażka:** partia się psuje, a składniki przepadają. Jeżeli alchemikowi zabrakło tylko jednego Sukcesu, MG może pozwolić uratować 1k6 dawek (zaokrąglając w dół do liczby dawek w partii).
