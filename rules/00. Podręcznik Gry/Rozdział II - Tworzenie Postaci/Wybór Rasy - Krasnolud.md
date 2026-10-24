@@ -14,11 +14,11 @@ Pełny opis rasy: [Krasnolud](../../../races/Krasnolud.md). Rozdział o ich roli
 
 Cechy Rasowe:
 * Dostępne Dziedziny Magii:
-   * Magia Runiczna
    * Rzemiosło Artefaktów
+   * Magia Runiczna
    * Golemancja
-   * Alchemia (Transmutacja)
    * Magia Żywiołów (Ziemi, Ognia)
+   * Magia Sakralna
 * 3 Punkty Atrybutów
 * Darmowe Talenty:
    * Widzenie w Ciemności
