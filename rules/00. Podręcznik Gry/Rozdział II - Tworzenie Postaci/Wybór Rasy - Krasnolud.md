@@ -19,7 +19,7 @@ Cechy Rasowe:
    * Golemancja
    * Alchemia (Transmutacja)
    * Magia Żywiołów (Ziemi, Ognia)
-   * Magia Sakralna
+   * Magia Sakralna (moc udzielana przez bogów-przodków)
 * 3 Punkty Atrybutów
 * Darmowe Talenty:
    * Widzenie w Ciemności

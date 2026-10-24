@@ -16,7 +16,7 @@ Krasnoludy są niskie (120-150 cm), krępe, mają gęste brody (u obu płci), ja
 Klanowa struktura krasnoludów jest nierozerwalnie połączona z etosem pracy i niesłychanie zaciętym, bezlitosnym **kapitalizmem**. Krasnoludy wyznają wolny rynek jako fundament swojego społeczeństwa. Mają naturalną, wrodzoną żyłkę do biznesu i matematyki; w umysłach rodzą się już z wiedzą, jak obliczyć procent składany i inflację. Władza dziedziczona jest w rodach mistrzów, a pozycja zależy od zgromadzonego bogactwa. Ich rodzinną planetą jest **[Khazad-Morul](../locations/Khazad-Morul/Khazad-Morul.md)**.
 
 ## Religia i duchowość
-Krasnoludy czczą duchy przodków, bogów rzemiosła i opiekunów podziemi. Rytuały runiczne i święta ku czci klanów są powszechne. Duchowość ściśle powiązana z magią runiczną.
+Krasnoludy czczą duchy przodków, bogów rzemiosła i opiekunów podziemi, a ich bogami są w istocie wielcy przodkowie klanów. To oni udzielają krasnoludom [Magii Sakralnej](../disciplines/Magia%20Sakralna.md): modlitwa do przodka-boga jest dla krasnoluda równie naturalna jak ukucie runy, a moc, o którą prosi, nadchodzi z kamiennych sal, w których spoczywają jego klanowi protoplaści. Rytuały runiczne i święta ku czci klanów są powszechne. Duchowość ściśle powiązana z magią runiczną.
 
 ## Język
 Posługują się krasnoludzkim (khazdul), językiem pełnym twardych spółgłosek i runicznych symboli. Znają lingua magica i języki handlowe.
@@ -32,7 +32,7 @@ Stosunki z Elfami są lodowate. Krasnoludy nie chcą dzielić się z nikim **Mag
 Impas przełamał dopiero rok 2027. Po bardzo długich negocjacjach między dyrektorem [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), [Pelagiusem Caudexem](../npcs/Nauczyciele/Pelagius%20Caudex.md), a przedstawicielami Krasnoludzkiej Gildii Bankowej Gildia zgodziła się, by WeSM jako jedyna szkoła na Ziemi uczyła ludzi i krasnoludów [Magii Runicznej](../disciplines/Magia%20Runiczna.md). W zamian WeSM jako pierwsza szkoła Wielkiej Trzynastki przyjęła krasnoludy jako pełnoprawnych uczniów, a program nauczania run nadzorują wspólnie szkoła i Gildia.
 
 ## Magia i wrażliwość na Otchłań
-Krasnoludy są mistrzami magii runicznej i ochronnej. Są odporne na spaczenie Otchłani, ale mało podatne na inne szkoły magii. Rzadko rodzą się krasnoludcy czarodzieje.
+Krasnoludy są mistrzami magii runicznej i ochronnej. Są odporne na spaczenie Otchłani, ale mało podatne na większość akademickich szkół magii. Rzadko rodzą się krasnoludcy czarodzieje; ich moc najczęściej płynie z rzemiosła, ziemi i ognia oraz z błogosławieństwa przodków-bogów.
 
 ## Znani przedstawiciele
 - [Thingrim Magnarson](../npcs/Bank%20Krasnoludzki/Thingrim%20Magnarson.md) (Główny Przedstawiciel Banku Krasnoludzkiego na Ziemię, mistrz run)
