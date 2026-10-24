@@ -138,5 +138,9 @@ Przedawkowanie:
 * 3 dawki: Postać traci przytomność na miesiąc.
 * 5 dawek: Postać umiera.
 
-Składniki (na 1 dawkę - 3 ml): TBD
+Składniki (na 1 dawkę - 3 ml):
+* sok z lulecznicy czarnej, 1 ml
+* nalewka z piołunu, 1 ml
+* żywica Srebrodrzewia, 0,5 g
+* ekstrakt z korzenia kozłka lekarskiego (waleriany), 0,5 ml
 
