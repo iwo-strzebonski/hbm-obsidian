@@ -57,13 +57,13 @@ Firma potrzebuje dostawców i klientów. Test Przekonywania pozwala nawiązać r
 - **Drobny producent/rzemieślnik:** T:S 4:2 (chętny do współpracy, ale ograniczone możliwości)
 - **Średnia gildia/firma:** T:S 5:3 (stabilny dostawca, rozsądne ceny)
 - **Duża korporacja/klan:** T:S 6:3 (najlepsze warunki, ale wymagający partnerzy)
-- **Ekskluzywny producent:** T:S 7:4 (rzadkie towary, prestiż, wysokie wymagania)
+- **Ekskluzywny producent:** T:S 6:5 (rzadkie towary, prestiż, wysokie wymagania)
 
 **Klienci:**
 - **Drobny klient (sklep, prywatny nabywca):** T:S 4:2
 - **Średni klient (sieć sklepów, szkoła magii):** T:S 5:3
 - **Duży klient (korporacja, instytucja państwowa):** T:S 6:3
-- **Ekskluzywny klient (bogaty kolekcjoner, elitarna organizacja):** T:S 7:4
+- **Ekskluzywny klient (bogaty kolekcjoner, elitarna organizacja):** T:S 6:5
 
 **Modyfikatory:**
 - Postać z Talentem "Sieć Kontaktów": -1 do Trudności

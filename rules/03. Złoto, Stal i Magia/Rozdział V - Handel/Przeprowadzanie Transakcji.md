@@ -50,13 +50,13 @@ Postać może spróbować przemycić towar bez płacenia cła. Wymaga to jednej 
 - Porażka: celnik odmawia i zgłasza próbę przekupstwa (+2 do Trudności wszystkich przyszłych transakcji)
 
 **Metoda 2: Fizyczne Ominięcie Kontroli**
-- Test Skradania (T:S 6:3) - ukrycie towaru, ominięcie patroli
+- Test Skradania się (T:S 6:3) - ukrycie towaru, ominięcie patroli
 - Koszt: 0 zł
 - Porażka: schwytanie na gorącym uczynku (patrz: Konsekwencje Przemytu)
 
 **Metoda 3: Magiczne Ukrycie**
 - Użycie magii (Iluzja, Teleportacja, Transmutacja)
-- Test Rzucania Zaklęć (T:S zależny od zaklęcia)
+- Test Zdolności Magicznych (T:S zależny od zaklęcia)
 - Koszt: komponenty zaklęcia
 - Porażka: celnik wykrywa magię (detektor magii) lub zaklęcie zawodzi
 
