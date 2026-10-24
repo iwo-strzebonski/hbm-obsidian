@@ -42,7 +42,7 @@ Ponadto w zależności od lat jest dostępna różna ilość zaklęć:
 * Do decyzji Mistrza Gry
 
 
-Na start należy wydać co najmniej jeden Punkt Atrybutu w Atrybuty: Ciało, Dusza, Umysł.
+Na start należy wydać co najmniej po jednym Punkcie Atrybutu w dwóch z trzech Atrybutów: Ciało, Dusza, Umysł.
 Atrybut Magia zależy od rzutu kością dziesięciościenną (k10) i nie można go zmieniać za pomocą Punktów Atrybutów bądź uzyskanymi później Punktami Doświadczenia.
 
 
