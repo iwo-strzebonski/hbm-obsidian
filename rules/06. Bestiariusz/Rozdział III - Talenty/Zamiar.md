@@ -12,7 +12,7 @@ Zanim ta Postać rozstrzygnie efekt swojego Ataku, może wybrać dowolną liczb�
 
 - **Rozerwanie Run** - trwale niszczy 1 punkt Runicznego Pancerza celu (w odróżnieniu od zwykłego przełamania nie da się go przywrócić). Jeżeli był to ostatni punkt Runicznego Pancerza z artefaktu, artefakt zostaje zniszczony (patrz [Zasady Artefaktów](../../01.%20Księga%20Magii/Rozdział%20IV%20-%20Artefakty/Zasady%20Artefaktów.md)).
 - **Rozerwanie Osłony** - niszczy Magiczną Osłonę celu.
-- **Rozdzieranie** - trwale zmniejsza Pancerz celu o 1 do końca starcia (jak cecha broni Rozdzierający).
+- **Rozdzieranie** - trwale zmniejsza Pancerz celu o 1 do końca starcia (odpowiednik cechy broni Rozdzierający, ale bez potrzeby wyrzucenia szóstki).
 - **Ignorowanie Run** - ten Atak ignoruje Runiczny Pancerz celu.
 - **Ignorowanie Osłony** - ten Atak ignoruje Magiczną Osłonę celu.
 - **Ignorowanie Pancerza** - ten Atak ignoruje Pancerz celu.

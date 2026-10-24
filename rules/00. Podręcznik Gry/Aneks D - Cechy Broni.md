@@ -23,4 +23,4 @@ Jeżeli Test się nie powiedzie, wynik sprawdza się w poniższej tabeli. Liczy 
 
 ### Rozdzierający
 
-Rozdzierająca broń nie tylko rani, ale i niszczy osłonę przeciwnika. Za każdym razem, gdy Atak tą bronią zadaje Obrażenia, Pancerz celu jest trwale mniejszy o 1 do końca starcia (nie niżej niż 0). Ta sama Cecha pojawia się w Talencie [Zamiar](../06.%20Bestiariusz/Rozdział%20III%20-%20Talenty/Zamiar.md) jako właściwość *Rozdzieranie*.
+Rozdzierająca broń nie tylko rani, ale i niszczy osłonę przeciwnika. Jeżeli w Teście Ataku tą bronią wypadnie co najmniej jedna **naturalna szóstka** (przed jakimikolwiek modyfikatorami) i Atak zadaje Obrażenia, Pancerz celu jest trwale mniejszy o 1 do końca starcia (nie niżej niż 0). Kilka szóstek w jednym Ataku nadal daje tylko jedną redukcję. Talent [Zamiar](../06.%20Bestiariusz/Rozdział%20III%20-%20Talenty/Zamiar.md) pozwala uzyskać podobny efekt bez rzutu, jako właściwość *Rozdzieranie*.
