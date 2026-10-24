@@ -143,7 +143,7 @@ Bardzo trudny do wykonania i niezwykle niebezpieczny, choć łatwy do wykrycia, 
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Prawdomówności). Postać przez następne 10 minut musi odpowiadać na pytania zgodnie z prawdą i swoją wiedzą, nie ukrywając niczego przed osobą pytającą, przez następne 10 minut. Postać wie, że jest pod wpływem Eliksiru Prawdomówności.
 - Działanie szybkie: Tego eliksiru nie da się wypić w ramach Akcji Natychmiastowej.
 - Moc eliksiru: 8
-- Warzenie: 5:9, 28 dni (najrzadsze składniki: Umiarkowane)
+- Warzenie: 6:9, 28 dni (najrzadsze składniki: Rzadkie)
 
 Przedawkowanie:
 * 2 dawki: Postać traci przytomność na tydzień.
@@ -152,7 +152,7 @@ Przedawkowanie:
 
 Składniki (na 1 dawkę - 3 ml):
 * sok z lulecznicy czarnej, 1 ml
-* nalewka z piołunu, 1 ml
+* nalewka z korzenia mandragory lekarskiej, 1 ml
 * żywica Srebrodrzewia, 0,5 g
 * ekstrakt z korzenia kozłka lekarskiego (waleriany), 0,5 ml
 
