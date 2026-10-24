@@ -17,11 +17,12 @@ Golem nie ma Atrybutów Umysł, Dusza i Magia. Statystyki golema zależą wyłą
 
 | Materiał | Ciało | Żywotność | Pancerz | Pula Walki Wręcz | Obrażenia | Szybkość | Rdzeń (Ładunki) |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Słoma** | 2 | 8 | 0 | 3 kości | +0 | 6 m | 4 |
 | **Glina** | 4 | 14 | 1 | 5 kości | +1 | 6 m | 6 |
 | **Kamień** | 6 | 24 | 2 | 7 kości | +2 | 5 m | 8 |
 | **Metal** | 8 | 36 | 3 | 9 kości | +3 | 5 m | 10 |
 
-Golem zadaje Obrażenia Obuchowe (+bonus z tabeli). Nie wykonuje innych Testów niż ataki i Testy Atletyki (i Siły) oparte na Ciele. Jest odporny na Przerażenie, Oszołomienie, Trucizny, Krwawienie oraz zaklęcia wpływające na umysł. Nie można go Powalić ani Obezwładnić chwytem, jeśli jest cięższy od celu. Na obrażenia Magiczne zachowuje się jak zwykły przeciwnik (ma tylko Pancerz).
+Golem zadaje Obrażenia Obuchowe (+bonus z tabeli). **Słomiany golem** jest najtańszy i najsłabszy: służy za strażnika wiejskiego pola, tragarza albo przynętę. Jest podatny na ogień, więc Obrażenia od ognia są wobec niego większe o 2, a trafiony ogniem płonie (1k3 Obrażeń na rundę do ugaszenia). Dwa słomiane golemy liczą się do limitu golemów jako jeden. Nie wykonuje innych Testów niż ataki i Testy Atletyki (i Siły) oparte na Ciele. Jest odporny na Przerażenie, Oszołomienie, Trucizny, Krwawienie oraz zaklęcia wpływające na umysł. Nie można go Powalić ani Obezwładnić chwytem, jeśli jest cięższy od celu. Na obrażenia Magiczne zachowuje się jak zwykły przeciwnik (ma tylko Pancerz).
 
 ## Tworzenie
 
@@ -29,13 +30,14 @@ Golem powstaje w drodze [Testu Rozszerzonego](../../00.%20Podręcznik%20Gry/Rozd
 
 | Materiał | Wymagania | Trudność | Czas | Koszt materiałów | Ożywienie |
 |---|---|:-:|:-:|:-:|:-:|
+| Słoma | brak (wystarczy Dziedzina) | 4:4 | 1 dzień | 100 zł | 2 Many |
 | Glina | Zdolności Magiczne 2 | 4:6 | 3 dni | 500 zł | 3 Many |
 | Kamień | Zdolności Magiczne 4, Rzemiosło 3 | 5:10 | 2 tygodnie | 3 000 zł | 5 Many |
 | Metal | Mistrzostwo (Golemancja) | 6:14 | 6 tygodni | 12 000 zł | 8 Many |
 
 Po udanym Teście golemancer **ożywia** konstrukcję, wydając wskazaną ilość Many (w jednej chwili - to rytuał). Porażka niszczy 25% materiałów i pozwala spróbować ponownie, jeśli golemancer ma jeszcze czas na dokończenie.
 
-Golemancer może utrzymywać pod swoją kontrolą jednocześnie tyle golemów, ile wynosi **zaokrąglona w górę połowa jego Atrybutu Umysł**. Kolejny golem nie zostanie ożywiony.
+Golemancer może utrzymywać pod swoją kontrolą jednocześnie tyle golemów, ile wynosi **zaokrąglona w górę połowa jego Atrybutu Umysł** (dwa słomiane golemy liczą się za jednego). Kolejny golem nie zostanie ożywiony.
 
 ## Rdzeń i utrzymanie
 
@@ -61,6 +63,7 @@ Golem, którego twórca zginął, odszedł albo zerwał więź z Rdzeniem, nie z
 
 | Materiał | Trudność |
 |---|:-:|
+| Słoma | 4:2 |
 | Glina | 4:3 |
 | Kamień | 5:5 |
 | Metal | 6:7 |

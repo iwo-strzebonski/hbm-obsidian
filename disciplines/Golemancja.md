@@ -24,7 +24,7 @@ Początki golemancji sięgają starożytnych cywilizacji, gdzie pierwsze golemy 
 Golemancja opiera się na przekonaniu, że magia może nadać formę i funkcję materii. Praktycy tej sztuki cenią precyzję, inżynierię magiczną i odpowiedzialność za swoje kreacje. Ważnym aspektem jest etyka tworzenia istot pół-samodzielnych.
 
 ## Poddyscypliny
-- Animacja glinianych, kamiennych i metalowych golemów
+- Animacja słomianych, glinianych, kamiennych i metalowych golemów
 - Tworzenie magicznych automatów
 
 ## Status prawny (Inkwizycja)
