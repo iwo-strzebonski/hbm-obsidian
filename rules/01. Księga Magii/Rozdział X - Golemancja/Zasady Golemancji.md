@@ -53,6 +53,43 @@ W walce golem działa w **Inicjatywie golemancera** (tuż po nim) i ma jedną Ak
 * Uszkodzonego golema naprawia golemancer z Przyborami: godzina pracy i Test Rzemiosło 4:2 przywraca połowę Żywotności.
 * [Rozplatanie Zaklęć](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Rozplatanie%20Zaklęć.md) i podobne efekty mogą unieruchomić golema, zerując jego Rdzeń. Golem z wyzerowanym Rdzeniem odzyskuje 1 Ładunek, gdy golemancer to zrobi.
 
+## Zbłąkane golemy
+
+Golem, którego twórca zginął, odszedł albo zerwał więź z Rdzeniem, nie zamiera od razu. Dopóki w Rdzeniu zostały Ładunki, **zbłąkany golem** wykonuje ostatni Rozkaz dosłownie i bez końca: strzeże drzwi, których już nikt nie otwiera, kopie ten sam tunel, atakuje każdego, kto przekroczy próg. Gdy rozkazu nie da się wykonać, krąży po okolicy i broni się przed wszystkim, co go zaatakuje. Gdy Ładunki się skończą, zamiera i pozostaje w miejscu jak posąg. Zbłąkanymi golemami steruje Mistrz Gry, a ich statystyki są takie jak w tabeli materiałów.
+
+**Przejęcie.** Golemancer może przejąć kontrolę nad zbłąkanym golemem, zamiast budować własnego. Wymaga to godziny pracy przy Rdzeniu i [Testu Rozszerzonego](../../00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Test%20Rozszerzony.md) **Magia + Zdolności Magiczne** o Trudności:
+
+| Materiał | Trudność |
+|---|:-:|
+| Glina | 4:3 |
+| Kamień | 5:5 |
+| Metal | 6:7 |
+
+Golemancer musi spełniać wymagania Umiejętności dla danego materiału (patrz tabela Tworzenie) i wydać Manę ożywienia jak przy budowie. Przejęty golem liczy się do limitu golemów. Porażka rozbudza golema: jeśli ma Ładunki, atakuje próbującego go przejąć. Golemancer może spróbować ponownie dopiero po Długim Odpoczynku, a golem zachowuje swój ostatni Rozkaz, dopóki nie dostanie nowego.
+
+**Skaza.** Przejęty golem nosi ślady dawnej służby. Po udanym przejęciu MG rzuca k6:
+
+| k6 | Skaza |
+|:-:|---|
+| 1 | Wyczerpany Rdzeń: ma o 2 Ładunki mniej niż w tabeli. |
+| 2 | Opóźniony: jego Szybkość spada o 1 m. |
+| 3 | Dosłowny: wykonuje Rozkazy absolutnie dosłownie, a MG może to wykorzystać. |
+| 4 | Przywiązany: nie oddala się od dawnego miejsca służby (budynku, drzwi, posągu) dalej niż o 100 m. |
+| 5 | Pęknięty: ma o 4 Żywotności mniej. |
+| 6 | Brak Skazy. |
+
+Mistrz Gry może zamiast losowania wybrać Skazę pasującą do historii golema.
+
+## Zaklęcia Golemancji
+
+* [Ożywienie Przedmiotu](../../../spells/academic/golemancy/animate-object.md)
+* [Tańczący Oręż](../../../spells/academic/golemancy/dancing-weapon.md)
+* [Ożywione Więzy](../../../spells/academic/golemancy/living-bonds.md)
+* [Ożywiony Strażnik](../../../spells/academic/golemancy/animated-guardian.md)
+* [Ożywiony Gruz](../../../spells/academic/golemancy/animate-rubble.md)
+
+Zaklęcia ożywiają przedmioty tylko na krótko; nie dają im Rdzenia i nie zastępują golema, a ożywione przez nie konstrukcje (Ożywiony Gruz, Ożywiony Strażnik) liczą się do limitu golemów.
+
 ## Granice prawa
 
 Inkwizycja nie zabrania budowy golemów, ale surowo karze dwie rzeczy: **golemy o cechach istot rozumnych** (które potrafią same wybierać rozkazy lub mówić) oraz **użycie golemów w działaniach wojennych bez zezwolenia**. Golemancer, który buduje golema z własną wolą, narusza prawo, a jego stworzenie podlega zniszczeniu.
