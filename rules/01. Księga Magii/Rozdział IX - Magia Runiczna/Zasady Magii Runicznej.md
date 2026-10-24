@@ -13,6 +13,8 @@ Magię Runiczną mogą wybrać wyłącznie **Krasnoludy i Ludzie** (patrz [Wybó
 
 ## Inskrypcja
 
+Wyrywać runy potrafią **wyłącznie postacie z Dziedziną Magia Runiczna**. Inni magowie (także Rzemieślnicy Artefaktów) mogą jedynie aktywować cudzą runę, jeśli znają słowo aktywacji, i próbować ją zatrzeć lub rozbroić, ale sami jej nie wyryją.
+
 Zaklęcia Magii Runicznej (Dziedzina *Magia Runiczna*, symbole zaklęć jak zwykle) nie są rzucane na miejscu, tylko **wyryte**. Inskrypcja to rzucenie zaklęcia, więc obowiązują w niej wszystkie zwykłe zasady: Test Magia + Zdolności Magiczne o Trudności i liczbie Sukcesów podanych w opisie zaklęcia, koszt Many, Nadczarowywanie oraz [Kara za Nieudolność](../../02.%20Klątwa%20Otchłani/Rozdział%20I%20-%20Kara%20za%20nieudolność.md) przy porażce. Różnice są trzy:
 
 * **Czas.** Inskrypcja trwa **10 minut** zamiast zwykłego czasu rzucania. Poza walką, w spokoju, to zazwyczaj nie problem. W trakcie walki wyrycie runy jest praktycznie niemożliwe.
