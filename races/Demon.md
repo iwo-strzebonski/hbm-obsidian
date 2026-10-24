@@ -44,7 +44,7 @@ Demony są naturalnie powiązane z Otchłanią, posiadają wrodzone zdolności m
 Poziom mocy może być wyższy w przypadku potomków wyżej postawionych demonów.
 
 ## Demony jako Postacie Graczy
-Postacie-demony pochodzą z niższych rodów (Pierwszy lub Drugi Poziom). Ich cechy rasowe, odporność na Otchłań i słabość opisuje [Wybór Rasy - Demon](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Demon.md).
+Postacie-demony są demonami Drugiego Poziomu (sukkubami i inkubami), bo tylko takie uczą się w szkołach magii. Ich cechy rasowe, odporność na Otchłań i słabość opisuje [Wybór Rasy - Demon](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Demon.md).
 
 ## Znani przedstawiciele
 - [Narcyza Eleness Zurbach](../npcs/Uczniowie/Narcyza%20Eleness%20Zurbach.md) (arcysukkub, księżniczka Piekieł, demon poziomu Ósmego, córka Króla Demonów)
