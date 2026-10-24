@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 2
 threshold: 5
 successes: 1
-complexityLevel: 2
 symbols:
   - Aer
   - Potentia

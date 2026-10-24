@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 3
 threshold: 4
 successes: 2
-complexityLevel: 2
 symbols:
   - Vinculum
   - Cognitio

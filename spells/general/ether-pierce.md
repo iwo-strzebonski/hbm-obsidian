@@ -8,7 +8,6 @@ sourceBook: ksiega-magii
 manaCost: 2
 threshold: 5
 successes: 2
-complexityLevel: 2
 symbols:
   - Tutamen
   - Vitium

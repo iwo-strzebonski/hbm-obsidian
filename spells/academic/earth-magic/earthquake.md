@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 5
 threshold: 4
 successes: 5
-complexityLevel: 3
 symbols:
   - Terra
   - Potentia

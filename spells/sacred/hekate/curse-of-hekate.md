@@ -10,7 +10,6 @@ sourceBook: ksiega-magii
 manaCost: 6
 threshold: 6
 successes: 2
-complexityLevel: 3
 symbols:
   - Praecantatio
   - Vitium

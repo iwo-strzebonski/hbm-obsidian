@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 3
 threshold: 6
 successes: 1
-complexityLevel: 2
 symbols:
   - Gelum
   - Vinculum

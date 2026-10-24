@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 5
 threshold: 6
 successes: 3
-complexityLevel: 3
 symbols:
   - Somnium
   - Illusio

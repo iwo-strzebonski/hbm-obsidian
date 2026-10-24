@@ -8,7 +8,6 @@ sourceBook: ksiega-magii
 manaCost: 1
 threshold: 4
 successes: 1
-complexityLevel: 1
 symbols:
   - Motus
 castingTime: Instant

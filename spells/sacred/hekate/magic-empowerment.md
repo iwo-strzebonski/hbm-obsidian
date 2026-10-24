@@ -10,7 +10,6 @@ sourceBook: ksiega-magii
 manaCost: 4
 threshold: 4
 successes: 3
-complexityLevel: 2
 symbols:
   - Praecantatio
   - Auram

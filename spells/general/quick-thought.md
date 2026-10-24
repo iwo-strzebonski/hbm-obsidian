@@ -8,7 +8,6 @@ sourceBook: ksiega-magii
 manaCost: 1
 threshold: 5
 successes: 1
-complexityLevel: 1
 verbal: true
 symbols:
   - Cognitio

@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 6
 threshold: 5
 successes: 3
-complexityLevel: 2
 somatic: true
 symbols:
   - Tutamen

@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 2
 threshold: 4
 successes: 3
-complexityLevel: 2
 symbols:
   - Ignis
   - Tutamen

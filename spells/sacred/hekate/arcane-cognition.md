@@ -10,7 +10,6 @@ sourceBook: ksiega-magii
 manaCost: 2
 threshold: 5
 successes: 1
-complexityLevel: 1
 symbols:
   - Cognitio
 requiresDiscipline:

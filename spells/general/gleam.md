@@ -8,7 +8,6 @@ sourceBook: ksiega-magii
 manaCost: 1
 threshold: 3
 successes: 1
-complexityLevel: 1
 symbols:
   - Lux
 castingTime: Instant

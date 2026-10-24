@@ -9,7 +9,6 @@ sourceBook: ksiega-magii
 manaCost: 3
 threshold: 5
 successes: 1
-complexityLevel: 3
 symbols:
   - Sensus
   - Vitium
