@@ -18,12 +18,11 @@ castingTime: Inskrypcja
 range: Dotyk
 targets: Nośnik lub istota, która ją aktywuje
 duration: 4 rundy
-damageBase: magicalAbilities+2
 overcast:
-  - +1k6 punktów wytrzymałości osłony lub +2 rundy trwania
+  - +2 rundy trwania lub +1 punkt Runicznego Pancerza (maksymalnie do 3)
 ---
 # Runa Ochronna
 
 *Zaklęcie wyryte: zasady inskrypcji, aktywacji i limitu run opisuje [Magia Runiczna](../../../rules/01.%20Księga%20Magii/Rozdział%20IX%20-%20Magia%20Runiczna/Zasady%20Magii%20Runicznej.md).*
 
-Po aktywacji wokół celu pojawia się półprzezroczysta, błyszcząca runami osłona. Ma wytrzymałość równą Umiejętności Zdolności Magiczne maga + 2 (liczonej w chwili inskrypcji). Gdy cel ma otrzymać obrażenia, są one pomniejszane maksymalnie o obecną wytrzymałość osłony, która spada o tyle, ile pochłonęła. Gdy wytrzymałość spadnie do 0 lub miną 4 rundy, osłona znika. Osłona działa w kolejności redukcji obrażeń jak zwykła Magiczna Osłona.
+Po aktywacji wokół celu pojawia się półprzezroczysta, błyszcząca runami powłoka. Daje ona celowi **Runiczny Pancerz** równy połowie Umiejętności Zdolności Magiczne maga (zaokrąglonej w górę, liczonej w chwili inskrypcji, minimum 1, maksymalnie 3), który działa na początku [Kolejności Redukcji Obrażeń](../../../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Kolejność%20Redukcji%20Obrażeń.md): obniża każde trafienie o stałą wartość, zanim obrażenia dotrą do Magicznej Osłony i zwykłego Pancerza. Obrażenia powyżej 5 punktów w jednym trafieniu wyłączają 1 punkt Runicznego Pancerza do końca zaklęcia. Gdy minie 4 rundy, powłoka znika. Nie sumuje się z innym źródłem Runicznego Pancerza: obowiązuje wyższa wartość.
