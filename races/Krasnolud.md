@@ -29,6 +29,8 @@ Krasnoludy współpracują z ludźmi przede wszystkim na polu handlu i bankowoś
 
 Stosunki z Elfami są lodowate. Krasnoludy nie chcą dzielić się z nikim **Magią Runiczną**, traktując ją jako swoją absolutną przewagę gospodarczą (tajemnicę korporacyjną). W odwecie Elfy, korzystając ze swoich politycznych wpływów, zablokowały krasnoludom dostęp do edukacji w najbardziej prestiżowych szkołach magii, czyli słynnej **Wielkiej Trzynastce**.
 
+Impas przełamał dopiero rok 2027. Po bardzo długich negocjacjach między dyrektorem [WeSM](../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md), [Pelagiusem Caudexem](../npcs/Nauczyciele/Pelagius%20Caudex.md), a przedstawicielami Krasnoludzkiej Gildii Bankowej Gildia zgodziła się, by WeSM jako jedyna szkoła na Ziemi uczyła ludzi i krasnoludów [Magii Runicznej](../disciplines/Magia%20Runiczna.md). W zamian WeSM jako pierwsza szkoła Wielkiej Trzynastki przyjęła krasnoludy jako pełnoprawnych uczniów, a program nauczania run nadzorują wspólnie szkoła i Gildia.
+
 ## Magia i wrażliwość na Otchłań
 Krasnoludy są mistrzami magii runicznej i ochronnej. Są odporne na spaczenie Otchłani, ale mało podatne na inne szkoły magii. Rzadko rodzą się krasnoludcy czarodzieje.
 

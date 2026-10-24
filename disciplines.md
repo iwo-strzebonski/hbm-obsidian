@@ -6,7 +6,7 @@ tags:
 	- [Taumaturgia](disciplines/Taumaturgia.md)
 		- [Alchemia](disciplines/Alchemia.md) (do Dziedzin Taumaturgicznych należy wyłącznie [Alchemia Transmutacji](disciplines/Alchemia/Poddziedzina%20-%20Transmutacja.md))
 		- [Rzemiosło Artefaktów](disciplines/Rzemiosło%20Artefaktów.md)
-		- [Magia Runiczna](disciplines/Magia%20Runiczna.md) (nie należy do Dziedzin Akademickich)
+		- [Magia Runiczna](disciplines/Magia%20Runiczna.md) (nie należy do Dziedzin Akademickich; od 2027 roku nauczana wyłącznie w WeSM, na mocy umowy z Krasnoludzką Gildią Bankową)
 		- [Golemancja](disciplines/Golemancja.md)
 		- [Botanika](disciplines/Botanika.md)
 	- [Magia Sakralna](disciplines/Magia%20Sakralna.md)

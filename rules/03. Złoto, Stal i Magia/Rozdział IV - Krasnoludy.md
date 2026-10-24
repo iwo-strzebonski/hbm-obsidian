@@ -6,21 +6,6 @@ tags:
 aliases:
   - Rozdział IV - Krasnoludy
 ---
-Cechy Rasowe:
-* Dostępne Dziedziny Magii:
-   * Alchemia (Transmutacja)
-   * Rzemiosło Artefaktów
-   * Magia Żywiołów (Ziemi, Ognia)
-* 3 Punkty Atrybutów
-* Darmowe Talenty:
-   * Widzenie w Ciemności
-   * Zmysł Kamienia
-   * jeden z listy: Rzemieślniczy Zmysł, Złoty Nos lub Hartowany w Ogniu
-* 1 Punkt Umiejętności w Sile
-* 1 Punkt Umiejętności w Wytrzymałości
-* 1 Punkt Umiejętności w Rzemiośle
-* 10 Punktów Umiejętności do rozdania w dowolne umiejętności
-* Języki: język ziemski (np. polski) oraz Khazdul
+Cechy Rasowe krasnoludów (Dziedziny Magii, Atrybuty, Talenty, Języki i Słabość) znajdziesz w Podręczniku Gry: [Wybór Rasy - Krasnolud](../00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Krasnolud.md).
 
-**Słabość rasowa - Światłowstręt**
-W jasnym świetle słonecznym krasnoludy tracą jedną kość przy testach Spostrzegawczości oraz Umiejętności Strzeleckich. Efekt można zniwelować noszeniem przyciemnianych okularów.
+Krasnoludy są rasą, która ukształtowała nowy porządek gospodarczy Ziemi, dlatego Postać-krasnolud ma w handlu wyraźną przewagę. Talenty *Złoty Nos* i *Rzemieślniczy Zmysł* (patrz [Aneks A - Nowe Talenty](Aneks%20A%20-%20Nowe%20Talenty/Zmysł%20Kamienia.md)) są szczególnie przydatne przy zakładaniu i prowadzeniu własnej firmy, a kontakty w Banku Krasnoludzkim ułatwiają zdobycie finansowania.

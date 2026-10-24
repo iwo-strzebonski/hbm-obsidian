@@ -31,4 +31,4 @@ Golemancja opiera się na przekonaniu, że magia może nadać formę i funkcję 
 Golemancja jest legalna, ale podlega ścisłej kontroli. Zakazane jest tworzenie golemów o cechach istot rozumnych oraz używanie ich do działań wojennych bez zgody władz.
 
 ## Mechanika
-Goleman może tworzyć i kontrolować golemy, naprawiać je, programować runicznie oraz eksperymentować z nowymi typami konstrukcji. Szczegóły: patrz [Księga Magii](../rules/01.%20Księga%20Magii.md).
+Golemancer tworzy i kontroluje golemy (gliniane, kamienne, metalowe), naprawia je i odbudowuje z ocalałych Rdzeni. Pełne zasady: [Zasady Golemancji](../rules/01.%20Księga%20Magii/Rozdział%20X%20-%20Golemancja/Zasady%20Golemancji.md); wybór Dziedziny: [Golemancja (tworzenie Postaci)](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Dziedziny%20Magii%20-%20Golemancja.md).

@@ -20,6 +20,8 @@ Cechy Rasowe:
    * Magia Sakralna
    * Magia Żywiołów
    * Rzemiosło Artefaktów
+   * Magia Runiczna
+   * Golemancja
 * 3 Punkty Atrybutów
 * Darmowe Talenty:
    * Technologia Jest Wśród Nas
