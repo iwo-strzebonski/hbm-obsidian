@@ -9,7 +9,7 @@ aliases:
 ---
 # Weteran
 
-Zahartowany w boju zawodowiec: sierżant, najemnik, dowódca oddziału albo instruktor walki. Walczy sprawnie, parując ciosy i wyczuwając słabe punkty przeciwnika. Dla Postaci na czwartym roku to wyzwanie nawet w pojedynkę.
+Zahartowany w boju zawodowiec: sierżant, najemnik, dowódca oddziału albo instruktor walki. Walczy sprawnie, osłaniając się tarczą i wyczuwając słabe punkty przeciwnika. Dla Postaci na czwartym roku to wyzwanie nawet w pojedynkę.
 
 ## Statystyki
 
@@ -37,13 +37,12 @@ Zwykli przeciwnicy nie mają Many ani Atrybutu Magia i nie rzucają zaklęć. Je
 
 - [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) (nie można go zaskoczyć w walce; +2 do Inicjatywy)
 - [Oportunista](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Oportunista.md)
-- [Parowanie](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Parowanie.md)
 
 ### Ekwipunek
 
 - [Broń jednoręczna](../../../items/weapons/Broń%20jednoręczna%20lub%20półtoraręczna.md): Obrażenia 1+S
-- [Tarcza](../../../items/armor/Tarcza.md) (podnosi Obronę o jeden Stopień)
+- [Tarcza](../../../items/armor/Tarcza.md) (+1 Pancerz)
 - [Pancerz Średni](../../../items/armor/Pancerz%20Średni.md) (Pancerz 2)
 
 > [!gm]+ Taktyka
-> Weteran najpierw parowaniem i tarczą neutralizuje najgroźniejszego przeciwnika, potem rozbija formację. Oportunistą karze każdego, kto odwraca się od niego plecami. W drużynie dowodzi i wskazuje cele pozostałym. Jeśli walka jest przegrana, wycofuje się w porządku, zabierając rannych.
+> Weteran najpierw tarczą i pancerzem neutralizuje najgroźniejszego przeciwnika, potem rozbija formację. Oportunistą karze każdego, kto odwraca się od niego plecami. W drużynie dowodzi i wskazuje cele pozostałym. Jeśli walka jest przegrana, wycofuje się w porządku, zabierając rannych.

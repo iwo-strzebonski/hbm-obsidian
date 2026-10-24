@@ -15,11 +15,12 @@ Magię Runiczną mogą wybrać wyłącznie **Krasnoludy i Ludzie** (patrz [Wybó
 
 Wyrywać runy potrafią **wyłącznie postacie z Dziedziną Magia Runiczna**. Inni magowie (także Rzemieślnicy Artefaktów) mogą jedynie aktywować cudzą runę, jeśli znają słowo aktywacji, i próbować ją zatrzeć lub rozbroić, ale sami jej nie wyryją.
 
-Zaklęcia Magii Runicznej (Dziedzina *Magia Runiczna*, symbole zaklęć jak zwykle) nie są rzucane na miejscu, tylko **wyryte**. Inskrypcja to rzucenie zaklęcia, więc obowiązują w niej wszystkie zwykłe zasady: Test Magia + Zdolności Magiczne o Trudności i liczbie Sukcesów podanych w opisie zaklęcia, koszt Many, Nadczarowywanie oraz [Kara za Nieudolność](../../02.%20Klątwa%20Otchłani/Rozdział%20I%20-%20Kara%20za%20nieudolność.md) przy porażce. Różnice są trzy:
+Zaklęcia Magii Runicznej (Dziedzina *Magia Runiczna*, symbole zaklęć jak zwykle) nie są rzucane na miejscu, tylko **wyryte**. Inskrypcja to rzucenie zaklęcia, więc obowiązują w niej wszystkie zwykłe zasady: Test Magia + Zdolności Magiczne o Trudności i liczbie Sukcesów podanych w opisie zaklęcia, koszt Many i Nadczarowywanie. [Kara za Nieudolność](../../02.%20Klątwa%20Otchłani/Rozdział%20I%20-%20Kara%20za%20nieudolność.md) obowiązuje przy porażce tylko wtedy, gdy mag nadczarowywał inskrypcję; zwykła nieudana inskrypcja marnuje jedynie Manę i materiały. Różnice są cztery:
 
 * **Czas.** Inskrypcja trwa **10 minut** zamiast zwykłego czasu rzucania. Poza walką, w spokoju, to zazwyczaj nie problem. W trakcie walki wyrycie runy jest praktycznie niemożliwe.
 * **Materiał.** Do wyrycia potrzebny jest nośnik (kamień, metal, drewno, skóra, szkło - cokolwiek, co utrzyma znak) oraz narzędzia: nóż do run lub dłuto, tusz runiczny albo srebrna nić. Zestaw narzędzi kosztuje około 300 zł, a materiały zużywane na jedną runę **20 zł za każdy punkt Many kosztu zaklęcia** (Runa Trwała: 100 zł za punkt).
 * **Zapis.** Sukcesy uzyskane w Teście inskrypcji zostają w runie. Po aktywacji efekt działa tak, jakby mag w tej chwili rzucił zaklęcie z tymi Sukcesami (zaklęcia z obrażeniami i inne, w których liczą się Sukcesy, korzystają z wartości zapisanej w runie). Nadczarowanie można wykonać tylko podczas inskrypcji.
+* **Koszt.** Koszt Many inskrypcji (także potrojony koszt Runy Trwałej) nie podlega Maksymalnemu Kosztowi Zaklęcia, bo runę tworzy się powoli, a nie jednym wyrzutem mocy. Dzienna pula Many obowiązuje jak zwykle.
 
 Nośnik runy jest jej **celem**: zaklęcia, które normalnie wpływają na wskazaną istotę, wpływają na tę, która runę aktywuje lub niesie (patrz niżej), a zaklęcia obszarowe działają wokół nośnika.
 

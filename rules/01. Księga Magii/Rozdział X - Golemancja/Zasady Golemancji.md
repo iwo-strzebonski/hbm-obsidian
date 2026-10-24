@@ -32,12 +32,12 @@ Golem powstaje w drodze [Testu Rozszerzonego](../../00.%20Podręcznik%20Gry/Rozd
 |---|---|:-:|:-:|:-:|:-:|
 | Słoma | brak (wystarczy Dziedzina) | 4:4 | 1 dzień | 100 zł | 2 Many |
 | Glina | Zdolności Magiczne 2 | 4:6 | 3 dni | 500 zł | 3 Many |
-| Kamień | Zdolności Magiczne 4, Rzemiosło 3 | 5:10 | 2 tygodnie | 3 000 zł | 5 Many |
-| Metal | Mistrzostwo (Golemancja) | 6:14 | 6 tygodni | 12 000 zł | 8 Many |
+| Kamień | Zdolności Magiczne 4, Rzemiosło 3 | 5:8 | 2 tygodnie | 3 000 zł | 5 Many |
+| Metal | Mistrzostwo (Golemancja) | 5:12 | 6 tygodni | 12 000 zł | 8 Many |
 
 Po udanym Teście golemancer **ożywia** konstrukcję, wydając wskazaną ilość Many (w jednej chwili - to rytuał). Porażka niszczy 25% materiałów i pozwala spróbować ponownie, jeśli golemancer ma jeszcze czas na dokończenie.
 
-Golemancer może utrzymywać pod swoją kontrolą jednocześnie tyle golemów, ile wynosi **zaokrąglona w górę połowa jego Atrybutu Umysł** (dwa słomiane golemy liczą się za jednego). Kolejny golem nie zostanie ożywiony.
+Golemancer może utrzymywać pod swoją kontrolą jednocześnie tyle golemów, ile wynosi **zaokrąglona w dół połowa jego Atrybutu Umysł**, ale nie mniej niż jeden (dwa słomiane golemy liczą się za jednego). Kolejny golem nie zostanie ożywiony.
 
 ## Rdzeń i utrzymanie
 
