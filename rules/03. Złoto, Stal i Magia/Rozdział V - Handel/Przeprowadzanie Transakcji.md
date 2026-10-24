@@ -39,6 +39,7 @@ Postać musi przewieźć towar z miejsca zakupu do miejsca sprzedaży, płacąc 
 - **Kategoria A:** 2-5% wartości towaru (cło + transport)
 - **Kategoria B:** 10-15% wartości towaru (cło + transport + opłaty administracyjne)
 - **Kategoria C:** 25-40% wartości towaru (cło + transport + opłaty licencyjne)
+- **Kategoria D:** legalny handel jest niemożliwy - żadna licencja nie obejmuje Tenebrytu ani przedmiotów Magii Krwi. Towary tej kategorii można kupować i sprzedawać wyłącznie na czarnym rynku (patrz: Działanie na Czarnym Rynku), a każde przewiezienie ich przez granicę jest przemytem.
 
 **Nielegalny Przemyt (ominięcie cła):**
 
