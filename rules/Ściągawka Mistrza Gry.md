@@ -19,7 +19,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 - [ ] Karty graczy: pula Many, Maks. Koszt Zaklęcia, Żywotność, Zapał, Inicjatywa, aktualne Stany.
 - [ ] Statystyki przeciwników: [Bestiariusz](06.%20Bestiariusz.md) - przeczytaj Talenty unikalne, o których gracze nie wiedzą.
 - [ ] Ile **Kości Losu** rozdajesz w tej sesji (patrz sekcja 6).
-- [ ] Które zasady są dziś "w budowie": [Przerażony](00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Przerażony.md), Choroby Psychiczne (w opracowaniu).
+- [ ] Które zasady są dziś "w budowie": [Przerażony](00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Przerażony.md), Choroby Psychiczne (nowe, jeszcze nie sprawdzone w grze).
 - [ ] Zasada stołu: wątpliwość = szybka decyzja MG, **rzut i dalej**; spór po sesji.
 
 ## 1. Ustalanie trudności
@@ -88,7 +88,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 - **Dawkowanie:** sesja zwykła 0-1 kość na drużynę, epicka 1-2, łuk kampanii 3-4. Kości znikają ze śmiercią postaci, chyba że wskrzeszenie nastąpi w ciągu 24 godzin. Zobacz [Notatki dla MG](2026-02-04-mechanika-kosci-losu/Notatki%20dla%20MG.md).
 - **[Kara Mistrza Losu](02.%20Klątwa%20Otchłani/Aneks%20A%20-%20Kara%20Mistrza%20Losu.md)** (k100): 01-20 utrata losowego Talentu; 21-40 −1 Atrybut; 41-55 śpiączka 3k6 miesięcy; 56-70 1k6 chorób psychicznych; 71-80 zostaje wysłany Strażnik Otchłani; 81-90 porwanie i podmiana Symulakrum; 91-00 wymazanie z istnienia.
 - **[Dary Otchłani](02.%20Klątwa%20Otchłani/Rozdział%20III%20-%20Dary%20Otchłani.md)** (k100): tabela darów - sprawdź ją przed sesją, jeśli któraś postać ma Talent Dar Otchłani.
-- **Choroby Psychiczne:** rozdział w opracowaniu - przy wyniku "choroby psychiczne" ustal skutek samodzielnie i zapisz go, żeby zachować spójność.
+- **[Choroby Psychiczne](02.%20Klątwa%20Otchłani/Rozdział%20IV%20-%20Choroby%20Psychiczne.md):** Próg Obłędu = Dusza + 3; po jego osiągnięciu Punkty Obłędu spadają do 0 i Postać dostaje chorobę (k12). Wyzwalacz → Test Dusza (Determinacja) 5:S (S = liczba chorób, min. 2); porażka = Napad na 1k3 rundy / 10 minut. Szósta choroba = nowa Karta Postaci. Remisja: terapia 5:6 po miesiącu opieki.
 
 > [!warning] Nazewnictwo w Kościach Losu
 > Dokumenty Kości Losu używają starych terminów (Powalony zamiast Przewrócony, Przestraszony zamiast Przerażony, "Test Woli (Dusza + Opanowanie)", Punkty Magii zamiast Many, "Utrudnienie ×2 próg"). Czytając je, tłumacz je na obecne zasady.
