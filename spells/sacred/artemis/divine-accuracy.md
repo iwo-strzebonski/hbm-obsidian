@@ -21,4 +21,4 @@ overcast:
 ---
 # Boska Celność
 
-Bogini Łowów błogosławi wybraną osobę, ułatwiając jej celowanie. Do końca trwania zaklęcia cel otrzymuje trzy dodatkowe kości do wszystkich Testów związanych z Umiejętnością Umiejętności Strzeleckie.
+Bogini Łowów błogosławi wybraną osobę, ułatwiając jej celowanie. Do końca trwania zaklęcia cel otrzymuje **trzy dodatkowe kości** do wszystkich Testów opartych na Umiejętności Strzeleckie.

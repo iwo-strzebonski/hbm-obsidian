@@ -21,6 +21,6 @@ overcast:
 ---
 # Chmara Insektów
 
-Na wybranym obszarze pojawia się chmara insektów, obniżająca Pancerz o 1 oraz zmniejszając prędkość Ruchu o 50% wszystkim istotom znajdującym się w wybranym Obszarze.
+Na wybranym obszarze pojawia się gęsta chmara owadów, która oblepia wszystkie istoty w kwadracie. Do końca trwania zaklęcia każda istota w obszarze ma **Pancerz niższy o 1** (do minimum 0) oraz **Szybkość zmniejszoną o połowę**. Owady nie robią krzywdy, ale rozpraszają, żądlą i nie dają się zlekceważyć. Efekt działa na wszystkie istoty, także na sojuszników rzucającego, które znajdą się w obszarze.
 
 > Kelner, kelner! Milion os proszę!
