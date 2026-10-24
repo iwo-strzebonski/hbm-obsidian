@@ -78,7 +78,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 
 | Temat | Zasada |
 | --- | --- |
-| **Eliksiry** | Tolerancja = Ciało + Wytrzymałość (×2 z Odpornością na Trucizny). Zatrucie = suma Mocy dawek. Przekroczenie: 1-3 efekt o połowę; 4-6 −1 kość do Magii; 7-9 zaklęcia wymagają podwójnych Sukcesów; 10-12 pół many; 13-15 brak kości Magii; 16+ nieprzytomność. Zdejmuje Długi Odpoczynek ([Przekroczenie Tolerancji](01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Przekroczenie%20Tolerancji%20Eliksirów.md)) |
+| **Eliksiry** | Tolerancja = Ciało + Wytrzymałość (×2 z Odpornością na Trucizny). Zatrucie = suma Mocy dawek. Przekroczenie: 1-3 efekt o połowę; 4-6 −1 kość do Magii; 7-9 zaklęcia wymagają podwójnych Sukcesów; 10-12 pół many; 13-15 brak kości Magii; 16+ nieprzytomność. Warzenie: Test Rozszerzony Magia + Medycyna, T ze składników (4/5/6), S = Moc + 1, czas 1-28 dni wg Mocy. Zdejmuje Długi Odpoczynek ([Przekroczenie Tolerancji](01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Przekroczenie%20Tolerancji%20Eliksirów.md)) |
 | **Artefakty** | limit: ⌈½ Umysłu⌉ dla magów, Umysł dla Rzemieślników; jedno trwałe ulepszenie na artefakt; wykonanie = Test Rozszerzony przez tygodnie, +25% materiałów za każdy dodatkowy tydzień ([Zasady Artefaktów](01.%20Księga%20Magii/Rozdział%20IV%20-%20Artefakty/Zasady%20Artefaktów.md)) |
 | **Broń Eksperymentalna** | Test Ciało (Zręczność lub Rzemiosło) 6:S; S rośnie o 1 za każdą porażkę. Tabela: 1-3 zacięcie, 4-5 pęknięcie, 6+ wybuch [1k6]k6 ([Cechy Broni](00.%20Podręcznik%20Gry/Aneks%20D%20-%20Cechy%20Broni.md)) |
 

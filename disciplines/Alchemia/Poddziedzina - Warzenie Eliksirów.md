@@ -44,7 +44,7 @@ Potrafisz warzyć wybrane eliksiry a także je rozpoznawać.
 ### Sugerowane umiejętności:
 - Medycyna
 ### Test związany z Dziedziną: *Korzystanie ze sprzętu alchemicznego*
-**[Rozszerzony] Magia + Medycyna**
+**[Rozszerzony] Magia + Medycyna** - trudność, czas i porażka warzenia opisuje strona [Warzenie Eliksirów](../../rules/01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Warzenie%20Eliksirów.md).
 
 ---
 ## Eliksiry
@@ -59,6 +59,7 @@ Eliksir Zdrowia leczy mniej poważne rany, ale nie poradzi sobie ze złamaniami 
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Zdrowia. Natychmiast odzyskuje 6 Punktów Żywotności.
 - Działanie szybkie: W ramach Akcji Natychmiastowej (Użycie Przedmiotu) Postać może wypić Eliksir Zdrowia. Natychmiast odzyskuje 1k6 Punktów Żywotności.
 - Moc eliksiru: 2
+- Warzenie: 4:3, 1 dzień (najrzadsze składniki: Powszechne)
 
 Przedawkowanie:
 * 5 dawek: Postać zaczyna kaszleć krwią - traci 2k3 Punktów Żywotności. Ponadto efekty wszystkich dawek tego eliksiru przestają działać do końca przedawkowania.
@@ -78,6 +79,7 @@ W trakcie intensywnych treningów, pojedynków czy prawdziwych walk magowie musz
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Odnowienia Many. Postać natychmiast odzyskuje 3 punkty Many (nie więcej, niż wynosi jej dzienna pula), a do końca swojej następnej tury jej Maksymalny Koszt Zaklęcia zwiększa się o 1 (ten eliksir nie pozwala jednak na rzucanie zaklęć, których bazowy koszt Many jest wyższy niż bazowa wartość Maksymalnego Kosztu Zaklęcia maga).
 - Działanie szybkie: W ramach Akcji Natychmiastowej (Użycie Przedmiotu) Postać może wypić Eliksir Odnowienia Many.  Postać natychmiast odzyskuje 1k3 punktów Many (nie więcej, niż wynosi jej dzienna pula).
 - Moc eliksiru: 2
+- Warzenie: 4:3, 1 dzień (najrzadsze składniki: Powszechne)
 
 Przedawkowanie:
 * 5 dawek: Do końca walki Maksymalny Koszt Zaklęcia postaci zostaje zmniejszony o 3 (do minimum 1), a ponadto efekty wszystkich dawek tego eliksiru przestają działać do końca przedawkowania.
@@ -99,6 +101,7 @@ Ze względu na gęstą konsystencję ciężko to nazwać eliksirem.
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Osłabienia. Do końca walki wszystkie Testy związane z Atrybutem Ciało należy wykonywać z jedną kością mniej. Eliksir nadaje się do naniesienia na broń.
 - Działanie szybkie: Tego eliksiru nie można wypić w ramach Akcji Natychmiastowej.
 - Moc eliksiru: 1
+- Warzenie: 5:2, 1 dzień (najrzadsze składniki: Umiarkowane)
 
 Przedawkowanie:
 * 3 dawki: Za każdym razem, gdy postać chce wykonać akcję, musi wykonać udany Test 5:1 na Ciało (Wytrzymałość). W wypadku niepowodzenia Postać traci akcję.
@@ -119,6 +122,7 @@ Ten eliksir doda tę odrobinę prędkości osobie, która go wypije!
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Szybkości. W tej rundzie (od razu) oraz w kolejnych dwóch rundach Postać ma jedną dodatkową Akcję w swojej turze. Ta Akcja nie kosztuje Zapału i nie wstrzymuje odnawiania Zapału; Zapałem można dodatkowo opłacić kolejną Akcję na zwykłych zasadach.
 - Działanie szybkie: Tego eliksiru nie można wypić w ramach Akcji Natychmiastowej.
 - Moc Eliksiru: 4
+- Warzenie: 6:5, 7 dni (najrzadsze składniki: Rzadkie)
 
 Przedawkowanie:
 * 3 dawki: Postać zostaje Spowolniona do końca walki.
@@ -139,6 +143,7 @@ Bardzo trudny do wykonania i niezwykle niebezpieczny, choć łatwy do wykrycia, 
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Prawdomówności). Postać przez następne 10 minut musi odpowiadać na pytania zgodnie z prawdą i swoją wiedzą, nie ukrywając niczego przed osobą pytającą, przez następne 10 minut. Postać wie, że jest pod wpływem Eliksiru Prawdomówności.
 - Działanie szybkie: Tego eliksiru nie da się wypić w ramach Akcji Natychmiastowej.
 - Moc eliksiru: 8
+- Warzenie: 5:9, 28 dni (najrzadsze składniki: Umiarkowane)
 
 Przedawkowanie:
 * 2 dawki: Postać traci przytomność na tydzień.
@@ -158,6 +163,7 @@ Zwyczajowo nazywany "pancerzem w butelce" - skóra pijącego na krótko twardnie
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Kamiennej Skóry. Przez następne trzy rundy jej Pancerz jest większy o 1 (dzięki temu eliksirowi łączny Pancerz nie może jednak przekroczyć 3).
 - Działanie szybkie: W ramach Akcji Natychmiastowej (Użycie Przedmiotu) Postać może wypić Eliksir Kamiennej Skóry. Pancerz jest większy o 1 tylko do końca bieżącej rundy.
 - Moc eliksiru: 3
+- Warzenie: 4:4, 3 dni (najrzadsze składniki: Powszechne)
 
 Przedawkowanie:
 * 3 dawki: Postać zostaje Spowolniona do końca walki, a efekty wszystkich dawek tego eliksiru przestają działać do końca przedawkowania.
@@ -178,6 +184,7 @@ Eliksir ceniony przez magów bojowych i uczniów w sesji egzaminacyjnej: wycisza
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Skupienia. Przez minutę (10 rund) w Testach związanych z Atrybutem Magia oraz w Testach na utrzymanie Koncentracji Postać rzuca o jedną kość więcej.
 - Działanie szybkie: Tego eliksiru nie można wypić w ramach Akcji Natychmiastowej.
 - Moc eliksiru: 4
+- Warzenie: 5:5, 7 dni (najrzadsze składniki: Umiarkowane)
 
 Przedawkowanie:
 * 3 dawki: Postać nie może się skupić. Do końca walki wszystkie Testy związane z Atrybutem Magia wykonuje z jedną kością mniej, a efekty wszystkich dawek tego eliksiru przestają działać do końca przedawkowania.
@@ -198,6 +205,7 @@ Skromny, tani i bardzo popularny wśród złodziei, szperaczy po lochach i stra�
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Nocnego Widzenia. Przez godzinę widzi w całkowitej ciemności tak, jak w świetle dnia, do 20 m. Silne światło (np. błysk zaklęcia) Oślepia ją do końca następnej rundy.
 - Działanie szybkie: Tego eliksiru nie można wypić w ramach Akcji Natychmiastowej.
 - Moc eliksiru: 1
+- Warzenie: 5:2, 1 dzień (najrzadsze składniki: Umiarkowane)
 
 Przedawkowanie:
 * 4 dawki: Postać zostaje Oślepiona do końca dnia, a efekty wszystkich dawek tego eliksiru przestają działać do końca przedawkowania.
@@ -217,6 +225,7 @@ Nie wspomaga niczego - odwrotnie, pozwala wypłukać z organizmu to, co wypiło 
 - Działanie normalne: W ramach Akcji (Użycie Przedmiotu) Postać może wypić Eliksir Oczyszczenia. Zatrucie Eliksirami zmniejsza się o 4 (nie poniżej 0), a trwający Stan Zatruty zostaje zakończony.
 - Działanie szybkie: W ramach Akcji Natychmiastowej (Użycie Przedmiotu) Postać może wypić Eliksir Oczyszczenia. Zatrucie Eliksirami zmniejsza się o 2 (nie poniżej 0).
 - Moc eliksiru: 0 (nie zwiększa Zatrucia Eliksirami)
+- Warzenie: 4:2, 1 dzień (najrzadsze składniki: Powszechne)
 
 Przedawkowanie:
 * 4 dawki: Silne wymioty - Postać traci 2k3 Punktów Żywotności, a wszystkie trwające efekty innych eliksirów natychmiast się kończą.
@@ -236,6 +245,7 @@ Gęsty, ciemny wywar, który rzadko pije się z własnej woli. Zwykle trafia na 
 - Działanie normalne: Cel, który wypił lub wchłonął Eliksir Odrętwienia, zostaje Spowolniony na trzy rundy i w tym czasie wykonuje Testy Refleks (w tym Uniki) z jedną kością mniej. Eliksir nadaje się do naniesienia na broń (Test przeciwstawienia się wchłonięciu dawki ma wtedy Trudność 5:2, patrz: Nanoszenie Eliksirów na Broń).
 - Działanie szybkie: Tego eliksiru nie można wypić w ramach Akcji Natychmiastowej.
 - Moc eliksiru: 3
+- Warzenie: 5:4, 3 dni (najrzadsze składniki: Umiarkowane)
 
 Przedawkowanie:
 * 3 dawki: Postać zostaje Obezwładniona na 1k3 rund, a efekty wszystkich dawek tego eliksiru przestają działać do końca przedawkowania.
