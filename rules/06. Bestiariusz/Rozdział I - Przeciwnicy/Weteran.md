@@ -41,7 +41,7 @@ Zwykli przeciwnicy nie mają Many ani Atrybutu Magia i nie rzucają zaklęć. Je
 ### Ekwipunek
 
 - [Broń jednoręczna](../../../items/weapons/Broń%20jednoręczna%20lub%20półtoraręczna.md): Obrażenia 1+S
-- [Tarcza](../../../items/armor/Tarcza.md) (+1 Pancerz)
+- [Tarcza](../../../items/armor/Tarcza.md) (podnosi Obronę o jeden Stopień)
 - [Pancerz Średni](../../../items/armor/Pancerz%20Średni.md) (Pancerz 2)
 
 > [!gm]+ Taktyka

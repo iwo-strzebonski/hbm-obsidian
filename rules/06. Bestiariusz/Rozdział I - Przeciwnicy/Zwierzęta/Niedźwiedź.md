@@ -12,7 +12,7 @@ Potężny drapieżnik górskich i leśnych terenów. Statystyki służą zarówn
 
 | Ciało | Żywotność | Pancerz | Szybkość |
 |:---:|:---:|:---:|:---:|
-| 7 | 28 | 1 | 9 m |
+| 7 | 22 | 1 | 9 m |
 
 * **Atak:** łapy: 2+S, obuchowe lub sieczne
 - **Uchwyt:** po udanym ataku może w tej samej Akcji spróbować Powalić cel (Test Ciało/Siła przeciwko Atletyce lub Sile celu).

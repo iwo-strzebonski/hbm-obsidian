@@ -5,4 +5,4 @@ tags:
 # Tarcza
 
 
-Tarcza, gdy jest używana, daje +1 Pancerza (sumuje się z Pancerzem noszonej zbroi)
+Tarcza, gdy jest używana, podnosi Obronę właściciela o jeden stopień
