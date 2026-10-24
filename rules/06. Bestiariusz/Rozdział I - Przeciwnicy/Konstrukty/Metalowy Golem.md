@@ -16,6 +16,7 @@ Spawana, kuta i runicznie spajana konstrukcja ze stali lub brązu. Najcięższa 
 
 * **Atak:** pula 9 kości w Walce Wręcz, Obrażenia +3, obuchowe
 * **Rozkaz:** wykonuje jeden rozkaz dosłownie; bez golemancera pozostaje [zbłąkany](../../../01.%20Księga%20Magii/Rozdział%20X%20-%20Golemancja/Zasady%20Golemancji.md).
+* **Woda:** tonie natychmiast i nie potrafi wypłynąć; na dnie porusza się z połową Szybkości.
 * **Konstrukt:** nie ma Umysłu, Duszy ani Many; jest odporny na Przerażenie, Oszołomienie, Trucizny i Krwawienie oraz zaklęcia wpływające na umysł.
 
 > [!gm]+ Taktyka
