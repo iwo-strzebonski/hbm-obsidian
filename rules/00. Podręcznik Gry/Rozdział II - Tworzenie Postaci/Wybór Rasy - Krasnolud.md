@@ -17,6 +17,7 @@ Cechy Rasowe:
    * Rzemiosło Artefaktów
    * Magia Runiczna
    * Golemancja
+   * Alchemia (Transmutacja)
    * Magia Żywiołów (Ziemi, Ognia)
    * Magia Sakralna
 * 3 Punkty Atrybutów
