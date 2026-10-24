@@ -97,3 +97,14 @@ Aby żadna pętla zakupu i odsprzedaży (kupno ze zniżką do 40%, sprzedaż z p
 - **Dolna granica Trudności:** Trudność (T) testów handlowych nie może spaść poniżej 2, bez względu na liczbę kumulujących się modyfikatorów.
 - **Jedna transakcja na parę:** ta sama para dostawca-klient może zawrzeć najwyżej jedną transakcję na miesiąc.
 - **Jedna minigra na firmę:** firma może przeprowadzić najwyżej jedną minigrę handlową (patrz: Opcjonalnie - Handel jako Minigra) na miesiąc.
+
+### Koszty Utrzymania Firmy
+
+Firma, która handluje na większą skalę, kosztuje coraz więcej, ponieważ każdy kontakt trzeba podtrzymywać, każdy towar magazynować i ubezpieczać, a urząd skarbowy zawsze upomni się o swoje. Te same koszty obowiązują zarówno w zwykłych transakcjach, jak i w minigrze, i rozlicza się je raz w miesiącu.
+
+- **Koszty stałe: 4 000 zł miesięcznie** (w tym czynsz biura, księgowa i opłaty urzędowe) **oraz 2 000 zł za każdą parę dostawca-klient**, z którą firma utrzymuje kontakt. Podtrzymanie relacji to wizyty, prezenty i pośrednicy, więc płaci się je także w miesiącu bez żadnej transakcji. Jeżeli firma nie zapłaci za parę, kontakt wygasa i trzeba go nawiązać od nowa.
+- **Koszty zmienne: 5% wartości obrotu** (wartość katalogowa zakupionego towaru) z tytułu magazynowania, ubezpieczenia i obsługi. Dla towarów Kategorii C jest to 8%.
+- **Podatek: 15% miesięcznego wyniku**, czyli zysku ze wszystkich transakcji po odjęciu kosztów zmiennych i stałych. Strata nie jest opodatkowana, ale też nie przechodzi na kolejny miesiąc.
+- Pracownicy i inwestycje z rozdziału *Rozbudowa Firmy* kosztują dodatkowo.
+
+Dzięki temu dziesiąta para dostawca-klient nie jest już darmowym mnożnikiem zysku, tylko kolejną pozycją, którą firma musi udźwignąć wraz z całym zapleczem. Przy kilku parach i regularnych transakcjach firma nadal się opłaca, ale pojedynczy miesiąc bez zbytu potrafi już zaboleć.

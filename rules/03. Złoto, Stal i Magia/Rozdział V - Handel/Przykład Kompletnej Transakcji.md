@@ -56,7 +56,13 @@ Kasia spotyka się z przedstawicielem Klanu Miedzianych Kowadeł w Katowicach. K
 **Koszty:** 92 000 zł  
 **Zysk:** **28 000 zł** (30,4% marży)
 
-Przy założeniu, że Kasia przeprowadza takie transakcje regularnie (raz w miesiącu, z tą samą parą dostawca-klient, co mieści się w limicie jednej transakcji na miesiąc), jej firma generuje około **336 000 zł zysku rocznie** - solidny dochód dla małej firmy handlowej.
+To jednak nie wszystko, bo firma musi jeszcze opłacić [Koszty Utrzymania Firmy](../Rozdział%20V%20-%20Handel/Przeprowadzanie%20Transakcji.md#Koszty%20Utrzymania%20Firmy). Kasia ma jedną parę dostawca-klient, więc w tym miesiącu płaci:
+
+- koszty zmienne: 5% od 100 000 zł obrotu = 5 000 zł,
+- koszty stałe: 4 000 zł + 2 000 zł za parę = 6 000 zł,
+- podatek: 15% od 17 000 zł wyniku (28 000 − 5 000 − 6 000) = 2 550 zł.
+
+Zostaje jej **14 450 zł miesięcznie**. Jeżeli przeprowadza takie transakcje regularnie (raz w miesiącu, z tą samą parą dostawca-klient, co mieści się w limicie jednej transakcji na miesiąc), jej firma generuje około **173 000 zł zysku rocznie** - solidny dochód dla małej firmy handlowej, ale już bez pokusy mnożenia pary w nieskończoność.
 
 **Analiza:**
 - Talent "Kupiecka Intuicja" znacząco pomógł (obniżył Trudność o 1 we wszystkich testach)
