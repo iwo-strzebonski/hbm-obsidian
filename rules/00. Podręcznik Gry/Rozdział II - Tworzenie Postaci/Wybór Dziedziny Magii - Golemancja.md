@@ -8,5 +8,5 @@ aliases:
   - Golemancja
 ---
 Potrafisz ożywiać glinę, kamień i metal, tworząc konstrukcje, które wykonują Twoje rozkazy. Zasady opisuje [Zasady Golemancji](../../01.%20Księga%20Magii/Rozdział%20X%20-%20Golemancja/Zasady%20Golemancji.md).
-###### Głos Twórcy
-Rozkazy dla golemów wydajesz jako darmową Akcję Natychmiastową (w ramach zasady jednej darmowej Akcji Natychmiastowej na rundę), a Rdzenie Twoich golemów mają o 2 Ładunki więcej.
+###### Wyczucie Animacji
+Wyczuwasz ożywione przedmioty, golemy i inne konstrukcje w promieniu 20 m, także ukryte lub uśpione, i od razu poznajesz ich materiał oraz czy mają jeszcze Ładunki. Testy rozpoznania, naprawy i przejmowania cudzych lub zbłąkanych golemów są dla Ciebie prostsze o jeden Stopień.
