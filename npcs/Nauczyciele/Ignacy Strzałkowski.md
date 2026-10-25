@@ -48,7 +48,7 @@ Zapytany o związek z firmą stojącą za programem, Ignacy twierdzi, że słysz
 
 ## Relacje
 
-- **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - rok od niego starsza; chciała grant badawczy, który otrzymał on.
+- **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - rok od niego starsza; chciała grant badawczy, który otrzymał on. Ignacy czasem żartuje sobie z niej, że zaczął uczyć o semestr wcześniej, ale tylko dla żartu: przez dłuższy czas nawet Diana zamawiała u niego rzeczy za szkolne pieniądze. Diana jest geniuszem, ale nienawidzi księgowości, a Ignacy niewiele rzeczy kocha bardziej niż otrzymywanie pieniędzy i arkusze kalkulacyjne.
 - **[Pelagius Caudex](Pelagius%20Caudex.md)** - dyrektor, który zgodził się przetestować ArtiCAD w szkole.
 - **Dawni nauczyciele** - zaskoczeni i zdezorientowani jego zatrudnieniem, bo pamiętają jego niezbyt dobre oceny.
 - **[Wschodnioeuropejska Szkoła Magii](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)** - jego szkoła i miejsce pracy od drugiego semestru roku szkolnego 2026/27.
