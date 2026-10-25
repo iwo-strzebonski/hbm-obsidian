@@ -12,7 +12,7 @@ Wyrzeźbiony z kamienia monolit z Rdzeniem wbitym w pierś. Strażnik twierdz i 
 
 | Ciało | Żywotność | Pancerz | Szybkość | Rdzeń (Ładunki) |
 |:---:|:---:|:---:|:---:|:---:|
-| 6 | 20 | 2 | 5 m | 8 |
+| 6 | 20 | 2 | 4 m | 8 |
 
 * **Atak:** pula 7 kości w Walce Wręcz, Obrażenia +2, obuchowe
 * **Rozkaz:** wykonuje jeden rozkaz dosłownie; bez golemancera pozostaje [zbłąkany](../../../01.%20Księga%20Magii/Rozdział%20X%20-%20Golemancja/Zasady%20Golemancji.md).

@@ -19,7 +19,7 @@ Golem nie ma Atrybutów Umysł, Dusza i Magia. Statystyki golema zależą wyłą
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Słoma** | 2 | 8 | 0 | 3 kości | +0 | 6 m | 4 |
 | **Glina** | 4 | 14 | 1 | 5 kości | +1 | 6 m | 6 |
-| **Kamień** | 6 | 20 | 2 | 7 kości | +2 | 5 m | 8 |
+| **Kamień** | 6 | 20 | 2 | 7 kości | +2 | 4 m | 8 |
 | **Metal** | 8 | 36 | 3 | 9 kości | +3 | 5 m | 10 |
 
 Golem zadaje Obrażenia Obuchowe (+bonus z tabeli). **Słomiany golem** jest najtańszy i najsłabszy: służy za strażnika wiejskiego pola, tragarza albo przynętę. Jest podatny na ogień, więc Obrażenia od ognia są wobec niego większe o 2, a trafiony ogniem płonie (1k3 Obrażeń na rundę do ugaszenia). Dwa słomiane golemy liczą się do limitu golemów jako jeden. Nie wykonuje innych Testów niż ataki i Testy Atletyki (i Siły) oparte na Ciele. Jest odporny na Przerażenie, Oszołomienie, Trucizny, Krwawienie oraz zaklęcia wpływające na umysł. Nie można go Powalić ani Obezwładnić chwytem, jeśli jest cięższy od celu. Na obrażenia Magiczne zachowuje się jak zwykły przeciwnik (ma tylko Pancerz).
