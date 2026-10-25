@@ -52,3 +52,6 @@ Zapytany o związek z firmą stojącą za programem, Ignacy twierdzi, że słysz
 - **[Pelagius Caudex](Pelagius%20Caudex.md)** - dyrektor, który zgodził się przetestować ArtiCAD w szkole.
 - **Dawni nauczyciele** - zaskoczeni i zdezorientowani jego zatrudnieniem, bo pamiętają jego niezbyt dobre oceny.
 - **[Wschodnioeuropejska Szkoła Magii](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)** - jego szkoła i miejsce pracy od drugiego semestru roku szkolnego 2026/27.
+
+> [!gm]+ Tylko dla MG
+> **Sekret Diany:** Ignacy zdołał przynajmniej częściowo zrozumieć, kim naprawdę jest [Diana](../Kult%20Otchłani/Diana%20Koniecpolska.md): że nie jest już człowiekiem (patrz [Posłańcy Otchłani](../../concepts/Otchłań/Posłańcy.md)). Doszedł do tego, składając do kupy pozornie niezwiązane ze sobą poszlaki i notatki, także te, które zdobył w niejasnych okolicznościach. Nie zna całej prawdy i nikomu o tym nie mówi.
