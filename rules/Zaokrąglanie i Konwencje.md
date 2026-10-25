@@ -23,7 +23,6 @@ To są **wszystkie** miejsca, w których zaokrąglamy inaczej. Każde z nich jes
 | --- | --- | --- |
 | **Koszt many nowo tworzonego zaklęcia** (wynik wzoru kosztu) | do **najbliższej** liczby całkowitej, minimum 1 mana (np. 1,4 → 1; 1,5 → 2; 1,9 → 2) | [Kroki tworzenia zaklęcia](01.%20Księga%20Magii/Rozdział%20VII%20-%20Tworzenie%20Zaklęć/Kroki%20tworzenia%20zaklęcia.md) (krok 9) |
 | **Bonus z Nadczarowania od 3. Poziomu** (połowa bonusu) | **w dół**, ale nigdy poniżej 1 | [Zasada Nadczarowywania Zaklęć](01.%20Księga%20Magii/Rozdział%20II%20-%20Teoria%20Rzucania%20Zaklęć/Zasada%20Nadczarowywania%20Zaklęć.md) |
-| **Obrażenia od ognia z Talentem Hartowany w Ogniu** (połowa obrażeń) | **w dół** | [Hartowany w Ogniu](03.%20Złoto,%20Stal%20i%20Magia/Aneks%20A%20-%20Nowe%20Talenty/Hartowany%20w%20Ogniu.md) |
 
 ## Miejsca, w których zaokrąglanie w górę jest zapisane wprost
 
