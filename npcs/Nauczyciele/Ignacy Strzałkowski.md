@@ -30,7 +30,7 @@ Zamiast tego znalazł się w [Golemancji](../../disciplines/Golemancja.md) i oka
 
 Dlatego w szkole najczęściej spotyka się nie jego samego, lecz jego największe osiągnięcie: [metalowego golema](../../rules/06.%20Bestiariusz/Rozdział%20I%20-%20Przeciwnicy/Konstrukty/Metalowy%20Golem.md) wykonanego z **taumium**, czyli żelaza nasyconego maną, którego artificerzy używają zamiast złota, bo jest tańsze, trwalsze i bardziej podatne na magię. Stąd jego masywna, metaliczna sylwetka i lekko robotyczny głos.
 
-Od drugiego semestru roku szkolnego 2026/27 Ignacy jest **nauczycielem w WeSM**, co wprawiło jego dawnych nauczycieli w zdumienie i konsternację, bo doskonale pamiętali jego niezbyt dobre oceny. Pod koniec 2026 roku dostał też **grant badawczy**, o który bardzo starała się [Diana](../Kult%20Otchłani/Diana%20Koniecpolska.md), i nie był to dla niej powód do radości.
+Od drugiego semestru roku szkolnego 2026/27 Ignacy jest **nauczycielem w WeSM**, co wprawiło jego dawnych nauczycieli w zdumienie i konsternację, bo doskonale pamiętali jego niezbyt dobre oceny. Szybko okazało się jednak, że choć bywa surowy, jest dobrym nauczycielem i uczniowie go lubią. Pod koniec 2026 roku dostał też **grant badawczy**, o który bardzo starała się [Diana](../Kult%20Otchłani/Diana%20Koniecpolska.md), i nie był to dla niej powód do radości.
 
 Prowadzi również niewielką firmę, **Printarium 3D**, która zajmuje się systemami automatyzacji dla druku 3D. Firma jest zarejestrowana w Polsce, co ma dla niego bardzo praktyczne znaczenie: dzięki niej może omijać przetargi i zagraniczne zamówienia, które w przeciwnym razie ciążyłyby na wydatkach z grantu.
 
@@ -43,9 +43,12 @@ Wykorzystując swoją pozycję nauczyciela, przekonał obecnego dyrektora, [Pela
 ## Relacje
 
 - **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - starsza od niego o rok. Chciała grant badawczy, który dostał Ignacy. Ignacy czasem żartuje z niej, że zaczął uczyć o semestr wcześniej, ale tylko żartem: przez dłuższy czas nawet Diana zamawiała u niego rzeczy za szkolne pieniądze. Diana jest geniuszem, ale nienawidzi księgowości, a Ignacy niewiele rzeczy kocha bardziej niż wpływy na konto i arkusze kalkulacyjne.
-- **[Pelagius Caudex](Pelagius%20Caudex.md)** - dyrektor, który zgodził się przetestować ArtiCAD w szkole.
+- **[Pelagius Caudex](Pelagius%20Caudex.md)** - dyrektor, który zgodził się przetestować ArtiCAD w szkole jako oprogramowanie „małego polskiego start-upu”.
 - **Dawni nauczyciele** - zaskoczeni i zdezorientowani jego zatrudnieniem, bo pamiętają jego niezbyt dobre oceny.
+- **Uczniowie** - lubią go, choć bywa surowy.
 - **[Wschodnioeuropejska Szkoła Magii](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md)** - jego szkoła od 2023 roku i miejsce pracy od drugiego semestru roku szkolnego 2026/27.
 
 > [!gm]+ Tylko dla MG
 > **Sekret Diany:** Ignacy zdołał przynajmniej częściowo zrozumieć, kim naprawdę jest [Diana](../Kult%20Otchłani/Diana%20Koniecpolska.md): że nie jest już człowiekiem (patrz [Posłańcy Otchłani](../../concepts/Otchłań/Posłańcy.md)). Doszedł do tego, składając do kupy pozornie niezwiązane ze sobą poszlaki i notatki, także te, które zdobył w niejasnych okolicznościach. Nie zna całej prawdy i nikomu o tym nie mówi.
+>
+> **Pelagius i ArtiCAD:** [Pelagius](Pelagius%20Caudex.md) wie, że właścicielem firmy stojącej za programem jest Ignacy, ale gra w jego grę, bo ArtiCAD jest po prostu dobrym oprogramowaniem.
