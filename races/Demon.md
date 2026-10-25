@@ -10,10 +10,10 @@ aliases:
 # Demon
 
 ## Krótki opis
-Demony to istoty pochodzące z tzw. Galaktyki Demonów (potocznie nazywanej "Piekłem"), która de facto pełni rolę zaświatów w uniwersum. Są niezwykle różnorodne - od niskich impów po potężnych Książąt i Awatarów Bóstw Zła. Część demonów żyje wśród innych ras na różnych planetach (jak Ziemia), ukrywając swoją prawdziwą naturę. Co ważne, dla demonów korzystanie z magii to rzecz całkowicie naturalna, a nie jakiś mityczny dar.
+Demony to istoty pochodzące z tzw. Galaktyki Demonów (potocznie nazywanej "Piekłem"), która de facto pełni rolę zaświatów w uniwersum. Są niezwykle różnorodne - od pomniejszych impów po potężnych Książąt i Awatarów Bóstw Zła. Część demonów żyje wśród innych ras na różnych planetach (jak Ziemia), ukrywając swoją prawdziwą naturę. Co ważne, dla demonów korzystanie z magii to rzecz całkowicie naturalna, a nie jakiś mityczny dar.
 
 ## Biologia i morfologia
-Demony nie mają jednej formy - mogą być humanoidalne, zwierzęce lub całkowicie obce. Często posiadają rogi, ogony, skrzydła, nietypowe oczy i skórę w nienaturalnych barwach. Ich długość życia jest praktycznie nieograniczona, choć mogą zginąć w walce lub w wyniku egzorcyzmu.
+Demony nie mają jednej formy - mogą być humanoidalne, zwierzęce lub całkowicie obce. Często posiadają rogi, ogony, nietypowe oczy i skórę w nienaturalnych barwach. Ich długość życia jest praktycznie nieograniczona, choć mogą zginąć w walce lub w wyniku egzorcyzmu.
 
 ## Kultura i Polityka
 W Galaktyce Demonów **nie ma jednego, absolutnego władcy**. Potężni Lordowie Demonów władają własnymi planetami i księżycami, rywalizując ze sobą o wpływy i dusze śmiertelników. Przez to cała polityka Piekła przypomina permanentną, cichą (lub głośną) wojnę domową. Wysoko postawione demony tworzą wokół siebie hierarchiczne dwory oparte na sile, magii i intrygach. Niższe demony często służą potężniejszym. Co ciekawe, w przeciwieństwie do innych rozwiniętych ras w galaktyce (np. Malferian), demony **nie budują statków kosmicznych**. Ich naturalna biegłość w magii sprawia, że przemieszczają się między planetami za pomocą teleportacji.
@@ -44,7 +44,7 @@ Demony są naturalnie powiązane z Otchłanią, posiadają wrodzone zdolności m
 Poziom mocy może być wyższy w przypadku potomków wyżej postawionych demonów.
 
 ## Demony jako Postacie Graczy
-Postacie-demony są demonami Drugiego Poziomu (sukkubami i inkubami), bo tylko takie uczą się w szkołach magii. Ich cechy rasowe, odporność na Otchłań i słabość opisuje [Wybór Rasy - Demon](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Demon.md).
+Postacie-demony są demonami Drugiego Poziomu (sukkubami i inkubami), bo tylko takie uczą się w szkołach magii. Ich cechy rasowe opisuje [Wybór Rasy - Demon](../rules/00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Demon.md).
 
 ## Znani przedstawiciele
 - [Narcyza Eleness Zurbach](../npcs/Uczniowie/Narcyza%20Eleness%20Zurbach.md) (arcysukkub, księżniczka Piekieł, demon poziomu Ósmego, córka Króla Demonów)
