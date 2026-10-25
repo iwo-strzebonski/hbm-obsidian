@@ -19,7 +19,7 @@ Cechy Rasowe:
 * 5 Punktów Atrybutów
 * Darmowe Talenty:
    * Błogosławieństwo (Jedyny)
-   * Latanie
+   * Naturalny Lot
    * Błogosławione Pochodzenie
 * 1 Punkt Umiejętności w Refleksie
 * 1 Punkt Umiejętności w Oddaniu
