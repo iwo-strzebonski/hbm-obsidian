@@ -57,6 +57,10 @@ W walce golem działa w **Inicjatywie golemancera** (tuż po nim) i ma jedną Ak
 * Uszkodzonego golema naprawia golemancer z Przyborami: godzina pracy i Test Rzemiosło 4:2 przywraca połowę Żywotności.
 * [Rozplatanie Zaklęć](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Rozplatanie%20Zaklęć.md) i podobne efekty mogą unieruchomić golema, zerując jego Rdzeń. Golem z wyzerowanym Rdzeniem odzyskuje 1 Ładunek, gdy golemancer to zrobi.
 
+## Wędrówka Duszy
+
+Najpotężniejsi golemancerzy potrafią przenieść własną duszę do jednego ze swoich golemów (opis w [Golemancja](../../../disciplines/Golemancja.md#Wędrówka%20Duszy)). Taki golem jest sterowany w pełni, bez Rozkazów, a golemancer widzi i czuje jego zmysłami; jego ciało pozostaje bezbronne. Dwa zagrożenia powiązane z tą sztuką dotyczą też zasad Rdzenia: zniszczenie ciała, gdy dusza jest w golemie, więzi ją tam na stałe, a zniszczenie golema więzi ją w Rdzeniu i dopiero zniszczenie samego Rdzenia zabija golemancera. Szczegóły techniczne (kto może to zrobić, koszt, czas) ustala Mistrz Gry.
+
 ## Zbłąkane golemy
 
 Golem, którego twórca zginął, odszedł albo zerwał więź z Rdzeniem, nie zamiera od razu. Dopóki w Rdzeniu zostały Ładunki, **zbłąkany golem** wykonuje ostatni Rozkaz dosłownie i bez końca: strzeże drzwi, których już nikt nie otwiera, kopie ten sam tunel, atakuje każdego, kto przekroczy próg. Gdy rozkazu nie da się wykonać, krąży po okolicy i broni się przed wszystkim, co go zaatakuje. Gdy Ładunki się skończą, zamiera i pozostaje w miejscu jak posąg. Zbłąkanymi golemami steruje Mistrz Gry, a ich statystyki są takie jak w tabeli materiałów.

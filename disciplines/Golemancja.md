@@ -8,6 +8,7 @@ tags:
 - [Definicja](#Definicja)
 - [Historia szkoły](#Historia%20szkoły)
 - [Filozofia i założenia](#Filozofia%20i%20założenia)
+- [Wędrówka Duszy](#Wędrówka%20Duszy)
 - [Poddyscypliny](#Poddyscypliny)
 - [Status prawny (Inkwizycja)](#Status%20prawny%20(Inkwizycja))
 - [Mechanika](#Mechanika)
@@ -22,6 +23,14 @@ Początki golemancji sięgają starożytnych cywilizacji, gdzie pierwsze golemy 
 
 ## Filozofia i założenia
 Golemancja opiera się na przekonaniu, że magia może nadać formę i funkcję materii. Praktycy tej sztuki cenią precyzję, inżynierię magiczną i odpowiedzialność za swoje kreacje. Ważnym aspektem jest etyka tworzenia istot pół-samodzielnych.
+
+## Wędrówka Duszy
+Najpotężniejsi golemancerzy potrafią czegoś, czego nie umie nikt inny: **przenieść własną duszę do jednego ze swoich golemów**. Zamiast wydawać mu rozkazy z zewnątrz, wchodzą w niego całkowicie, porusząc nim jak własnym ciałem. Widzą jego oczami, słyszą jego uszami i czują jego zmysłami, a golem przestaje być narzędziem wykonującym rozkaz dosłownie i staje się przedłużeniem woli maga. Ciało golemancera pozostaje wtedy bezwładne i bezbronne.
+
+Sztuka ta ma wysoką cenę, a kryją się za nią dwa zagrożenia, o których golemancerzy mówią niechętnie:
+
+* **Zniszczenie ciała.** Jeżeli ciało golemancera zostanie zniszczone, gdy jego dusza przebywa w golemie, dusza **zostaje w golemie na zawsze**. Nie ma już dokąd wrócić. Mag żyje dalej jako konstrukcja, ale wszystko, czym był jako człowiek, jest dla niego stracone.
+* **Zniszczenie golema.** Jeżeli zniszczony zostanie golem, w którym znajduje się dusza maga, dusza **zostaje uwięziona w Rdzeniu** konstrukcji. Dopóki Rdzeń przetrwa, golemancer jeszcze istnieje, uwięziony w nim. Jeżeli jednak **zniszczony zostanie sam Rdzeń, golemancer umiera**.
 
 ## Poddyscypliny
 - Animacja słomianych, glinianych, kamiennych i metalowych golemów
