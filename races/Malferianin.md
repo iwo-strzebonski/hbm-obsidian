@@ -10,7 +10,7 @@ tags:
 Malferianie to rasa wywodząca się od demonów, którzy - wieki temu - opuścili [Galaktykę Demonów](../races/Demon.md) ("Piekło") i osiedlili się wśród gwiazd, zakładając to, co dziś jest Konsorcjum Gwiezdnym Malferian ([Konsorcjum Gwiezdne Malferian](../organizations/Konsorcjum%20Gwiezdne%20Malferian.md)). Pokolenia z dala od demonicznych dworów i pod wpływem własnej technologii zatarły większość oczywistych śladów tego pochodzenia, ale nie wszystkie. Słyną z technologii, dyplomacji i tajemniczości. Ich społeczeństwa są zorganizowane wokół rodów i domów.
 
 ## Biologia i morfologia
-Rysy Malferian wciąż zdradzają ich pochodzenie, choć subtelniej niż u demonów Otchłani: skóra ma metaliczny połysk, oczy są wielobarwne, u części osobników pojawiają się niewielkie, często ukrywane pod fryzurą lub nakryciem głowy rogi szczątkowe. Długość życia: 90-150 lat. Są odporni na choroby i promieniowanie.
+Rysy Malferian wciąż zdradzają ich pochodzenie, choć subtelniej niż u demonów Otchłani: skóra ma metaliczny połysk, oczy są wielobarwne, u części osobników pojawiają się niewielkie, często ukrywane pod fryzurą lub nakryciem głowy rogi szczątkowe. Skrzydła ma tylko garstka Malferian, dzięki czemu większość z nich może uchodzić za demony urodzone bez skrzydeł (patrz [Demon](../races/Demon.md)). Długość życia: 90-150 lat. Są odporni na choroby i promieniowanie.
 
 ## Kultura
 Społeczeństwa Malferian opierają się na rodach (Domach), z których każdy specjalizuje się w innej dziedzinie (np. technologia, magia, dyplomacja). Cenią lojalność wobec rodu, innowacyjność i dyskrecję.
