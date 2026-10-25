@@ -8,19 +8,19 @@ tags:
 aliases:
   - Ignacy Strzałkowski
 ---
-| **Zdjęcie**             | -                                                                                                  |
-| ----------------------- | -------------------------------------------------------------------------------------------------- |
-| **Imię (imiona)**       | *Ignacy*                                                                                            |
-| **Nazwisko (nazwiska)** | *Strzałkowski*                                                                                      |
-| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                              |
-| **Wiek**                | *24 lata (2026), rocznik 2002*                                                                     |
-| **Wzrost**              | *-*                                                                                                |
-| **Wygląd**              | *W szkole zwykle widuje się go w postaci jego największego dzieła: masywnego, metalicznego golema z taumium, który porusza się ciężko, ale płynnie, i mówi lekko robotycznym głosem. Jego prawdziwe ciało zwykle przebywa gdzie indziej.* |
-| **Dziedzina Magii**     | *[Golemancja](../../disciplines/Golemancja.md)*                                                                              |
+| **Zdjęcie**             | -                                                                                                                                                                                                                                                         |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Imię (imiona)**       | *Ignacy*                                                                                                                                                                                                                                                  |
+| **Nazwisko (nazwiska)** | *Strzałkowski*                                                                                                                                                                                                                                            |
+| **Rasa**                | *[Człowiek](../../races/Człowiek.md)*                                                                                                                                                                                                                     |
+| **Wiek**                | *24 lata (2026), rocznik 2002*                                                                                                                                                                                                                            |
+| **Wzrost**              | *-*                                                                                                                                                                                                                                                       |
+| **Wygląd**              | *W szkole zwykle widuje się go w postaci jego największego dzieła: masywnego, metalicznego golema z taumium, który porusza się ciężko, ale płynnie, i mówi lekko robotycznym głosem. Jego prawdziwe ciało zwykle przebywa gdzie indziej.*                 |
+| **Dziedzina Magii**     | *[Golemancja](../../disciplines/Golemancja.md)*                                                                                                                                                                                                           |
 | **Organizacje**         | *<ul><li>[Wschodnioeuropejska Szkoła Magii](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) (uczeń od 2023 roku, nauczyciel od drugiego semestru roku szkolnego 2026/27)</li><li>Printarium 3D (właściciel)</li></ul>* |
-| **Pseudonim(y)**        | *-*                                                                                                |
-| **Tytuł(y)**            | *Nauczyciel w [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md); stypendysta grantu badawczego (od końca 2026 roku)*                  |
-| **Charakter**           | *Bystry, ale niezainteresowany teoriami magii; swoją wartość pokazuje w praktyce, zwłaszcza w Golemancji.* |
+| **Pseudonim(y)**        | *-*                                                                                                                                                                                                                                                       |
+| **Tytuł(y)**            | *Nauczyciel w [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md); stypendysta grantu badawczego (od końca 2026 roku)*                                                                                              |
+| **Charakter**           | *Bystry, ale niezainteresowany teoriami magii; swoją wartość pokazuje w praktyce, zwłaszcza w Golemancji.*                                                                                                                                                |
 
 ## Opis
 
@@ -42,7 +42,7 @@ Wykorzystując swoją pozycję nauczyciela, przekonał obecnego dyrektora, [Pela
 
 ## Relacje
 
-- **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - starsza od niego o rok. Chciała grant badawczy, który dostał Ignacy. Ignacy czasem żartuje z niej, że zaczął uczyć o semestr wcześniej, ale tylko żartem: przez dłuższy czas nawet Diana zamawiała u niego rzeczy za szkolne pieniądze. Diana jest geniuszem, ale nienawidzi księgowości, a Ignacy niewiele rzeczy kocha bardziej niż wpływy na konto i arkusze kalkulacyjne.
+- **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - starsza od niego o rok. Chciała grant badawczy, który dostał Ignacy. Ignacy czasem naśmiewa się z niej, że zaczął uczyć o semestr wcześniej, ale tylko żartem: od pewnego czasu nawet Diana zaczęła zamawiać u niego rzeczy za szkolne pieniądze. Diana może i jest geniuszem, ale nienawidzi księgowości - a Ignacy niewiele rzeczy kocha bardziej niż wpływy na konto i arkusze kalkulacyjne.
 - **[Pelagius Caudex](Pelagius%20Caudex.md)** - dyrektor, który zgodził się przetestować ArtiCAD w szkole jako oprogramowanie „małego polskiego start-upu”.
 - **Dawni nauczyciele** - zaskoczeni i zdezorientowani jego zatrudnieniem, bo pamiętają jego niezbyt dobre oceny.
 - **Uczniowie** - lubią go, choć bywa surowy.
