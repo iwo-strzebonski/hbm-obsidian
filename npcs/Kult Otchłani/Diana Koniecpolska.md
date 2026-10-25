@@ -33,7 +33,7 @@ Diana urodziła się w zamożnej rodzinie. Niezwykle inteligentna już od najmł
 
 Wszystko zmieniło się, gdy na świecie pojawiła się magia, a część konstrukcji Diany, które teoretycznie nie powinny działać, zaczęła nagle wykazywać magiczne właściwości. Eksperymentując, odkryła, że jest artificerem. Gdy powstały pierwsze projekty szkół magii, zobaczyła plany [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md) i natychmiast wiedziała, że musi tam studiować - tak długo naprzykrzała się rodzicom, aż ci zgodzili się zostać sponsorami budowy szkoły. To właśnie dlatego Diana mieszka w akademikach dla dzieci sponsorów.
 
-### Pierwszy rok w WeSM (2023-2024)
+### Pierwszy rok w WeSM (2024-2025)
 
 Poznała wiele kultur, ludzi i ras. Z powodu początkowego braku umiejętności społecznych i talentu, którego nie potrafiła dobrze ukryć, przenoszono ją między klasami, aż w końcu trafiła do klasy pełnej wysoko urodzonych elfów, którzy patrzyli na nią z pogardą - co niby robi w klasie dla najlepszych człowiek, którego eksperymenty ciągle wybuchają?
 
