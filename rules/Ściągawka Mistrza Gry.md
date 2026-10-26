@@ -70,6 +70,18 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 - **Pula Many wg Poziomu Mocy** (zmiana: III i IV zamienione): sprawdź w [Atrybutach](00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Atrybuty.md) - **III = 24, IV = 21**.
 - **Nowe zaklęcie gracza:** wzór kosztu w [Krokach tworzenia zaklęcia](01.%20Księga%20Magii/Rozdział%20VII%20-%20Tworzenie%20Zaklęć/Kroki%20tworzenia%20zaklęcia.md): 0,5 × (T+S) + kategoria (Obrażenia −0,4, Ochrona +0,2) + modyfikatory + Potęga Efektu, zaokrąglone do **najbliższej** (min. 1).
 
+### Kary za Wyczerpanie Many - suma Nk6
+
+| Suma | Tier | Efekt |
+| :---: | --- | --- |
+| 1-4 | Zdyszanie | do końca sceny -1 kość do Testów Ciała |
+| 5-8 | Zmęczenie | do końca sceny wszystkie Testy o Stopień trudniejsze; brak Many z Odetchnięcia |
+| 9-12 | Wyczerpanie | Oszołomiony do końca sceny + 1k3 Obrażeń ignorujących Pancerz |
+| 13-16 | Załamanie Sił | 1k6 Obrażeń ignorujących Pancerz; gdy tylko przestaje być zaangażowany w akcję, traci przytomność na 1k3 rundy |
+| 17-20 | Zapaść | Nieprzytomny na 1k6 rund + 2k6 Obrażeń ignorujących Pancerz |
+| 21-24 | Ciężka Zapaść | jak Zapaść, ale nieprzytomność do Długiego Odpoczynku, a dzienna pula Many o połowę mniejsza (w górę) do końca następnego dnia |
+| 25+ | Wypalenie | decydujesz Ty; poważny, w pełni mundane skutek (np. tydzień bez Zdolności Magicznych, trwały spadek puli o 1k6) |
+
 ## 4. Rozwój postaci
 
 - **Atrybuty:** kolejne podniesienia kosztują 3 / 5 / 7 / 9 / 11 / 13 / 15 PD.
