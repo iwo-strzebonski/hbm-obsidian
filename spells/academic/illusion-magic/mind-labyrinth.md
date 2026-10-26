@@ -7,7 +7,7 @@ castingMode: standard
 school: illusion
 sourceBook: ksiega-magii
 manaCost: 2
-threshold: 4
+threshold: 5
 successes: 2
 symbols:
   - Cognitio
@@ -17,7 +17,7 @@ requiresDiscipline:
 castingTime: Instant
 range: 10 m
 targets: '1'
-duration: 1 runda
+duration: 2 rundy
 damageBase: magicalAbilities/2
 ignoresArmor: true
 overcast:
@@ -27,6 +27,10 @@ overcast:
 
 Umysł ofiary zostaje wciągnięty w iluzoryczny labirynt pełen sprzecznych myśli i rozkojarzeń.
 
-Cel zostaje wprowadzony w stan [Koncentracji](../../../rules/00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Koncentracja.md) na czas trwania zaklęcia i nie może z własnej woli jej przerwać. Na początku swojej tury cel musi wykonać Test na Determinacja (Dusza) 4:S, gdzie S jest równe liczbie Sukcesów wyrzuconych przez maga przy rzucaniu zaklęcia.
+Cel zostaje wprowadzony w stan [Koncentracji](../../../rules/00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Koncentracja.md) na czas trwania zaklęcia i nie może z własnej woli jej przerwać. Niezdany Test nie kończy tej Koncentracji.
 
-Za każdy niezdany Test w czasie trwania zaklęcia cel otrzymuje tyle obrażeń ignorujących Pancerz, ile wynosi zaokrąglona w górę połowa wartości Umiejętności Zdolności Magiczne maga, traci Akcję i natychmiast kończy swoją turę. Niezdany Test nie kończy tej Koncentracji, a obrażenia zadane przez to zaklęcie nie wywołują dodatkowego Testu.
+**Test z zaklęcia.** Na początku swojej tury cel musi wykonać Test na Determinacja (Dusza) 4:S, gdzie S jest równe liczbie Sukcesów wyrzuconych przez maga przy rzucaniu zaklęcia. Przy niepowodzeniu cel otrzymuje obrażenia, traci Akcję i natychmiast kończy swoją turę.
+
+**Test z obrażeń.** Gdy cel w czasie trwania zaklęcia straci Żywotność, wykonuje Test na Koncentrację na zwykłych zasadach. Przy niepowodzeniu cel otrzymuje obrażenia i do początku swojej następnej tury nie może wykonywać Akcji Natychmiastowych, także tej darmowej. Obrażenia zadane przez to zaklęcie nie wywołują dodatkowego Testu.
+
+Obrażenia z tego zaklęcia wynoszą zaokrągloną w górę połowę wartości Umiejętności Zdolności Magiczne maga i ignorują Runiczny Pancerz, Magiczną Osłonę oraz Pancerz, trafiając prosto w Żywotność.
