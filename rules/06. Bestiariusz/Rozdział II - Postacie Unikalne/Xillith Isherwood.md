@@ -77,7 +77,7 @@ Bezimienny w pełni przejmuje kontrolę nad ciałem Xillitha za pośrednictwem B
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 54 | 25 | 1 | - | 2k6+17 | 5 | 10 m |
+| 54 | 25 | 2 | - | 2k6+17 | 5 | 10 m |
 
 #### Umiejętności
 
@@ -109,6 +109,8 @@ Bezimienny w pełni przejmuje kontrolę nad ciałem Xillitha za pośrednictwem B
 - [Requiem](../../../spells/general/superspells/requiem.md) *(superzaklęcie - wyłącznie na fabularnie uzasadniony, kulminacyjny moment starcia, do decyzji MG)*
 
 #### Ekwipunek
+
+**Średnia zbroja kultysty** - źródło Pancerza 2.
 
 **[Broń Szkarłatnego Patriarchy](../../../items/artifacts/Sztandar%20Szkarłatnego%20Kultu.md)** - halabarda scalona z odłamków Sztandaru Szkarłatnego Kultu, w pełni Złączona z Xillithem. Pełne statystyki i cechy specjalne (w tym premię do obrażeń przeciw Istotom Otchłani i Kultystom Zakonu Otwartego Oka, odzyskiwanie Zapału za zabójstwa i potężną zdolność specjalną) patrz link.
 
@@ -155,6 +157,8 @@ Xillith wrócił do siebie na tyle, na ile to możliwe - mentor (za pośrednictw
 
 #### Ekwipunek
 
+**Lekka zbroja kultysty** - źródło Pancerza 1.
+
 **[Miecz Taumiczny](../../../items/artifacts/Miecz%20Taumiczny.md)** - dar Bezimiennego, wolny od uwięzionej w nim duszy. Pozwala Xillithowi rozpraszać efekty magiczne Testem Ciało (Walka Wręcz) zamiast Magii lub Duszy.
 - **Obrażenia:** 1+S
 - **Cechy:** Magiczny, Subtelna
@@ -180,7 +184,7 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 30 | 1 | - | 2k6+18 | 4 | 10 m |
+| 52 | 30 | 2 | - | 2k6+18 | 4 | 10 m |
 
 #### Umiejętności
 
@@ -206,6 +210,8 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 Jak w Formie II.
 
 #### Ekwipunek
+
+**Średnia zbroja kultysty** - źródło Pancerza 2.
 
 **[Miecz Taumiczny](../../../items/artifacts/Miecz%20Taumiczny.md)** - domyślna broń tej formy, jak w Formie III.
 

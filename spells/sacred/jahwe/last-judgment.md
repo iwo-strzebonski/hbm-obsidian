@@ -28,4 +28,4 @@ Wybrany cel otrzymuje tyle punktów obrażeń, ile wynosi trzykrotność wartoś
 
 Jeśli cel jest innowiercą, demonem lub nieumarłym, otrzymuje ponadto tyle punktów Obrażeń ignorujących Pancerz oraz magiczne osłony, ile wynosi połowa wartości Umiejętności Zdolności Magiczne lub Oddanie maga (zaokrąglona w górę) - boski osąd takich istot dosięga niezależnie od tego, czy ich osłona została przełamana.
 
-Ponadto, jeśli cel jest innowiercą lub jest demonem bądź nieumarłym, a wartość Umiejętności Oddanie maga jest większa bądź równa wartości Atrybutu Dusza, to cel natychmiast umiera. Jeśli cel jest ważną postacią, to traci tyle punktów Żywotności, ile wynosi zaokrąglona w górę.
+Ponadto, jeśli cel jest innowiercą lub jest demonem bądź nieumarłym, a wartość Umiejętności Oddanie maga jest większa bądź równa wartości Atrybutu Dusza, to cel natychmiast umiera. Jeśli cel jest ważną postacią, to traci tyle punktów Żywotności, ile wynosi połowa jego Żywotności (zaokrąglona w górę).

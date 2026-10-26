@@ -23,7 +23,7 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 18 | 2 | 4 | 2k6+19 | 4 | 15 m *(Sandały Etany)* |
+| 52 | 18 | 3 | 4 | 2k6+19 | 4 | 15 m *(Sandały Etany)* |
 
 ### Umiejętności
 
@@ -68,7 +68,7 @@ Dzięki Talentom *Parowanie*, *Finta* i *Riposta* Pelagius, gdy już dobędzie �
 - **Diadem Szamasza** - pełna odporność na efekty wpływające na umysł: Zauroczenie, rozkazy (w tym Autorytet, Rozkaz Księżniczki, Głos Rozkazu), Przerażenie i Złowróżbny cień.
 - **Pieczęć Enlila** - +3 do Zdolności Magicznych.
 - **Sandały Etany** - Szybkość 15 m zamiast 10 m i brak kary za Ruch przez Teren Trudny.
-- **Napierśnik Ninurty** - +1 do Pancerza (łącznie 2); nie krępuje rzucania zaklęć.
+- **Napierśnik Ninurty** - źródło Pancerza 3; nie krępuje rzucania zaklęć.
 - **Puchar Utnapisztima** - +10 do maksymalnej Żywotności (łącznie 52).
 
 **Sierp Marduka** - broń na bogów, którą Pelagius przywołuje z Bramy Babilonu tylko przeciwko bóstwom i Awatarom (np. Xillithowi opętanemu przez Pierwszego Patriarchę, w Formie IV): wzmocniony Krąg Skarbca Królów zadaje wtedy dodatkowo 8k6 Obrażeń ignorujących Pancerz, a cel traci na resztę starcia korzyści z Talentów łamiących ogólne zasady (dla Xillitha: dodatkowy Zapał z Pierwszego Patriarchy; darmowe zaklęcia tego Talentu działają tylko przeciwko Magom Otchłani, więc Pelagiusa i tak nie dotyczą). Szczegóły w Talencie *Skarbiec Królów*.
