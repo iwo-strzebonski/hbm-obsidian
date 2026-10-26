@@ -17,7 +17,7 @@ requiresDiscipline:
 castingTime: Instant
 range: 10 m
 targets: '1'
-duration: 2 rundy
+duration: 1 runda
 damageBase: magicalAbilities/2
 ignoresArmor: true
 overcast:
@@ -27,6 +27,6 @@ overcast:
 
 Umysł ofiary zostaje wciągnięty w iluzoryczny labirynt pełen sprzecznych myśli i rozkojarzeń.
 
-Gdy cel chce wykonać jakąkolwiek Akcję, musi wykonać Test na Koncentrację (patrz: Stan Koncentracja), gdzie wymagana liczba Sukcesów (S) jest równa liczbie wyrzuconych przez maga Sukcesów. W wypadku niepowodzenia istota traci Akcję. Postać nie może z własnej woli zakończyć Koncentracji.
+Cel zostaje wprowadzony w stan [Koncentracji](../../../rules/00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Koncentracja.md) na czas trwania zaklęcia i nie może z własnej woli jej przerwać. Na początku swojej tury cel musi wykonać Test na Determinacja (Dusza) 4:S, gdzie S jest równe liczbie Sukcesów wyrzuconych przez maga przy rzucaniu zaklęcia.
 
-W wypadku niepowodzenia otrzymuje tyle obrażeń ignorujących Pancerz, ile wynosi zaokrąglona w górę połowa wartości Umiejętności Zdolności Magiczne maga rzucającego to zaklęcie, a ponadto Postać natychmiast kończy swoją turę.
+Za każdy niezdany Test w czasie trwania zaklęcia cel otrzymuje tyle obrażeń ignorujących Pancerz, ile wynosi zaokrąglona w górę połowa wartości Umiejętności Zdolności Magiczne maga, traci Akcję i natychmiast kończy swoją turę. Niezdany Test nie kończy tej Koncentracji, a obrażenia zadane przez to zaklęcie nie wywołują dodatkowego Testu.
