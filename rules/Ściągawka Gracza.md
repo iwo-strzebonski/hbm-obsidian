@@ -52,6 +52,7 @@ Rodzaje Testów: [Umiejętności](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Wa
 | [Szaleńczy atak](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Szaleńczy%20atak.md) | podwaja kości z bonusu Walki Wręcz w tej turze, ale **nie bronisz się** (Unik, Odparcie, Parowanie) i ataki w Ciebie są o **Stopień prostsze** do końca Twojej następnej tury |
 | [Powalenie](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Powalenie.md) | Walka Wręcz vs Refleks celu. Wygrana = cel **Przewrócony**, bez obrażeń. Cel może Uniknąć, nie może Odeprzeć ani Sparować |
 | [Rozbrojenie](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Rozbrojenie.md) | Walka Wręcz vs Walka Wręcz. Wygrana = broń celu spada na ziemię (podniesienie = Interakcja). Cel może Odeprzeć, nie może Sparować ani Uniknąć |
+| [Chwyt](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Chwyt.md) | Walka Wręcz vs Atletyka celu. Wygrana = cel Unieruchomiony; trzymasz za darmo, ale nie ruszasz się. Cel może Uniknąć, nie może Odeprzeć ani Sparować. Wyrwanie: Akcja, Atletyka vs Twoja Walka Wręcz, remis dla wyrywającego |
 | [Użycie Talentu](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Użycie%20Talentu.md) | zwykle Akcja Natychmiastowa - sprawdź opis Talentu |
 | [Użycie Przedmiotu](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Użycie%20Przedmiotu.md) | zwykle Akcja Darmowa (łącznie z wyciągnięciem broni) |
 | [Interakcja](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Interakcja.md) | dźwignia, podanie przedmiotu, podniesienie broni |
