@@ -31,7 +31,7 @@ Demony pojawiły się wraz z pierwszymi kontaktami świata materialnego z Otchł
 Demony są postrzegane z nieufnością i lękiem. Z ludźmi i elfami łączą je relacje oparte na układach, intrygach lub otwartej wrogości. Krasnoludy i Malferianie traktują demony jako zagrożenie. Wyjątkiem są jednostki, które zintegrowały się ze społeczeństwem.
 
 ## Magia i wrażliwość na Otchłań
-Demony są naturalnie powiązane z Otchłanią, posiadają wrodzone zdolności magiczne i odporność na spaczenie. Ich moce zależą od poziomu demona:
+Demony są naturalnie powiązane z Otchłanią, posiadają wrodzone zdolności magiczne. Ich moce zależą od poziomu demona:
 - **Pierwszy Poziom:** Niższe Demony (np. Impy)
 - **Drugi Poziom:** Średnie Demony (np. Sukkuby, Inkuby)
 - **Trzeci Poziom:** Rycerze
