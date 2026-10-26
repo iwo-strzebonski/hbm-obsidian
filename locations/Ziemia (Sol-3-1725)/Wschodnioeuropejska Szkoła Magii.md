@@ -7,7 +7,7 @@ aliases:
   - WeSM
 ---
 
-| **Zdjęcie**           | [wesm.jpg200](wesm.jpg200)                                                                                                |
+| **Zdjęcie**           | -                                                                                                                       |
 | --------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Rodzaj**            | Szkoła magii                                                                                                    |
 | **Lokalizacja**       | Subwymiar przycumowany do południowych obrzeży Krakowa (Czerwone Maki), dostępny wyłącznie przez teleportację |

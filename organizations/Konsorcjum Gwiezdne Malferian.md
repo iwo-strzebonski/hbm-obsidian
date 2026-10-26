@@ -38,7 +38,7 @@ W latach 2022-2023 (EP -1 - EP 0) doszło do [Pierwszej Wojny Federacji Sol-3 i 
 
 ## Technologia i magia
 
-Malferianie stoją na poziomie technologicznym 8+ (patrz: [Tabela porównawcza poziomu technologii](../lore/Tabela%20poziomów%20technologii.md)). Ich technomagia nie opiera się na sztucznej inteligencji, lecz na potężnych rytuałach, artefaktach oraz biologicznym magnetyzmie magicznym. Konsorcjum posiada zdolności do podróży międzygalaktycznych i ukrywania się przed federacyjnymi systemami detekcji.
+Malferianie stoją na poziomie technologicznym 8+ (patrz: Tabela porównawcza poziomu technologii). Ich technomagia nie opiera się na sztucznej inteligencji, lecz na potężnych rytuałach, artefaktach oraz biologicznym magnetyzmie magicznym. Konsorcjum posiada zdolności do podróży międzygalaktycznych i ukrywania się przed federacyjnymi systemami detekcji.
 
 ## Relacje z innymi frakcjami
 

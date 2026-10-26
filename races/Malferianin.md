@@ -42,7 +42,7 @@ Malferianie mają ograniczony talent magiczny, ale są mistrzami technologii i m
 
 Malferianin mają unikalne podejście do magii - dla nich magia i technologia nie są rozdzielne. Ich szkoła [Taumaturgia](../disciplines/Taumaturgia.md) (lub jej warianty kosmiczne) jest głęboko zintegrowana z inżynierią. Statek kosmiczny Konsorcjum jest zarazem artefaktem magicznym i maszyną.
 
-Malferianin z wyższych kastek mają dostęp do technologii poziomu 8-9 według [Tabeli porównawczej poziomu technologii](../lore/Tabela%20poziomów%20technologii.md), co czyni ich jednymi z zaawansowanych technologicznie ras w galaktyce.
+Malferianin z wyższych kastek mają dostęp do technologii poziomu 8-9 według tabeli porównawczej poziomu technologii, co czyni ich jednymi z zaawansowanych technologicznie ras w galaktyce.
 
 ## Malferianin w świecie HbM
 

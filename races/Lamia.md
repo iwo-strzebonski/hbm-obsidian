@@ -26,7 +26,7 @@ Lamie czczą boginie węży, duchy rzek i pradawne bóstwa. Rytuały są związa
 Posługują się lamijskim (pełnym syczących głosek).
 
 ## Historia
-Lamie wywodzą się z pradawnych dżungli i bagien Eldrakar ([Eldrakar](Eldrakar.md)). Przetrwały liczne prześladowania i migracje. Ich diaspora rozprzestrzeniła się na inne światy wraz z ekspansją magiczną.
+Lamie wywodzą się z pradawnych dżungli i bagien Eldrakar. Przetrwały liczne prześladowania i migracje. Ich diaspora rozprzestrzeniła się na inne światy wraz z ekspansją magiczną.
 
 ## Relacje z innymi rasami
 N/A
