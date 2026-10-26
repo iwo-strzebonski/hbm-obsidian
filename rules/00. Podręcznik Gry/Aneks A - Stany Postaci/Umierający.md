@@ -4,7 +4,7 @@ tags:
   - podrecznik-gry
   - status-effect
 ---
-Postać jest na skraju śmierci. Na początku swojej tury postać musi wykonać Test Przeżycia. w zależności od śmiertelnych obrażeń, należy wykonać Test:
+Postać jest na skraju śmierci. Na początku swojej tury postać musi wykonać Test Przeżycia, czyli Test Ciało (Wytrzymałość). W zależności od śmiertelnych obrażeń, należy wykonać Test:
 
 
 * 4:1, jeśli obrażenia, które przekroczyły próg śmierci były mniejsze bądź równe "2",

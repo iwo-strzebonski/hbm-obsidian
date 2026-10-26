@@ -129,7 +129,7 @@ Zaklęcia podstawowe, które zna każdy mag: [Magiczny Pocisk](../spells/general
 
 ## 7. Umierasz? Test Przeżycia
 
-Na **początku swojej tury** rzucasz Test Przeżycia, T:S zależy od tego, jak bardzo przekroczono próg śmierci:
+Na **początku swojej tury** rzucasz Test Przeżycia (Ciało (Wytrzymałość)), T:S zależy od tego, jak bardzo przekroczono próg śmierci:
 
 | Przekroczenie | Test |
 | --- | --- |
