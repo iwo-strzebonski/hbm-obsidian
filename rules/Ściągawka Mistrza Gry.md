@@ -44,11 +44,12 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 - **Zapał:** 1 punkt = 1 dodatkowa Akcja w turze albo 2 dodatkowe Akcje Natychmiastowe.
 - **Unik, który zawiódł:** Obrażenia liczysz z **różnicy Sukcesów + 2** ([Atak bronią](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Atak%20bronią.md)).
 - **Zapał** regeneruje się o 1 na początku tury własnej postaci, chyba że od poprzedniej tury postać wzięła dodatkową Akcję albo dodatkową Akcję Natychmiastową za Zapał (wtedy bez regeneracji; modlitwy i Talenty z własnym kosztem Zapału tego nie wstrzymują). Oszołomiony nie ma Zapału.
-- **Atak - dwa warianty obrony:** Unik = Sukcesy atakującego minus Sukcesy broniącego; Odparcie = test przeciwstawny, przegrany dostaje pełne obrażenia zwycięzcy. Atak dystansowy: Test Przeciwstawny z Refleksem celu.
+- **Atak - dwa warianty obrony:** Unik = Sukcesy atakującego minus Sukcesy broniącego; Odparcie = test przeciwstawny, jeśli atakujący wygra, broniący dostaje obrażenia z pełnych Sukcesów atakującego (bez +2); remis = odparte, atakujący nigdy nie obrywa. Atak dystansowy: Test Przeciwstawny z Refleksem celu.
 - **Kolejność redukcji:** Runiczny Pancerz → Magiczna Osłona → Pancerz → Żywotność. Rodzaje: Fizyczne, Środowiskowe (omijają Pancerz), Magiczne.
+- **Pancerz i Tarcza:** ciężki pancerz -2 m Szybkości i Skradanie o Stopień trudniejsze; Tarcza = Stopień Obrony zamiast Pancerza; w obu przypadkach kary kości przy rzucaniu zaklęć (sekcja 3).
 - **Oszołomienie:** jednorazowa utrata ≥ ½ maks. Żywotności (po redukcji), trwa do końca następnej tury. **Koncentracja:** test po każdym trafieniu, S = ⌈⅓ utraconej Żywotności⌉ (min. 1).
 - **Przewrócony / Unieruchomiony / Obezwładniony:** ataki na takie cele są prostsze - nie zapominaj dodawać tego do T.
-- **Przerażony:** nie zbliża się do źródła strachu, jego Testy przeciw źródłu są o Stopień trudniejsze, trwa do końca następnej Tury (chyba że efekt mówi inaczej, np. [Woal Snów](../spells/academic/illusion-magic/dream-veil.md): +2 Sukcesy do Spostrzegawczości; Złowróżbny cień: do końca walki, 5 m). Opór: Dusza (Determinacja).
+- **Przerażony:** nie zbliża się do źródła strachu, jego Testy przeciw źródłu są o Stopień trudniejsze, trwa do końca następnej Tury (chyba że efekt mówi inaczej, np. [Woal Snów](../spells/academic/illusion-magic/dream-veil.md): Testy Spostrzegawczości wymagają +2 Sukcesów; Złowróżbny cień: do końca walki, 5 m). Opór: Dusza (Determinacja).
 - **Akcja kreatywna:** gracz opisuje, Ty ustalasz koszt i test. 
 
 ## 3. Magia - co rozstrzygasz Ty
@@ -62,6 +63,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 | **Nadczarowanie** | pierwsze 2 Poziomy pełny bonus; od 3. - połowa **w dół**, min. 1 (wyjątek od zaokrąglania w górę) |
 | **Nadwyżka Sukcesów** | każdy ponad wymagane: unikanie 1 + nadwyżka, rozplatanie 2 + nadwyżka + Niezniszczalne ([Zasada Potężniejszych Zaklęć](01.%20Księga%20Magii/Rozdział%20II%20-%20Teoria%20Rzucania%20Zaklęć/Zasada%20Potężniejszych%20Zaklęć.md)) |
 | **Różnorodność** | to samo zaklęcie maks. raz na rundę ([Zasada Różnorodności](01.%20Księga%20Magii/Rozdział%20II%20-%20Teoria%20Rzucania%20Zaklęć/Zasada%20Różnorodności.md)) |
+| **Pancerz a rzucanie** | średni -1 kość, ciężki -3 kości i +2 Many do kosztu, Tarcza -1 kość (sumują się); nie dotyczy Runicznego Pancerza ani Osłon |
 | **Rozplatanie** | raz na rundę gratis, 20 m, rzucający widoczny; kolejne 1 Zapał; każde zaklęcie raz |
 
 - **Pula Many wg Poziomu Mocy** (zmiana: III i IV zamienione): sprawdź w [Atrybutach](00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Atrybuty.md) - **III = 24, IV = 21**.
@@ -71,7 +73,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 
 - **Atrybuty:** kolejne podniesienia kosztują 3 / 5 / 7 / 9 / 11 / 13 / 15 PD.
 - **Umiejętności:** podniesienie kosztuje tyle PD, ile wynosi nowa wartość.
-- **Start:** maks. 4 w dowolnej Umiejętności; Magia to losowy k10.
+- **Start:** 1 punkt w każdym Atrybucie, a z puli rasy co najmniej po jednym dodatkowym punkcie w dwóch z trzech (Ciało, Umysł, Dusza); maks. 4 w dowolnej Umiejętności; Magia to losowy k10; niewydanych punktów nie da się odłożyć.
 - **Rasa i Lata:** punkty Atrybutów, Talentów i Umiejętności rosną z Rokiem (Rok 2: +1 Atrybut, +1 Talent, +4 pkt Umiejętności; Rok 3: +2/+2/+8; Rok 4: +3/+3/+12; Rok 5: +4/+4/+16 i darmowy Talent Mistrzostwo). Superzaklęcie na V Roku to Twoja decyzja. Szczegóły: [Schemat Rozwoju Postaci](00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Schemat%20Rozwoju%20Postaci.md), [Wybór Rasy](00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy.md).
 
 ## 5. Wyposażenie i rzemiosło
@@ -81,7 +83,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 | **Eliksiry** | Tolerancja = Ciało + Wytrzymałość (×2 z Odpornością na Trucizny). Zatrucie = suma Mocy dawek. Przekroczenie: 1-3 efekt o połowę; 4-6 −1 kość do Magii; 7-9 zaklęcia wymagają podwójnych Sukcesów; 10-12 pół many; 13-15 brak kości Magii; 16+ nieprzytomność. Warzenie: Test Rozszerzony Magia + Medycyna, T ze składników (4/5/6), S = Moc + 1, czas 1-28 dni wg Mocy, mana = Moc + 1 za dawkę. Eliksiry lecznicze nie działają na istoty bez Many. Zdejmuje Długi Odpoczynek ([Przekroczenie Tolerancji](01.%20Księga%20Magii/Rozdział%20III%20-%20Warzenie%20Eliksirów/Przekroczenie%20Tolerancji%20Eliksirów.md)) |
 | **Artefakty** | limit: ⌈½ Umysłu⌉ dla magów, Umysł dla Rzemieślników; jedno trwałe ulepszenie na artefakt; wykonanie = Test Rozszerzony przez tygodnie, +25% materiałów za każdy dodatkowy tydzień ([Zasady Artefaktów](01.%20Księga%20Magii/Rozdział%20IV%20-%20Artefakty/Zasady%20Artefaktów.md)) |
 | **Runy (Magia Runiczna)** | Zaklęcie wyryte w 10 minut (Trwała: godzina, Mana ×3, raz dziennie); aktywacja = Akcja Natychmiastowa; limit aktywnych run = Umysł; rozbrojenie: Test Rozszerzony Umysł + Wiedza Magiczna 5:S. Tylko Ludzie i Krasnoludy, tylko WeSM. |
-| **Golemy** | Słoma / Glina / Kamień / Metal: Żywotność 8 / 14 / 20 / 36, Pancerz 0 / 1 / 2 / 3 (słoma: +2 od ognia, 2 = 1 do limitu). Limit golemów ⌊½ Umysłu⌋ (min. 1). Rdzeń: 4 / 6 / 8 / 10 Ładunków, 1 zużyty na scenę lub godzinę; ładowanie 1 Mana. Rozkaz = Akcja Natychmiastowa. Zbłąkany golem: przejęcie = Test Rozszerzony Magia + Zdolności Magiczne 4:2 / 4:3 / 5:5 / 6:7 + Mana ożywienia, potem k6 Skazy. |
+| **Golemy** | Słoma / Glina / Kamień / Metal: Żywotność 8 / 14 / 20 / 36, Pancerz 0 / 1 / 2 / 3, Szybkość 6 / 6 / 4 / 5 m (słoma: +2 od ognia, 2 = 1 do limitu). Limit golemów ⌊½ Umysłu⌋ (min. 1). Rdzeń: 4 / 6 / 8 / 10 Ładunków, 1 zużyty na scenę lub godzinę; ładowanie 1 Mana. Rozkaz = Akcja Natychmiastowa. Zbłąkany golem: przejęcie = Test Rozszerzony Magia + Zdolności Magiczne 4:2 / 4:3 / 5:5 / 6:7 + Mana ożywienia, potem k6 Skazy. |
 | **Broń Eksperymentalna** | Test Ciało (Zręczność lub Rzemiosło) 6:S; S rośnie o 1 za każdą porażkę. Tabela: 1-3 zacięcie, 4-5 pęknięcie, 6+ wybuch [1k6]k6 ([Cechy Broni](00.%20Podręcznik%20Gry/Aneks%20D%20-%20Cechy%20Broni.md)) |
 
 ## 6. Kości Losu, Kara Mistrza Losu, Dary Otchłani

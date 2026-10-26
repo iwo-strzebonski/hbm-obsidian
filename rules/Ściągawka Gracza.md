@@ -63,10 +63,10 @@ Rodzaje Testów: [Umiejętności](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Wa
 
 1. Atakujący rzuca **Ciało (Walka Wręcz)**.
 2. Broniący się wybiera **jedną** reakcję:
-   - **Unik** - Ciało (Refleks). Od Sukcesów atakującego odejmij Sukcesy broniącego; **wynik ≤ 0 = pudło**.
-   - **Odparcie** - Ciało (Walka Wręcz), Test Przeciwstawny. Kto ma mniej Sukcesów, **dostaje pełne obrażenia** wynikające z Sukcesów zwycięzcy. (Wymaga broni.)
+   - **Unik** - Ciało (Refleks). Od Sukcesów atakującego odejmij Sukcesy broniącego; **wynik ≤ 0 = pudło**, w przeciwnym razie obrażenia z **różnicy + 2** (dopiero potem broń i Talenty).
+   - **Odparcie** - Ciało (Walka Wręcz), Test Przeciwstawny. Jeśli atakujący ma więcej Sukcesów, **dostajesz pełne obrażenia** z jego Sukcesów (bez +2); remis i wygrana broniącego = atak odparty, atakujący nigdy nie obrywa. (Wymaga broni.)
    - **Parowanie** (Talent) - raz na rundę, Test Przeciwstawny prostszy o Stopień, a Twoje Sukcesy muszą dorównać Sukcesom atakującego pomniejszonym o ⌈½ Twojej Walki Wręcz⌉.
-3. **Atak dystansowy** to też Test Przeciwstawny: Umiejętności Strzeleckie kontra Refleks celu. Trafia, gdy atakujący wyrzuci **więcej Sukcesów niż cel** (remis = pudło).
+3. **Atak dystansowy** to też Test Przeciwstawny: Umiejętności Strzeleckie kontra Refleks celu. Trafia, gdy atakujący wyrzuci **więcej Sukcesów niż cel** (remis = pudło); obrażenia z różnicy + 2. Ruch o ponad połowę Ruchu przed strzałem = test o Stopień trudniejszy.
 4. **Dwie bronie** (atak oburącz): broniący wybiera, który atak odpiera lub unika; kości dzielisz między dwa ataki.
 5. **Bez broni** (pięść, ogon, przedmiot improwizowany): test **o Stopień trudniejszy**, tylko Obrażenia z Sukcesów, typ Obuchowe, nie można Odpierać. Talent *Sztuki Walki* znosi te kary.
 
@@ -87,6 +87,7 @@ Sukcesy + obrażenia broni + bonusy z Talentów
 | **Środowiskowe** (ogień, trucizna, prąd) | **ignoruje** Pancerz |
 | **Magiczne** (zaklęcia, klątwy, artefakty) | zwykle redukuje; niektóre ignorują Pancerz; **omijają odporność na broń konwencjonalną** |
 
+- **Pancerz:** lekki 1, średni 2, ciężki 3. **Ciężki pancerz:** Szybkość -2 m, Skradanie się o Stopień trudniejsze. **Tarcza** nie daje Pancerza - podnosi Obronę o jeden Stopień (kosztem -1 kości przy rzucaniu zaklęć).
 - **Żywotność** = 2 × (Ciało + Umysł + Dusza). Na 0 jesteś **Umierający**.
 - **Oszołomienie:** jednorazowa utrata (po redukcji przez Pancerz i osłony) ≥ ½ maks. Żywotności = Oszołomiony do końca Twojej następnej tury.
 - Więcej: [Obrażenia](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Obrażenia.md) · [Kolejność Redukcji Obrażeń](00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Kolejność%20Redukcji%20Obrażeń.md) · [Rodzaje Obrażeń](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Rodzaje%20Obrażeń.md)
@@ -103,6 +104,7 @@ Sukcesy + obrażenia broni + bonusy z Talentów
 | **Pusta pula Many** | możesz rzucać dalej, ale rzucasz tyloma k6, ile łącznie many „pożyczyłeś” od ostatniego Długiego Odpoczynku, i sprawdzasz [Kary za Wyczerpanie Many](00.%20Podręcznik%20Gry/Rozdział%20VI%20-%20Odpoczywanie%20i%20Leczenie/Wyczerpanie%20Many.md) |
 | **Nadwyżka Sukcesów** | każdy Sukces ponad wymagane podnosi ST: unikanie = 1 + nadwyżka, rozplatanie = 2 + nadwyżka + Niezniszczalne ([Zasada Potężniejszych Zaklęć](01.%20Księga%20Magii/Rozdział%20II%20-%20Teoria%20Rzucania%20Zaklęć/Zasada%20Potężniejszych%20Zaklęć.md)) |
 | **Rozplatanie** (Talent) | raz na rundę za darmo, widzisz rzucającego i jest w zasięgu 20 m; kolejne próby kosztują 1 Zapał. Każde zaklęcie można rozplatać tylko raz |
+| **Pancerz i Tarcza** | rzucając zaklęcia: pancerz średni -1 kość, ciężki -3 kości i +2 Many do kosztu; używana Tarcza dodatkowo -1 kość (kary się sumują, nie dotyczą Runicznego Pancerza ani Magicznych Osłon; Pancerz Wiary znosi karę pancerza, nie tarczy) |
 | **Koncentracja** | po otrzymaniu obrażeń: Determinacja (Dusza) 4:S, S = ⌈⅓ utraconej Żywotności⌉, min. 1 ([Koncentracja](00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Koncentracja.md)) |
 
 Zaklęcia podstawowe, które zna każdy mag: [Magiczny Pocisk](../spells/general/magic-missile.md) (1 mana, ⌈½ ZM⌉ obrażeń, 15 m) · [Magiczna Tarcza](../spells/general/magic-shield.md) (2 many, ⌈½ ZM⌉ + 1 wytrzymałości, 4 rundy) · [Poblask](../spells/general/gleam.md) (1 mana).

@@ -30,14 +30,14 @@ Dla porządku - te zasady same przypominają o zaokrąglaniu w górę:
 
 - **Zapał** - połowa Atrybutu Dusza ([Zapał](00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Zapał.md)),
 - **Koncentracja** - trzecia część utraconej Żywotności ([Koncentracja](00.%20Podręcznik%20Gry/Aneks%20A%20-%20Stany%20Postaci/Koncentracja.md)),
-- **Parowanie** - połowa Umiejętności Walka Wręcz atakowanego ([Parowanie](00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Parowanie.md)),
+- **Parowanie** - połowa własnej Umiejętności Walka Wręcz parującego ([Parowanie](00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Parowanie.md)),
 - **Niezniszczalne Zaklęcia** - połowa Zdolności Magicznych ([Niezniszczalne Zaklęcia](00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Niezniszczalne%20Zaklęcia.md)),
 - **Metamagia** - Punkty Metamagii ([Metamagia](02.%20Klątwa%20Otchłani/Rozdział%20II%20-%20Talenty/Metamagia.md)),
 - **Dary Otchłani 66-70** - utrata Żywotności ([Dary Otchłani](02.%20Klątwa%20Otchłani/Rozdział%20III%20-%20Dary%20Otchłani.md)),
 - **Potęga Efektu** - mnożniki ×0,5 i ×1,5 ([Tabela Potęgi Efektu](01.%20Księga%20Magii/Rozdział%20VII%20-%20Tworzenie%20Zaklęć/Tabela%20Potęgi%20Efektu.md)),
 - **Magiczny Pocisk** i **Magiczna Tarcza** - połowa Zdolności Magicznych ([Magiczny Pocisk](../spells/general/magic-missile.md), [Magiczna Tarcza](../spells/general/magic-shield.md)).
 
-Wszystkie inne "połowy" i "trzecie części" w podręcznikach (połowa Ruchu, trzecia część puli Many po Krótkim Odpoczynku, połowa puli Many po Ciężkiej Zapaści, połowa Umysłu przy limicie artefaktów itd.) również zaokrąglamy w górę.
+Wszystkie inne "połowy" i "trzecie części" w podręcznikach (połowa Ruchu, trzecia część puli Many po Krótkim Odpoczynku, połowa Umysłu przy limicie artefaktów itd.) również zaokrąglamy w górę.
 
 ## Jak to liczyć - szybkie przykłady
 
