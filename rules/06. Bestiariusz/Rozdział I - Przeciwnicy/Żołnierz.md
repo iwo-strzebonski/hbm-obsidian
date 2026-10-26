@@ -19,7 +19,7 @@ Doświadczony zawodowy żołnierz, ochroniarz korporacyjny albo funkcjonariusz s
 
 | Żywotność | Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|
-| 20 | 2 | 2k6+9 | 1 | 10 m |
+| 20 | 2 | 2k6+9 | 2 | 10 m |
 
 Zwykli przeciwnicy nie mają Many ani Atrybutu Magia i nie rzucają zaklęć. Jeżeli chcesz dać im magię, potraktuj ich jako postać z listy Postaci Unikalnych lub zbuduj ją według zasad tworzenia Postaci.
 

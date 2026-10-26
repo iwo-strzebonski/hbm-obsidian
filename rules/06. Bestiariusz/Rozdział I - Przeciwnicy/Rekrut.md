@@ -19,7 +19,7 @@ aliases:
 
 | Żywotność | Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|
-| 16 | 1 | 2k6+4 | 1 | 10 m |
+| 16 | 1 | 2k6+4 | 2 | 10 m |
 
 Zwykli przeciwnicy nie mają Many ani Atrybutu Magia i nie rzucają zaklęć. Jeżeli chcesz dać im magię, potraktuj ich jako postać z listy Postaci Unikalnych lub zbuduj ją według zasad tworzenia Postaci.
 

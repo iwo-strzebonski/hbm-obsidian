@@ -15,7 +15,7 @@ Wielki ptak drapieżny. Statystyki służą zarówno jako przeciwnik, jak i jako
 | 2 | 8 | 0 | 3 m (na ziemi), 16 m (w locie) |
 
 * **Atak:** szpony: +S, kłute
-- **Latanie.**
+- **Lot:** potrafi latać (Szybkość w locie podana wyżej).
 - **Wzrok:** +2 kości do Spostrzegawczości opartej na wzroku.
 
 Zwierzęta nie mają Many, Atrybutu Magia, Umysłu ani Duszy w rozumieniu Postaci. Do wszystkich Testów oprócz podanych przez ich cechy używają puli kości równej Ciału, powiększonej o 1 (Spostrzegawczość, Atletyka, Walka Wręcz).
