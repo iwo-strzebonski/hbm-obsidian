@@ -36,7 +36,7 @@ Diana jest, jak na maga, wyjątkowo słaba fizycznie - nigdy nie trenowała cia�
 #### Umiejętności
 
 - Rzemiosło (Umysł) +3 (12)
-- Zdolności Magiczne (Magia) +8 (12) *(uczennica-samorodek: poziom, na którym większość studentów kończy studia)*
+- Zdolności Magiczne (Magia) +8 (12) *(poziom, jaki większość studentów osiąga dopiero pod koniec całych studiów, a Diana miała go już jako uczennica)*
 - Wiedza Magiczna (Umysł) +1 (10)
 - Wiedza Ogólna (Umysł) +1 (10)
 - Intuicja (Umysł) +1 (10)

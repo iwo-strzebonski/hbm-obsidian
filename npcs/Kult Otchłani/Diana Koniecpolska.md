@@ -23,6 +23,9 @@ tags:
 | **Charakter**           | *Genialna, ale przez większość życia zamknięta w sobie; po bolesnych doświadczeniach w pierwszym roku szkoły chłodna i zdystansowana wobec obcych, ale zdolna do szybkiej, szczerej przyjaźni. Obecnie na granicy załamania - rozdarta między poczuciem zdrady a wciąż odczuwanym obowiązkiem wobec Nil*                                                                                                                                                                                               |
 |                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
+> [!info] Karta bojowa
+> Statystyki Diany w trzech etapach jej historii (Forma I-III) znajdziesz w Bestiariuszu: [Diana Koniecpolska](../../rules/06.%20Bestiariusz/Rozdział%20II%20-%20Postacie%20Unikalne/Diana%20Koniecpolska.md).
+
 ## Opis
 
 ### Dzieciństwo (przed 2023)
