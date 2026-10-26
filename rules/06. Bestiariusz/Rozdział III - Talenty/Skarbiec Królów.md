@@ -22,7 +22,7 @@ Jeśli celem tego Kręgu jest bóstwo albo Awatar (istota, której Talenty jawni
 > - **Diadem Szamasza** - pełna odporność na efekty wpływające na umysł (Zauroczenie, rozkazy i Autorytet, Przerażenie, Złowróżbny cień). To dlatego sztuczki Narcyzy nie mają na niego wpływu.
 > - **Pieczęć Enlila** - +3 do Zdolności Magicznych.
 > - **Sandały Etany** - Szybkość 15 m i ignorowanie Terenu Trudnego.
-> - **Napierśnik Ninurty** - +1 do Pancerza (łącznie 2); jest tak lekki, że nie krępuje rzucania zaklęć.
+> - **Napierśnik Ninurty** - źródło Pancerza 3; jest tak lekki, że nie krępuje rzucania zaklęć.
 > - **Puchar Utnapisztima** - +10 do maksymalnej Żywotności.
 >
 > Arsenał jest dużo większy, niż Pelagius kiedykolwiek pokazał, więc MG może dodać Pelagiusowi kolejne przedmioty z Bramy, o ile każdy z nich daje wyłącznie jedną przewagę i da się go zdjąć lub zniszczyć.
