@@ -144,7 +144,7 @@ Białe szaty studentki znikają - zdarte w walce albo zdjęte przez samą Karoli
 
 | Żywotność | Mana | Pancerz | Osłona Magiczna | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 58 | 35 | 0 | 15 (patrz Ekwipunek) | 2k6+19 | 5 | 15 m |
+| 58 | 35 | 0 | 15 (patrz Ekwipunek) | 2k6+19 | 5 | 15 m *(magiczne wzmocnienie ciała)* |
 
 #### Umiejętności
 
@@ -186,4 +186,4 @@ Jak w Formach I i II (Amulet Hekate, Rytualny Sztylet, Wielka Księga Obrzędów
 ### Taktyka
 
 > [!gm]+ Tylko dla MG
-> To punkt, w którym gracze dowiadują się, dlaczego Karolina jest jedną z najpotężniejszych agentek Federacji. Otwiera starcie kilkoma zaklęciami naraz (wchodząc w Koncentrację), po czym przełącza się między darmowym ponownym rzucaniem utrzymywanych zaklęć (Spleciona Moc) a bezpośrednim atakiem w zwarciu, korzystając z Szybkości 15 m, by dyktować dystans. Im dłużej trwa starcie, tym więcej zaklęć potrafi utrzymać naraz - powinna sprawiać wrażenie, że z każdą rundą staje się groźniejsza, nie słabsza. Przywileju Baby Jagi używa raz, w momencie, który realnie odwraca losy starcia - nigdy z automatu na pierwszy nieudany Test. Do tego etapu jej wcześniejsza dbałość o ekonomię akcji dawno ustąpiła miejsca czystej żądzy zadawania jak największych obrażeń na rundę - im dłużej trwa starcie, tym bardziej szaleńcza i nieobliczalna się staje, jakby sama przemiana podsycała w niej coraz słabiej kontrolowaną agresję. Każda reakcja (Unik, Parowanie) ponad jedną darmową Akcję Natychmiastową na rundę kosztuje ją Zapał (1 punkt za dwie) i wstrzymuje jego regenerację, więc nie broni się bez końca.
+> To punkt, w którym gracze dowiadują się, dlaczego Karolina jest jedną z najpotężniejszych agentek Federacji. Otwiera starcie kilkoma zaklęciami naraz (wchodząc w Koncentrację), po czym przełącza się między darmowym ponownym rzucaniem utrzymywanych zaklęć (Spleciona Moc) a bezpośrednim atakiem w zwarciu, korzystając z Szybkości 15 m (to nie przedmiot, a jej własna magia wzmacnia siłę i szybkość ciała), by dyktować dystans. Im dłużej trwa starcie, tym więcej zaklęć potrafi utrzymać naraz - powinna sprawiać wrażenie, że z każdą rundą staje się groźniejsza, nie słabsza. Przywileju Baby Jagi używa raz, w momencie, który realnie odwraca losy starcia - nigdy z automatu na pierwszy nieudany Test. Do tego etapu jej wcześniejsza dbałość o ekonomię akcji dawno ustąpiła miejsca czystej żądzy zadawania jak największych obrażeń na rundę - im dłużej trwa starcie, tym bardziej szaleńcza i nieobliczalna się staje, jakby sama przemiana podsycała w niej coraz słabiej kontrolowaną agresję. Każda reakcja (Unik, Parowanie) ponad jedną darmową Akcję Natychmiastową na rundę kosztuje ją Zapał (1 punkt za dwie) i wstrzymuje jego regenerację, więc nie broni się bez końca.
