@@ -48,6 +48,7 @@ Rozszerzenie [Ściągawki Gracza](Ściągawka%20Gracza.md): tamta strona mówi, 
 - **Kolejność redukcji:** Runiczny Pancerz → Magiczna Osłona → Pancerz → Żywotność. Rodzaje: Fizyczne, Środowiskowe (omijają Pancerz), Magiczne.
 - **Pancerz i Tarcza:** ciężki pancerz -2 m Szybkości i Skradanie o Stopień trudniejsze; Tarcza = Stopień Obrony zamiast Pancerza; w obu przypadkach kary kości przy rzucaniu zaklęć (sekcja 3).
 - **Oszołomienie:** jednorazowa utrata ≥ ½ maks. Żywotności (po redukcji), trwa do końca następnej tury. **Koncentracja:** test po każdym trafieniu, S = ⌈⅓ utraconej Żywotności⌉ (min. 1).
+- **Upadek:** 1 Obrażenie Środowiskowe za każdy pełny metr powyżej 2 m (maks. 20), Pancerz nie działa; Test Ciało (Atletyka) 4:1 jako Akcja Natychmiastowa = o połowę mniej; od 4 m Przewrócony ([Rodzaje Obrażeń](00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Rodzaje%20Obrażeń.md#Upadek)).
 - **Przewrócony / Unieruchomiony / Obezwładniony:** ataki na takie cele są prostsze - nie zapominaj dodawać tego do T.
 - **Przerażony:** nie zbliża się do źródła strachu, jego Testy przeciw źródłu są o Stopień trudniejsze, trwa do końca następnej Tury (chyba że efekt mówi inaczej, np. [Woal Snów](../spells/academic/illusion-magic/dream-veil.md): Testy Spostrzegawczości wymagają +2 Sukcesów; Złowróżbny cień: do końca walki, 5 m). Opór: Dusza (Determinacja).
 - **Akcja kreatywna:** gracz opisuje, Ty ustalasz koszt i test. 

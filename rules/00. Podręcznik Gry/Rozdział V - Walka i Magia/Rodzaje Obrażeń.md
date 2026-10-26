@@ -20,6 +20,16 @@ Obrażenia środowiskowe to wszystkie rodzaje obrażeń, na które można się n
 
 
 Wszystkie obrażenia środowiskowe ignorują Pancerz ale można zdobyć niewrażliwość na dany rodzaj obrażeń środowiskowych (wrodzona odporność bądź przedmioty).
+
+### Upadek
+
+Postać, która spada z wysokości większej niż 2 metry, otrzymuje **1 punkt Obrażeń Środowiskowych za każdy pełny metr powyżej pierwszych dwóch** (upadek z 6 metrów zadaje 4 punkty Obrażeń). Obrażenia z upadku nie mogą przekroczyć 20 punktów, bo od tej wysokości spadająca postać nie przyspiesza już znacząco. Ignorują one Pancerz, ale nie ignorują Runicznego Pancerza ani Magicznej Osłony.
+
+
+Po upadku Postać może wykonać Test **Ciało (Atletyka) 4:1** jako Akcję Natychmiastową, by zamortyzować lądowanie - przy sukcesie otrzymuje o połowę mniej Obrażeń (zaokrągloną w dół). Postać, która otrzymała Obrażenia z upadku z wysokości co najmniej 4 metrów, zostaje [Przewrócona](../Aneks%20A%20-%20Stany%20Postaci/Przewrócony.md), chyba że udało jej się zamortyzować lądowanie. Upadek na miękki lub zamortyzowany grunt (woda, śnieg, stos siana) albo na inną postać MG może uznać za o 2 metry niższy, a spadanie z wysokości mniejszej niż 2 metry nie zadaje Obrażeń wcale.
+
+
+Postać, która potrafi latać, spowalnia spadek zaklęciem albo trafia na jakiś inny sposób zatrzymania w powietrzu, nie otrzymuje Obrażeń z upadku. Jeżeli ktoś zrzuca przeciwnika z wysokości (np. po wygranym Powaleniu na krawędzi), upadek wlicza się do skutków tej akcji.
 ## Obrażenia Magiczne
 Obrażenia magiczne są zadawane przez zaklęcia, klątwy oraz artefakty.
 

@@ -16,4 +16,4 @@ Nie stosujesz kar do Ataków bez Broni (patrz: [Atak bez Broni](../Rozdział%20V
 Ten Talent obejmuje również walkę przedmiotami, które nie są bronią (taborety, narzędzia itp.; tarcza nadal nie jest bronią) - nie stosujesz wtedy kar do Ataków Improwizowanych.
 
 
-Wykonując Powalenie lub Rozbrojenie otrzymujesz dwie dodatkowe kości do Testu Przeciwstawnego.
+Wykonując Powalenie, Rozbrojenie lub Chwyt otrzymujesz dwie dodatkowe kości do Testu Przeciwstawnego.
