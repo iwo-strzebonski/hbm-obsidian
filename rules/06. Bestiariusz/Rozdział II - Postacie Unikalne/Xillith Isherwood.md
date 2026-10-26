@@ -110,7 +110,7 @@ Bezimienny w pełni przejmuje kontrolę nad ciałem Xillitha za pośrednictwem B
 
 #### Ekwipunek
 
-**Średnia zbroja kultysty** - źródło Pancerza 2.
+**Średnia zbroja kultysty** - źródło Pancerza 2; nie krępuje rzucania zaklęć (kultystyczny kunszt, wyjątek od zasad zwykłej Średniej zbroi).
 
 **[Broń Szkarłatnego Patriarchy](../../../items/artifacts/Sztandar%20Szkarłatnego%20Kultu.md)** - halabarda scalona z odłamków Sztandaru Szkarłatnego Kultu, w pełni Złączona z Xillithem. Pełne statystyki i cechy specjalne (w tym premię do obrażeń przeciw Istotom Otchłani i Kultystom Zakonu Otwartego Oka, odzyskiwanie Zapału za zabójstwa i potężną zdolność specjalną) patrz link.
 
@@ -211,7 +211,7 @@ Jak w Formie II.
 
 #### Ekwipunek
 
-**Średnia zbroja kultysty** - źródło Pancerza 2.
+**Średnia zbroja kultysty** - źródło Pancerza 2; nie krępuje rzucania zaklęć (kultystyczny kunszt, wyjątek od zasad zwykłej Średniej zbroi).
 
 **[Miecz Taumiczny](../../../items/artifacts/Miecz%20Taumiczny.md)** - domyślna broń tej formy, jak w Formie III.
 
