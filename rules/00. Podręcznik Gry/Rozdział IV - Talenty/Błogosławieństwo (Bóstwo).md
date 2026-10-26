@@ -14,10 +14,7 @@ Zostałeś/aś pobłogosławiony/a przez wybrane bóstwo i możesz wykorzystywa�
 Jednocześnie można być pobłogosławionym wyłącznie przez jedno bóstwo.
 
 
-Dodatkowo każde znane Ci zaklęcie możesz rzucić jako modlitwę.
+Każde znane Ci zaklęcie możesz rzucić albo jako zwykłe zaklęcie (Test Magia (Zdolności Magiczne), tylko Mana, zaklęcie da się rozpleść), albo jako modlitwę.
 
 
 Rzucanie zaklęć jako modlitw polega na wykorzystaniu sumy wartości Atrybutu Dusza oraz wartości Umiejętności Oddanie do rzucenia zaklęcia. Każda modlitwa kosztuje, oprócz many, jeden punkt Zapału, natomiast nie da się jej rozpleść.
-
-
-Zaklęcia z list modlitw powszechnych i Twojego bóstwa możesz też rzucać jako zwykłe zaklęcia: wtedy rzucasz Test Magia (Zdolności Magiczne) na zwykłych zasadach, płacisz wyłącznie Manę i nie wydajesz Zapału, a zaklęcie da się rozpleść.
