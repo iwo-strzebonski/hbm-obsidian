@@ -47,7 +47,7 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 
 #### Talenty
 
-- [Błogosławieństwo (Hekate)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Błogosławieństwo%20%28Bóstwo%29.md) - formalnie pobłogosławiona przez Hekate; to na tym Talencie opiera się cała przykrywka „darów bogini" i możliwość rzucania zaklęć sakralnych jako modlitw.
+- [Błogosławieństwo (Hekate)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Błogosławieństwo%20%28Bóstwo%29.md) - fałszywy Talent, który nadaje jej Amulet Hekate: to na nim opiera się cała przykrywka „darów bogini" i możliwość rzucania zaklęć sakralnych jako modlitw. Bez amuletu Karolina go nie ma, a jej prawdziwym źródłem mocy jest Dzika Wiedźmia Magia.
 - [Rozplatanie Zaklęć](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Rozplatanie%20Zaklęć.md) - raz na rundę może za darmo spróbować rozpleść rzucane w jej zasięgu zaklęcie.
 - [Magiczny Zmysł (Wzrok)](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Magiczny%20Zmysł%20%28Zmysł%29.md) - magię „widzi" jako wstęgi w powietrzu; Testy na opieranie się efektom zaklęć i na rozplatanie zaklęć wymagają u niej jednego Sukcesu mniej.
 - [Sztuki Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Sztuki%20Walki.md) - jej pięści, kopnięcia i improwizowane przedmioty nie podlegają karom do Ataków bez Broni; do tego dwie dodatkowe kości przy Powaleniu i Rozbrojeniu.
@@ -64,7 +64,7 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 
 #### Ekwipunek
 
-**Amulet Hekate** - naszyjnik z symbolem bogini, jej oficjalny "focus" magiczny. Czysto fabularny rekwizyt podtrzymujący przykrywkę - realnym źródłem jej mocy jest Dzika Wiedźmia Magia, nie błogosławieństwo Hekate.
+**Amulet Hekate** - naszyjnik z symbolem bogini, jej oficjalny "focus" magiczny. Nadaje Karolinie fałszywy Talent Błogosławieństwo (Hekate) i podtrzymuje przykrywkę - realnym źródłem jej mocy jest Dzika Wiedźmia Magia, nie błogosławieństwo Hekate.
 
 **Rytualny Sztylet** - jeden z atrybutów Hekate, który Karolina nosi jako część stroju kapłanki-amatorki; w razie potrzeby służy też jako broń.
 - **Obrażenia:** 1+S

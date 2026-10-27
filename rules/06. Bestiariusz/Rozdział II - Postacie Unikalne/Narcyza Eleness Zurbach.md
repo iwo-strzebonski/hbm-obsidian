@@ -29,7 +29,7 @@ Zanim WeSM przyjęła Narcyzę, rada szkoły postawiła jasny warunek: żadna ar
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 42 | 14 | 0 | - | 2k6+13 | 4 | 10 m (w tym Lot) |
+| 42 | 60 | 0 | - | 2k6+13 | 4 | 10 m (w tym Lot) |
 
 #### Umiejętności
 

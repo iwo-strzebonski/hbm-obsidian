@@ -31,7 +31,7 @@ Diana jest, jak na maga, wyjątkowo słaba fizycznie - nigdy nie trenowała cia�
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 34 | 12 | 0 | 2 | 2k6+12 | 3 | 10 m |
+| 34 | 30 | 0 | 2 | 2k6+12 | 3 | 10 m |
 
 #### Umiejętności
 
@@ -94,7 +94,7 @@ Latem 2027 jej ciało zaczyna nosić pierwsze, ledwie widoczne ślady tego, czym
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 38 | 20 | 0 | 2 | 2k6+16 | 4 | 10 m |
+| 38 | 60 | 0 | 2 | 2k6+16 | 4 | 10 m |
 
 #### Umiejętności
 
@@ -142,7 +142,7 @@ Jak w Formie I (Rapier, Sprzężone Działa Entropii, Zwiadowcze Lustra, Amulet 
 
 ## Forma III - Posłaniec Przeszłości (Harbinger)
 
-Forma Otchłani Diany - „Szlam Otchłani”. Jej ciało traci ostre kontury i staje się amorficzną, lekko lepką substancją, choć wciąż potrafi przybrać swój dawny kształt na tyle, by mówić, patrzeć i walczyć jak człowiek. Ta sama utrata fizycznej formy pozwala jej też swobodnie latać, jakby grawitacja przestawała jej w pełni dotyczyć. W tej formie Diana nie ma limitu Many - czerpie moc wprost z Otchłani i z Nil, a raczej z tego, co z nich w niej zostało.
+Forma Otchłani Diany - „Szlam Otchłani”. Jej ciało traci ostre kontury i staje się amorficzną, lekko lepką substancją, choć wciąż potrafi przybrać swój dawny kształt na tyle, by mówić, patrzeć i walczyć jak człowiek. Dzięki swojej magii potrafi też lewitować, jakby grawitacja przestawała jej w pełni dotyczyć. W tej formie Diana nie ma limitu Many - czerpie moc wprost z Otchłani i z Nil, a raczej z tego, co z nich w niej zostało.
 
 Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy sięga po swoje najpotężniejsze zdolności, rzeczywistość wokół niej [pęka i składa się na nowo](../../../lore/02.%20Otchłań%20i%20Magia.md#Jak%20reaguje%20rzeczywistość), tak jak dzieje się to wokół samej Nil.
 
@@ -154,7 +154,7 @@ Jako Posłaniec, Diana nie rozkazuje Otchłani - jest jej przedłużeniem. Gdy s
 
 | Żywotność | Mana | Pancerz | Osłona Magiczna | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 112 | Nieograniczona | 0 | regenerowana Zaporą Posłańca | 2k6+20 | 5 | 10 m (w tym Lot) |
+| 112 | Nieograniczona | 0 | regenerowana Zaporą Posłańca | 2k6+20 | 5 | 10 m (w tym lewitacja) |
 
 *(Żywotność podwojona względem standardowego wzoru - patrz Talent [Nie do Zabicia](../Rozdział%20III%20-%20Talenty/Nie%20do%20Zabicia.md))*
 
@@ -186,7 +186,7 @@ Wszystkie Talenty z Form I i II (o ile wciąż mają zastosowanie w tej formie -
 
 **Amulet Osłony** - ten sam, własnoręcznie wykuty artefakt z Form I i II, wciąż noszony z przyzwyczajenia, choć w tej formie jego Runiczny Pancerz to margines w porównaniu do Osłony Magicznej dawanej przez Zaporę Posłańca. Diana go nie zdejmuje - to jeden z niewielu przedmiotów sprzed Otchłani, które wciąż ma przy sobie.
 
-**Echa Skarbca** - Sprzężone Działa Entropii i Zwiadowcze Lustra nie są już Dianie fizycznie potrzebne - w tej formie może je przywołać jako wierne kopie utkane wprost z Otchłani, bez żadnego kosztu Many, Akcji ani Ładunków. Statystyki identyczne jak w Formie I/II.
+**Echa Otchłani** - Sprzężone Działa Entropii i Zwiadowcze Lustra nie są już Dianie fizycznie potrzebne - w tej formie może je przywołać jako wierne kopie utkane wprost z Otchłani, bez żadnego kosztu Many, Akcji ani Ładunków. Statystyki identyczne jak w Formie I/II, a Działa atakują Testem Magia (Umiejętności Strzeleckie) z umiejętnością Diany z Formy II (+5), czyli pulą 11 kości.
 
 ### Taktyka
 

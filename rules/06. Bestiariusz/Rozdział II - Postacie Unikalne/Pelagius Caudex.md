@@ -23,7 +23,7 @@ Karta postaci do Bestiariusza. Pełne dane fabularne: [Pelagius Caudex](../../..
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 18 | 3 | 4 | 2k6+19 | 4 | 15 m *(Sandały Etany)* |
+| 52 | 30 | 3 | 4 | 2k6+19 | 4 | 15 m *(Sandały Etany)* |
 
 ### Umiejętności
 

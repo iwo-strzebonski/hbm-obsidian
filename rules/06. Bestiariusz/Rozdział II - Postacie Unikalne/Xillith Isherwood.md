@@ -28,7 +28,7 @@ Ta karta nie przedstawia współczesnego Xillitha - to jego dawna, porzucona for
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 34 | 10 | 1 | - | 2k6+7 | 3 | 10 m |
+| 34 | 30 | 1 | - | 2k6+7 | 3 | 10 m |
 
 #### Umiejętności
 
@@ -131,7 +131,7 @@ Xillith wrócił do siebie na tyle, na ile to możliwe - mentor (za pośrednictw
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 40 | 16 | 1 | - | 2k6+14 | 3 | 10 m |
+| 40 | 30 | 1 | - | 2k6+14 | 3 | 10 m |
 
 #### Umiejętności
 
@@ -184,7 +184,7 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 52 | 30 | 2 | - | 2k6+18 | 4 | 10 m |
+| 52 | 60 | 2 | - | 2k6+18 | 4 | 10 m |
 
 #### Umiejętności
 
@@ -203,7 +203,7 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 - [Nadworny Taumaturg](../Rozdział%20III%20-%20Talenty/Nadworny%20Taumaturg.md)
 - [Otoczony](../Rozdział%20III%20-%20Talenty/Otoczony.md)
 - [Skaza z Xivell](../Rozdział%20III%20-%20Talenty/Skaza%20z%20Xivell.md)
-- **Natychmiastowe Rozproszenie** *(unikalny)* - Akcja Natychmiastowa, własny koszt 1 Zapał: gdy w zasięgu 10 m ktoś rzuca zaklęcie dowolnej Dziedziny, Postać automatycznie je przerywa i rozprasza, bez Testu.
+- [Natychmiastowe Rozproszenie](../Rozdział%20III%20-%20Talenty/Natychmiastowe%20Rozproszenie.md) - Akcja Natychmiastowa: automatycznie przerywa i rozprasza zaklęcie rzucane w zasięgu 10 m.
 - [Gotowość do Walki](../../00.%20Podręcznik%20Gry/Rozdział%20IV%20-%20Talenty/Gotowość%20do%20Walki.md) - nie może zostać zaskoczony w walce; +2 do Inicjatywy.
 #### Zaklęcia znane
 
