@@ -42,6 +42,7 @@ Zayis nie jest wojowniczką - jest dowódczynią bez oddziału, dyplomatką bez 
 - Zręczność (Ciało) +1 (8)
 - Walka Wręcz (Ciało) +1 (8)
 - Skradanie się (Ciało) +1 (8)
+- Umiejętności Strzeleckie (Ciało) +3 (10) *(przy Ukrytym Emiterze liczone z Magią: pula 7 kości)*
 
 #### Talenty
 

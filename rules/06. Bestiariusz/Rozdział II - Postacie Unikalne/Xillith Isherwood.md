@@ -135,7 +135,7 @@ Xillith wrócił do siebie na tyle, na ile to możliwe - mentor (za pośrednictw
 
 #### Umiejętności
 
-- Walka Wręcz (Ciało) +3 (11)
+- Walka Wręcz (Ciało) +5 (13)
 - Refleks (Ciało) +4 (12)
 - Alchemia (Warzenie Eliksirów) (Umysł) +3 (9)
 - Zdolności Magiczne (Magia) +1 (5)
@@ -188,7 +188,7 @@ W tej formie Xillith nie traci kontroli nad własnym ciałem - działa razem z B
 
 #### Umiejętności
 
-- Walka Wręcz (Ciało) +3 (12)
+- Walka Wręcz (Ciało) +5 (14)
 - Refleks (Ciało) +4 (13)
 - Zdolności Magiczne (Magia) +3 (9)
 - Wiedza Magiczna (Umysł) +1 (10)

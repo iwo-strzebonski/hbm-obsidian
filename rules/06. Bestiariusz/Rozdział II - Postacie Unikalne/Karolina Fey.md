@@ -38,9 +38,9 @@ Karolina pod przykrywką - utalentowana, ale pozornie niegroźna studentka WeSM,
 - Wiedza Ogólna (Umysł) +1 (8)
 - Intuicja (Umysł) +1 (8)
 - Spostrzegawczość (Umysł) +2 (9)
-- Refleks (Ciało) +3 (8) *(nienagannie unika ciosów w zwarciu, jak na "uczennicę" niepokojąco dobrze)*
+- Refleks (Ciało) +4 (9) *(nienagannie unika ciosów w zwarciu, jak na "uczennicę" niepokojąco dobrze)*
 - Zręczność (Ciało) +1 (6)
-- Walka Wręcz (Ciało) +1 (6)
+- Walka Wręcz (Ciało) +4 (9)
 - Skradanie się (Ciało) +1 (6)
 - Determinacja (Dusza) +1 (7)
 - Przekonywanie (Dusza) +1 (7)
@@ -155,7 +155,7 @@ Białe szaty studentki znikają - zdarte w walce albo zdjęte przez samą Karoli
 - Spostrzegawczość (Umysł) +3 (13)
 - Refleks (Ciało) +4 (14)
 - Zręczność (Ciało) +1 (11)
-- Walka Wręcz (Ciało) +2 (12) *(capoeira - unarmed, patrz Ekwipunek)*
+- Walka Wręcz (Ciało) +6 (16) *(capoeira - unarmed, patrz Ekwipunek)*
 - Skradanie się (Ciało) +1 (11)
 - Determinacja (Dusza) +1 (10)
 - Przekonywanie (Dusza) +1 (10)
