@@ -171,7 +171,13 @@ Wszystkie Talenty z Form I i II, w tym Sztuki Walki (obniżenie Refleksu z Formy
 
 #### Zaklęcia znane
 
-Wszystkie zaklęcia z Form I i II - w tej formie różnicę robi nie nowy repertuar, a to, ile z nich potrafi utrzymać naraz (patrz Spleciona Moc).
+Wszystkie zaklęcia z Form I i II oraz każde zaklęcie Wiedźmiej Magii, czyli każde, które posiada symbole, a także wszystko, co ma w Wielkiej Księdze Obrzędów. Dzięki Pełni Mocy rzuca też Superzaklęcia (każde może rozłożyć na jedną lub kilka rund, zależnie od tego, ile aktywnych miejsc Splecionej Mocy na nie przeznaczy):
+
+- [Zagłada](../../../spells/general/superspells/doom.md)
+- [Prawdziwa Dezintegracja](../../../spells/general/superspells/true-disintegration.md)
+- [Zguba](../../../spells/general/superspells/perish.md) - jej własne superzaklęcie, okrojona Zagłada dla jednego celu, znacznie łatwiejsza w rzucaniu
+
+Poza tym wciąż liczy się to, ile zaklęć potrafi utrzymać naraz (patrz Spleciona Moc).
 
 #### Ekwipunek
 
