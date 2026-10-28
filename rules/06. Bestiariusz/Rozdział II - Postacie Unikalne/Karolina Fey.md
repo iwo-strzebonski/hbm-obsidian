@@ -175,7 +175,7 @@ Wszystkie zaklęcia z Form I i II oraz każde zaklęcie Wiedźmiej Magii, czyli 
 
 - [Zagłada](../../../spells/general/superspells/doom.md)
 - [Prawdziwa Dezintegracja](../../../spells/general/superspells/true-disintegration.md)
-- [Zguba](../../../spells/general/superspells/perish.md) - jej własne superzaklęcie, okrojona Zagłada dla jednego celu, znacznie łatwiejsza w rzucaniu
+- [Zguba](../../../spells/general/superspells/perish.md) - jej własne superzaklęcie, okrojona Zagłada dla jednego celu, znacznie łatwiejsza w rzucaniu; niszczy ciało i duszę, więc zabija także nieumarłych
 
 Poza tym wciąż liczy się to, ile zaklęć potrafi utrzymać naraz (patrz Spleciona Moc).
 
