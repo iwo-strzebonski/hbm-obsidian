@@ -21,7 +21,7 @@ overcast:
 
 **Wymagania:** Mistrzostwo (dowolna Dziedzina), Talent Pełnia Mocy lub udział w rytuale co najmniej jednego dodatkowego maga - to superzaklęcie autorskie, opracowane przez Karolinę Fey i nieznane nikomu poza nią
 
-Zguba jest okrojoną, osobistą wersją [Zagłady](doom.md): zamiast wielogodzinnego rytuału spinającego całą grupę magów i wypalającego sferę o średnicy 50 m, jest to jedno, skupione spojrzenie i jedno słowo, po którym wybrana istota przestaje istnieć: Zguba niszczy jednocześnie jej ciało i duszę. Karolina zrezygnowała z zasięgu, liczby celów i ceny życia współrzucających, i dzięki temu dostała zaklęcie, które da się rzucić w środku walki.
+Zguba jest okrojoną, osobistą wersją [Zagłady](doom.md): zamiast wielogodzinnego rytuału spinającego całą grupę magów i wypalającego sferę o średnicy 50 m, jest to jedno, skupione spojrzenie i jedno słowo, po którym wybrana istota przestaje istnieć: Zguba niszczy jednocześnie jej ciało i duszę. Karolina wymyśliła je podczas walki z własną matką, którą ostatecznie zabiła. Zrezygnowała z zasięgu, liczby celów i ceny życia współrzucających, i dzięki temu dostała zaklęcie, które da się rzucić w środku walki.
 
 Po udanym rzuceniu wskazana istota w zasięgu ginie natychmiast, niezależnie od tego, czy jest żywa, czy nieumarła (zniszczenie duszy i ciała zabija także istoty, które zwykłe zaklęcia i obrażenia ledwie ruszają), ignorując Pancerz, Runiczny Pancerz, Magiczną Osłonę, odporności i Talenty. Nie wykonuje się żadnych testów obronnych, a Zguby nie można Uniknąć, Odeprzeć ani Sparować. Chronią przed nią wyłącznie [Aegis](aegis.md) oraz inne superzaklęcia ochronne.
 

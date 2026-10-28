@@ -30,6 +30,8 @@ Aktualnie przebywa na tajnej misji, podając się za studentkę we [Wschodnioeur
 
 Członkowie Sabatu podążają za nią ze strachu - nie z lojalności. Karolina nie zabiega o uczucia. Zabiega o wyniki.
 
+Karolina zabiła własną matkę. W trakcie tej walki wymyśliła [Zgubę](../../spells/general/superspells/perish.md), swoje własne superzaklęcie, które niszczy jednocześnie ciało i duszę.
+
 ## Filozofia
 
 Karolina wyznaje Szkołę Rozkazywania: Otchłań jest siłą, nie osobą. Nie ma duszy, z którą należałoby budować relację. Ci, którzy próbują „harmonizować” z Otchłanią, są - jej zdaniem - słabymi romantykami. Otchłanią należy się zająć jak zwierzęciem: poskromić, ujarzmić, eksploatować.
