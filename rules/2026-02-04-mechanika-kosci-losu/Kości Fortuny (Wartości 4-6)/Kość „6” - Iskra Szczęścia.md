@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kość „6" - Iskra Szczęścia
 publish: tests-pending
+authorship: ai-draft
 ---
 **Ładunki:** 6
 

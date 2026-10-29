@@ -19,6 +19,7 @@ duration: 1 godzina
 overcast:
   - +2 kości do rzutów lub +1 godzina trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Promień Harmonii
 

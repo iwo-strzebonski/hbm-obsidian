@@ -6,6 +6,7 @@ tags:
 aliases:
   - Samookaleczenie
 publish: tests-pending
+authorship: ai-draft
 ---
 - **Koszt**: Akcja
 

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Metalowy Golem
 publish: tests-pending
+authorship: ai-draft
 ---
 # Metalowy Golem
 

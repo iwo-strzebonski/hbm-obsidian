@@ -6,6 +6,7 @@ tags:
 aliases:
   - Lis
 publish: tests-pending
+authorship: ai-draft
 ---
 # Lis
 

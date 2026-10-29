@@ -7,6 +7,7 @@ tags:
 aliases:
   - Głos Rozkazu
 publish: tests-pending
+authorship: ai-draft
 ---
 Zayis nie prosi, nie przekonuje i nie oczarowuje - ona każe, tonem, który zakłada, że posłuszeństwo jest jedyną rozsądną odpowiedzią. To nie urok ani manipulacja emocjami - to czysty, chłodny Autorytet Domu, do którego urodziła się jako księżniczka.
 

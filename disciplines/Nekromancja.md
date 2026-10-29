@@ -4,6 +4,7 @@ tags:
   - necromancy
   - academic-magic
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Nekromancja

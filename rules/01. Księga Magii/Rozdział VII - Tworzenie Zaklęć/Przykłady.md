@@ -6,6 +6,7 @@ tags:
 aliases:
   - Przykłady
 publish: tests-pending
+authorship: ai-draft
 ---
 ### Płomienna Strzała
 

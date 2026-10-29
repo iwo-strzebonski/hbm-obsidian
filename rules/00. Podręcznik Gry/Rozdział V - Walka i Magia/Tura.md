@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
 publish: tests-pending
+authorship: ai-draft
 ---
 W trakcie swojej tury każda postać może wykonać Ruch (Akcja Ruchu) oraz jedną z akcji opisanych w tym rozdziale.
 

@@ -19,6 +19,7 @@ duration: 1 godzina
 overcast:
   - +1 godzina trwania lub +1k3 Sukcesów wymaganych do uniknięcia efektu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Piękno Bogini
 

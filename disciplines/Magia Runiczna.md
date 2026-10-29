@@ -4,6 +4,7 @@ tags:
   - rune-magic
   - thaumaturgy
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Magia Runiczna

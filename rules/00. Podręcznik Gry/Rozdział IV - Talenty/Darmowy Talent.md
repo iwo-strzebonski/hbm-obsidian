@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Czasem Mistrz Gry zdecyduje nagrodzić Gracza nowym talentem, a czasem Postać po prostu zaczyna z możliwością wybrania dowolnego Talentu.
 

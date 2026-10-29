@@ -2,7 +2,8 @@
 tags:
   - race
   - malferian
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Malferianin

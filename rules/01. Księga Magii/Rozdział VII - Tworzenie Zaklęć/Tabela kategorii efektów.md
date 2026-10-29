@@ -6,6 +6,7 @@ tags:
 aliases:
   - Tabela kategorii efektów
 publish: tests-pending
+authorship: ai-draft
 ---
 |Kategoria|Modyfikator|Opis|
 |---|---|---|

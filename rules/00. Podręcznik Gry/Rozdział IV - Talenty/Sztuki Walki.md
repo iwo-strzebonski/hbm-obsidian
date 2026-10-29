@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Ciało (2), Walka Wręcz (2)
 

@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Medycyna (3), Umysł (3)
 

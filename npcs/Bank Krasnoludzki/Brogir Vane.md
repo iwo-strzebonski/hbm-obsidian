@@ -4,7 +4,8 @@ tags:
   - dwarf
   - banker
 aliases: []
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**              | **                                                                            |
 | ------------------------ | ------------------------------------------------------------------------------ |

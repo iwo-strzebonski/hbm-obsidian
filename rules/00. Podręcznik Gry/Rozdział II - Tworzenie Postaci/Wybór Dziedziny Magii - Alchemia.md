@@ -7,6 +7,7 @@ tags:
 aliases:
   - Alchemia
 publish: tests-pending
+authorship: ai-draft
 ---
 [Alchemia](../../../disciplines/Alchemia.md) jest nauką mówiącą o przemianach materii. Dzieli się na dwie dziedziny - Transmutację oraz Warzenie Eliksirów.
 ### Transmutacja

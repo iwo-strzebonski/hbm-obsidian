@@ -1,5 +1,6 @@
 ---
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 Klaus von Ubertropp
 - człowiek

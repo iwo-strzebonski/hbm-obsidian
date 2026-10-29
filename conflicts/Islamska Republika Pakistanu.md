@@ -1,7 +1,8 @@
 ---
 aliases: ["Islamska Republika Pakistanu"]
 tags: [placeholder, todo]
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Islamska Republika Pakistanu
 

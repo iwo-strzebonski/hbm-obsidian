@@ -4,7 +4,8 @@ tags:
   - location
   - planet
   - planet-xivell
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 | **Zdjęcie**                      | <img src="../../_assets/locations/xivell/planet.jpg" width="200" alt="planet.jpg">                                       |

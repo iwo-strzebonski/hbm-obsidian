@@ -5,6 +5,7 @@ tags:
   - combat
   - actions
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać rzuca się w wir walki, ignorując ataki wymierzone w nią oraz pociski i zaklęcia świstające dookoła niej.
 

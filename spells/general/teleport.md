@@ -19,6 +19,7 @@ duration: Instant
 overcast:
   - +1 osoba. Maksymalna ilość przenoszonych osób (włącznie z magiem) jest równa zaokrąglonej w górę połowie wartości Umiejętności Zdolności Magiczne. Nadczarowanie kosztuje trzy punkty Many.
 publish: tests-pending
+authorship: ai-draft
 ---
 # Teleportacja
 

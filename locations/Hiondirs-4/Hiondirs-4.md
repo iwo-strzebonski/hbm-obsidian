@@ -6,7 +6,8 @@ tags:
   - planet-hiondirs-4
   - lore
 book: Przewodnik Ludzkości po Magicznym Świecie
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**                      | <img src="hiondirs-4.jpg" width="200" alt="hiondirs-4.jpg">  |
 | -------------------------------- | ------------------------- |

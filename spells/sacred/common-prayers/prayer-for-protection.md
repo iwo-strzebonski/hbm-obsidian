@@ -19,6 +19,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania lub +1 kość do Testów (kosztuje 2 stopnie)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Modlitwa o Opiekę
 

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Dar Mistrza Losu
 publish: tests-pending
+authorship: ai-draft
 ---
 Kości Losu są odłamkami [Mistrza Losu](../../../npcs/Kult%20Otchłani/Mistrz%20Losu.md), więc tylko on może je z własnej woli podarować. Czyni to rzadko i zawsze z jakiegoś powodu: jako nagrodę, narzędzie albo przynętę.
 

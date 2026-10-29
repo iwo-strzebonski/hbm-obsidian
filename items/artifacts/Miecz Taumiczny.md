@@ -5,6 +5,7 @@ tags:
   - crimson-cult
 wound: slashing
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Miecz Taumiczny

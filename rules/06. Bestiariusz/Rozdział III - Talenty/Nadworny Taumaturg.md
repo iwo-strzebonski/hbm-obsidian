@@ -6,6 +6,7 @@ tags:
 aliases:
   - Nadworny Taumaturg
 publish: tests-pending
+authorship: ai-draft
 ---
 Osoba znana jako Pierwszy Patriarcha dawniej była jednym z najpotężniejszych magów - za swoje zasługi w trakcie wojny została wybrana na Nadwornego Taumaturga.
 

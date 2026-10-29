@@ -21,6 +21,7 @@ duration: 2 rundy
 overcast:
   - +1 runda trwania lub +1 kość do testów związanych z Umiejętnością Refleks
 publish: tests-pending
+authorship: ai-draft
 ---
 # Wyczucie Zagrożenia
 

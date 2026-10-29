@@ -21,6 +21,7 @@ duration: 3 rundy
 overcast:
   - +1 cel lub +1 runda trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ożywione Więzy
 

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Hartowany w Ogniu
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Rasa (Krasnolud lub Lamia)*
 

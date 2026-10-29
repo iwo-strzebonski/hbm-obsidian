@@ -6,6 +6,7 @@ tags:
   - academic-magic
 aliases:
 publish: tests-pending
+authorship: ai-draft
 ---
 
 Część magów posługujących się Magią Sakralną nie ma talentu do pomagania innym, czy to lecząc, czy ochraniając w trakcie walki, czyli do tego, do czego głównie się ich szkoli. Okazuje się jednak, że wybrane osoby z tej grupy potrafią korzystać ze swojej magii w kompletnie innych celach. Egzorcyści, bo tym są magowie korzystający w niecodzienny sposób ze swoich zdolności, walczą z demonami za pomocą słów… I okazjonalnie za pomocą broni konwencjonalnej. Jako że ich zaklęcia wymagają od nich bardzo dużego skupienia, są pozbawieni możliwości bronienia się magią, dlatego też szkoleni są do walki bronią białą i dystansową i, jako jedni z naprawdę niewielkiej grupy, Wschodnioeuropejska Szkoła Magii szkoli egzorcystów w korzystaniu z broni palnej.

@@ -5,7 +5,8 @@ tags:
   - chosen-heroes
 aliases:
   - Program Weryfikacji i Rekrutacji Dziedzictwa Kulturowego Federacji Sol-3
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**                   | ![[.jpg\|200]]                                                                                                        |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |

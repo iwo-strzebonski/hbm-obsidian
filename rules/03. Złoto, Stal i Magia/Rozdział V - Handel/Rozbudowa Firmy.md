@@ -6,6 +6,7 @@ tags:
 aliases:
   - Rozbudowa Firmy
 publish: tests-pending
+authorship: ai-draft
 ---
 Gdy firma postaci zacznie generować zyski, można ją rozbudować:
 

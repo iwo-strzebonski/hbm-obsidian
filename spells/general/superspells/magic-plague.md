@@ -16,7 +16,8 @@ targets: Istoty żyjące
 duration: 2k3 lat
 overcast:
   - +6 miesięcy trwania lub +5 km zasięgu
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Magiczna Plaga
 

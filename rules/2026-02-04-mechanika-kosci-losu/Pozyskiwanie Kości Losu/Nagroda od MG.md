@@ -6,6 +6,7 @@ tags:
 aliases:
   - Nagroda od MG
 publish: tests-pending
+authorship: ai-draft
 ---
 Mistrz Gry może przyznać Kość Losu jako nagrodę za:
 - Szczególnie heroiczne lub dramatyczne działanie

@@ -21,6 +21,7 @@ ignoresArmor: true
 overcast:
   - +1k2 punktów Obrażeń
 publish: tests-pending
+authorship: ai-draft
 ---
 # Przebicie Eteru
 

@@ -20,6 +20,7 @@ duration: 10 rund (1 minuta)
 overcast:
   - +10 rund (1 minuta) trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Latanie
 

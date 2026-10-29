@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Ten Talent można wykupić wyłącznie podczas tworzenia postaci.
 

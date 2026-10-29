@@ -7,6 +7,7 @@ tags:
 aliases:
   - Dawniej Cały, Wkrótce Cały
 publish: tests-pending
+authorship: ai-draft
 ---
 Wielki Taumaturg utracił ciało, a jego dusza została rozdarta na strzępy - jednak dzięki działaniom Szkarłatnego Kultu z dnia na dzień odzyskuje coraz więcej swoich mocy.
 

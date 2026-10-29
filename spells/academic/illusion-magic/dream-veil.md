@@ -23,6 +23,8 @@ damageBase: magicalAbilities/2
 ignoresArmor: true
 overcast:
   - +1k6 Obrażeń lub +1 runda trwania
+publish: tests-pending
+authorship: ai-draft
 ---
 # Woal Snów
 

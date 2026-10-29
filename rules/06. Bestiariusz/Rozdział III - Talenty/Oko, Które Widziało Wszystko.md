@@ -6,6 +6,7 @@ tags:
 aliases:
   - Oko, Które Widziało Wszystko
 publish: tests-pending
+authorship: ai-draft
 ---
 Wieki spędzone jako naczynie Gilgamesza nauczyły Pelagiusa Caudexa jednej rzeczy: w walce niemal nie istnieje ruch, cios czy zaklęcie, którego nie widziałby już wcześniej, w innym ciele, w innym starciu, wieki temu.
 

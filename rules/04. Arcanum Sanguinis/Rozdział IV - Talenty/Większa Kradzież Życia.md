@@ -6,6 +6,7 @@ tags:
 aliases:
   - Większa Kradzież Życia
 publish: tests-pending
+authorship: ai-draft
 ---
 *Ta Akcja zastępuje Akcję "Kradzież Życia"*
 Koszt: 1 punkt Zapału

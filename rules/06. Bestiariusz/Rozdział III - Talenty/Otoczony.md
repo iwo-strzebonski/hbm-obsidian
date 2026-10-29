@@ -6,6 +6,7 @@ tags:
 aliases:
   - Otoczony
 publish: tests-pending
+authorship: ai-draft
 ---
 Ta Postać nie szuka pomocy, gdy zostaje otoczona - szuka w tym powodu, by wreszcie przestać się hamować.
 

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Znajdowanie Kontaktu
 publish: tests-pending
+authorship: ai-draft
 ---
 Pierwszy krok to znalezienie kogoś, kto może zaoferować (lub kupić) nielegalne przedmioty. Nie ma billboardów reklamujących usługi Czarnej Giełdy - wszystko odbywa się przez "wiedzę, gdzie zapytać".
 

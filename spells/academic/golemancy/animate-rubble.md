@@ -22,6 +22,7 @@ duration: Scena (do 10 minut)
 overcast:
   - +4 Żywotność golema
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ożywiony Gruz
 

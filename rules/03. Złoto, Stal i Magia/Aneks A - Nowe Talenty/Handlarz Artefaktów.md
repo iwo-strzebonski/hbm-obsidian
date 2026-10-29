@@ -6,6 +6,7 @@ tags:
 aliases:
   - Handlarz Artefaktów
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Rzemiosło (3), Wiedza Magiczna (2)*
 

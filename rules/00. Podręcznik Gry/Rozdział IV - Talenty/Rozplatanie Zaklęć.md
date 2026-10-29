@@ -3,7 +3,8 @@ tags:
   - rule
   - podrecznik-gry
   - talent
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 Wymagania: Zdolności Magiczne (4)
 

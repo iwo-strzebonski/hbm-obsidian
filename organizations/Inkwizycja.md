@@ -2,7 +2,8 @@
 tags:
   - organization
   - inquisition
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 | **Zdjęcie**                   | <img src="inkwizycja.jpg" width="200" alt="inkwizycja.jpg">                                                                                                           |

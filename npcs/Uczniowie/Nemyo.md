@@ -3,7 +3,8 @@ tags:
   - npc
   - feles
   - alchemy
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**         | **                                                                                         |
 | ------------------- | ------------------------------------------------------------------------------------------ |

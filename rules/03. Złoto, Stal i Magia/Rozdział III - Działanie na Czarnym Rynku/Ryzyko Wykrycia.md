@@ -6,6 +6,7 @@ tags:
 aliases:
   - Ryzyko Wykrycia
 publish: tests-pending
+authorship: ai-draft
 ---
 Każda transakcja na czarnym rynku niesie ze sobą ryzyko zwrócenia uwagi organów ścigania, Inkwizycji lub wrogich organizacji.
 

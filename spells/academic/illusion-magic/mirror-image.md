@@ -22,6 +22,7 @@ duration: 2 rundy
 overcast:
   - +1 runda trwania lub +1k3 wymaganych Sukcesów do zdania Testu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Zwierciadlany Wizerunek
 

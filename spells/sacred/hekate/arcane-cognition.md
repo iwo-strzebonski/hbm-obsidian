@@ -21,6 +21,7 @@ duration: 1 godzina
 overcast:
   - +1 godzina trwania lub +1 kość do testów związanych z Umiejętnościami Wiedza Magiczna i Teologia (kosztuje 2 stopnie)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Tajemne Poznanie
 

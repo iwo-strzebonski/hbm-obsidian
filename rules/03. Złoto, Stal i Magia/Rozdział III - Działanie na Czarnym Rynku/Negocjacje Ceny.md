@@ -6,6 +6,7 @@ tags:
 aliases:
   - Negocjacje Ceny
 publish: tests-pending
+authorship: ai-draft
 ---
 Nielegalny handel to nie sklep ze stałymi cenami. Wszystko jest przedmiotem negocjacji.
 

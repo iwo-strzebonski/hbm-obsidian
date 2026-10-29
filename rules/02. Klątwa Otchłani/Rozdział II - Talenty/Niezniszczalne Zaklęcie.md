@@ -6,6 +6,7 @@ tags:
 aliases:
   - Niezniszczalne Zaklęcie
 publish: tests-pending
+authorship: ai-draft
 ---
 **Koszt**: 1 Punkt Metamagii
 

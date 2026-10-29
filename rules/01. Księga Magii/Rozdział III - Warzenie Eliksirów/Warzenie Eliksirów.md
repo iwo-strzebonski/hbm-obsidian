@@ -6,6 +6,7 @@ tags:
 aliases:
   - Warzenie Eliksirów (zasady)
 publish: tests-pending
+authorship: ai-draft
 ---
 Eliksiry mogą warzyć wyłącznie postacie znające Poddziedzinę [Warzenie Eliksirów](../../../disciplines/Alchemia/Poddziedzina%20-%20Warzenie%20Eliksirów.md), i to tylko te eliksiry, które potrafią przyrządzić. Warzenie to [Test Rozszerzony](../../00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Test%20Rozszerzony.md) **Magia + Medycyna**, wykonywany po upływie czasu warzenia, a jego Trudność zależy od dwóch rzeczy: **siły eliksiru** (jego Mocy) oraz **rzadkości składników**.
 

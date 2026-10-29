@@ -20,6 +20,7 @@ duration: 10 minut
 overcast:
   - +10 minut trwania lub +1 litr wody
 publish: tests-pending
+authorship: ai-draft
 ---
 # Tworzenie i Kontrolowanie Wody
 

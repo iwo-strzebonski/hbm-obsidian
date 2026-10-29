@@ -21,6 +21,7 @@ duration: 2 rundy
 overcast:
   - +1 runda trwania lub +2 do liczby Sukcesów wymaganych od celów do zdania Testu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Lodowa Podłoga
 

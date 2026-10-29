@@ -4,6 +4,7 @@ tags:
   - sacred-magic
   - academic-magic
 publish: tests-pending
+authorship: ai-draft
 ---
 
 - [Mechanika](#Mechanika)

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Widzenie w Ciemności
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Rasa (Krasnolud lub Feles lub Elf)*
 

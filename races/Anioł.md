@@ -5,7 +5,8 @@ tags:
 aliases:
   - Anioł
   - Anielica
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Anioł

@@ -18,6 +18,7 @@ duration: Instant
 overcast:
   - +1 dodatkowy dotykany przedmiot
 publish: tests-pending
+authorship: ai-draft
 ---
 # Wykrycie Zmian
 

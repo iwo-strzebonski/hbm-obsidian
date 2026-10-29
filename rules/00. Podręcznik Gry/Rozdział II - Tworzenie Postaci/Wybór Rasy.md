@@ -5,6 +5,7 @@ tags:
   - character-creation
   - race
 publish: tests-pending
+authorship: ai-draft
 ---
 Podane tutaj Punkty Doświadczenia i Punkty Atrybutów są podane z myślą o postaciach, które uczęszczają do klasy pierwszej.
 

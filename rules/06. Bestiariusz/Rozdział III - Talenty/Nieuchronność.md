@@ -6,6 +6,7 @@ tags:
 aliases:
   - Nieuchronność
 publish: tests-pending
+authorship: ai-draft
 ---
 Przed mocą tej Postaci nie da się uchylić ani jej rozproszyć - nie dlatego, że jest zbyt szybka czy zbyt subtelna, ale dlatego, że po prostu nie zostawia na to miejsca.
 

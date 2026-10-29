@@ -2,7 +2,8 @@
 tags: [concept, abyss, lore]
 aliases: [Abyss, Nil, Mundus, Tempus]
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Otchłań

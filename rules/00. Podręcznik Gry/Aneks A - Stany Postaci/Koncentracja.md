@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - status-effect
 publish: tests-pending
+authorship: ai-draft
 ---
 Niektóre Talenty mogą sprawiać, że postać jest w stanie Koncentracji. Postać może kontynuować wykonywanie czynności, która sprawiła, że weszła w stan Koncentracji, albo w ramach Akcji Darmowej przerwać Koncentrację, a ponadto nie może rozpoczynać innych Akcji, które wprowadziły by ją w stan Koncentracji.
 

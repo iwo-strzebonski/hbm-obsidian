@@ -17,6 +17,8 @@ targets: '1'
 duration: Instant
 overcast:
   - +1 pytanie
+publish: tests-pending
+authorship: ai-draft
 ---
 # Rozmawianie ze Zmarłymi
 

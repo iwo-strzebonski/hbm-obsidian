@@ -18,6 +18,7 @@ duration: 2 rundy
 overcast:
   - +1 runda trwania lub niewrażliwość na dodatkowy Stan (kosztuje 2 stopnie)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Magiczna Odporność
 

@@ -6,6 +6,7 @@ damage: '1+S'
 traits: 'Dosięgająca, Rzucana (10 m)'
 wound: piercing
 publish: tests-pending
+authorship: ai-draft
 ---
 # Włócznia
 

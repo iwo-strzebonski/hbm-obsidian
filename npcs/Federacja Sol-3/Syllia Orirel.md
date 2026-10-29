@@ -1,7 +1,8 @@
 ---
 tags:
   - npc
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 | **Zdjęcie**             | <img src="../../_assets/npc/syllia-orirel/syllia-orirel.png" width="200" alt="syllia-orirel.png"> |

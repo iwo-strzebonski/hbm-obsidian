@@ -21,6 +21,7 @@ damageBase: magicalAbilities*2
 overcast:
   - +1k6 Obrażeń dla każdego przeciwnika, który nie zdał Testu, lub +2 do liczby Sukcesów wymaganych od celów do zdania Testu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Grom z Nieba
 

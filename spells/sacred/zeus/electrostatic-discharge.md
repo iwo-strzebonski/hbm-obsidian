@@ -5,6 +5,7 @@ tags:
   - zeus
 castingMode: sacred
 school: sacred
+category: Obrażenia
 deity: zeus
 sourceBook: ksiega-magii
 manaCost: 4
@@ -20,6 +21,8 @@ damageBase: magicalAbilities/2
 ignoresArmor: true
 overcast:
   - +1 runda trwania lub +1k3 punktów Obrażeń
+publish: tests-pending
+authorship: ai-draft
 ---
 # Wyładowanie Elektrostatyczne
 

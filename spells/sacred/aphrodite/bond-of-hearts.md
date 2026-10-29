@@ -19,6 +19,7 @@ duration: Do następnego świtu
 overcast:
   - +1 dodatkowy Sukces lub poziom Testów jest obniżany o jeden (wymaga dwóch poziomów Nadczarowania)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Więź Serc
 

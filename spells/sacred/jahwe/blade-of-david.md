@@ -20,6 +20,8 @@ targets: Trzymane własne anielskie pióro
 duration: 3 rundy
 overcast:
   - +1 runda trwania lub broń ignoruje Pancerz (kosztuje 2 stopnie)
+publish: tests-pending
+authorship: ai-draft
 ---
 # Ostrze Dawida
 

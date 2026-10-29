@@ -6,6 +6,7 @@ tags:
 aliases:
   - Zasada Unikalności Efektów
 publish: tests-pending
+authorship: ai-draft
 ---
 Jeśli dwóch magów chce rzucić na ten sam cel to samo zaklęcie, które wpływa na cel przez określony czas (ma podany czas trwania), to jedynie pierwsze rzucone zaklęcie zadziała. Jeżeli jest to zaklęcie obszarowe, to efekty tego zaklęcia się nie nakładają.
 

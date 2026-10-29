@@ -20,6 +20,7 @@ duration: Instant
 overcast:
   - Większy płomień
 publish: tests-pending
+authorship: ai-draft
 ---
 # Wzniecanie Ognia
 

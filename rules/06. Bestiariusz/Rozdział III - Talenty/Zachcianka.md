@@ -6,6 +6,7 @@ tags:
 aliases:
   - Zachcianka
 publish: tests-pending
+authorship: ai-draft
 ---
 Nawet gdy reszta jej działań bywa przypadkowa, ta Postać wciąż zachowuje odrobinę własnej woli.
 

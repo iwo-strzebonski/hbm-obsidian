@@ -19,7 +19,8 @@ damageBase: 3d6
 ignoresArmor: true
 overcast:
   - +50 m zasięgu lub dodatkowa przenoszona osoba
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Requiem
 

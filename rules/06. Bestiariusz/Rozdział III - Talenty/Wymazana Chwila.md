@@ -7,6 +7,7 @@ tags:
 aliases:
   - Wymazana Chwila
 publish: tests-pending
+authorship: ai-draft
 ---
 Nie każdy problem trzeba rozwiązywać siłą - część wystarczy sprawić, by nigdy się nie wydarzyła, przynajmniej w cudzej pamięci.
 

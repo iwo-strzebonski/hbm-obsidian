@@ -6,6 +6,7 @@ tags:
 aliases:
   - Opcjonalne Zasady
 publish: tests-pending
+authorship: ai-draft
 ---
 *Mistrz Gry może wprowadzić następujące warianty:*
 

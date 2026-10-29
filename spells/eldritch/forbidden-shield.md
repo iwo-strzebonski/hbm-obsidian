@@ -16,6 +16,7 @@ damageBase: magicalAbilities/3
 overcast:
   - +1k2 punktów wytrzymałości
 publish: tests-pending
+authorship: ai-draft
 ---
 # Zakazana Osłona
 

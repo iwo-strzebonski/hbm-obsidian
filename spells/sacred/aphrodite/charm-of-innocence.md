@@ -19,6 +19,7 @@ duration: 10 minut
 overcast:
   - +1 minuta trwania lub +1 wymagany Sukces (wymaga dwóch poziomów Nadczarowania)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Urok Niewinności
 

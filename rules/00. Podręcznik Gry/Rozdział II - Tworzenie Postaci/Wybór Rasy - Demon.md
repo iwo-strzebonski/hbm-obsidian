@@ -7,6 +7,7 @@ tags:
 aliases:
   - Demon
 publish: tests-pending
+authorship: ai-draft
 ---
 Demony pochodzą z Galaktyki Demonów, zwanej Piekłem, i naturalnie czerpią z Otchłani. Postać gracza jest **Średnim Demonem (Poziom Drugi): sukkubem lub inkubem**. Niższe demony (impy) są zbyt prostymi istotami, a wyższe są za potężne, by zasiadać w klasie szkolnej, więc pozostają bohaterami niezależnymi (patrz [Demon](../../../races/Demon.md)).
 

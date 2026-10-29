@@ -6,7 +6,8 @@ tags:
   - human
   - british-academy-of-witches
 aliases: []
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | **                                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------ |

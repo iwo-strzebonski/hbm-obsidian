@@ -5,6 +5,7 @@ tags:
   - thaumaturgy
   - academic-magic
 publish: tests-pending
+authorship: ai-draft
 ---
 Spis treści
 - [Wstęp](#Wstęp)

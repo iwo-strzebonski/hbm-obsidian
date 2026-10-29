@@ -8,7 +8,8 @@ tags:
 aliases:
   - Urszula Callistis
   - Chariot du Nord
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/ursula-callistis/ursula-callistis.jpg" width="200" alt="ursula-callistis.jpg">                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------- |

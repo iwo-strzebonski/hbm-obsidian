@@ -3,6 +3,7 @@ tags:
   - gear
 price: '80 PLN'
 publish: tests-pending
+authorship: ai-draft
 ---
 # Shinai
 

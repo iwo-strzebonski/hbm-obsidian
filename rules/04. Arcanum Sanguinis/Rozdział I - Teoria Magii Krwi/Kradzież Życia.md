@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kradzież Życia
 publish: tests-pending
+authorship: ai-draft
 ---
 - **Koszt**: 1 punkt Zapału (darmowa Akcja Natychmiastowa - nie zużywa limitu Akcji Natychmiastowych)
 

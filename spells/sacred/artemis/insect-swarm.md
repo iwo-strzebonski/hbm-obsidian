@@ -19,6 +19,7 @@ duration: 1 runda
 overcast:
   - +2 rundy trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Chmara Insektów
 

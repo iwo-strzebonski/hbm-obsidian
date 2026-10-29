@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - klasy
 publish: tests-pending
+authorship: ai-draft
 ---
 Pod koniec Roku Czwartego zdaje się Egzaminy Mistrzowskie - końcowe egzaminy potwierdzające ukończenie szkoły oraz zostanie pełnoprawnym magiem.
 

@@ -5,6 +5,7 @@ tags:
   - combat
   - character-creation
 publish: tests-pending
+authorship: ai-draft
 ---
 Gdy postać ma otrzymać obrażenia, są one redukowane po kolei w następujący sposób:
 

@@ -8,7 +8,8 @@ aliases:
   - Wielka Trzynastka
   - Trzynaście Szkół Magii
 status: kanoniczna
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**      | <img src="trzynastka.jpg" width="200" alt="trzynastka.jpg"> |
 | ---------------- | ----------------------------------------------------------- |

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Metamagia
 publish: tests-pending
+authorship: ai-draft
 ---
 *Ten Talent można wykupić wyłącznie podczas tworzenia postaci lub jeżeli Postać staje się Magiem Otchłani.*
 

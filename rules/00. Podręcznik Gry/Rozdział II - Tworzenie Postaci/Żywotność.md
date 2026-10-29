@@ -5,6 +5,7 @@ tags:
   - combat
   - character-creation
 publish: tests-pending
+authorship: ai-draft
 ---
 ## Definicja
 Cecha ta oznacza, ile obrażeń postać może otrzymać.

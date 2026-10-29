@@ -7,4 +7,5 @@ tags:
 aliases:
   - Magia Powietrza
 publish: tests-pending
+authorship: ai-draft
 ---

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Tabela Potęgi Efektu
 publish: tests-pending
+authorship: ai-draft
 ---
 Ta tabela dotyczy zarówno bazowego efektu zaklęcia, jak i (osobno) bonusów z opcji Nadczarowania, jeśli te skalują się kością zamiast stałą wartością.
 

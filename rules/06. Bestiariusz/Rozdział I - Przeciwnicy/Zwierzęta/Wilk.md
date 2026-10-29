@@ -6,6 +6,7 @@ tags:
 aliases:
   - Wilk
 publish: tests-pending
+authorship: ai-draft
 ---
 # Wilk
 

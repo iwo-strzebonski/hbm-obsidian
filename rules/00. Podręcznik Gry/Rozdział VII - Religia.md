@@ -4,5 +4,6 @@ tags:
   - podrecznik-gry
   - religion
 publish: tests-pending
+authorship: ai-draft
 ---
 Opisy poszczególnych bóstw panteonu oraz Siedmiu Grzechów Głównych można znaleźć w dokumentach [Panteon](../../concepts/Bogowie/Panteon.md) oraz [Siedem Grzechów](../../concepts/Siedem%20Grzechów/Siedem%20Grzechów.md).

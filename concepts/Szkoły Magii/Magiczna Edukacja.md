@@ -2,7 +2,8 @@
 tags: [concept, education, magic-schools]
 aliases: [Magiczna Edukacja, nauka magii, certyfikacja]
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Magiczna Edukacja

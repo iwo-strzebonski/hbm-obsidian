@@ -23,6 +23,7 @@ damageBase: 3
 overcast:
   - +1 runda trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Podpalenie
 

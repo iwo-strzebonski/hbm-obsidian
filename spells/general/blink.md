@@ -18,6 +18,7 @@ duration: Instant
 overcast:
   - +5 m zasięgu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Przeskok
 

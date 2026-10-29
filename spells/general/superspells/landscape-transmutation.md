@@ -16,6 +16,8 @@ targets: Obszar o powierzchni 5 kilometrów kwadratowych
 duration: Zobacz opis zaklęcia
 overcast:
   - +1 kilometr kwadratowy
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Transmutacja Krajobrazu
 

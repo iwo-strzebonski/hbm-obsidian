@@ -21,6 +21,7 @@ duration: Instant
 overcast:
   - +1 m odrzucenia
 publish: tests-pending
+authorship: ai-draft
 ---
 # Runa Odpychania
 

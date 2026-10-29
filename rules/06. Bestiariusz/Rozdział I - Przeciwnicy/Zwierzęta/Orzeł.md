@@ -6,6 +6,7 @@ tags:
 aliases:
   - Orzeł
 publish: tests-pending
+authorship: ai-draft
 ---
 # Orzeł
 

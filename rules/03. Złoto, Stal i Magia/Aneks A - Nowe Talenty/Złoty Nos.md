@@ -6,6 +6,7 @@ tags:
 aliases:
   - Złoty Nos
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Rasa (Krasnolud)*
 

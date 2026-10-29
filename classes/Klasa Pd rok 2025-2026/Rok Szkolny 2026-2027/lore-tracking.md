@@ -1,5 +1,6 @@
 ---
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 ```
 30 Września 2026

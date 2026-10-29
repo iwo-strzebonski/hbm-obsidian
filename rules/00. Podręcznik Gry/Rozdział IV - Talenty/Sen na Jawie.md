@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Dusza (2), Determinacja (3) lub Rasa (Elf)
 

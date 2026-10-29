@@ -7,6 +7,7 @@ tags:
 aliases:
   - Źródło Mocy
 publish: tests-pending
+authorship: ai-draft
 ---
 Nie potrafisz rzucać zaklęć, ale Twoje ciało jest w stanie przechowywać znacznie więcej many, a ponadto możesz asystować innym magom w rzucaniu zaklęć, udzielając im many.
 ###### Pierwotna Energia

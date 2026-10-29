@@ -16,6 +16,8 @@ targets: Obiekt do 1 kg
 duration: 10 rund (1 minuta)
 overcast:
   - +10 rund (1 minuta) trwania lub +1 kg masy obiektu
+publish: tests-pending
+authorship: ai-draft
 ---
 # Telekineza
 

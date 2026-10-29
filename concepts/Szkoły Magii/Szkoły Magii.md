@@ -2,7 +2,8 @@
 tags: [concept, magic-schools, lore]
 aliases: [Wielka Trzynastka, Szkoły Magii]
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 

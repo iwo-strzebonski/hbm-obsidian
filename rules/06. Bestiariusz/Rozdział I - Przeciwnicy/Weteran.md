@@ -7,6 +7,7 @@ tags:
 aliases:
   - Doświadczony wojownik
 publish: tests-pending
+authorship: ai-draft
 ---
 # Weteran
 

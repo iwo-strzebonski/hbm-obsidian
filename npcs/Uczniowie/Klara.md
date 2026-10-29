@@ -5,7 +5,8 @@ tags:
   - student
   - todo
 aliases: []
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**       | **                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------- |

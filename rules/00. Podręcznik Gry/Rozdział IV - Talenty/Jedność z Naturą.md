@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Dziedzina Magii (Botanika, Mag Ziemi lub Mag Wody) lub Rasa (Feles)
 

@@ -22,6 +22,8 @@ targets: Kwadrat o boku 5 m
 duration: 2 rundy
 overcast:
   - +1 runda trwania lub -2 kości do testów związanych z Umiejętnością Zdolności Magiczne
+publish: tests-pending
+authorship: ai-draft
 ---
 # Klątwa Hekate
 

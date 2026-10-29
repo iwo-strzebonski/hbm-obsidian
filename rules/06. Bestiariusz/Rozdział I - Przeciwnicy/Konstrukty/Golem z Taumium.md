@@ -5,7 +5,8 @@ tags:
   - golem
 aliases:
   - Golem z Taumium
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Golem z Taumium
 

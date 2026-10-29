@@ -6,6 +6,7 @@ tags:
 aliases:
   - Szczur
 publish: tests-pending
+authorship: ai-draft
 ---
 # Szczur
 

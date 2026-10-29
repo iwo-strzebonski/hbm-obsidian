@@ -24,6 +24,7 @@ damageBase: magicalAbilities
 overcast:
   - +1k3 punktów Obrażeń
 publish: tests-pending
+authorship: ai-draft
 ---
 # Skalista Pułapka
 

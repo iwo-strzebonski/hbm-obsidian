@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kość „5" - Uśmiech Fortuny
 publish: tests-pending
+authorship: ai-draft
 ---
 **Ładunki:** 5
 

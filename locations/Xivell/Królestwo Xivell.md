@@ -6,7 +6,8 @@ tags:
   - planet-xivell
 aliases:
   - Zjednoczone Królestwo Xivell, Greteron i Cimovell
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**                      | <img src="kingdom-of-xivell.jpg" width="200" alt="kingdom-of-xivell.jpg">                                                                               |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |

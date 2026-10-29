@@ -8,7 +8,8 @@ tags:
   - potion-brewing
 aliases: []
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**              | ![[.jpg\|200]] |
 | ------------------------ | -------------- |

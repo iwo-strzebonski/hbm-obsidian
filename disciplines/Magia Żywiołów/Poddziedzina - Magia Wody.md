@@ -7,4 +7,5 @@ tags:
 aliases:
   - Magia Wody
 publish: tests-pending
+authorship: ai-draft
 ---

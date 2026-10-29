@@ -6,6 +6,7 @@ tags:
 aliases:
   - Przekroczenie Tolerancji Eliksirów
 publish: tests-pending
+authorship: ai-draft
 ---
 Każdy eliksir zatruwa organizm na pewien czas, osłabiając efekty następnych, powodując nieprzyjemne efekty uboczne czy w końcu sprawiając, że postać umiera.
 

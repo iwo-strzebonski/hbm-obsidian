@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kość „3" - Szepty Niepewności
 publish: tests-pending
+authorship: ai-draft
 ---
 **Ładunki:** 3
 

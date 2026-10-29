@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - status-effect
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać leży na ziemi. Wstanie zużywa połowę Ruchu Postaci (zaokrągloną w górę) i kończy ten Stan.
 

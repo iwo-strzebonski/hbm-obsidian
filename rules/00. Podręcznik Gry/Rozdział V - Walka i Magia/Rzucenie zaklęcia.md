@@ -6,6 +6,7 @@ tags:
   - actions
   - magic
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Talent Magiczny (dowolny)
 Rodzaj Testu: Umiejętności - Magia (Zdolności Magiczne)

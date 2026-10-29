@@ -12,7 +12,8 @@ aliases:
   - Robert Zaryn
   - Król Robert Zaryn
   - Książę Robert Zaryn
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../../_assets/characters/TenKtoryJestMroczny_Full.webp" width="200" alt="TenKtoryJestMroczny_Full.webp">                                                                                                                                                                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

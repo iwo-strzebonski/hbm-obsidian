@@ -16,6 +16,8 @@ targets: '2'
 duration: 2k6 lat
 overcast:
   - +1 rok trwania
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Bramy Wymiarów
 

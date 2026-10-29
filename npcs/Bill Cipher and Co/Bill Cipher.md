@@ -4,6 +4,7 @@ tags:
   - bill-cipher-and-co
 publish: campaign-only
 publish-note: Gravity Falls character; session-only, excluded from the books
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/bill-cipher/bill-cipher.webp" width="200" alt="bill-cipher.webp"> |
 | ----------------------- | --------------------------------------------------------------------------------------------- |

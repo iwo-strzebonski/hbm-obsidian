@@ -3,6 +3,7 @@ tags:
   - magic
   - witch-magic
 publish: tests-pending
+authorship: ai-draft
 ---
 Spis treści
 - [Wstęp](#Wstęp)

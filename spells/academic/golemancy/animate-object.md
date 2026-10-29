@@ -21,6 +21,7 @@ duration: 1 minuta
 overcast:
   - +1 minuta trwania lub +1 kategoria rozmiaru przedmiotu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ożywienie Przedmiotu
 

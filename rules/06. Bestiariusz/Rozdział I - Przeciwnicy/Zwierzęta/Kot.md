@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kot
 publish: tests-pending
+authorship: ai-draft
 ---
 # Kot
 

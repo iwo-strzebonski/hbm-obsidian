@@ -5,6 +5,7 @@ tags:
   - combat
   - character-creation
 publish: tests-pending
+authorship: ai-draft
 ---
 ## Definicja
 Ta własność określa, o ile obrażenia, które ma otrzymać postać, zostaną obniżone.

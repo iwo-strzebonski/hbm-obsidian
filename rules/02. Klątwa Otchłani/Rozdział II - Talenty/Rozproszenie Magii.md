@@ -6,6 +6,7 @@ tags:
 aliases:
   - Rozproszenie Magii
 publish: tests-pending
+authorship: ai-draft
 ---
 **Koszt**: 2 Punkty Metamagii, 1 Punkt Zapału
 **Wymagania**: Inna Postać rzucająca zaklęcie

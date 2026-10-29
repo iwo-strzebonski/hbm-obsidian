@@ -6,6 +6,7 @@ tags:
 aliases:
   - Podział Kości
 publish: tests-pending
+authorship: ai-draft
 ---
 Kości Losu dzielą się na dwa rodzaje:
 

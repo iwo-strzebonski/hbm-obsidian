@@ -3,7 +3,8 @@ tags:
   - npc
   - abyss
   - abyss-cult
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 | **Zdjęcie**         | <img src="../../_assets/npc/fate-loremaster/fate-loremaster.webp" width="200" alt="fate-loremaster.webp">                                                                                                                                                                                                                                 |

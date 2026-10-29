@@ -8,6 +8,7 @@ tags:
 aliases:
   - Alchemia (Transmutacja)
 publish: tests-pending
+authorship: ai-draft
 ---
 Transmutacja to dziedzina [Alchemii](../Alchemia.md) zajmująca się przemianą jednych materiałów w drugie za pomocą przeróżnych instrumentów, wśród których najpopularniejszym jest Alchematorium.
 

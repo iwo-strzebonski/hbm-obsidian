@@ -6,6 +6,7 @@ tags:
 aliases:
   - Ryś
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ryś
 

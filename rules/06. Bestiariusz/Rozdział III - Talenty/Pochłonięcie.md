@@ -7,6 +7,7 @@ tags:
 aliases:
   - Pochłonięcie
 publish: tests-pending
+authorship: ai-draft
 ---
 Ta Postać po prostu się rozlewa - a to, co znajdzie się w środku, przez chwilę przestaje istnieć osobno od niej.
 

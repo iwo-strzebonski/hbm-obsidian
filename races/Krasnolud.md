@@ -2,7 +2,8 @@
 tags:
   - race
   - dwarf
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Krasnolud

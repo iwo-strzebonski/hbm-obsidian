@@ -7,6 +7,7 @@ tags:
 aliases:
   - Magia Sakralna
 publish: tests-pending
+authorship: ai-draft
 ---
 Dar magiczny Magów Sakralnych pochodzi od bóstw. Magia, z której dany mag może korzystać, jest nierozerwalnie związana z danym bóstwem. Dziedzina ta skupia się na ochronie i leczeniu, jednak ma również zastosowania ofensywne.
 ###### Miłosierdzie

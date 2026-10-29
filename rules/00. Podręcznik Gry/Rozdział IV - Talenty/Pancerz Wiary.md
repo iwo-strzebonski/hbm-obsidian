@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Dziedzina Magii (Magia Sakralna), Dusza (3), Ciało (3), Oddanie (4) lub Rasa (Anioł/Anielica)
 

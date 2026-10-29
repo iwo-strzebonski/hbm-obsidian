@@ -2,7 +2,8 @@
 tags:
   - conflict
   - battle
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 | **Nazwa konfliktu**              | *Bitwa o "Integralność"*                                                                                                                                                                                                                                                                                                                                        |

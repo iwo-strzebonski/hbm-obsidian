@@ -5,6 +5,7 @@ armor_points: '3'
 requirements: 'Ciało >= 4'
 traits: 'Hałaśliwy'
 publish: tests-pending
+authorship: ai-draft
 ---
 # Pancerz Ciężki
 

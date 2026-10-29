@@ -7,4 +7,5 @@ tags:
 aliases:
   - Pierwotna Magia
 publish: tests-pending
+authorship: ai-draft
 ---

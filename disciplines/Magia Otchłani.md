@@ -4,6 +4,7 @@ tags:
   - abyss-magic
   - forbidden-knowledge
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Magia Otchłani

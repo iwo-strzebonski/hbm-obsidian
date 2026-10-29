@@ -22,6 +22,7 @@ duration: Instant
 overcast:
   - +1 regenerowany punkt Zapału
 publish: tests-pending
+authorship: ai-draft
 ---
 # Magiczne Przyspieszenie
 

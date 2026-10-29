@@ -5,6 +5,7 @@ tags:
   - combat
   - actions
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać próbuje złapać przeciwnika i przytrzymać go w miejscu zamiast go ranić.
 

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Większe Wchłanianie Krwi
 publish: tests-pending
+authorship: ai-draft
 ---
 Ta Akcja zastępuje Akcję "Wchłanianie Krwi"
 Koszt: Akcja Natychmiastowa, min. 1 punkt Krwi

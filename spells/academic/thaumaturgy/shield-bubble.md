@@ -23,6 +23,7 @@ damageBase: magicalAbilities+3
 overcast:
   - +1k6 punktów wytrzymałości Bańki lub +2 rundy trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Bańka Ochronna
 

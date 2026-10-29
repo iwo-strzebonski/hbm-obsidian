@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kroki tworzenia zaklęcia
 publish: tests-pending
+authorship: ai-draft
 ---
 1. Określ efekt zaklęcia
 Najpierw jasno zdefiniuj, co dokładnie ma robić Twoje zaklęcie. Czy ma zadawać obrażenia? Leczyć? Chronić? Teleportować? Opisz efekt zarówno mechanicznie (np. "zadaje 2k6 obrażeń ogniowych") jak i fabularnie (np. "z dłoni maga wylatuje kula płomieni"). Im bardziej konkretny opis, tym łatwiej będzie określić pozostałe parametry. Pamiętaj, że efekt powinien pasować do klimatu i lore świata Homebrew Magic.

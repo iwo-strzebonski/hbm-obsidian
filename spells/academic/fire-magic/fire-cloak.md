@@ -22,6 +22,7 @@ damageBase: 2
 overcast:
   - +1 punkt Obrażeń
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ognista Powłoka
 

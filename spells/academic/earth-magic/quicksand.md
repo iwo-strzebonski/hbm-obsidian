@@ -22,6 +22,7 @@ duration: 2 rundy
 overcast:
   - +1 runda trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ruchome Piaski
 

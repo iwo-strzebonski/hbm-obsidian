@@ -4,6 +4,7 @@ tags:
   - eldritch
 castingMode: standard
 school: eldritch
+category: Obrażenia
 sourceBook: klatwa-otchlani
 manaCost: 3
 threshold: 5
@@ -15,6 +16,8 @@ duration: Instant
 damageBase: magicalAbilities
 overcast:
   - +1 cel lub +2 do liczby Sukcesów wymaganych od celu do zdania Testu
+publish: tests-pending
+authorship: ai-draft
 ---
 # Tajemniczy Strumień
 

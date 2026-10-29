@@ -4,7 +4,8 @@ tags:
   - inquisition
   - black-market
   - dwarven-bank
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Pakt Papieża z Krasnoludami
 

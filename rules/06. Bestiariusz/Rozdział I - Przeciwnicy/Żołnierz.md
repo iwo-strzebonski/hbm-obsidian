@@ -7,6 +7,7 @@ tags:
 aliases:
   - Szeregowy
 publish: tests-pending
+authorship: ai-draft
 ---
 # Żołnierz
 

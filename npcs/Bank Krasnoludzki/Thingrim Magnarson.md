@@ -6,7 +6,8 @@ tags:
   - banker
 aliases:
   - Twarz Banku
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/thingrim-magnarson/thingrim-magnarson.webp" width="200" alt="thingrim-magnarson.webp">              |
 | ----------------------- | ----------------------------------------------------------------------------------- |

@@ -3,7 +3,8 @@ tags:
   - location
   - wastelands
   - crimson-cult
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Szkarłatne Pustkowia

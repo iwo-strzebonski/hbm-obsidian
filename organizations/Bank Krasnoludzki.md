@@ -8,7 +8,8 @@ aliases:
   - Khazad-Aurum
   - Międzywymiarowy Bank Krasnoludzki
   - Bank Szwajcarski
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**                | **                                                                                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

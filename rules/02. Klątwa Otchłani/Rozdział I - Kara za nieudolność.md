@@ -6,6 +6,7 @@ tags:
 aliases:
   - Rozdział I - Kara za nieudolność
 publish: tests-pending
+authorship: ai-draft
 ---
 Gdy mag nie zdoła opanować mocy, którą próbował przywołać - najczęściej w wyniku nieudanego Testu na nadczarowanie zaklęcia (patrz: Zasada Nadczarowywania Zaklęć, [01. Księga Magii](../01.%20Księga%20Magii.md)), choć Mistrz Gry może zadecydować, że inne okoliczności również kwalifikują się do tej zasady - musi skorzystać z tabeli Kar za Nieudolność.
 

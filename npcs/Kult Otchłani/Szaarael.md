@@ -10,7 +10,8 @@ tags:
 aliases:
   - Sarah Aelle
   - Posłaniec Życia
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/szaarael/szaarael.png" width="200" alt="szaarael.png">                                                                   |
 | ----------------------- | ---------------------------------------------------------------------------------------- |

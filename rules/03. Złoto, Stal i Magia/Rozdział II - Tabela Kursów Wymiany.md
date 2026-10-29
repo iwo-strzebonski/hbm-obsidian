@@ -6,6 +6,7 @@ tags:
 aliases:
   - Rozdział II - Tabela Kursów Wymiany
 publish: tests-pending
+authorship: ai-draft
 ---
 Poniższe kursy są orientacyjne i mogą się zmieniać w zależności od sytuacji rynkowej. Bank Krasnoludzki publikuje aktualne notowania codziennie.
 

@@ -7,6 +7,7 @@ tags:
 aliases:
   - Mackowate Więzy Otchłani
 publish: tests-pending
+authorship: ai-draft
 ---
 Z cienia za plecami tej Postaci - albo znikąd - wyrastają lepkie, czarne macki, chwytając wszystko, co się do niej zbliży.
 

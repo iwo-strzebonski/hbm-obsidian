@@ -6,6 +6,7 @@ damage: '2+S'
 traits: 'Dystansowa (20 m)'
 wound: piercing
 publish: tests-pending
+authorship: ai-draft
 ---
 # Łuk Elfi
 

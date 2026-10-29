@@ -6,6 +6,7 @@ tags:
 aliases:
   - Posiadanie Kości Losu
 publish: tests-pending
+authorship: ai-draft
 ---
 - Postać może posiadać **maksymalnie sześć Kości Losu** jednocześnie
 - Każda kość reprezentuje **unikalną wartość** od 1 do 6 (nie można mieć dwóch kości o tej samej wartości)

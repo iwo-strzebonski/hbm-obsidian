@@ -7,7 +7,8 @@ tags:
   - sub-conflict
 aliases:
   - Tajwan
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Konflikt o Tajwan

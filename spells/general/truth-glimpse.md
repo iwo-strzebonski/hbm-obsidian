@@ -17,6 +17,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania lub +1 kość do Testów
 publish: tests-pending
+authorship: ai-draft
 ---
 # Przebłysk Prawdy
 

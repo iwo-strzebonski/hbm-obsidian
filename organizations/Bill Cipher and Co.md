@@ -8,6 +8,7 @@ aliases:
   - Bill Cipher and Co.
 publish: campaign-only
 publish-note: Gravity Falls parody; session-only, excluded from the books
+authorship: ai-draft
 ---
 | **Zdjęcie**                   | ![[.jpg\|200]]                                                     |
 | ----------------------------- | ------------------------------------------------------------------ |

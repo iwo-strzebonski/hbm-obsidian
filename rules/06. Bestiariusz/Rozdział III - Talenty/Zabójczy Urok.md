@@ -7,6 +7,7 @@ tags:
 aliases:
   - Zabójczy Urok
 publish: tests-pending
+authorship: ai-draft
 ---
 Nawet drobne, przelotne trafienie Narcyzy potrafi zostawić po sobie coś więcej niż siniak.
 

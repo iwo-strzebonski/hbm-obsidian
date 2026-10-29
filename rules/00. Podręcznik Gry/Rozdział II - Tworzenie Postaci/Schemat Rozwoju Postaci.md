@@ -5,6 +5,7 @@ tags:
   - character-creation
   - progression
 publish: tests-pending
+authorship: ai-draft
 ---
 Atrybuty
 	Podwyższenie Atrybutu

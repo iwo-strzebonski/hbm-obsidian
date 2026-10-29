@@ -18,6 +18,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania lub +1 kość do Testów lub +1 do Inicjatywy
 publish: tests-pending
+authorship: ai-draft
 ---
 # Szybka Myśl
 

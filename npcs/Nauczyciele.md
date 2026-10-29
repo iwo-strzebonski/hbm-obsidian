@@ -1,5 +1,6 @@
 ---
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 - [Pelagius Caudex](Nauczyciele/Pelagius%20Caudex.md)
 - [Urszula Callistis](Nauczyciele/Urszula%20Callistis.md)

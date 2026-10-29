@@ -4,6 +4,7 @@ tags:
   - illusion-magic
   - academic-magic
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Magia Iluzji

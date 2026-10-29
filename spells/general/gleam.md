@@ -16,6 +16,8 @@ targets: Trzymany przedmiot
 duration: 1 godzina
 overcast:
   - +1 godzina trwania
+publish: tests-pending
+authorship: ai-draft
 ---
 # Poblask
 

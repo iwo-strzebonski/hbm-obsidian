@@ -18,6 +18,8 @@ targets: Sfera o średnicy 50 m
 duration: Instant
 overcast:
   - +10 m promienia zasięgu lub +1 do Trudności testów dla wszystkich prób uniknięcia efektów superzaklęcia (boska interwencja, artefakty, inne superzaklęcia)
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Zagłada
 

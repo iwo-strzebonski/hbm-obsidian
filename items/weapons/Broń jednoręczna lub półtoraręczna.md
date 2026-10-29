@@ -9,6 +9,7 @@ wound:
   - piercing
   - blunt
 publish: tests-pending
+authorship: ai-draft
 ---
 # Broń jednoręczna lub półtoraręczna
 

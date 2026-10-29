@@ -6,6 +6,7 @@ tags:
 aliases:
   - Odnalezienie
 publish: tests-pending
+authorship: ai-draft
 ---
 Kości Losu można czasem znaleźć w:
 - Starożytnych ruinach i świątyniach losu

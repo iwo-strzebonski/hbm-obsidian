@@ -17,6 +17,7 @@ damageBase: magicalAbilities+1d6
 overcast:
   - +1k6 obrażeń lub +1 do wyniku na trafienie
 publish: tests-pending
+authorship: ai-draft
 ---
 # Pierwotna Kula
 

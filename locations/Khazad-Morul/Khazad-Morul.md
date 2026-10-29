@@ -9,7 +9,8 @@ aliases:
   - Khazad-Morul
   - Dom Morul
 status: kanoniczna
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**                      | <img src="khazad-morul.jpg" width="200" alt="khazad-morul.jpg"> |
 | -------------------------------- | ------------------------- |

@@ -6,6 +6,7 @@ damage: '1+S'
 traits: 'Dosięgająca'
 wound: slashing
 publish: tests-pending
+authorship: ai-draft
 ---
 # Bicz
 

@@ -17,6 +17,8 @@ duration: Instant
 ignoresArmor: true
 overcast:
   - +2 metry zasięgu
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Prawdziwa Dezintegracja
 

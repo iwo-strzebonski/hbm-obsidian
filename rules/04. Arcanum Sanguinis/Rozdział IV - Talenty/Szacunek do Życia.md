@@ -6,6 +6,7 @@ tags:
 aliases:
   - Szacunek do Życia
 publish: tests-pending
+authorship: ai-draft
 ---
 **Wymagania**: Dziedzina Magii (Magia Krwi)
 

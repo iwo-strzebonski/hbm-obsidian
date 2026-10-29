@@ -7,6 +7,7 @@ tags:
 aliases:
   - Lamia (Naga)
 publish: tests-pending
+authorship: ai-draft
 ---
 Lamie (bądź nagi) to rasa wyróżniająca się tym, że od pasa w dół mają tułów/ogon przypominający węże (czy też inne pełzające zwierzęta pokryte łuskami).
 Nagi są wyśmienitymi wojownikami, bardzo często widuje się przedstawicieli tej rasy z włócznią i tarczą, lecz dzierżą także inne rodzaje broni. Preferują tradycyjną broń białą.

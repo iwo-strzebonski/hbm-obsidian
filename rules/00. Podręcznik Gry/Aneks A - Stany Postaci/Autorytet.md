@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - status-effect
 publish: tests-pending
+authorship: ai-draft
 ---
 Autorytet pozwala na wydawanie rozkazów wybranej istocie, która jest w stanie zrozumieć werbalne polecenia.
 

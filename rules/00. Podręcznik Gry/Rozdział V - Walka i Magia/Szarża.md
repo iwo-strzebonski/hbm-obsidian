@@ -5,6 +5,7 @@ tags:
   - combat
   - actions
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać szarżuje w przeciwników, nie zważając na ich przewagę czy na ataki wymierzone w nią.
 

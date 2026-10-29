@@ -6,7 +6,8 @@ tags:
   - golemancy
 aliases:
   - Polaryzacja Many
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 Taumium to żelazo nasycone maną, a taki metal potrafi coś, czego nie umie zwykły: zmienić swoje „ułożenie" względem otaczającej go many i na moment przestać istnieć w jednym miejscu, żeby pojawić się w innym.
 

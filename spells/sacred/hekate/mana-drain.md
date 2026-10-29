@@ -22,6 +22,8 @@ targets: '1'
 duration: 2 rundy
 overcast:
   - +1 runda trwania lub cel traci dodatkowo 1 punkt Maksymalnego Kosztu Zaklęcia
+publish: tests-pending
+authorship: ai-draft
 ---
 # Kradzież Many
 

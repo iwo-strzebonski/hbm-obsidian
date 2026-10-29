@@ -19,6 +19,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania lub obrażenia ignorują Pancerz (kosztuje 2 stopnie)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Uświęcenie
 

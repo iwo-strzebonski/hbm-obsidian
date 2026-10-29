@@ -20,6 +20,7 @@ damageBase: magicalAbilities/2
 overcast:
   - +1k3 punktów Obrażeń lub +2 do liczby Sukcesów wymaganych od celów do zdania Testu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Fala Energii
 

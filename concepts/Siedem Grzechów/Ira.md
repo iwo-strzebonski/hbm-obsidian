@@ -2,7 +2,8 @@
 tags:
   - concept
   - sin
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Ira - Gniew
 

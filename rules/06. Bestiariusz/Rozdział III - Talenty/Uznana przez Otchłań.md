@@ -8,6 +8,7 @@ tags:
 aliases:
   - Uznana przez Otchłań
 publish: tests-pending
+authorship: ai-draft
 ---
 Zwykły mag Otchłani, sięgający po moc większą, niż jest w stanie unieść, ryzykuje, że ta moc go pochłonie. Diana już do Otchłani należy - choćby tylko częściowo, choćby wbrew sobie - więc Otchłań już jej nie testuje tak, jak testuje intruzów.
 

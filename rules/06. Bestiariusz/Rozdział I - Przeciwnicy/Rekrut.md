@@ -7,6 +7,7 @@ tags:
 aliases:
   - Nowicjusz
 publish: tests-pending
+authorship: ai-draft
 ---
 # Rekrut
 

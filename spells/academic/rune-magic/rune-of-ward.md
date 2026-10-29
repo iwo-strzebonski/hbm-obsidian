@@ -21,6 +21,7 @@ duration: 4 rundy
 overcast:
   - +2 rundy trwania lub +1 punkt Runicznego Pancerza (maksymalnie do 3)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Runa Ochronna
 

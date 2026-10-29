@@ -7,7 +7,8 @@ tags:
   - czterej-pancerni-i-elf
 aliases: []
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../_assets/npc/siegfried-kaminski/siegfried-kaminski.png" width="200" alt="siegfried-kaminski.png">                                |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -7,6 +7,7 @@ tags:
 aliases:
   - Feles (Kotowate)
 publish: tests-pending
+authorship: ai-draft
 ---
 Feles, inaczej znane jako kotowate, to delikatna rasa humanoidalnych istot, które są bardzo związane z naturą. Są dosyć ciche i nieśmiałe, choć to też zależy od danego przedstawiciela tej rasy.
 Wszystkie w jakiś sposób czczą Artemidę-Dianę, boginię lasów i łowów.

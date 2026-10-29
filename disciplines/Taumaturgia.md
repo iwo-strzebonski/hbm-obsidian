@@ -4,6 +4,7 @@ tags:
   - thaumaturgy
   - academic-magic
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Taumaturgia

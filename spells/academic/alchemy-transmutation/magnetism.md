@@ -18,6 +18,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania lub +2 do liczby Sukcesów wymaganych od celów do zdania Testu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Magnetyzm
 

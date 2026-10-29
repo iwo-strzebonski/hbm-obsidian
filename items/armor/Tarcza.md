@@ -2,6 +2,7 @@
 tags:
   - shield
 publish: tests-pending
+authorship: ai-draft
 ---
 # Tarcza
 

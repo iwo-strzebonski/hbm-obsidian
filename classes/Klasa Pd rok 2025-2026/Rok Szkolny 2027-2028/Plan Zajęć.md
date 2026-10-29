@@ -1,5 +1,6 @@
 ---
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 |        \#         |    Godziny     |                                     Poniedziałek                                     |                                                                             Wtorek                                                                              |                                                                                                       Środa                                                                                                        |                                                                  Czwartek                                                                   |                                  Piątek                                  |                                Sobota                                |

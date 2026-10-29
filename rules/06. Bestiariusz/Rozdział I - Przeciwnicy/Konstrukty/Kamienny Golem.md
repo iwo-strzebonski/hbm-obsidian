@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kamienny Golem
 publish: tests-pending
+authorship: ai-draft
 ---
 # Kamienny Golem
 

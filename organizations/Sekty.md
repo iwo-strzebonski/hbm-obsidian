@@ -2,7 +2,8 @@
 tags:
   - organization
   - sect
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Sekty
 

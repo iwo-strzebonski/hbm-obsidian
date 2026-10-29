@@ -7,7 +7,8 @@ tags:
   - mage
   - witch-magic
   - special-forces-gaia
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | ![[.jpg\|200]]                                                                                                                          |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |

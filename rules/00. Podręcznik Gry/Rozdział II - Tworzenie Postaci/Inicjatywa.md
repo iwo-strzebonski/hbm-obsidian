@@ -5,6 +5,7 @@ tags:
   - combat
   - character-creation
 publish: tests-pending
+authorship: ai-draft
 ---
 ## Definicja
 Inicjatywa określa kolejność, w jakiej postaci biorą udział w walce.

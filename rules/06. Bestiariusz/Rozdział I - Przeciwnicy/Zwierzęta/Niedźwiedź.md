@@ -6,6 +6,7 @@ tags:
 aliases:
   - Niedźwiedź
 publish: tests-pending
+authorship: ai-draft
 ---
 # Niedźwiedź
 

@@ -9,7 +9,8 @@ tags:
 aliases:
   - Posłaniec Cofnięcia
   - Posłaniec Bólu
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/yssariel/yssariel.png" width="200" alt="yssariel.png">                  |
 | ----------------------- | ------------------------------------------------------------------ |

@@ -8,6 +8,7 @@ wound:
   - piercing
   - slashing
 publish: tests-pending
+authorship: ai-draft
 ---
 # Sztylet
 

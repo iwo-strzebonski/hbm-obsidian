@@ -8,6 +8,7 @@ tags:
 aliases:
   - Skaza z Xivell
 publish: tests-pending
+authorship: ai-draft
 ---
 Skaza to pasożytnicza biomasa, która niegdyś zniszczyła cywilizację Xivell - broń biologiczna oparta na Taumaturgii, dawno wymknięta spod kontroli własnego twórcy. Istoty Otchłani chętnie się nią posługują, gdziekolwiek uda im się zdobyć choćby jej fragment.
 

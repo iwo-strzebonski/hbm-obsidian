@@ -20,6 +20,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania lub +1k3 odzyskiwanych Punktów Żywotności
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ukojenie
 

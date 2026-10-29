@@ -6,6 +6,7 @@ tags:
 aliases:
   - Dzik
 publish: tests-pending
+authorship: ai-draft
 ---
 # Dzik
 

@@ -7,4 +7,5 @@ tags:
 aliases:
   - Magia Ognia
 publish: tests-pending
+authorship: ai-draft
 ---

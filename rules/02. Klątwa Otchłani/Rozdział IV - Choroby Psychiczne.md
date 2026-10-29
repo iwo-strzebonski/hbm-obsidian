@@ -7,6 +7,8 @@ tags:
 aliases:
   - Rozdział IV - Choroby Psychiczne
   - Choroby Psychiczne
+publish: tests-pending
+authorship: ai-draft
 ---
 Otchłań nie niszczy umysłu jednym ciosem. Robi to powoli: obrazem, który przez chwilę zbyt wyraźnie widać kątem oka, szeptem w ciszy, wspomnieniem, które nie należy do nikogo z żywych. Każde takie doświadczenie zostawia ślad, a gdy tych śladów robi się za dużo, umysł przestaje je znosić i pęka w jakimś konkretnym miejscu. Tak powstaje **choroba psychiczna**: trwałe, rozpoznawalne zaburzenie, które odtąd towarzyszy Postaci, ujawnia się w najgorszych możliwych chwilach, a jednocześnie bywa ceną za wiedzę, której nie da się zdobyć inaczej.
 

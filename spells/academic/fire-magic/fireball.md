@@ -23,6 +23,7 @@ damageBase: magicalAbilities
 overcast:
   - +1k3 punktów Obrażeń lub +2 do liczby Sukcesów wymaganych od celu do zdania Testu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Kula Ognia
 

@@ -4,6 +4,7 @@ tags:
   - artifact
   - crimson-cult
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Sztandar Szkarłatnego Kultu

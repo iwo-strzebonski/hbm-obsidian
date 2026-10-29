@@ -6,6 +6,7 @@ tags:
 aliases:
   - Przeprowadzanie Transakcji
 publish: tests-pending
+authorship: ai-draft
 ---
 ### Faza 1: Zakup Towaru
 

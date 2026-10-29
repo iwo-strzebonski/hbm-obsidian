@@ -7,7 +7,8 @@ aliases:
   - Era Przebudzenia
   - Przebudzenie Magii
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Era Przebudzenia (EP)
 

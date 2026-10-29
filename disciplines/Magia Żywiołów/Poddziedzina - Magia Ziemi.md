@@ -7,4 +7,5 @@ tags:
 aliases:
   - Magia Ziemi
 publish: tests-pending
+authorship: ai-draft
 ---

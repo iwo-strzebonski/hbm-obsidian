@@ -22,6 +22,8 @@ damageBase: magicalAbilities/2
 ignoresArmor: true
 overcast:
   - +1 runda trwania lub +1k3 wymaganych Sukcesów do zdania Testu lub +1k3 Obrażeń
+publish: tests-pending
+authorship: ai-draft
 ---
 # Labirynt Umysłu
 

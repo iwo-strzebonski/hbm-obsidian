@@ -6,6 +6,7 @@ tags:
 aliases:
   - Konsekwencje Schwytania
 publish: tests-pending
+authorship: ai-draft
 ---
 Jeśli postać zostanie schwytana z nielegalnymi przedmiotami, konsekwencje zależą od kategorii towaru i jurysdykcji.
 

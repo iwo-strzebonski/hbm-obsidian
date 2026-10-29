@@ -2,6 +2,7 @@
 aliases: ["Zasady", "Rules", "Mechanika"]
 tags: [moc, hub, rules]
 publish: tests-pending
+authorship: ai-draft
 ---
 # Zasady Gry
 

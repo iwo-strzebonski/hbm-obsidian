@@ -7,6 +7,7 @@ tags:
 aliases:
   - Botanika
 publish: tests-pending
+authorship: ai-draft
 ---
 Botanika to nauka o tworzeniu i rozwijaniu przeróżnych roślin.
 ###### Magiczna Flora

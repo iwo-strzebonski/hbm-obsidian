@@ -10,6 +10,7 @@ aliases:
   - Cheat Sheet
   - Szybki Start Walki
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ściągawka Gracza - Walka w Pigułce
 

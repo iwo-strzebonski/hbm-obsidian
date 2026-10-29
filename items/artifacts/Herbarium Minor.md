@@ -6,6 +6,7 @@ tags:
   - botany
 publish: tests-pending
 publish-note: renamed from a placeholder (2026-10-23)
+authorship: ai-draft
 ---
 
 # Herbarium Minor

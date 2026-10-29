@@ -7,6 +7,7 @@ aliases:
   - Mechanika Kości Losu
   - Kości Losu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Mechanika Kości Losu
 

@@ -5,6 +5,7 @@ tags:
   - character-creation
   - attributes
 publish: tests-pending
+authorship: ai-draft
 ---
 Wyróżniamy cztery Atrybuty: Ciało, Umysł, Duszę oraz Magię.
 W zależności od wybranej rasy, jest inna ilość punktów, które można na start przydzielić w dane Atrybuty, jednak należy pamiętać, że trzeba wydać co najmniej po jednym punkcie w dwóch z trzech Atrybutów: Ciało, Umysł oraz Dusza.

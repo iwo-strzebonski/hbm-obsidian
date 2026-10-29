@@ -6,6 +6,7 @@ tags:
 aliases:
   - Wchłanianie Krwi
 publish: tests-pending
+authorship: ai-draft
 ---
 - **Koszt**: Akcja, min. 1 punkt Krwi
 

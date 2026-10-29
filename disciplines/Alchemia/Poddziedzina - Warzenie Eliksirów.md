@@ -7,6 +7,7 @@ tags:
 aliases:
   - Alchemia (Warzenie Eliksirów)
 publish: tests-pending
+authorship: ai-draft
 ---
 Spis treści
 - [Wstęp](#Wstęp)

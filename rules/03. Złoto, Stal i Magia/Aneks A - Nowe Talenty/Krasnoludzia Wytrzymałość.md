@@ -6,6 +6,7 @@ tags:
 aliases:
   - Krasnoludzia Wytrzymałość
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Rasa (Krasnolud), Wytrzymałość (3)*
 

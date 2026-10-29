@@ -6,6 +6,7 @@ tags:
 aliases:
   - Mistrz Negocjacji
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Przekonywanie (3), Talent (Kupiecka Intuicja)*
 

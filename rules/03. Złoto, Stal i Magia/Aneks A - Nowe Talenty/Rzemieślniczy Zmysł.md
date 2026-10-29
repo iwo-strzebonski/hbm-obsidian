@@ -6,6 +6,7 @@ tags:
 aliases:
   - Rzemieślniczy Zmysł
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Rzemiosło (2)*
 

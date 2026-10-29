@@ -21,6 +21,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania lub +1k3 wymaganych Sukcesów do zdania Testu
 publish: tests-pending
+authorship: ai-draft
 ---
 # Magiczne Kajdany
 

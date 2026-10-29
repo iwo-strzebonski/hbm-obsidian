@@ -10,7 +10,8 @@ tags:
   - special-forces-gaia
 aliases:
   - Siergiej Konstantynowicz Żukow
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**             | <img src="../../../_assets/npc/siergiej-zhukov/siergiej-zhukov.png" width="200" alt="siergiej-zhukov.png">                                                                                                                                                                                                                   |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

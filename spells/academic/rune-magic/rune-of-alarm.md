@@ -21,6 +21,7 @@ duration: Do aktywacji lub 24 godziny
 overcast:
   - +1 km zasięgu odbioru lub +24 godziny trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Runa Alarmowa
 

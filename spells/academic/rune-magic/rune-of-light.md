@@ -21,6 +21,7 @@ duration: 8 godzin
 overcast:
   - +4 godziny trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Runa Światła
 

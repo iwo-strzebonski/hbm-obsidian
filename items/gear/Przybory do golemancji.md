@@ -3,6 +3,7 @@ tags:
   - gear
 price: '400 PLN'
 publish: tests-pending
+authorship: ai-draft
 ---
 # Przybory do golemancji
 

@@ -5,6 +5,7 @@ tags:
   - necromancy
 castingMode: standard
 school: necromancy
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 4
 threshold: 5
@@ -18,6 +19,8 @@ duration: Instant
 damageBase: magicalAbilities*2
 overcast:
   - +1k6 punktów Obrażeń
+publish: tests-pending
+authorship: ai-draft
 ---
 # Rozsypanie
 

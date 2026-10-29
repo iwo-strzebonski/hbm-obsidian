@@ -10,7 +10,8 @@ tags:
 aliases:
   - Diana Koniecpolska
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Diana Koniecpolska
 

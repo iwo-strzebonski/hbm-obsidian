@@ -2,7 +2,8 @@
 tags:
   - race
   - elf
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Elf

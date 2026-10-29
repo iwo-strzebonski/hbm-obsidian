@@ -19,6 +19,7 @@ duration: Instant
 overcast:
   - Usunięcie dodatkowej choroby lub wzmocnienie efektu zaklęcia w przypadku leczenia trudnej choroby
 publish: tests-pending
+authorship: ai-draft
 ---
 # Uzdrowienie Chorych
 

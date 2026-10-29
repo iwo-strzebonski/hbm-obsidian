@@ -6,6 +6,7 @@ tags:
 aliases:
   - Złożenie w Ofierze
 publish: tests-pending
+authorship: ai-draft
 ---
 - **Koszt**: 1 punkt Zapału (darmowa Akcja Natychmiastowa - nie zużywa limitu Akcji Natychmiastowych)
 - **Wymagania**: Istota, która zginie w wyniku Ataku w promieniu 1 m

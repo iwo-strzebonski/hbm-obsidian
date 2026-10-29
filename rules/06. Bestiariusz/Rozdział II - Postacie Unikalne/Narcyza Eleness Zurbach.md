@@ -10,7 +10,8 @@ aliases:
   - Narcyza Eleness Zurbach
   - Narcyza
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Narcyza Eleness Zurbach
 

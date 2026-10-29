@@ -6,6 +6,7 @@ tags:
 aliases:
   - Wielka Ofiara
 publish: tests-pending
+authorship: ai-draft
 ---
 *Ta Akcja zastępuje Akcję "Złożenie w Ofierze"*
 **Koszt**: 1 punkt Zapału

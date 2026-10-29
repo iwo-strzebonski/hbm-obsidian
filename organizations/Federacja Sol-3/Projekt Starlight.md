@@ -6,7 +6,8 @@ tags:
 aliases:
   - Wojska Specjalne ds. Obrony Planet Członkowskich Federacji Sol-3
   - Projekt "Starlight"
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 | **Zdjęcie**                   | ![[.jpg\|200]]                                                                                                                                               |

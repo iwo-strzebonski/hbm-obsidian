@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - status-effect
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać jest na skraju śmierci. Na początku swojej tury postać musi wykonać Test Przeżycia, czyli Test Ciało (Wytrzymałość). W zależności od śmiertelnych obrażeń, należy wykonać Test:
 

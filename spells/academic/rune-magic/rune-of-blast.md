@@ -24,6 +24,7 @@ damageBase: magicalAbilities+3
 overcast:
   - +1k3 punktów Obrażeń
 publish: tests-pending
+authorship: ai-draft
 ---
 # Runa Wybuchowa
 

@@ -9,6 +9,7 @@ aliases:
   - Konwencje
   - Zaokrąglanie i Konwencje
 publish: tests-pending
+authorship: ai-draft
 ---
 # Zaokrąglanie i Konwencje
 

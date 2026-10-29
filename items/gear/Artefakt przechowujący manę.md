@@ -3,6 +3,7 @@ tags:
   - gear
 price: '200 PLN - drewniany; 500 PLN - kamienie szlachetne'
 publish: tests-pending
+authorship: ai-draft
 ---
 # Artefakt przechowujący manę
 

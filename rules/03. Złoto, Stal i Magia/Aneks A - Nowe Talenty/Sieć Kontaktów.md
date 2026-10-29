@@ -6,6 +6,7 @@ tags:
 aliases:
   - Sieć Kontaktów
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Przekonywanie (2), Wiedza Ogólna (2)*
 

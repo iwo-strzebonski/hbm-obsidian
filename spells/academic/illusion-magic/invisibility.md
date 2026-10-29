@@ -20,6 +20,8 @@ targets: '1'
 duration: 3 rundy
 overcast:
   - +1 runda trwania
+publish: tests-pending
+authorship: ai-draft
 ---
 # Niewidzialność
 

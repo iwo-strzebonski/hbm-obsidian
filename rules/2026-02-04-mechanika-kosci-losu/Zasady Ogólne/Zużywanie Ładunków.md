@@ -6,6 +6,7 @@ tags:
 aliases:
   - Zużywanie Ładunków
 publish: tests-pending
+authorship: ai-draft
 ---
 - Użycie efektu kości zużywa **jeden ładunek**
 - Gdy kość straci wszystkie ładunki, **znika** (rozpływa się w magicznej energii)

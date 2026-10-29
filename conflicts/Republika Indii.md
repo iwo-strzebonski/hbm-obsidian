@@ -1,7 +1,8 @@
 ---
 aliases: ["Republika Indii"]
 tags: [placeholder, todo]
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Republika Indii
 

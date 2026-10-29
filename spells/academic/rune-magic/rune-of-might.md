@@ -21,6 +21,7 @@ duration: 1 minuta po aktywacji
 overcast:
   - +1 minuta trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Runa Wzmocnienia
 

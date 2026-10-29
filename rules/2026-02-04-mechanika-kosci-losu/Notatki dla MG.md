@@ -6,6 +6,7 @@ tags:
 aliases:
   - Notatki dla MG
 publish: tests-pending
+authorship: ai-draft
 ---
 ### Balans
 

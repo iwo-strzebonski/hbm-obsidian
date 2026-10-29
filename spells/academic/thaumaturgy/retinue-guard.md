@@ -23,6 +23,7 @@ damageBase: magicalAbilities/2+1
 overcast:
   - +1k3 punktów wytrzymałości każdej z Tarcz lub +2 dodatkowe cele
 publish: tests-pending
+authorship: ai-draft
 ---
 # Osłona Świty
 

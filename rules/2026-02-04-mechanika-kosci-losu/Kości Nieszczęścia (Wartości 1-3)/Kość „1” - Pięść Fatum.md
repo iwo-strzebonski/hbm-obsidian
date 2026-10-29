@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kość „1" - Pięść Fatum
 publish: tests-pending
+authorship: ai-draft
 ---
 **Ładunki:** 1
 

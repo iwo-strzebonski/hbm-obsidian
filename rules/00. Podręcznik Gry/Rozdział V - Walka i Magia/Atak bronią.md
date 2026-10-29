@@ -4,6 +4,8 @@ tags:
   - podrecznik-gry
   - combat
   - actions
+publish: tests-pending
+authorship: ai-draft
 ---
 Rodzaj Testu: Przeciwstawny - Ciało (Walka Wręcz) przeciwko obronie celu, lub Przeciwstawny - Ciało (Umiejętności Strzeleckie) przeciwko Ciało (Refleks) celu
 

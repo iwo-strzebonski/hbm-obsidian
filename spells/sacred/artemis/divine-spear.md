@@ -5,6 +5,7 @@ tags:
   - artemis
 castingMode: sacred
 school: sacred
+category: Obrażenia
 deity: artemis
 sourceBook: ksiega-magii
 manaCost: 4
@@ -20,6 +21,8 @@ damageBase: magicalAbilities
 ignoresArmor: true
 overcast:
   - +1k3 punktów Obrażeń
+publish: tests-pending
+authorship: ai-draft
 ---
 # Boska Włócznia
 

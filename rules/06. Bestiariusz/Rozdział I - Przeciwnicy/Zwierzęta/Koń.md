@@ -6,6 +6,7 @@ tags:
 aliases:
   - Koń
 publish: tests-pending
+authorship: ai-draft
 ---
 # Koń
 

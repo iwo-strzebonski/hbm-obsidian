@@ -6,6 +6,7 @@ tags:
 aliases:
   - Słomiany Golem
 publish: tests-pending
+authorship: ai-draft
 ---
 # Słomiany Golem
 

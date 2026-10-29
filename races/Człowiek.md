@@ -5,7 +5,8 @@ tags:
 aliases:
   - Człowiek
   - Ludzie
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Człowiek

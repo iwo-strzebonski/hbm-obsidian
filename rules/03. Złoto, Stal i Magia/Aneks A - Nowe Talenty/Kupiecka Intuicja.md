@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kupiecka Intuicja
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Przekonywanie (2)*
 

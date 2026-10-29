@@ -7,6 +7,7 @@ tags:
 aliases:
   - Rozkaz Księżniczki
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Autorytet (patrz Talent [Księżniczka Piekieł](Księżniczka%20Piekieł.md))
 

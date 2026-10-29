@@ -7,4 +7,5 @@ tags:
 aliases:
   - Magia Aspektów
 publish: tests-pending
+authorship: ai-draft
 ---

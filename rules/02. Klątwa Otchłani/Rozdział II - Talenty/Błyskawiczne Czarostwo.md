@@ -6,6 +6,7 @@ tags:
 aliases:
   - Błyskawiczne Czarostwo
 publish: tests-pending
+authorship: ai-draft
 ---
 **Koszt**: 2 Punkty Metamagii
 

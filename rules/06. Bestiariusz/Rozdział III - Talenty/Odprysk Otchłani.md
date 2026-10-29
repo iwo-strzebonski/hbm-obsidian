@@ -7,6 +7,7 @@ tags:
 aliases:
   - Odprysk Otchłani
 publish: tests-pending
+authorship: ai-draft
 ---
 Ta Postać nie musi gonić - wystarczy, że oderwie od siebie kawałek i pozwoli mu zaciągnąć resztę.
 

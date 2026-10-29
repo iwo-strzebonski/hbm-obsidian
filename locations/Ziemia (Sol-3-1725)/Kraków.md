@@ -7,7 +7,8 @@ tags:
 aliases:
   - Kraków
 status: kanoniczna
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**                      | <img src="krakow.jpg" width="200" alt="krakow.jpg"> |
 | -------------------------------- | ------------------------- |

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Interakcje z Innymi Mechanikami
 publish: tests-pending
+authorship: ai-draft
 ---
 - **Stopnie trudności:** Efekty Kości Losu stosuje się PO uwzględnieniu wszystkich Stopni trudności (modyfikatorów T) danego Testu.
 - **Magia antymagiczna:** Strefy antymagii blokują użycie Kości Losu.

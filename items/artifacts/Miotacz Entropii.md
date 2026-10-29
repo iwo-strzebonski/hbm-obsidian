@@ -5,6 +5,7 @@ tags:
   - abyss
   - weapon
 publish: tests-pending
+authorship: ai-draft
 ---
 
 # Miotacz Entropii (Ulepszenie: Miotacz Energii)

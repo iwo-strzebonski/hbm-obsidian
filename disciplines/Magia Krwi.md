@@ -6,6 +6,7 @@ tags:
   - lore
 book: Arcanum Sanguinis
 publish: tests-pending
+authorship: ai-draft
 ---
 ## Spis Treści
 - [Wstęp](#Wstęp)

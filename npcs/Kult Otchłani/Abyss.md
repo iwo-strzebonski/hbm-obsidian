@@ -7,7 +7,8 @@ tags:
 aliases:
   - Otchłań (byt)
   - Pierwotna Otchłań
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Otchłań (Abyss)

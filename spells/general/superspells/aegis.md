@@ -16,7 +16,8 @@ targets: Kopuła o promieniu 500 m
 duration: 1 dzień
 overcast:
   - +1 dzień trwania
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Aegis
 

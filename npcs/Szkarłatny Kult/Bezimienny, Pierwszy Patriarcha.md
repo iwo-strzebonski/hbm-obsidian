@@ -10,7 +10,8 @@ tags:
 aliases:
   - Pierwszy Patriarcha
   - Bezimienny
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 > [!note] Ujednoznacznienie
 > Ta strona dotyczy postaci zwanej **Bezimiennym** lub **Pierwszym Patriarchą** (którego prawdziwe imię brzmiało **Xillith**, dawny Nadworny Taumaturg Xivell). Nie mylić z **[Xillith Isherwood](Xillith%20Isherwood.md)** (uczniem WeSM), którego ciało służy mu za współczesnego awatara - a to za sprawą przynależności Isherwooda do [Szkarłatnego Kultu](../../organizations/Szkarłatny%20Kult.md) i zdobycia przez niego "Broni Szkarłatnego Patriarchy", nie z powodu wspólnego imienia. Zbieżność imion jest czystym przypadkiem.

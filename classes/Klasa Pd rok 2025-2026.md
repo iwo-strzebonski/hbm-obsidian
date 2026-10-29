@@ -2,7 +2,8 @@
 aliases:
   - Trzej Pancerni i Elf
   - A Story Yet to Be Finished
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 ```table-of-contents
 ```

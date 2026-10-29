@@ -7,6 +7,7 @@ tags:
 aliases:
   - Wiedźmia Magia
 publish: tests-pending
+authorship: ai-draft
 ---
 ###### Arytmetyczna Koncentracja
 Ilość kości w Testach na utrzymanie Koncentracji jest zwiększona o zaokrągloną w górę połowę wartości Atrybutu Umysł.

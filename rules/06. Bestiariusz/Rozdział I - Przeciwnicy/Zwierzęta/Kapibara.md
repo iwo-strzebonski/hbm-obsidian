@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kapibara
 publish: tests-pending
+authorship: ai-draft
 ---
 # Kapibara
 

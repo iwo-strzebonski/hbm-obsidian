@@ -21,6 +21,7 @@ duration: 2 rundy
 overcast:
   - +1 runda trwania lub +1 punkt Pancerza (kosztuje 2 poziomy)
 publish: tests-pending
+authorship: ai-draft
 ---
 # Żwirowa Zbroja
 

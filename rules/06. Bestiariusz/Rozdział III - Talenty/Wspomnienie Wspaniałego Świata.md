@@ -6,6 +6,7 @@ tags:
 aliases:
   - Wspomnienie Wspaniałego Świata
 publish: tests-pending
+authorship: ai-draft
 ---
 Legendy głoszą, że na odległej planecie Xivell istniała kiedyś bardzo zaawansowana magicznie cywilizacja, którą spotkała zagłada w wyniku wielkiego konfliktu na tej planecie. Po jednym z najpotężniejszych magów z tej planety, a jednocześnie twórcy nowoczesnej Botaniki został wyłącznie ślad - jednak to jest wystarczające, aby utrzymać go przy istnieniu.
 

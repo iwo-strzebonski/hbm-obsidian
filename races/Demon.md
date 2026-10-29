@@ -5,7 +5,8 @@ tags:
 aliases:
   - Sukkub
   - Inkub
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Demon

@@ -7,6 +7,7 @@ tags:
 aliases:
   - Zapora Posłańca
 publish: tests-pending
+authorship: ai-draft
 ---
 Coś w Dianie - to samo coś, co pozwoliło jej niegdyś przeżyć ponad pół godziny w środku rozpadającego się rytuału, który powinien był ją zabić - wciąż czuwa, gdy zbliża się zagrożenie.
 

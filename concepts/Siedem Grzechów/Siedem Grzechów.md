@@ -1,7 +1,8 @@
 ---
 aliases: ["Siedem Grzechów", "Sins", "Grzechy"]
 tags: [moc, hub, lore, sins]
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Siedem Grzechów Głównych
 

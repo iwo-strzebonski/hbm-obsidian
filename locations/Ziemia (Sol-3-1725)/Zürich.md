@@ -8,7 +8,8 @@ aliases:
   - Zürich
   - Zurych
 status: kanoniczna
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**                      | <img src="zurich.jpg" width="200" alt="zurich.jpg"> |
 | -------------------------------- | ------------------------- |

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Rytualista Krwi
 publish: tests-pending
+authorship: ai-draft
 ---
 *Ten Talent zastępuje Talent "Szacunek do Życia".*
 *Tego Talentu nie można wziąć jeżeli Postać ma już Talent Krwisty Pojedynkowicz.*

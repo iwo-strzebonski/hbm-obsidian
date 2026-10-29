@@ -2,7 +2,8 @@
 tags:
   - race
   - feles
-publish: tests-pending
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Feles

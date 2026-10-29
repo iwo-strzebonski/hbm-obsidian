@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Ciało (4), Zręczność (4), Walka Wręcz (4), broń biała
 

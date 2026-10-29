@@ -19,6 +19,7 @@ duration: 1 dzień
 overcast:
   - +1 dzień trwania lub poziom Testów jest obniżany o jeden
 publish: tests-pending
+authorship: ai-draft
 ---
 # Nić Przeznaczenia
 

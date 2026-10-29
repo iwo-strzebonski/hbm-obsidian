@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kość „4" - Błogosławieństwo Losu
 publish: tests-pending
+authorship: ai-draft
 ---
 **Ładunki:** 4
 

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Gliniany Golem
 publish: tests-pending
+authorship: ai-draft
 ---
 # Gliniany Golem
 

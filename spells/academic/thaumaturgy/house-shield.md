@@ -23,6 +23,7 @@ damageBase: magicalAbilities+3
 overcast:
   - +1k6 punktów wytrzymałości Tarczy lub +2 rundy trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Tarcza Domu
 

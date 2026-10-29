@@ -2,7 +2,8 @@
 tags: [concept, abyss, entities]
 aliases: [Personifikacje Otchłani, Nil, Mundus, Tempus]
 status: kanoniczna
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 # Personifikacje Otchłani

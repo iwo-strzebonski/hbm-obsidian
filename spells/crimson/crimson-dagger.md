@@ -16,6 +16,7 @@ damageBase: 2
 overcast:
   - +1 runda trwania lub +1 punkt obrażeń
 publish: tests-pending
+authorship: ai-draft
 ---
 # Szkarłatny Sztylet
 

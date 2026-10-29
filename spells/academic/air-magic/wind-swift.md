@@ -20,6 +20,7 @@ duration: 1 runda
 overcast:
   - +1 runda trwania
 publish: tests-pending
+authorship: ai-draft
 ---
 # Szybki jak Wiatr
 

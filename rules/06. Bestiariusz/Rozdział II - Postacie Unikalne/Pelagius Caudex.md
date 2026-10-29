@@ -10,6 +10,7 @@ aliases:
 status: draft
 publish: ip-issues
 publish-note: Brama Babilonu / Enkidu echo Fate/stay night; needs a design discussion
+authorship: ai-draft
 ---
 # Pelagius Caudex
 

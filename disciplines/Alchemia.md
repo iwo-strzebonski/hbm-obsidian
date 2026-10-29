@@ -5,6 +5,7 @@ tags:
   - academic-magic
   - thaumaturgy
 publish: tests-pending
+authorship: ai-draft
 ---
 - [Definicja](#Definicja)
 - [Historia szkoły](#Historia%20szkoły)

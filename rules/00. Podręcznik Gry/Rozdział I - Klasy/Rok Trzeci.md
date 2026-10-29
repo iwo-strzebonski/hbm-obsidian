@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - klasy
 publish: tests-pending
+authorship: ai-draft
 ---
 Na Roku Trzecim znikają zajęcia takie jak Teoria Magii, Astronomia i Astrologia oraz Wróżbiarstwo i Numerologia, natomiast Historia Magii, WoMMiR oraz OnMZ stają się zajęciami fakultatywnymi.
 

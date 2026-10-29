@@ -6,6 +6,7 @@ tags:
   - skills
   - talents
 publish: tests-pending
+authorship: ai-draft
 ---
 Każda postać na start otrzymuje pulę Punktów Doświadczenia (PD), zależną od wybranej rasy.
 

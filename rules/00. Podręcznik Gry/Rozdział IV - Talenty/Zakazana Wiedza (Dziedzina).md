@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - talent
 publish: tests-pending
+authorship: ai-draft
 ---
 Wymagania: Umysł (3), Wiedza Magiczna (4), co najmniej jedna choroba psychiczna
 

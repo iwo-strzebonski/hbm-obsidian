@@ -5,6 +5,7 @@ tags:
   - combat
   - actions
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać skupia się wyłącznie na obronie: pracuje nogami, trzyma dystans i bacznie obserwuje każdy ruch przeciwników.
 

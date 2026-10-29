@@ -5,6 +5,7 @@ armor_points: '2'
 requirements: 'Ciało >= 2'
 traits: '-'
 publish: tests-pending
+authorship: ai-draft
 ---
 # Pancerz Średni
 

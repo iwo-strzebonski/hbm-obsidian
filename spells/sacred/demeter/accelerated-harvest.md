@@ -19,6 +19,7 @@ duration: Instant
 overcast:
   - +20 metrów kwadratowych
 publish: tests-pending
+authorship: ai-draft
 ---
 # Przyspieszone Żniwa
 

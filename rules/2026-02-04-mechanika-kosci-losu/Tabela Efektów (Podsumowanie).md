@@ -7,6 +7,7 @@ aliases:
   - Tabela Efektów
   - Podsumowanie - Tabela Efektów
 publish: tests-pending
+authorship: ai-draft
 ---
 ### Kości Nieszczęścia (wpływają na przeciwników)
 

@@ -10,6 +10,7 @@ aliases:
   - GM Cheat Sheet
   - Przed Sesją
 publish: tests-pending
+authorship: ai-draft
 ---
 # Ściągawka Mistrza Gry - Przed Sesją
 

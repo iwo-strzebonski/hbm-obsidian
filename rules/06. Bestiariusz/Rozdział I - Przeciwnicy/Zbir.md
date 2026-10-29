@@ -7,6 +7,7 @@ tags:
 aliases:
   - Bandyta
 publish: tests-pending
+authorship: ai-draft
 ---
 # Zbir
 

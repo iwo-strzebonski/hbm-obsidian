@@ -5,6 +5,7 @@ tags:
   - combat
   - actions
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać próbuje wytrącić przeciwnikowi broń z rąk zamiast go ranić.
 

@@ -7,6 +7,7 @@ tags:
 aliases:
   - Magia Runiczna
 publish: tests-pending
+authorship: ai-draft
 ---
 Jako jedyny potrafisz wyrywać zaklęcia w kamieniu i metalu, tak by czekały na właściwy moment (inni magowie mogą tylko aktywować i rozbrajać cudze runy). Magię Runiczną mogą wybrać wyłącznie Krasnoludy i Ludzie, a uczy jej wyłącznie WeSM. Zasady opisuje [Zasady Magii Runicznej](../../01.%20Księga%20Magii/Rozdział%20IX%20-%20Magia%20Runiczna/Zasady%20Magii%20Runicznej.md).
 ###### Czytelnik Znaków

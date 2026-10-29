@@ -6,6 +6,7 @@ tags:
 aliases:
   - Zmysł Kamienia
 publish: tests-pending
+authorship: ai-draft
 ---
 *Wymagania: Rasa (Krasnolud)*
 

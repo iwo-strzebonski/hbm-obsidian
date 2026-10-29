@@ -21,6 +21,7 @@ damageBase: magicalAbilities*3
 overcast:
   - +1 cel
 publish: tests-pending
+authorship: ai-draft
 ---
 # Sąd Ostateczny
 

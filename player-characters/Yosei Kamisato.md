@@ -8,7 +8,8 @@ tags:
 aliases:
   - Yōsei Kamisato
 status: draft
-publish: campaign-only
+publish: needs-rewrite
+authorship: ai-draft
 ---
 | **Zdjęcie**              | <img src="../_assets/npc/yosei-kamisato/yosei-kamisato.png" width="200" alt="yosei-kamisato.png"> |
 | ------------------------ | -------------- |

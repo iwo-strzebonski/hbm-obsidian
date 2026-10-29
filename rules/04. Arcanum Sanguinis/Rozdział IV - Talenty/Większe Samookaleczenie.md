@@ -6,6 +6,7 @@ tags:
 aliases:
   - Większe Samookaleczenie
 publish: tests-pending
+authorship: ai-draft
 ---
 *Ta Akcja zastępuje Akcję "Samookaleczenie"*
 **Koszt**: Akcja Natychmiastowa

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Kość „2" - Cień Przekleństwa
 publish: tests-pending
+authorship: ai-draft
 ---
 **Ładunki:** 2
 

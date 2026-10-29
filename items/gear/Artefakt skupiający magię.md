@@ -3,6 +3,7 @@ tags:
   - gear
 price: '300+ PLN'
 publish: tests-pending
+authorship: ai-draft
 ---
 # Artefakt skupiający magię
 

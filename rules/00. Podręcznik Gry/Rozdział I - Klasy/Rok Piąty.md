@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - klasy
 publish: tests-pending
+authorship: ai-draft
 ---
 Rok Piąty nie jest obowiązkowy - są na nim uczniowie, którzy są już pełnoprawnymi magami, lecz chcą móc uczyć magii.
 

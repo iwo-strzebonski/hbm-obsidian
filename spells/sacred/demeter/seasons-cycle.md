@@ -19,6 +19,7 @@ duration: 1 godzina
 overcast:
   - +20 metrów kwadratowych
 publish: tests-pending
+authorship: ai-draft
 ---
 # Cykl Pór Roku
 

@@ -5,6 +5,7 @@ tags:
   - combat
   - actions
 publish: tests-pending
+authorship: ai-draft
 ---
 Postać próbuje podciąć, przewrócić bądź zepchnąć przeciwnika na ziemię zamiast go ranić.
 

@@ -4,6 +4,7 @@ tags:
   - thaumaturge
 publish: ip-issues
 publish-note: deliberate tribute to the Thaumcraft author; kept on purpose, decide before publication
+authorship: ai-draft
 ---
 | **Zdjęcie**         | ![[.jpg\|200]]                                 |
 | ------------------- | ---------------------------------------------- |

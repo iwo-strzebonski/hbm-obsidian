@@ -6,6 +6,7 @@ tags:
 aliases:
   - Wąż
 publish: tests-pending
+authorship: ai-draft
 ---
 # Wąż
 

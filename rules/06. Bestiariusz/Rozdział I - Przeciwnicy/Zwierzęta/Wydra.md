@@ -6,6 +6,7 @@ tags:
 aliases:
   - Wydra
 publish: tests-pending
+authorship: ai-draft
 ---
 # Wydra
 

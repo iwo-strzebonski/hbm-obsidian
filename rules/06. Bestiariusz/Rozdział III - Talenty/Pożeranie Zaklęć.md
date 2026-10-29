@@ -6,6 +6,7 @@ tags:
 aliases:
   - Pożeranie Zaklęć
 publish: tests-pending
+authorship: ai-draft
 ---
 Gdy zaklęcie trafia w tę Postać, nie zawsze robi to, co powinno - czasem po prostu znika, wchłonięte, zanim zdąży zadziałać.
 

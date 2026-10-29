@@ -6,6 +6,7 @@ tags:
 aliases:
   - Swobodny Przepływ Magii
 publish: tests-pending
+authorship: ai-draft
 ---
 **Wymagania**: Dziedzina Magii (Magia Otchłani (Aspektów))
 

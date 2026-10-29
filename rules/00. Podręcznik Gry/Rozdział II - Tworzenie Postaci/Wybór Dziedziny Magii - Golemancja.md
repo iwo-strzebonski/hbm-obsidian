@@ -7,6 +7,7 @@ tags:
 aliases:
   - Golemancja
 publish: tests-pending
+authorship: ai-draft
 ---
 Potrafisz ożywiać glinę, kamień i metal, tworząc konstrukcje, które wykonują Twoje rozkazy. Zasady opisuje [Zasady Golemancji](../../01.%20Księga%20Magii/Rozdział%20X%20-%20Golemancja/Zasady%20Golemancji.md).
 ###### Wyczucie Animacji

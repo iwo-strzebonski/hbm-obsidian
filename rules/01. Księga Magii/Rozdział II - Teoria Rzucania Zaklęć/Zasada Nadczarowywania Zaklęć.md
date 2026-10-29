@@ -7,6 +7,7 @@ tags:
 aliases:
   - Zasada Nadczarowywania Zaklęć
 publish: tests-pending
+authorship: ai-draft
 ---
 Każde zaklęcie można nadczarować, wykorzystując dodatkową manę. Wartość koniecznej many do nadczarowania zaklęcia jest równa wielokrotności bazowego kosztu many.
 

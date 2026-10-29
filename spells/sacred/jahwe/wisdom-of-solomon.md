@@ -18,6 +18,8 @@ targets: Na siebie
 duration: 1 godzina
 overcast:
   - +1 godzina trwania lub +1 kość do testów związanych z Atrybutem Umysł (kosztuje 2 stopnie)
+publish: tests-pending
+authorship: ai-draft
 ---
 # Mądrość Salomona
 
