@@ -21,6 +21,7 @@ duration: 1 runda
 damageBase: magicalAbilities/2
 overcast:
   - +1k3 punktów Obrażeń lub +1 runda trwania
+publish: tests-pending
 ---
 # Gorejąca Skóra
 

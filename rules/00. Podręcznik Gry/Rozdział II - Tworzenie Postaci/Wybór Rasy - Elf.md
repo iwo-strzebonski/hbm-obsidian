@@ -6,6 +6,7 @@ tags:
   - character-creation
 aliases:
   - Elf
+publish: tests-pending
 ---
 Elfy nie są szczególnie liczną grupą, jednak wciąż są częściej spotykane na Ziemi niż anioły.
 Tajemnicza i uwielbiająca intrygi, ta rasa przysporzyła już olbrzymich problemów Ziemianom poprzez wykorzystywanie wszelkich luk prawnych.

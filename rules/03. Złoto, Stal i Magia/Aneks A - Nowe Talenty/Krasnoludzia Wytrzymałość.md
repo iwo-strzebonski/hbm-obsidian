@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Krasnoludzia Wytrzymałość
+publish: tests-pending
 ---
 *Wymagania: Rasa (Krasnolud), Wytrzymałość (3)*
 

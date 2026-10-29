@@ -6,4 +6,5 @@ tags:
   - forbidden-knowledge
 aliases:
   - Magia Aspektów
+publish: tests-pending
 ---

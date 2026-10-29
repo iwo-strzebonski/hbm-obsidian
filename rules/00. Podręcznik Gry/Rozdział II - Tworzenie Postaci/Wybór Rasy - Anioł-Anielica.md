@@ -6,6 +6,7 @@ tags:
   - character-creation
 aliases:
   - Anioł/Anielica
+publish: tests-pending
 ---
 Anioły są dosyć rzadko spotykaną na Ziemi rasą - przez większość ludzi wciąż są uznawane za istoty bliskie bóstwom, co jest poniekąd prawdą.
 Wszystkie anioły są dziećmi (tworami?) Boga, bóstwa, które jest czymś najbliżej przypominającym Jahwe. Jako że jest to jedyne bóstwo, które uznają za faktyczne bóstwo, nazywają go także Jedynym.

@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - actions
+publish: tests-pending
 ---
 Postać próbuje wytrącić przeciwnikowi broń z rąk zamiast go ranić.
 

@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - character-creation
+publish: tests-pending
 ---
 Zapał określa ilość dodatkowych akcji, które może wykonać określona postać.
 Cecha ta jest równa zaokrąglonej w górę połowie Atrybutu Dusza. Na początku tury danej postaci odnawia ona jeden punkt Zapału - z jednym wyjątkiem: **jeśli od początku poprzedniej tury postać wykonała dodatkową Akcję albo dodatkową Akcję Natychmiastową opłaconą Zapałem (ponad darmową), na początku swojej tury nie odnawia Zapału**. Dodatkowe Akcje i reakcje są więc zrywem, który można powtarzać co drugą turę, a nie stałym dodatkiem. Wyjątek nie dotyczy Zapału wydanego na modlitwy ani na Talenty z własnym kosztem Zapału (np. Rozplatanie Zaklęć) - te nie wstrzymują odnawiania.

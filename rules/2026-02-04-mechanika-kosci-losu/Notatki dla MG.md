@@ -5,6 +5,7 @@ tags:
   - gm-notes
 aliases:
   - Notatki dla MG
+publish: tests-pending
 ---
 ### Balans
 

@@ -2,6 +2,7 @@
 tags:
   - organization
   - sect
+publish: campaign-only
 ---
 # Sekty
 

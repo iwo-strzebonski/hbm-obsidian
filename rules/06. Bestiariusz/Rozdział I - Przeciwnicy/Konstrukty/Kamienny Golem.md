@@ -5,6 +5,7 @@ tags:
   - golem
 aliases:
   - Kamienny Golem
+publish: tests-pending
 ---
 # Kamienny Golem
 

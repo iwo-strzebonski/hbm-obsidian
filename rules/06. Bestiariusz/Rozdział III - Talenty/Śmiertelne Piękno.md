@@ -6,6 +6,7 @@ tags:
   - demon
 aliases:
   - Śmiertelne Piękno
+publish: tests-pending
 ---
 Nikt, kto naprawdę spojrzy na Narcyzę w pełni jej mocy, nie zapomina o tym spojrzeniu - ani zwykle o niczym więcej.
 

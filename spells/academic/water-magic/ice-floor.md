@@ -20,6 +20,7 @@ targets: Kwadrat o boku 5 m
 duration: 2 rundy
 overcast:
   - +1 runda trwania lub +2 do liczby Sukcesów wymaganych od celów do zdania Testu
+publish: tests-pending
 ---
 # Lodowa Podłoga
 

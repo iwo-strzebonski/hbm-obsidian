@@ -20,6 +20,7 @@ targets: Do 3 istot w promieniu 2 m od siebie
 duration: 3 rundy
 overcast:
   - +1 cel lub +1 runda trwania
+publish: tests-pending
 ---
 # Ożywione Więzy
 

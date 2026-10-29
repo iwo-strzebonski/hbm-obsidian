@@ -3,6 +3,7 @@ tags:
   - magic
   - necromancy
   - academic-magic
+publish: tests-pending
 ---
 
 # Nekromancja

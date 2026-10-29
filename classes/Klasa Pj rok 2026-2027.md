@@ -1,3 +1,6 @@
+---
+publish: campaign-only
+---
 ```table-of-contents
 ```
 ## Informacje ogólne

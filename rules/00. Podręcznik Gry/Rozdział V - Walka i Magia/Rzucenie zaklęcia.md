@@ -5,6 +5,7 @@ tags:
   - combat
   - actions
   - magic
+publish: tests-pending
 ---
 Wymagania: Talent Magiczny (dowolny)
 Rodzaj Testu: Umiejętności - Magia (Zdolności Magiczne)

@@ -5,6 +5,7 @@ tags:
 aliases:
   - Człowiek
   - Ludzie
+publish: tests-pending
 ---
 
 # Człowiek

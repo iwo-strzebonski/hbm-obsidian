@@ -18,6 +18,7 @@ targets: Kwadrat o boku 10 m
 duration: 1 miesiąc
 overcast:
   - +20 metrów kwadratowych
+publish: tests-pending
 ---
 # Błogosławieństwo Zasiewów
 

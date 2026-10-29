@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - talent
+publish: tests-pending
 ---
 Wymagania: Rasa (Demon - Sukkub/Inkub) lub Dusza (4), Empatia (4)
 

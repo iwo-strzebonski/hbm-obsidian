@@ -5,6 +5,7 @@ tags:
   - npc-talent
 aliases:
   - Spleciona Moc
+publish: tests-pending
 ---
 Ta Postać potrafi utrzymywać w Koncentracji wiele zaklęć naraz, splatając ich efekty ze sobą - im dłużej trwa starcie, tym więcej nici potrafi utrzymać jednocześnie.
 

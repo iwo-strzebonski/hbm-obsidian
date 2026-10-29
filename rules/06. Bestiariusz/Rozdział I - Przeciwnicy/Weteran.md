@@ -6,6 +6,7 @@ tags:
   - generic-enemy
 aliases:
   - Doświadczony wojownik
+publish: tests-pending
 ---
 # Weteran
 

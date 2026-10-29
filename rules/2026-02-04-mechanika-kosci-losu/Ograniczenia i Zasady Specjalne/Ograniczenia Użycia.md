@@ -5,6 +5,7 @@ tags:
   - limitations
 aliases:
   - Ograniczenia Użycia
+publish: tests-pending
 ---
 1. **Raz na rundę** - Postać może użyć tylko jednej Kości Losu na rundę (niezależnie od liczby posiadanych kości).
 

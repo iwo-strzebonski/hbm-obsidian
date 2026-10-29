@@ -5,6 +5,7 @@ tags:
   - undead
   - inquisition
   - necromancy
+publish: campaign-only
 ---
 | **Zdjęcie**             | **                                                              |
 | ----------------------- | ------------------------------------------------------------------ |

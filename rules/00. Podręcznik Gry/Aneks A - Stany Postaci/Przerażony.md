@@ -6,6 +6,7 @@ tags:
 aliases:
   - Przerażony
   - Przerażona
+publish: tests-pending
 ---
 Postać Przerażona jest pod wpływem intensywnego lęku wywołanego przez magię, istotę lub wydarzenie. Ten Stan ma **ogólne skutki opisane poniżej**, a efekt, który go nałożył (zaklęcie, Talent, Kość Losu), może je uzupełnić lub zmienić - opis efektu zawsze ma pierwszeństwo.
 

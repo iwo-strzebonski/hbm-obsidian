@@ -6,6 +6,7 @@ tags:
   - abyss-magic
 aliases:
   - Mackowate Więzy Otchłani
+publish: tests-pending
 ---
 Z cienia za plecami tej Postaci - albo znikąd - wyrastają lepkie, czarne macki, chwytając wszystko, co się do niej zbliży.
 

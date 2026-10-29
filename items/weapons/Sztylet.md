@@ -7,6 +7,7 @@ traits: 'Rzucana (10 m), Subtelna'
 wound:
   - piercing
   - slashing
+publish: tests-pending
 ---
 # Sztylet
 

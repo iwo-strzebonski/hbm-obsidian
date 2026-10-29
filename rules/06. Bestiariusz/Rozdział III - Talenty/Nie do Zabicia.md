@@ -5,6 +5,7 @@ tags:
   - npc-talent
 aliases:
   - Nie do Zabicia
+publish: tests-pending
 ---
 Niektóre istoty dźwigają w sobie więcej mocy, niż jakiekolwiek śmiertelne ciało zostało zbudowane, by pomieścić - nadmiar, który nie mieści się w zwykłej fizjologii i nie znika, dopóki nie zostanie w pełni wyczerpany.
 

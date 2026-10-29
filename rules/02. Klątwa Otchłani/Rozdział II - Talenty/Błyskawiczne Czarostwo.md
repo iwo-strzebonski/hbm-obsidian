@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Błyskawiczne Czarostwo
+publish: tests-pending
 ---
 **Koszt**: 2 Punkty Metamagii
 

@@ -1,0 +1,3 @@
+---
+publish: campaign-only
+---

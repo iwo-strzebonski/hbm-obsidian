@@ -20,6 +20,7 @@ targets: 1 nieożywiony przedmiot nie większy niż krzesło
 duration: 1 minuta
 overcast:
   - +1 minuta trwania lub +1 kategoria rozmiaru przedmiotu
+publish: tests-pending
 ---
 # Ożywienie Przedmiotu
 

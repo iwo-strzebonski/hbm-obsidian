@@ -2,6 +2,7 @@
 tags: [concept, disciplines, magic]
 aliases: [Dyscypliny Magii, Szkoły Magii]
 status: stub
+publish: campaign-only
 ---
 
 # Dyscypliny Magii

@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Ryś
+publish: tests-pending
 ---
 # Ryś
 

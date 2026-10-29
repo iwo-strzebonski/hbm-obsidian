@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - talent
+publish: tests-pending
 ---
 Wymagania: Ciało (3), Wytrzymałość (3)
 

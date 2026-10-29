@@ -5,6 +5,7 @@ price: '150 PLN'
 damage: '1+S'
 traits: 'Dosięgająca'
 wound: slashing
+publish: tests-pending
 ---
 # Bicz
 

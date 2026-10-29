@@ -3,6 +3,7 @@ tags:
   - magic
   - thaumaturgy
   - academic-magic
+publish: tests-pending
 ---
 
 # Taumaturgia

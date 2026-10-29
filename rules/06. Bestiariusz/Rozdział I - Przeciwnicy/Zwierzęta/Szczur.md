@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Szczur
+publish: tests-pending
 ---
 # Szczur
 

@@ -21,6 +21,7 @@ targets: Stos gruzu, ziemi lub gliny o objętości co najmniej 1 m³
 duration: Scena (do 10 minut)
 overcast:
   - +4 Żywotność golema
+publish: tests-pending
 ---
 # Ożywiony Gruz
 

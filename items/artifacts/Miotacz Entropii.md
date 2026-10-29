@@ -4,6 +4,7 @@ tags:
   - artifact
   - abyss
   - weapon
+publish: tests-pending
 ---
 
 # Miotacz Entropii (Ulepszenie: Miotacz Energii)

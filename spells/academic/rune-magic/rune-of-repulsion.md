@@ -20,6 +20,7 @@ targets: Wszystkie istoty w promieniu 3 m od nośnika
 duration: Instant
 overcast:
   - +1 m odrzucenia
+publish: tests-pending
 ---
 # Runa Odpychania
 

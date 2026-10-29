@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - talent
+publish: tests-pending
 ---
 Wymagania: Dusza (2), Determinacja (3) lub Rasa (Elf)
 

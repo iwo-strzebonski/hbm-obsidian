@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Kot
+publish: tests-pending
 ---
 # Kot
 

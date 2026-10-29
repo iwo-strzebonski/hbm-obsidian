@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Kupiecka Intuicja
+publish: tests-pending
 ---
 *Wymagania: Przekonywanie (2)*
 

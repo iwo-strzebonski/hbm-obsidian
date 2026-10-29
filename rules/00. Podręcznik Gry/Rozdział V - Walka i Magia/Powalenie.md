@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - actions
+publish: tests-pending
 ---
 Postać próbuje podciąć, przewrócić bądź zepchnąć przeciwnika na ziemię zamiast go ranić.
 

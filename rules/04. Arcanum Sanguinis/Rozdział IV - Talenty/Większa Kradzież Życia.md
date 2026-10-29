@@ -5,6 +5,7 @@ tags:
   - blood-magic
 aliases:
   - Większa Kradzież Życia
+publish: tests-pending
 ---
 *Ta Akcja zastępuje Akcję "Kradzież Życia"*
 Koszt: 1 punkt Zapału

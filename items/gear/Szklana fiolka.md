@@ -2,6 +2,7 @@
 tags:
   - gear
 price: '15 PLN za 10 szt.'
+publish: tests-pending
 ---
 # Szklana fiolka
 

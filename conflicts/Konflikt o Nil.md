@@ -7,6 +7,7 @@ tags:
   - sub-conflict
 aliases:
   - Nil
+publish: campaign-only
 ---
 
 # Konflikt o Nil

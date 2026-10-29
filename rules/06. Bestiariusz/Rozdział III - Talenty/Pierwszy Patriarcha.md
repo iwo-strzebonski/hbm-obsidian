@@ -6,6 +6,7 @@ tags:
   - crimson-cult
 aliases:
   - Pierwszy Patriarcha
+publish: tests-pending
 ---
 Szkarłatny Kult jest wypaczeniem nauk Wielkiego Taumaturga, jednak to dzięki niemu ten potężny mag odzyskał na tyle sił, aby być w stanie wpływać na losy świata, zyskując przy okazji nowe zdolności wynikające bezpośrednio ze Szkarłatnej Magii - będącej Dziedziną, która przekształciła jego nauki w narzędzie wojny.
 

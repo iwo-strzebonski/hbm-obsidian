@@ -2,6 +2,7 @@
 tags:
   - magic
   - wild-witch-magic
+publish: tests-pending
 ---
 - [Sabaty i hierarchia](#Sabaty%20i%20hierarchia)
 	- [Sabat Otchłani](#Sabat%20Otchłani)

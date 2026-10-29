@@ -5,6 +5,7 @@ tags:
   - trading
 aliases:
   - Ryzyko i Komplikacje
+publish: tests-pending
 ---
 Handel międzyświatowy nie jest wolny od problemów. Mistrz Gry powinien co pewien czas (np. raz na 3-4 transakcje) wprowadzać komplikacje, aby dodać napięcia i nieprzewidywalności.
 

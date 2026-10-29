@@ -20,6 +20,7 @@ targets: 1 posąg, zbroja lub duży przedmiot (rozmiar człowieka)
 duration: 8 godzin
 overcast:
   - +4 godziny trwania lub +4 Żywotność strażnika
+publish: tests-pending
 ---
 # Ożywiony Strażnik
 

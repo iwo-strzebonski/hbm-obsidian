@@ -5,6 +5,7 @@ tags:
   - golem
 aliases:
   - Słomiany Golem
+publish: tests-pending
 ---
 # Słomiany Golem
 

@@ -3,6 +3,7 @@ tags:
   - npc
   - abyss
   - abyss-cult
+publish: campaign-only
 ---
 | **Zdjęcie**         | <img src="../../_assets/npc/tempus/tempus.jpg" width="200" alt="tempus.jpg">         |
 | ------------------- | ----------------------------------------------------- |

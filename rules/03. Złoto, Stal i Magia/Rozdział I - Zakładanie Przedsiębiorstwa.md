@@ -5,6 +5,7 @@ tags:
   - economy
 aliases:
   - Rozdział I - Zakładanie Przedsiębiorstwa
+publish: tests-pending
 ---
 Postać gracza, która chce założyć własne przedsiębiorstwo magiczne, może skorzystać z usług Banku Krasnoludzkiego. Oto podstawowe wymagania:
 

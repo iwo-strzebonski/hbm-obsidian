@@ -2,6 +2,7 @@
 tags:
   - gear
 price: '300 PLN'
+publish: tests-pending
 ---
 # Kociołek
 

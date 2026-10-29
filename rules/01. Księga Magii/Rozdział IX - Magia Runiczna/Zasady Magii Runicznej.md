@@ -6,6 +6,7 @@ tags:
 aliases:
   - Zasady Magii Runicznej
   - Inskrypcja
+publish: tests-pending
 ---
 [Magia Runiczna](../../../disciplines/Magia%20Runiczna.md) różni się od innych Dziedzin tym, że zaklęcie nie znika w chwili rzucenia. Mag runiczny **wyryty** efekt zamyka w znaku, który zostaje na kamieniu, metalu, drewnie albo skórze, i który może zostać uwolniony później, nawet wtedy, gdy mag jest już daleko. Dzięki temu runy są najlepszym narzędziem do przygotowywania pułapek, zabezpieczania miejsc i uzbrajania sojuszników, a jednocześnie najsłabszym narzędziem do improwizacji: wyrycie runy trwa, a raz wyryty znak nie dostosuje się do tego, co wydarzy się na polu bitwy.
 

@@ -5,6 +5,7 @@ tags:
   - dice-of-misfortune
 aliases:
   - Kość „1" - Pięść Fatum
+publish: tests-pending
 ---
 **Ładunki:** 1
 

@@ -18,6 +18,7 @@ targets: '1'
 duration: 1 godzina
 overcast:
   - +1 godzina trwania
+publish: tests-pending
 ---
 # Pożądanie Zmysłów
 

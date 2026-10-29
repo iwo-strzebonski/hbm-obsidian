@@ -5,6 +5,7 @@ tags:
   - blood-magic
 aliases:
   - Większe Wchłanianie Krwi
+publish: tests-pending
 ---
 Ta Akcja zastępuje Akcję "Wchłanianie Krwi"
 Koszt: Akcja Natychmiastowa, min. 1 punkt Krwi

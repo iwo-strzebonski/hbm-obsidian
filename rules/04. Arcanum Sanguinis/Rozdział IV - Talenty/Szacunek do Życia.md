@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Szacunek do Życia
+publish: tests-pending
 ---
 **Wymagania**: Dziedzina Magii (Magia Krwi)
 

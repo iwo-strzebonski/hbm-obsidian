@@ -4,6 +4,7 @@ tags:
   - magic
   - thaumaturgy
   - academic-magic
+publish: tests-pending
 ---
 Spis treści
 - [Wstęp](#Wstęp)

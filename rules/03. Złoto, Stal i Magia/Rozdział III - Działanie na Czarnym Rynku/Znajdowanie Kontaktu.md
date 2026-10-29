@@ -5,6 +5,7 @@ tags:
   - black-market
 aliases:
   - Znajdowanie Kontaktu
+publish: tests-pending
 ---
 Pierwszy krok to znalezienie kogoś, kto może zaoferować (lub kupić) nielegalne przedmioty. Nie ma billboardów reklamujących usługi Czarnej Giełdy - wszystko odbywa się przez "wiedzę, gdzie zapytać".
 

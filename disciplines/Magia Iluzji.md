@@ -3,6 +3,7 @@ tags:
   - magic
   - illusion-magic
   - academic-magic
+publish: tests-pending
 ---
 
 # Magia Iluzji

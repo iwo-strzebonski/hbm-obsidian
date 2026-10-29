@@ -8,6 +8,7 @@ aliases:
   - Zasada zaokrąglania
   - Konwencje
   - Zaokrąglanie i Konwencje
+publish: tests-pending
 ---
 # Zaokrąglanie i Konwencje
 

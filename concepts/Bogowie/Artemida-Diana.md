@@ -2,6 +2,7 @@
 tags:
   - concept
   - deity
+publish: campaign-only
 ---
 # Artemida-Diana, Bogini Lasów, Księżyca i Łowów
 

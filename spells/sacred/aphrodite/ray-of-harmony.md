@@ -18,6 +18,7 @@ targets: Kwadrat o boku 5 m
 duration: 1 godzina
 overcast:
   - +2 kości do rzutów lub +1 godzina trwania
+publish: tests-pending
 ---
 # Promień Harmonii
 

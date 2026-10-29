@@ -1,3 +1,6 @@
+---
+publish: campaign-only
+---
 
 ---
 tags:

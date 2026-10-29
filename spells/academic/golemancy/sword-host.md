@@ -21,6 +21,7 @@ targets: Garść opiłków lub odłamków metalu
 duration: 3 rundy
 overcast:
   - +1 ostrze lub +1 runda trwania
+publish: tests-pending
 ---
 # Zastęp Mieczy
 

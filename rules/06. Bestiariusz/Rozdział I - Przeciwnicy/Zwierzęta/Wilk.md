@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Wilk
+publish: tests-pending
 ---
 # Wilk
 

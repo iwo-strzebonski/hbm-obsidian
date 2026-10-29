@@ -1,6 +1,7 @@
 ---
 tags: [concept, abyss, entities]
 aliases: [Abyss, Pierwotna Otchłań]
+publish: campaign-only
 ---
 
 # Abyss

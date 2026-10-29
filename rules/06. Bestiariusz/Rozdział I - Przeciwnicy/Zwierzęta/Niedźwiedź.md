@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Niedźwiedź
+publish: tests-pending
 ---
 # Niedźwiedź
 

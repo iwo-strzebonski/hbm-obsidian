@@ -1,3 +1,6 @@
+---
+publish: campaign-only
+---
 Klaus von Ubertropp
 - człowiek
 - Dyrektor Szkoły

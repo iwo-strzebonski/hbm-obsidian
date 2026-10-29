@@ -5,6 +5,7 @@ tags:
   - item
 aliases:
   - Tabela Podstawowych Cen
+publish: tests-pending
 ---
 *Ceny podane w zł dla rynku polskiego. W innych krajach Europejskiej Federacji ceny mogą się różnić o ±15%.*
 

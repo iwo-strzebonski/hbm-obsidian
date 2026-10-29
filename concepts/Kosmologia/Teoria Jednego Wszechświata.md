@@ -2,6 +2,7 @@
 tags: [concept, cosmology, theory]
 aliases: [Jedno Uniwersum, Teoria Jednego Wszechświata]
 status: draft
+publish: campaign-only
 ---
 
 # Teoria Jednego Wszechświata

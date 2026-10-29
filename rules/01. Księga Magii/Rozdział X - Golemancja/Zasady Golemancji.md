@@ -6,6 +6,7 @@ tags:
 aliases:
   - Zasady Golemancji
   - Golem
+publish: tests-pending
 ---
 [Golemancja](../../../disciplines/Golemancja.md) polega na ożywianiu materii: gliny, kamienia, żelaza. Golem to **bezmyślna konstrukcja**, która wykonuje proste rozkazy i nie odczuwa strachu, zmęczenia, bólu ani zwątpienia. Nie ma własnej woli, pamięci ani zdolności oceny sytuacji, a to, co ją napędza, nie jest duszą, tylko zapisem magii w jej **Rdzeniu**.
 

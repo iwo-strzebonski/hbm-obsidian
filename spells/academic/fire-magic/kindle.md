@@ -19,6 +19,7 @@ targets: N/A
 duration: Instant
 overcast:
   - Większy płomień
+publish: tests-pending
 ---
 # Wzniecanie Ognia
 

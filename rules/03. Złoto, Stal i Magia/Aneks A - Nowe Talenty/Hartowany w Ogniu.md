@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Hartowany w Ogniu
+publish: tests-pending
 ---
 *Wymagania: Rasa (Krasnolud lub Lamia)*
 

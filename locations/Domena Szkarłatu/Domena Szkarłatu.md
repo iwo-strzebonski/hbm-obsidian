@@ -3,6 +3,7 @@ tags:
   - location
   - domain
   - crimson-cult
+publish: campaign-only
 ---
 
 # Domena Szkarłatu

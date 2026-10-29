@@ -1,3 +1,6 @@
+---
+publish: campaign-only
+---
 # Przyzwanie Nil - Finał Kampanii
 
 **System:** HbM RPG v3  

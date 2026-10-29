@@ -4,6 +4,7 @@ tags:
   - lamia
 aliases:
   - Naga
+publish: tests-pending
 ---
 
 # Lamia

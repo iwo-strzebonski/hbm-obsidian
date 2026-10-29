@@ -20,6 +20,7 @@ duration: 2 rundy
 damageBase: magicalAbilities
 overcast:
   - +1k3 punktów wytrzymałości lub +1 runda trwania
+publish: tests-pending
 ---
 # Skalista Tarcza
 

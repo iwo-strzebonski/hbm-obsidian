@@ -18,6 +18,7 @@ targets: Kwadrat o boku 10 m
 duration: 1 godzina
 overcast:
   - +20 metrów kwadratowych
+publish: tests-pending
 ---
 # Cykl Pór Roku
 

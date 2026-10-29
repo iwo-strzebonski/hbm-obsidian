@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - klasy
+publish: tests-pending
 ---
 Na Roku Drugim uczniowie są dzieleni ze względu na rodzaj magii, który wybrali na koniec Roku Pierwszego, co powoduje, że klasy zaczynają się częściowo ze sobą mieszać.
 

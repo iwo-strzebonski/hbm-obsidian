@@ -5,6 +5,7 @@ tags:
   - abyss-cult
 aliases:
   - Zakon Otwartego Oka
+publish: campaign-only
 ---
 
 # Zakon Otwartego Oka (Kult Otchłani)

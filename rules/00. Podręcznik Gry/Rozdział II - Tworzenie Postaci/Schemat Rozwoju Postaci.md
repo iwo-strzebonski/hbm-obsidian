@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - character-creation
   - progression
+publish: tests-pending
 ---
 Atrybuty
 	Podwyższenie Atrybutu

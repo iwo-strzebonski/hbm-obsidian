@@ -5,6 +5,7 @@ price: 'bezcenny'
 damage: '2+S'
 traits: 'Dystansowa (20 m)'
 wound: piercing
+publish: tests-pending
 ---
 # Łuk Elfi
 

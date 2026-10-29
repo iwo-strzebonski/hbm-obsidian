@@ -5,6 +5,7 @@ tags:
   - blood-magic
 aliases:
   - Wielka Ofiara
+publish: tests-pending
 ---
 *Ta Akcja zastępuje Akcję "Złożenie w Ofierze"*
 **Koszt**: 1 punkt Zapału

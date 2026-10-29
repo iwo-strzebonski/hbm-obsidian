@@ -18,6 +18,7 @@ targets: '1'
 duration: 1 runda
 overcast:
   - +1 runda trwania
+publish: tests-pending
 ---
 # Egida
 

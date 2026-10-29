@@ -5,6 +5,7 @@ tags:
   - item
 aliases:
   - Specjalne Przedmioty Krasnoludzie
+publish: tests-pending
 ---
 **Sakwa Kupca**
 *Rzadki artefakt krasnoludzki*

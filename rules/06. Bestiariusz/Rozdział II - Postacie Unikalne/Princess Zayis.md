@@ -11,6 +11,7 @@ aliases:
   - Zayis Veyran
   - Zayis
 status: draft
+publish: campaign-only
 ---
 # Princess Zayis
 

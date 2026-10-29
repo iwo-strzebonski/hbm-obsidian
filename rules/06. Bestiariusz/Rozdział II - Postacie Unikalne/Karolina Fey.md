@@ -10,6 +10,7 @@ tags:
 aliases:
   - Karolina Fey
 status: draft
+publish: campaign-only
 ---
 # Karolina Fey
 

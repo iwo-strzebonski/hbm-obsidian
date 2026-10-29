@@ -2,6 +2,7 @@
 tags:
   - gear
 price: '70 PLN'
+publish: tests-pending
 ---
 # Miecz treningowy
 

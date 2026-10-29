@@ -5,6 +5,7 @@ tags:
   - trading
 aliases:
   - Zakładanie Firmy Handlowej
+publish: tests-pending
 ---
 ### Krok 1: Legalizacja
 

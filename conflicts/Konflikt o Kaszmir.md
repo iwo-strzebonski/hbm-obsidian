@@ -7,6 +7,7 @@ tags:
   - sub-conflict
 aliases:
   - Kaszmir
+publish: campaign-only
 ---
 
 # Konflikt o Kaszmir

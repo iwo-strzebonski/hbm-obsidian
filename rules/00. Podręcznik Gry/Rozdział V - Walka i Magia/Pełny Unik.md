@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - actions
+publish: tests-pending
 ---
 Postać skupia się wyłącznie na obronie: pracuje nogami, trzyma dystans i bacznie obserwuje każdy ruch przeciwników.
 

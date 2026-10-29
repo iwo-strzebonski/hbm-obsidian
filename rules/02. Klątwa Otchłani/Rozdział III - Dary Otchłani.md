@@ -5,6 +5,7 @@ tags:
   - abyss-magic
 aliases:
   - Rozdział III - Dary Otchłani
+publish: tests-pending
 ---
 Określona wiedza tajemna, niektóre istoty, miejsca czy też ingerencja pradawnych sił sprawia, że istoty otrzymują "dary". Większość z nich to w rzeczywistości klątwy, których jedynie pragną magowie, którzy utracili swoją poczytalność przez korzystanie z zakazanej wiedzy. Czasem jednak te "dary" są rozdawane bez zgody czy chęci osoby, która ma je dostać…
 

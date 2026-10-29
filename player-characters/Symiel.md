@@ -7,6 +7,7 @@ tags:
   - sacred-magic
 aliases: []
 status: draft
+publish: campaign-only
 ---
 | **Zdjęcie**              | <img src="../_assets/npc/symiel/symiel.png" width="200" alt="symiel.png"> |
 | ------------------------ | -------------- |

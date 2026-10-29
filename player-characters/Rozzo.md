@@ -7,6 +7,7 @@ tags:
   - czterej-pancerni-i-elf
 aliases: []
 status: draft
+publish: campaign-only
 ---
 | **Zdjęcie**              | ![[.jpg\|200]] |
 | ------------------------ | -------------- |

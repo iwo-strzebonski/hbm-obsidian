@@ -4,6 +4,7 @@ tags:
   - student
 aliases: []
 status: draft
+publish: campaign-only
 ---
 | **Zdjęcie**             | ![[.jpg\|200]] |
 | ----------------------- | -------------- |

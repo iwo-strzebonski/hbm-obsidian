@@ -8,6 +8,7 @@ tags:
   - npc
   - special-forces-gaia
   - chosen-heroes
+publish: campaign-only
 ---
 
 | **Zdjęcie**             | <img src="../../_assets/npc/pelagius-caudex/pelagius-caudex.png" width="200" alt="pelagius-caudex.png">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

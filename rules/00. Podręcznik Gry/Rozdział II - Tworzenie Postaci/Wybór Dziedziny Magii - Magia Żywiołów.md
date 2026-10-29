@@ -6,6 +6,7 @@ tags:
   - character-creation
 aliases:
   - Magia Żywiołów
+publish: tests-pending
 ---
 Potrafisz kontrolować jeden z czterech żywiołów - wodę, ogień, ziemię lub powietrze.
 ###### Jedność z Żywiołem

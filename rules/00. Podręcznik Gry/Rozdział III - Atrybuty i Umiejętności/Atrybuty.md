@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - attributes
+publish: tests-pending
 ---
 Każda postać ma cztery podstawowe Atrybuty - Ciało, Umysł, Dusza oraz Magia.
 

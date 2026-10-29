@@ -3,6 +3,7 @@ tags:
   - concept
   - abyss
   - personification
+publish: campaign-only
 ---
 # Tempus
 

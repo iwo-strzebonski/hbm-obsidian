@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Lis
+publish: tests-pending
 ---
 # Lis
 

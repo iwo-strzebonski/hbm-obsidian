@@ -3,6 +3,7 @@ tags:
   - magic
   - sacred-magic
   - academic-magic
+publish: tests-pending
 ---
 
 - [Mechanika](#Mechanika)

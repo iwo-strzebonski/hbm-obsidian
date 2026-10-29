@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - character-creation
+publish: tests-pending
 ---
 Gdy postać ma otrzymać obrażenia, są one redukowane po kolei w następujący sposób:
 

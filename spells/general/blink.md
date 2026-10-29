@@ -17,6 +17,7 @@ targets: Na siebie
 duration: Instant
 overcast:
   - +5 m zasięgu
+publish: tests-pending
 ---
 # Przeskok
 

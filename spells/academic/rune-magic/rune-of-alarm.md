@@ -20,6 +20,7 @@ targets: Obszar o promieniu 5 m wokół nośnika
 duration: Do aktywacji lub 24 godziny
 overcast:
   - +1 km zasięgu odbioru lub +24 godziny trwania
+publish: tests-pending
 ---
 # Runa Alarmowa
 

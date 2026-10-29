@@ -21,6 +21,7 @@ duration: 1 runda
 damageBase: 3
 overcast:
   - +1 runda trwania
+publish: tests-pending
 ---
 # Podpalenie
 

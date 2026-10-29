@@ -20,6 +20,7 @@ targets: Nośnik lub istota, która ją aktywuje
 duration: 4 rundy
 overcast:
   - +2 rundy trwania lub +1 punkt Runicznego Pancerza (maksymalnie do 3)
+publish: tests-pending
 ---
 # Runa Ochronna
 

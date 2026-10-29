@@ -14,6 +14,7 @@ targets: Znane Postaci miejsce bądź Węzeł Teleportacyjny
 duration: Instant
 overcast:
   - +1 osoba. Maksymalna ilość przenoszonych osób (włącznie z magiem) jest równa zaokrąglonej w górę połowie wartości Umiejętności Zdolności Magiczne.
+publish: tests-pending
 ---
 # Skrót przez Otchłań
 

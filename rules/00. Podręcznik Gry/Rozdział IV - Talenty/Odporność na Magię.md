@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - talent
+publish: tests-pending
 ---
 Ten Talent można wykupić wyłącznie podczas tworzenia postaci.
 Ten Talent można wykupić wielokrotnie, jeżeli zaczynało się z tym Talentem.

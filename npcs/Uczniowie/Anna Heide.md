@@ -5,6 +5,7 @@ tags:
   - mage
   - botany
   - student
+publish: campaign-only
 ---
 
 | **Zdjęcie**             | <img src="../../_assets/characters/AnnaHeide_Full.webp" width="200" alt="AnnaHeide_Full.webp"> |

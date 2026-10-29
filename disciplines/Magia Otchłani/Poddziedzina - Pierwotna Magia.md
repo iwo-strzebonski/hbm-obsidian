@@ -6,4 +6,5 @@ tags:
   - forbidden-knowledge
 aliases:
   - Pierwotna Magia
+publish: tests-pending
 ---

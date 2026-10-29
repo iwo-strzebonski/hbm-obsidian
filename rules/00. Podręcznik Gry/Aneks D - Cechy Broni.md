@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - equipment
   - combat
+publish: tests-pending
 ---
 Niektóre rodzaje broni mają Cechy, które zmieniają sposób jej działania. Cechy podaje się w opisie broni lub artefaktu.
 

@@ -5,6 +5,7 @@ tags:
   - elixirs
 aliases:
   - Nanoszenie Eliksirów na Broń
+publish: tests-pending
 ---
 Naniesienie eliksiru na broń lub sztukę amunicji wymaga poświęcenia Akcji (Użycie Przedmiotu) i zużywa 1 dawkę eliksiru na każdy naniesiony przedmiot - nie da się nanieść eliksiru za darmo ani "przy okazji" innej czynności. Naniesiona w ten sposób dawka wysycha i traci moc, jeśli nie zostanie użyta do końca najbliższej walki (lub w ciągu godziny poza walką) - nie da się w ten sposób tworzyć trwałych zapasów zatrutej broni na zapas.
 

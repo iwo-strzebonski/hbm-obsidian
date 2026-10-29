@@ -5,6 +5,7 @@ tags:
   - npc-talent
 aliases:
   - Przywilej Baby Jagi
+publish: tests-pending
 ---
 Zasady to coś, co ta Postać stosuje wobec innych - nie wobec siebie. Tytuł, który wywalczyła, nie jest tylko tytułem: to prawo do tego, by rzeczywistość ustępowała jej woli tam, gdzie ustępuje innym. Gdy korzysta z tego przywileju, rzeczywistość wokół niej [krzyczy](../../../lore/02.%20Otchłań%20i%20Magia.md#Jak%20reaguje%20rzeczywistość) - to nie ona się zmienia, to Otchłań ugina się przed jej rozkazem.
 

@@ -18,6 +18,7 @@ targets: Kwadrat o boku 5 m
 duration: 1 runda
 overcast:
   - +2 rundy trwania
+publish: tests-pending
 ---
 # Chmara Insektów
 

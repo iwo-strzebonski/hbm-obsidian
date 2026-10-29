@@ -1,6 +1,7 @@
 ---
 aliases: ["Przedmioty", "Ekwipunek", "Bronie", "Pancerze"]
 tags: [moc, hub, items]
+publish: tests-pending
 ---
 # Przedmioty i Ekwipunek
 

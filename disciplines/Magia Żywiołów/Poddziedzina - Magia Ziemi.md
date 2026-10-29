@@ -6,4 +6,5 @@ tags:
   - academic-magic
 aliases:
   - Magia Ziemi
+publish: tests-pending
 ---

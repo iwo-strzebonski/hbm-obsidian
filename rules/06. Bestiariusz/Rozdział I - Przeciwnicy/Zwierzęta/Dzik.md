@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Dzik
+publish: tests-pending
 ---
 # Dzik
 

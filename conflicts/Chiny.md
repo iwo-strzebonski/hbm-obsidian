@@ -1,6 +1,7 @@
 ---
 aliases: ["Chiny"]
 tags: [placeholder, todo]
+publish: campaign-only
 ---
 # Chiny
 

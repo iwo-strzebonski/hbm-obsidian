@@ -5,6 +5,7 @@ tags:
   - npc-talent
 aliases:
   - Otoczony
+publish: tests-pending
 ---
 Ta Postać nie szuka pomocy, gdy zostaje otoczona - szuka w tym powodu, by wreszcie przestać się hamować.
 

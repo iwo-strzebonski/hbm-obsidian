@@ -17,6 +17,7 @@ duration: 4 rundy
 damageBase: magicalAbilities/2+1
 overcast:
   - +1k2 punktów wytrzymałości lub +1 runda trwania
+publish: tests-pending
 ---
 # Magiczna Tarcza
 

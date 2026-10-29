@@ -2,6 +2,7 @@
 tags:
   - concept
   - deity
+publish: campaign-only
 ---
 # Hekate, bogini magii
 

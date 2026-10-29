@@ -7,6 +7,7 @@ tags:
   - deceased
 aliases:
   - Eryk Meliski
+publish: campaign-only
 ---
 | **Zdjęcie**             | *brak*                                                              |
 | ----------------------- | ------------------------------------------------------------------ |

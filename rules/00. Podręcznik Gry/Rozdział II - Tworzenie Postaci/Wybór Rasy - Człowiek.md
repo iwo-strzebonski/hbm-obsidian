@@ -6,6 +6,7 @@ tags:
   - character-creation
 aliases:
   - Człowiek
+publish: tests-pending
 ---
 Ludzie są najliczniejszą rasą zamieszkującą Ziemię (kto by się spodziewał...), przez co są równocześnie najliczniejszą rasą w ziemskich szkołach magii.
 Ludzie są znani ze swoich zdolności do adaptowania się do otoczenia oraz do zajmowania się czymkolwiek, co akurat jest potrzebne.

@@ -5,6 +5,7 @@ tags:
   - black-market
 aliases:
   - Ryzyko Wykrycia
+publish: tests-pending
 ---
 Każda transakcja na czarnym rynku niesie ze sobą ryzyko zwrócenia uwagi organów ścigania, Inkwizycji lub wrogich organizacji.
 

@@ -7,6 +7,7 @@ tags:
 aliases:
   - Arkthar
   - Książę Arkthar
+publish: campaign-only
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/arkthar/arkthar.png" width="200" alt="arkthar.png">                                    |
 | ----------------------- | ------------------------------------------------- |

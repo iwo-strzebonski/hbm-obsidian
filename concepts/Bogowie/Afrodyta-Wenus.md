@@ -2,6 +2,7 @@
 tags:
   - concept
   - deity
+publish: campaign-only
 ---
 # Afrodyta-Wenus, bogini miłości i płodności
 

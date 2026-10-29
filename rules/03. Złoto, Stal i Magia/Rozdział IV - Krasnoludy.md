@@ -5,6 +5,7 @@ tags:
   - race
 aliases:
   - Rozdział IV - Krasnoludy
+publish: tests-pending
 ---
 Cechy Rasowe krasnoludów (Dziedziny Magii, Atrybuty, Talenty, Języki i Słabość) znajdziesz w Podręczniku Gry: [Wybór Rasy - Krasnolud](../00.%20Podręcznik%20Gry/Rozdział%20II%20-%20Tworzenie%20Postaci/Wybór%20Rasy%20-%20Krasnolud.md).
 

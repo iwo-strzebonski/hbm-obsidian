@@ -19,6 +19,7 @@ duration: 2 rundy
 damageBase: magicalAbilities/2
 overcast:
   - +1 runda trwania
+publish: tests-pending
 ---
 # Gniew Matki Ziemi
 

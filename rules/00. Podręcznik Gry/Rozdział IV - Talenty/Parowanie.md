@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - talent
+publish: tests-pending
 ---
 Wymagania: Ciało (4), Refleks (4), Walka Wręcz (4), broń biała lub tarcza
 

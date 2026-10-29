@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Koń
+publish: tests-pending
 ---
 # Koń
 

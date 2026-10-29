@@ -2,6 +2,7 @@
 tags:
   - gear
 price: '50 PLN'
+publish: tests-pending
 ---
 # Tablica Ouija
 

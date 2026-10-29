@@ -6,6 +6,7 @@ tags:
   - abyss-magic
 aliases:
   - Więcej, Niż Zniesie Śmiertelny Umysł
+publish: tests-pending
 ---
 Niektóre istoty przekroczyły granicę tego, co śmiertelny umysł jest w stanie bezpiecznie obserwować z bliska - nie mówiąc już o tym, by być celem ich mocy.
 

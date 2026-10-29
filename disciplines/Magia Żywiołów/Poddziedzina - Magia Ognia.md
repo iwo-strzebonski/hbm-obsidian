@@ -6,4 +6,5 @@ tags:
   - academic-magic
 aliases:
   - Magia Ognia
+publish: tests-pending
 ---

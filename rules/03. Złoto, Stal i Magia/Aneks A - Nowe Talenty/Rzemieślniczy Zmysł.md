@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Rzemieślniczy Zmysł
+publish: tests-pending
 ---
 *Wymagania: Rzemiosło (2)*
 

@@ -2,6 +2,7 @@
 tags:
   - gear
 price: '10 PLN'
+publish: tests-pending
 ---
 # Karty do gry
 

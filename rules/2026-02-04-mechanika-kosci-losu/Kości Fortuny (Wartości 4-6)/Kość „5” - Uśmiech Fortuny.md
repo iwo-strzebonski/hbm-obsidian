@@ -5,6 +5,7 @@ tags:
   - dice-of-fortune
 aliases:
   - Kość „5" - Uśmiech Fortuny
+publish: tests-pending
 ---
 **Ładunki:** 5
 

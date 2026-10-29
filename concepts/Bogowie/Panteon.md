@@ -1,6 +1,7 @@
 ---
 aliases: ["Panteon", "Bogowie", "Religia"]
 tags: [moc, hub, lore, gods]
+publish: campaign-only
 ---
 # Panteon Bogów
 

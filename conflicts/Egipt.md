@@ -1,6 +1,7 @@
 ---
 aliases: ["Egipt"]
 tags: [placeholder, todo]
+publish: campaign-only
 ---
 # Egipt
 

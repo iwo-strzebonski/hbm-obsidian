@@ -1,6 +1,7 @@
 ---
 aliases: ["Kalendarz"]
 tags: [placeholder, todo]
+publish: campaign-only
 ---
 # Kalendarz
 

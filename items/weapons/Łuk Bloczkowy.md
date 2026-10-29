@@ -5,6 +5,7 @@ price: '500 PLN'
 damage: '1+S'
 traits: 'Dystansowa (20 m)'
 wound: piercing
+publish: tests-pending
 ---
 # Łuk Bloczkowy
 

@@ -2,6 +2,7 @@
 tags:
   - concept
   - deity
+publish: campaign-only
 ---
 # Zeus-Jowisz, bóg błyskawic
 

@@ -5,6 +5,7 @@ tags:
   - spell-creation
 aliases:
   - Przykłady
+publish: tests-pending
 ---
 ### Płomienna Strzała
 

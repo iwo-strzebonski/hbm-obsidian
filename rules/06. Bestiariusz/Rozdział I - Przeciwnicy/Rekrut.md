@@ -6,6 +6,7 @@ tags:
   - generic-enemy
 aliases:
   - Nowicjusz
+publish: tests-pending
 ---
 # Rekrut
 

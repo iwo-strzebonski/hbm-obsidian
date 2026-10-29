@@ -3,6 +3,7 @@ tags:
   - location
   - fortress
   - crimson-cult
+publish: campaign-only
 ---
 
 # Twierdze Szkarłatnego Kultu

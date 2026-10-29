@@ -4,6 +4,7 @@ tags:
 armor_points: '2'
 requirements: 'Ciało >= 2'
 traits: '-'
+publish: tests-pending
 ---
 # Pancerz Średni
 

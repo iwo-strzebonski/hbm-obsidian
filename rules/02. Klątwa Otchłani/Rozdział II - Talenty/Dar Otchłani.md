@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Dar Otchłani
+publish: tests-pending
 ---
 **Wymagania**: Dziedzina Magii (Magia Otchłani (Pierwotna Magia)), Talent (Swobodny Przepływ Magii)
 

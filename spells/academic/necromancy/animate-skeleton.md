@@ -17,6 +17,7 @@ targets: Kości pełnego szkieletu
 duration: 10 rund (1 minuta)
 overcast:
   - +10 rund (1 minuta) trwania
+publish: tests-pending
 ---
 # Ożywienie Szkieletu
 

@@ -5,6 +5,7 @@ tags:
   - dice-of-fortune
 aliases:
   - Kość „4" - Błogosławieństwo Losu
+publish: tests-pending
 ---
 **Ładunki:** 4
 

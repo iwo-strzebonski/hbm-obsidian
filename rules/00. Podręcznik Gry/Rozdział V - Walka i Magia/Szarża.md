@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - actions
+publish: tests-pending
 ---
 Postać szarżuje w przeciwników, nie zważając na ich przewagę czy na ataki wymierzone w nią.
 

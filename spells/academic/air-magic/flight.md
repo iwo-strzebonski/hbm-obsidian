@@ -19,6 +19,7 @@ targets: Na siebie
 duration: 10 rund (1 minuta)
 overcast:
   - +10 rund (1 minuta) trwania
+publish: tests-pending
 ---
 # Latanie
 

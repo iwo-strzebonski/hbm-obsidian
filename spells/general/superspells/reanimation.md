@@ -16,6 +16,7 @@ targets: Istota, która niedawno zmarła
 duration: Instant
 overcast:
   - Cel odzyskuje 1k3 punktów Żywotności
+publish: tests-pending
 ---
 # Reanimacja
 

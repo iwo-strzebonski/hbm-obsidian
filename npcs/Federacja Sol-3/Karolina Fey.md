@@ -7,6 +7,7 @@ tags:
   - abyss-magic
   - coven
 aliases: []
+publish: campaign-only
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/karolina-fey/student/karolina-fey-student.webp" width="200" alt="karolina-fey-student.webp"> <img src="../../_assets/npc/karolina-fey/agent/karolina-fey-agent.webp" width="200" alt="karolina-fey-agent.webp"> |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

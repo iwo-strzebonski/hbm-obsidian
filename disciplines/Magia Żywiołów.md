@@ -3,6 +3,7 @@ tags:
   - magic
   - elemental-magic
   - academic-magic
+publish: tests-pending
 ---
 
 # Magia Żywiołów

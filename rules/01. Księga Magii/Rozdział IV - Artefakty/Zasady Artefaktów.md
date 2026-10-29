@@ -5,6 +5,7 @@ tags:
   - artifacts
 aliases:
   - Zasady Artefaktów
+publish: tests-pending
 ---
 Artefakty są magicznymi przedmiotami, wytwarzanymi przez Rzemieślników Artefaktów. Każdy mag może mieć na wyposażeniu tyle maksymalni artefaktów, ile wynosi zaokrąglona w górę połowa wartości jego Atrybutu Umysłu, zaś każdy Rzemieślnik Artefaktów może wytworzyć i mieć na wyposażeniu aktywne maksymalnie tyle artefaktów, ile wynosi wartość jego Atrybutu Umysł.
 

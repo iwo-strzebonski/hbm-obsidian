@@ -4,6 +4,7 @@ tags:
   - botany
   - thaumaturgy
   - academic-magic
+publish: tests-pending
 ---
 - [Definicja](#Definicja)
 - [Historia szkoły](#Historia%20szkoły)

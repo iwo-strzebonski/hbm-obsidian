@@ -18,6 +18,7 @@ targets: '1'
 duration: 2 rundy
 overcast:
   - +1 runda trwania lub +1 kość do rzutów na Umiejętności Strzeleckie
+publish: tests-pending
 ---
 # Boska Celność
 

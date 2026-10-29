@@ -5,6 +5,7 @@ tags:
   - dice-of-fortune
 aliases:
   - Kość „6" - Iskra Szczęścia
+publish: tests-pending
 ---
 **Ładunki:** 6
 

@@ -3,6 +3,7 @@ tags:
   - magic
   - rune-magic
   - thaumaturgy
+publish: tests-pending
 ---
 
 # Magia Runiczna

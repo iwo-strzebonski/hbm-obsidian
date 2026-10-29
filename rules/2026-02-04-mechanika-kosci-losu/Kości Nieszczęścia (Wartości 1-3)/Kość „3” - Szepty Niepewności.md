@@ -5,6 +5,7 @@ tags:
   - dice-of-misfortune
 aliases:
   - Kość „3" - Szepty Niepewności
+publish: tests-pending
 ---
 **Ładunki:** 3
 

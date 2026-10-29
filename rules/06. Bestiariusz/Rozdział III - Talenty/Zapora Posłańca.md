@@ -6,6 +6,7 @@ tags:
   - abyss-magic
 aliases:
   - Zapora Posłańca
+publish: tests-pending
 ---
 Coś w Dianie - to samo coś, co pozwoliło jej niegdyś przeżyć ponad pół godziny w środku rozpadającego się rytuału, który powinien był ją zabić - wciąż czuwa, gdy zbliża się zagrożenie.
 

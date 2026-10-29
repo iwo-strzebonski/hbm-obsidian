@@ -1,6 +1,7 @@
 ---
 tags:
   - shield
+publish: tests-pending
 ---
 # Tarcza
 

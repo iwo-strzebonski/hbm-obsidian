@@ -3,6 +3,7 @@ tags:
   - organization
   - thaumaturgy
   - comedy
+publish: campaign-only
 ---
 
 | **Zdjęcie**                   | <img src="kolo-wzajemnej-pomocy.jpg" width="200" alt="kolo-wzajemnej-pomocy.jpg">                                |

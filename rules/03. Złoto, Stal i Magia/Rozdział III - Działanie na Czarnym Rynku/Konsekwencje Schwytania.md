@@ -5,6 +5,7 @@ tags:
   - black-market
 aliases:
   - Konsekwencje Schwytania
+publish: tests-pending
 ---
 Jeśli postać zostanie schwytana z nielegalnymi przedmiotami, konsekwencje zależą od kategorii towaru i jurysdykcji.
 

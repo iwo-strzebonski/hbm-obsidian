@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Złoty Nos
+publish: tests-pending
 ---
 *Wymagania: Rasa (Krasnolud)*
 

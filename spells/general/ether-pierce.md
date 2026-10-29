@@ -19,6 +19,7 @@ damageBase: magicalAbilities/2
 ignoresArmor: true
 overcast:
   - +1k2 punktów Obrażeń
+publish: tests-pending
 ---
 # Przebicie Eteru
 

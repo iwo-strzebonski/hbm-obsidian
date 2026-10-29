@@ -5,6 +5,7 @@ tags:
   - spell-creation
 aliases:
   - Tabela modyfikatorów
+publish: tests-pending
 ---
 Modyfikatory sumują się - zaklęcie otrzymuje każdy modyfikator, którego opis do niego pasuje (np. natychmiastowa Kula Ognia rzucana na jeden cel z T=6 dostaje jednocześnie "Natychmiastowy", "Pojedynczy cel", "Trudny do rzucenia" oraz "Dodatkowy Stan" za Podpalenie). Modyfikatory oznaczone jako "za każdy" liczy się tyle razy, ile razy dana cecha występuje w zaklęciu.
 

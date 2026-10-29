@@ -21,6 +21,7 @@ duration: 3 rundy
 damageBase: 2
 overcast:
   - +1 punkt Obrażeń
+publish: tests-pending
 ---
 # Ognista Powłoka
 

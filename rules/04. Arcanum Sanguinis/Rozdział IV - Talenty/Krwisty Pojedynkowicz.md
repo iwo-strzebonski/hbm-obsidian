@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Krwisty Pojedynkowicz
+publish: tests-pending
 ---
 *Ten Talent zastępuje Talent "Szacunek do Życia".*
 *Tego Talentu nie można wziąć jeżeli Postać ma już Talent Rytualista Krwi.*

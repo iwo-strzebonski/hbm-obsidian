@@ -14,6 +14,7 @@ targets: N/A
 duration: 2 rundy
 overcast:
   - +1 runda trwania
+publish: tests-pending
 ---
 # Przywołanie Istoty z Otchłani
 

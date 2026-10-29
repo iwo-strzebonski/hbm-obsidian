@@ -6,6 +6,7 @@ tags:
   - abyss-magic
 aliases:
   - Pochłonięcie
+publish: tests-pending
 ---
 Ta Postać po prostu się rozlewa - a to, co znajdzie się w środku, przez chwilę przestaje istnieć osobno od niej.
 

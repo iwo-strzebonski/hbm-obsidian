@@ -5,6 +5,7 @@ tags:
   - spellcasting-theory
 aliases:
   - Zasada Potężniejszych Zaklęć
+publish: tests-pending
 ---
 Gdy mag wyrzuci więcej Sukcesów, niż wymaga zaklęcie, nadwyżka podnosi liczbę Sukcesów potrzebnych do przeciwstawienia się efektowi zaklęcia oraz do jego *Rozplatania*.
 

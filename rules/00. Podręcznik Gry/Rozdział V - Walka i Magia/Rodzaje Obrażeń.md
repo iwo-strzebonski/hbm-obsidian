@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - damage
+publish: tests-pending
 ---
 Obrażenia, które można zadać bądź które można otrzymać dzieli się na trzy kategorie: Fizyczne, Środowiskowe oraz Magiczne.
 

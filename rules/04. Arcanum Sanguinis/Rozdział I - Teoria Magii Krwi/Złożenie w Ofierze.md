@@ -5,6 +5,7 @@ tags:
   - blood-magic
 aliases:
   - Złożenie w Ofierze
+publish: tests-pending
 ---
 - **Koszt**: 1 punkt Zapału (darmowa Akcja Natychmiastowa - nie zużywa limitu Akcji Natychmiastowych)
 - **Wymagania**: Istota, która zginie w wyniku Ataku w promieniu 1 m

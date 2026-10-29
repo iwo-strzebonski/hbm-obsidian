@@ -6,6 +6,7 @@ tags:
   - actions
 aliases:
   - Pomoc
+publish: tests-pending
 ---
 W ramach Akcji Postać może pomóc sojusznikowi w rzucaniu zaklęć.
 

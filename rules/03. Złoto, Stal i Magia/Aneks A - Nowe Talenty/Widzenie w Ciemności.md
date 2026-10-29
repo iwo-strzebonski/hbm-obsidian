@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Widzenie w Ciemności
+publish: tests-pending
 ---
 *Wymagania: Rasa (Krasnolud lub Feles lub Elf)*
 

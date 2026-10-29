@@ -20,6 +20,7 @@ targets: Drzwi, skrzynia lub inne zamykane przejście
 duration: Do zdjęcia runy
 overcast:
   - +1 Sukces zapisany w runie
+publish: tests-pending
 ---
 # Runa Zamknięcia
 

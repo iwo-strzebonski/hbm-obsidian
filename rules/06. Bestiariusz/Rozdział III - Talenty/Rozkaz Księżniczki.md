@@ -6,6 +6,7 @@ tags:
   - demon
 aliases:
   - Rozkaz Księżniczki
+publish: tests-pending
 ---
 Wymagania: Autorytet (patrz Talent [Księżniczka Piekieł](Księżniczka%20Piekieł.md))
 

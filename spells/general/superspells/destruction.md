@@ -16,6 +16,7 @@ targets: Sfera o średnicy 100 m
 duration: Instant
 overcast:
   - dodatkowe obrażenia zgodnie z opisem zaklęcia
+publish: tests-pending
 ---
 # Destrukcja
 

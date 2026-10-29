@@ -14,6 +14,7 @@ targets: '1'
 duration: Aktywowane, gdy cel rzuci z powodzeniem zaklęcie lub do końca walki
 overcast:
   - +1 cel
+publish: tests-pending
 ---
 # Klątwa Szkarłatu
 

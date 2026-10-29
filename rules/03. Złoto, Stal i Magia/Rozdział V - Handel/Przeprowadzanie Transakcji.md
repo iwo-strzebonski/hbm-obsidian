@@ -5,6 +5,7 @@ tags:
   - trading
 aliases:
   - Przeprowadzanie Transakcji
+publish: tests-pending
 ---
 ### Faza 1: Zakup Towaru
 

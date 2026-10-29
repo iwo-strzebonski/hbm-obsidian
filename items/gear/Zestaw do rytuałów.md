@@ -2,6 +2,7 @@
 tags:
   - gear
 price: '600 PLN'
+publish: tests-pending
 ---
 # Zestaw do rytuałów
 

@@ -2,6 +2,7 @@
 tags:
   - organization
   - inquisition
+publish: campaign-only
 ---
 
 | **Zdjęcie**                   | <img src="inkwizycja.jpg" width="200" alt="inkwizycja.jpg">                                                                                                           |

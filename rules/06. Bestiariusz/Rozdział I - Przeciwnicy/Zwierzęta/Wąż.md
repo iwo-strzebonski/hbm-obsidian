@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Wąż
+publish: tests-pending
 ---
 # Wąż
 

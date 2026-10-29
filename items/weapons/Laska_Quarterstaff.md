@@ -5,6 +5,7 @@ price: '300 PLN'
 damage: '1+S'
 traits: 'Oburęczna, Dosięgająca (1m)'
 wound: blunt
+publish: tests-pending
 ---
 # Laska/Quarterstaff
 

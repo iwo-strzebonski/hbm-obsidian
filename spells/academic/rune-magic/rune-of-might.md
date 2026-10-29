@@ -20,6 +20,7 @@ targets: Broń lub pancerz noszony przez cel
 duration: 1 minuta po aktywacji
 overcast:
   - +1 minuta trwania
+publish: tests-pending
 ---
 # Runa Wzmocnienia
 

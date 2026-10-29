@@ -18,6 +18,7 @@ targets: '1'
 duration: Do następnego wieczora
 overcast:
   - '-1 kość do Testów związanych wybraną przez maga Umiejętnością'
+publish: tests-pending
 ---
 # Tęsknota Serca
 

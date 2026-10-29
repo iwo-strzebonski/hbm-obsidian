@@ -6,6 +6,7 @@ tags:
   - golemancy
 aliases:
   - Wędrówka Duszy
+publish: tests-pending
 ---
 Najpotężniejsi golemancerzy potrafią czegoś, czego nie umie nikt inny: wejść w jednego ze swoich golemów całą duszą i poruszać nim jak własnym ciałem. Opis fabularny i oba zagrożenia tej sztuki znajdziesz w [Golemancji](../../../disciplines/Golemancja.md#Wędrówka%20Duszy) i w [Zasadach Golemancji](../../01.%20Księga%20Magii/Rozdział%20X%20-%20Golemancja/Zasady%20Golemancji.md); ten Talent zapisuje ją w liczbach.
 

@@ -5,6 +5,7 @@ tags:
   - planet-earth
 aliases:
   - WeSM
+publish: campaign-only
 ---
 
 | **Zdjęcie**           | -                                                                                                                       |

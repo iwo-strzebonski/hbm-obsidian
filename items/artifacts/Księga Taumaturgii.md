@@ -3,6 +3,7 @@ tags:
   - item
   - artifact
   - crimson-cult
+publish: tests-pending
 ---
 
 # Księga Taumaturgii

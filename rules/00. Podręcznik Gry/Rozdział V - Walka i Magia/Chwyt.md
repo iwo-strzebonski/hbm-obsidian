@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - actions
+publish: tests-pending
 ---
 Postać próbuje złapać przeciwnika i przytrzymać go w miejscu zamiast go ranić.
 

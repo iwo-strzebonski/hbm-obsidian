@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Swobodny Przepływ Magii
+publish: tests-pending
 ---
 **Wymagania**: Dziedzina Magii (Magia Otchłani (Aspektów))
 

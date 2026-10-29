@@ -5,6 +5,7 @@ tags:
   - npc-talent
 aliases:
   - Zachcianka
+publish: tests-pending
 ---
 Nawet gdy reszta jej działań bywa przypadkowa, ta Postać wciąż zachowuje odrobinę własnej woli.
 

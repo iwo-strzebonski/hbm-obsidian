@@ -5,6 +5,7 @@ tags:
   - dice-of-misfortune
 aliases:
   - Kość „2" - Cień Przekleństwa
+publish: tests-pending
 ---
 **Ładunki:** 2
 

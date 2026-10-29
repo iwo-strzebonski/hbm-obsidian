@@ -5,6 +5,7 @@ tags:
   - npc-talent
 aliases:
   - Natychmiastowe Rozproszenie
+publish: tests-pending
 ---
 Ta Postać potrafi w ułamku sekundy przerwać cudze zaklęcie, zanim zdąży zadziałać.
 

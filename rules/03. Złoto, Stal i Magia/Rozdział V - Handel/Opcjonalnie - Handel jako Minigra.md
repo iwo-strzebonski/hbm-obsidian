@@ -5,6 +5,7 @@ tags:
   - trading
 aliases:
   - "Opcjonalnie: Handel jako Minigra"
+publish: tests-pending
 ---
 Dla grup, które chcą skupić się na innych aspektach gry (przygody, intrygi, walka), Mistrz Gry może uprościć handel do prostej "minigry":
 

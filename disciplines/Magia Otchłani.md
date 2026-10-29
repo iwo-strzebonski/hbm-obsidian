@@ -3,6 +3,7 @@ tags:
   - magic
   - abyss-magic
   - forbidden-knowledge
+publish: tests-pending
 ---
 
 # Magia Otchłani

@@ -5,6 +5,7 @@ tags:
   - black-market
 aliases:
   - Negocjacje Ceny
+publish: tests-pending
 ---
 Nielegalny handel to nie sklep ze stałymi cenami. Wszystko jest przedmiotem negocjacji.
 

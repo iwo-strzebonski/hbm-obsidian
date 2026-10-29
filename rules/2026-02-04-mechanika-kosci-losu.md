@@ -6,6 +6,7 @@ tags:
 aliases:
   - Mechanika Kości Losu
   - Kości Losu
+publish: tests-pending
 ---
 # Mechanika Kości Losu
 

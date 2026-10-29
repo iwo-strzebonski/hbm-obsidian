@@ -18,6 +18,7 @@ targets: Na siebie
 duration: 1 godzina
 overcast:
   - +1 godzina trwania
+publish: tests-pending
 ---
 # Przebudzenie
 

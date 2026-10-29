@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - character-creation
+publish: tests-pending
 ---
 ## Definicja
 Ta własność określa, o ile obrażenia, które ma otrzymać postać, zostaną obniżone.

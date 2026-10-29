@@ -15,6 +15,7 @@ duration: Instant
 damageBase: magicalAbilities*2
 overcast:
   - +1k6 punktów Obrażeń zadawanych celowi lub +1 m promienia, w którym istoty muszą wykonać Test
+publish: tests-pending
 ---
 # Szkarłatna Sprawiedliwość
 

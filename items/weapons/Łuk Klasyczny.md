@@ -5,6 +5,7 @@ price: '300 PLN'
 damage: '+S'
 traits: 'Dystansowa (20 m)'
 wound: piercing
+publish: tests-pending
 ---
 # Łuk Klasyczny
 

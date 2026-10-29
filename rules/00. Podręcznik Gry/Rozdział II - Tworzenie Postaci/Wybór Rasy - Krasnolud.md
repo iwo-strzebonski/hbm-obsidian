@@ -6,6 +6,7 @@ tags:
   - character-creation
 aliases:
   - Krasnolud
+publish: tests-pending
 ---
 Krasnoludy to niska, krępa rasa kupców, rzemieślników i bankierów, która zbudowała na Ziemi Międzywymiarowy Bank Krasnoludzki. Są odporne na spaczenie Otchłani, ale mało podatne na większość szkół magii. Do niedawna zablokowane przez elfy w drodze do szkół Wielkiej Trzynastki, od 2027 roku mogą uczyć się w WeSM, która w ramach umowy z Krasnoludzką Gildią Bankową otworzyła swoje drzwi także dla nich.
 

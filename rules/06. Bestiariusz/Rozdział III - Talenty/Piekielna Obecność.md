@@ -6,6 +6,7 @@ tags:
   - demon
 aliases:
   - Piekielna Obecność
+publish: tests-pending
 ---
 Narcyza nie musi nikogo dotykać, żeby być odczuwalna - w pełni mocy jej sama obecność ciąży na każdym, kto stoi wystarczająco blisko, niezależnie od tego, na kim akurat skupia uwagę.
 

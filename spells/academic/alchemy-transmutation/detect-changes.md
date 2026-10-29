@@ -17,6 +17,7 @@ targets: Dotykany przedmiot
 duration: Instant
 overcast:
   - +1 dodatkowy dotykany przedmiot
+publish: tests-pending
 ---
 # Wykrycie Zmian
 

@@ -6,6 +6,7 @@ tags:
   - malferian
 aliases:
   - Wymazana Chwila
+publish: tests-pending
 ---
 Nie każdy problem trzeba rozwiązywać siłą - część wystarczy sprawić, by nigdy się nie wydarzyła, przynajmniej w cudzej pamięci.
 

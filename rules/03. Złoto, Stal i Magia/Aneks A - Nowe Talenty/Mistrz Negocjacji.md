@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Mistrz Negocjacji
+publish: tests-pending
 ---
 *Wymagania: Przekonywanie (3), Talent (Kupiecka Intuicja)*
 

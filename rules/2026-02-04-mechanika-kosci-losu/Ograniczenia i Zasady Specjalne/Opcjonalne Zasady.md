@@ -5,6 +5,7 @@ tags:
   - optional-rule
 aliases:
   - Opcjonalne Zasady
+publish: tests-pending
 ---
 *Mistrz Gry może wprowadzić następujące warianty:*
 

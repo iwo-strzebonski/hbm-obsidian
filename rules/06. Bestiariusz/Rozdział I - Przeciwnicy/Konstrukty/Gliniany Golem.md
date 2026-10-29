@@ -5,6 +5,7 @@ tags:
   - golem
 aliases:
   - Gliniany Golem
+publish: tests-pending
 ---
 # Gliniany Golem
 

@@ -18,6 +18,7 @@ targets: '1'
 duration: Instant
 overcast:
   - +1k3 odzyskiwanych punktów Żywotności lub z postaci jest usuwany jeden wybrany, negatywny status (kosztuje 2 stopnie)
+publish: tests-pending
 ---
 # Leczący Dotyk
 

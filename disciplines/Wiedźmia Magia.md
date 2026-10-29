@@ -2,6 +2,7 @@
 tags:
   - magic
   - witch-magic
+publish: tests-pending
 ---
 Spis treści
 - [Wstęp](#Wstęp)

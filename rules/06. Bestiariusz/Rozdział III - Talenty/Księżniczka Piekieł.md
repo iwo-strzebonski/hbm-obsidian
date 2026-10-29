@@ -6,6 +6,7 @@ tags:
   - demon
 aliases:
   - Księżniczka Piekieł
+publish: tests-pending
 ---
 Tytuł "księżniczka demonów" nie jest u Narcyzy kurtuazją - to uznany przez inne demony stopień Autorytetu, który nosi od urodzenia, niezależnie od tego, ile ze swojej mocy akurat ukrywa pod studenckimi szatami.
 

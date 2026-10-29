@@ -1,3 +1,6 @@
+---
+publish: campaign-only
+---
 - [Pelagius Caudex](Nauczyciele/Pelagius%20Caudex.md)
 - [Urszula Callistis](Nauczyciele/Urszula%20Callistis.md)
 - [Leopold von Karma](Nauczyciele/Leopold%20von%20Karma.md)

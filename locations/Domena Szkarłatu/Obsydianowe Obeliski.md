@@ -3,6 +3,7 @@ tags:
   - location
   - obelisk
   - crimson-cult
+publish: campaign-only
 ---
 
 # Obsydianowe Obeliski

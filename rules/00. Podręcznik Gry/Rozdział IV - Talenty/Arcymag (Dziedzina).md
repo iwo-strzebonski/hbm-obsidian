@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - talent
+publish: tests-pending
 ---
 Wymagania: Tytuł (Mistrz Magii), Tytuł (Arcymag)
 

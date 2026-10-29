@@ -5,6 +5,7 @@ tags:
   - npc-talent
 aliases:
   - Zamiar
+publish: tests-pending
 ---
 Ta Postać nie musi wybierać między przebiciem tarczy a przebiciem pancerza - może po prostu zdecydować, co się stanie.
 

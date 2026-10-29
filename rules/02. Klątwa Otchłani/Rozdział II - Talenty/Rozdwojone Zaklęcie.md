@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Rozdwojone Zaklęcie
+publish: tests-pending
 ---
 **Koszt**: 3 Punkty Metamagii
 **Wymagania**: Zaklęcie, którego celem są pojedyncze cele i Nadczarowanie nie zwiększyło ilości celów.

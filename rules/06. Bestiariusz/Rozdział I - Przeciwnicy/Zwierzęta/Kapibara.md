@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Kapibara
+publish: tests-pending
 ---
 # Kapibara
 

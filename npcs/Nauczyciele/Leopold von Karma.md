@@ -5,6 +5,7 @@ tags:
   - necromancy
   - teacher
 aliases: []
+publish: campaign-only
 ---
 | **Zdjęcie**             | **                                                    |
 | ----------------------- | ------------------------------------------------------ |

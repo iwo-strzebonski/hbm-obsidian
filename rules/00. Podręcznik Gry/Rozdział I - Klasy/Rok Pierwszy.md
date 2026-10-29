@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - klasy
+publish: tests-pending
 ---
 Na Roku Pierwszym uczy się kontroli magicznej oraz ochrony swojego umysłu przed osobami z zewnątrz.
 

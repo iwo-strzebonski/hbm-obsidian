@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Handlarz Artefaktów
+publish: tests-pending
 ---
 *Wymagania: Rzemiosło (3), Wiedza Magiczna (2)*
 

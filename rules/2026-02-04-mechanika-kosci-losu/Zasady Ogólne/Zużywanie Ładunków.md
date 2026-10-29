@@ -5,6 +5,7 @@ tags:
   - dice-subsystem
 aliases:
   - Zużywanie Ładunków
+publish: tests-pending
 ---
 - Użycie efektu kości zużywa **jeden ładunek**
 - Gdy kość straci wszystkie ładunki, **znika** (rozpływa się w magicznej energii)

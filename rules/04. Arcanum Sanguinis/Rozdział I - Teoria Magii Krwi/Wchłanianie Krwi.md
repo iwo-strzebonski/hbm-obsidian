@@ -5,6 +5,7 @@ tags:
   - blood-magic
 aliases:
   - Wchłanianie Krwi
+publish: tests-pending
 ---
 - **Koszt**: Akcja, min. 1 punkt Krwi
 

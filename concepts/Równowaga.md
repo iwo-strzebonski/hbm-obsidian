@@ -2,6 +2,7 @@
 tags: [concept, balance, abyss]
 aliases: [Równowaga, Równowaga Magii, Equilibrium]
 status: draft
+publish: campaign-only
 ---
 
 # Równowaga

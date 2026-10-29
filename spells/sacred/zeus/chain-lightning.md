@@ -19,6 +19,7 @@ duration: Instant
 damageBase: magicalAbilities
 overcast:
   - +1k3 punktów Obrażeń lub +1 cel
+publish: tests-pending
 ---
 # Błyskawice Łańcuchowe
 

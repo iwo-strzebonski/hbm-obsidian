@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - character-creation
+publish: tests-pending
 ---
 ## Definicja
 Inicjatywa określa kolejność, w jakiej postaci biorą udział w walce.

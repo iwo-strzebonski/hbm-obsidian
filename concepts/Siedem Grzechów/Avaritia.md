@@ -2,6 +2,7 @@
 tags:
   - concept
   - sin
+publish: campaign-only
 ---
 # Avaritia - Chciwość
 

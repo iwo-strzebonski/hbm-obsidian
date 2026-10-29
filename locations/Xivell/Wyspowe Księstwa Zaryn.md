@@ -6,6 +6,7 @@ tags:
   - planet-xivell
 aliases:
   - Księstwa Wyspowe Zaryn
+publish: campaign-only
 ---
 | **Zdjęcie** | <img src="zaryn.jpg" width="200" alt="zaryn.jpg"> |
 | ---- | ---- |

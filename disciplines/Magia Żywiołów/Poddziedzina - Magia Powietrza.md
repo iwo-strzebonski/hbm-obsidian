@@ -6,4 +6,5 @@ tags:
   - academic-magic
 aliases:
   - Magia Powietrza
+publish: tests-pending
 ---

@@ -5,6 +5,7 @@ tags:
 aliases:
   - Konsorcjum Malferian
   - Pierwsze Konsorcjum Gwiezdne Malferian
+publish: campaign-only
 ---
 | **Zdjęcie**                   | <img src="malferian-first-star-consortium.jpg" width="200" alt="malferian-first-star-consortium.jpg">                                                                                                      |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -2,6 +2,7 @@
 tags:
   - concept
   - deity
+publish: campaign-only
 ---
 # Demeter-Ceres, bogini przyrody i zbiorów
 

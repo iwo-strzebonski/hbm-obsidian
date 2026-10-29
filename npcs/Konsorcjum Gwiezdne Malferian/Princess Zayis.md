@@ -8,6 +8,7 @@ tags:
 aliases:
   - Zayis
   - Księżniczka Zayis
+publish: campaign-only
 ---
 | **Zdjęcie**             | <img src="../../_assets/npc/zayis/zayis.png" width="200" alt="zayis.png">                                |
 | ----------------------- | -------------------------------------------------------------------------------------------------------- |

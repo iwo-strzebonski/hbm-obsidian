@@ -8,6 +8,7 @@ wound:
   - slashing
   - piercing
   - blunt
+publish: tests-pending
 ---
 # Broń dwuręczna
 

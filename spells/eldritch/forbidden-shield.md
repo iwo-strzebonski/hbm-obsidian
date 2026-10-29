@@ -15,6 +15,7 @@ duration: Do przełamania osłony lub końca walki
 damageBase: magicalAbilities/3
 overcast:
   - +1k2 punktów wytrzymałości
+publish: tests-pending
 ---
 # Zakazana Osłona
 

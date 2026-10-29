@@ -5,5 +5,6 @@ tags:
   - spellcasting-theory
 aliases:
   - Zasada Różnorodności
+publish: tests-pending
 ---
 Jeden mag może rzucić dane zaklęcie wyłącznie raz na rundę.

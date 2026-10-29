@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - combat
   - character-creation
+publish: tests-pending
 ---
 ## Definicja
 Cecha ta oznacza, ile obrażeń postać może otrzymać.

@@ -6,6 +6,7 @@ tags:
   - character-creation
 aliases:
   - Rzemiosło Artefaktów
+publish: tests-pending
 ---
 Potrafisz tworzyć potężne artefakty, które wzmacniają Twoja moc magiczną, oraz nasycać różne przedmioty magią.
 ###### Tajemna Technologia

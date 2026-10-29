@@ -20,6 +20,7 @@ targets: 1 broń
 duration: 3 rundy
 overcast:
   - +1 runda trwania lub +1 kość w Teście ataku
+publish: tests-pending
 ---
 # Tańczący Oręż
 

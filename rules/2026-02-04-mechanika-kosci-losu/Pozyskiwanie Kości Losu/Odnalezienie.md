@@ -5,6 +5,7 @@ tags:
   - acquisition
 aliases:
   - Odnalezienie
+publish: tests-pending
 ---
 Kości Losu można czasem znaleźć w:
 - Starożytnych ruinach i świątyniach losu

@@ -2,6 +2,7 @@
 tags:
   - concept
   - deity
+publish: campaign-only
 ---
 # Hades-Pluton, bóg podziemi i bogactw ziemi
 

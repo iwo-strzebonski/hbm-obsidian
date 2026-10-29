@@ -5,6 +5,7 @@ tags:
   - spell-creation
 aliases:
   - Tabela kategorii efektów
+publish: tests-pending
 ---
 |Kategoria|Modyfikator|Opis|
 |---|---|---|

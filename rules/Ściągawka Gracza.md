@@ -9,6 +9,7 @@ aliases:
   - Ściągawka Gracza
   - Cheat Sheet
   - Szybki Start Walki
+publish: tests-pending
 ---
 # Ściągawka Gracza - Walka w Pigułce
 

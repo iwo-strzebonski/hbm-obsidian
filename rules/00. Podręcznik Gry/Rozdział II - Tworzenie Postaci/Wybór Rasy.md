@@ -4,6 +4,7 @@ tags:
   - podrecznik-gry
   - character-creation
   - race
+publish: tests-pending
 ---
 Podane tutaj Punkty Doświadczenia i Punkty Atrybutów są podane z myślą o postaciach, które uczęszczają do klasy pierwszej.
 

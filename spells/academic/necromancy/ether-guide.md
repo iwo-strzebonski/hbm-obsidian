@@ -17,6 +17,7 @@ targets: N/A
 duration: 10 rund (1 minuta)
 overcast:
   - +10 rund (1 minuta) trwania
+publish: tests-pending
 ---
 # Eteryczny Przewodnik
 

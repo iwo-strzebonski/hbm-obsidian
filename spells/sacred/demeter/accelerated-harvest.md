@@ -18,6 +18,7 @@ targets: Kwadrat o boku 10 m
 duration: Instant
 overcast:
   - +20 metrów kwadratowych
+publish: tests-pending
 ---
 # Przyspieszone Żniwa
 

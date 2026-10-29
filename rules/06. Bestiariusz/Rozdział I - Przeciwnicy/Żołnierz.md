@@ -6,6 +6,7 @@ tags:
   - generic-enemy
 aliases:
   - Szeregowy
+publish: tests-pending
 ---
 # Żołnierz
 

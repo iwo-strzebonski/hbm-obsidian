@@ -6,6 +6,7 @@ tags:
   - avatar
 aliases:
   - Xillith
+publish: campaign-only
 ---
 > [!note] Ujednoznacznienie
 > Ta strona dotyczy **Xillitha Isherwooda** - współczesnego ucznia WeSM i dzierżyciela przeklętej halabardy. **Nie mylić z [Bezimiennym / Pierwszym Patriarchą](Bezimienny,%20Pierwszy%20Patriarcha.md)** (którego prawdziwe imię to również Xillith) - duchem zamkniętym w broni, który przejmuje nad nim kontrolę. Zbieżność imion jest czystym przypadkiem - Isherwood zdobył broń jako członek [Szkarłatnego Kultu](../../organizations/Szkarłatny%20Kult.md), nie z powodu wspólnego imienia.

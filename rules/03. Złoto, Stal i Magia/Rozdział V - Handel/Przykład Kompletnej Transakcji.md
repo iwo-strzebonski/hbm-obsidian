@@ -5,6 +5,7 @@ tags:
   - trading
 aliases:
   - Przykład Kompletnej Transakcji
+publish: tests-pending
 ---
 **Kasia** prowadzi małą firmę handlową i postanawia zaimportować partię elfickich kryształów mocy z Hiondirs, aby sprzedać je krasnoludzkiej gildii rzemieślniczej w Katowicach. Śledźmy krok po kroku, jak przebiega transakcja.
 

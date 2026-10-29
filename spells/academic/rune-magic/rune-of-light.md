@@ -20,6 +20,7 @@ targets: Nośnik runy
 duration: 8 godzin
 overcast:
   - +4 godziny trwania
+publish: tests-pending
 ---
 # Runa Światła
 

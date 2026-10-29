@@ -5,6 +5,7 @@ tags:
   - animal
 aliases:
   - Orzeł
+publish: tests-pending
 ---
 # Orzeł
 

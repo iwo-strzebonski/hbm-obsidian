@@ -1,3 +1,6 @@
+---
+publish: campaign-only
+---
 ```
 30 Września 2026
 

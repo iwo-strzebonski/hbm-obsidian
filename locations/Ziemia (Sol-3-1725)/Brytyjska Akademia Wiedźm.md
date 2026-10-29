@@ -3,6 +3,7 @@ tags:
   - location
   - organization
   - planet-earth
+publish: campaign-only
 ---
 | **Zdjęcie**                                | <img src="../../_assets/locations/earth/british-witch-academy.png" width="200" alt="british-witch-academy.png"> |
 | ------------------------------------------ | ----------------------------------- |

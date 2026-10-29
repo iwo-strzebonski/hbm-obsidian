@@ -9,6 +9,7 @@ aliases:
   - Ściągawka Mistrza Gry
   - GM Cheat Sheet
   - Przed Sesją
+publish: tests-pending
 ---
 # Ściągawka Mistrza Gry - Przed Sesją
 

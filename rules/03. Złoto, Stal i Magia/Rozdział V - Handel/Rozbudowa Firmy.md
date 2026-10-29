@@ -5,6 +5,7 @@ tags:
   - trading
 aliases:
   - Rozbudowa Firmy
+publish: tests-pending
 ---
 Gdy firma postaci zacznie generować zyski, można ją rozbudować:
 

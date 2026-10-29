@@ -2,6 +2,7 @@
 tags:
   - gear
 price: '700 PLN'
+publish: tests-pending
 ---
 # Teleskop
 

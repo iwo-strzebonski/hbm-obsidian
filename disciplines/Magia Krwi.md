@@ -5,6 +5,7 @@ tags:
   - forbidden-knowledge
   - lore
 book: Arcanum Sanguinis
+publish: tests-pending
 ---
 ## Spis Treści
 - [Wstęp](#Wstęp)

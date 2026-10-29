@@ -5,6 +5,7 @@ tags:
   - golem
 aliases:
   - Metalowy Golem
+publish: tests-pending
 ---
 # Metalowy Golem
 

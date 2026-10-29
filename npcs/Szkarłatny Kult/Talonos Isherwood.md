@@ -6,6 +6,7 @@ tags:
   - sacred-magic
   - student
   - crimson-cult
+publish: campaign-only
 ---
 | **Zdjęcie**             | <img src="../../_assets/characters/TalonosIsherwood_Full.webp" width="200" alt="TalonosIsherwood_Full.webp"> |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |

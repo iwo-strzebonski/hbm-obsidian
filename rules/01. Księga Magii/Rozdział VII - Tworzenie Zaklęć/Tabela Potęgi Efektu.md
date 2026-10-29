@@ -5,6 +5,7 @@ tags:
   - spell-creation
 aliases:
   - Tabela Potęgi Efektu
+publish: tests-pending
 ---
 Ta tabela dotyczy zarówno bazowego efektu zaklęcia, jak i (osobno) bonusów z opcji Nadczarowania, jeśli te skalują się kością zamiast stałą wartością.
 

@@ -16,6 +16,7 @@ targets: Jedna istota (żywa lub nieumarła)
 duration: Instant
 overcast:
   - +10 m zasięgu
+publish: tests-pending
 ---
 # Zguba
 

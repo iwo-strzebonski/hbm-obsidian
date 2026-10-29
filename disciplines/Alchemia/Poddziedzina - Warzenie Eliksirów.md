@@ -6,6 +6,7 @@ tags:
   - academic-magic
 aliases:
   - Alchemia (Warzenie Eliksirów)
+publish: tests-pending
 ---
 Spis treści
 - [Wstęp](#Wstęp)

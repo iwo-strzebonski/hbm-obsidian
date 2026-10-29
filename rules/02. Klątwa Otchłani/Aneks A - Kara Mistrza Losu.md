@@ -5,6 +5,7 @@ tags:
   - abyss-magic
 aliases:
   - Aneks A - Kara Mistrza Losu
+publish: tests-pending
 ---
 Czasem zdarza się tak, że Postacie nie wykonują czynności, które powinny, niszcząc zgodność fabularną ustaloną przez tajemniczą istotę zwaną Mistrzem Losu.
 

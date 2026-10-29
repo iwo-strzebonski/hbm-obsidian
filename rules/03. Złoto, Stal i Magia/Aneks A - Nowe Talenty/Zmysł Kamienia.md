@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Zmysł Kamienia
+publish: tests-pending
 ---
 *Wymagania: Rasa (Krasnolud)*
 

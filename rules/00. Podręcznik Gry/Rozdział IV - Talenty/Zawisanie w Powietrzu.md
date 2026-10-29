@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - talent
+publish: tests-pending
 ---
 Wymagania: Zdolność do latania (np. skrzydła lub zaklęcie Lot)
 

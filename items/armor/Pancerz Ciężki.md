@@ -4,6 +4,7 @@ tags:
 armor_points: '3'
 requirements: 'Ciało >= 4'
 traits: 'Hałaśliwy'
+publish: tests-pending
 ---
 # Pancerz Ciężki
 

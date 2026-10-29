@@ -3,6 +3,7 @@ tags:
   - rule
   - podrecznik-gry
   - skills
+publish: tests-pending
 ---
 W nawiasach podane są Atrybuty, które najczęściej będą wykorzystywane. Nie oznacza to jednak, że dana umiejętność ma na stałe przypisany dany Atrybut. O kombinacji Atrybut-Umiejętność decyduje Mistrz Gry, ale Gracze mogą proponować mu (bardziej opłacalne dla nich!) kombinacje.
 

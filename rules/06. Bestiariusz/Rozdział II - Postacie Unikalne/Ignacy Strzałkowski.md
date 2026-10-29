@@ -9,6 +9,7 @@ aliases:
   - Ignacy Strzałkowski
   - Ignacy
 status: draft
+publish: campaign-only
 ---
 # Ignacy Strzałkowski
 

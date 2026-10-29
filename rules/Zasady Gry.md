@@ -1,6 +1,7 @@
 ---
 aliases: ["Zasady", "Rules", "Mechanika"]
 tags: [moc, hub, rules]
+publish: tests-pending
 ---
 # Zasady Gry
 

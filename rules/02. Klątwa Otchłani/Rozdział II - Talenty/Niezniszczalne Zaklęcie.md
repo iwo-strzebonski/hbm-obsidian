@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Niezniszczalne Zaklęcie
+publish: tests-pending
 ---
 **Koszt**: 1 Punkt Metamagii
 

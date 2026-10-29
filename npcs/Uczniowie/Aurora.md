@@ -9,6 +9,7 @@ tags:
 aliases:
   - Aurora Nylabelle
   - Księżniczka Aurora
+publish: campaign-only
 ---
 | **Zdjęcie**             | <img src="../../_assets/characters/Aurora_Full.webp" width="200" alt="Aurora_Full.webp"> |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

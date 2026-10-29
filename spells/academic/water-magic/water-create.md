@@ -19,6 +19,7 @@ targets: 1 litr wody
 duration: 10 minut
 overcast:
   - +10 minut trwania lub +1 litr wody
+publish: tests-pending
 ---
 # Tworzenie i Kontrolowanie Wody
 

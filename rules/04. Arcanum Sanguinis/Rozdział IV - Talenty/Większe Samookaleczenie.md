@@ -5,6 +5,7 @@ tags:
   - blood-magic
 aliases:
   - Większe Samookaleczenie
+publish: tests-pending
 ---
 *Ta Akcja zastępuje Akcję "Samookaleczenie"*
 **Koszt**: Akcja Natychmiastowa

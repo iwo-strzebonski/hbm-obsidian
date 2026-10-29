@@ -4,6 +4,7 @@ tags:
   - artifact
   - crimson-cult
 wound: slashing
+publish: tests-pending
 ---
 
 # Miecz Taumiczny

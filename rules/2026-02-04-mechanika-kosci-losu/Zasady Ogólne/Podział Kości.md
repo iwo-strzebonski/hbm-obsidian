@@ -5,6 +5,7 @@ tags:
   - dice-subsystem
 aliases:
   - Podział Kości
+publish: tests-pending
 ---
 Kości Losu dzielą się na dwa rodzaje:
 

@@ -6,6 +6,7 @@ tags:
   - generic-enemy
 aliases:
   - Bandyta
+publish: tests-pending
 ---
 # Zbir
 

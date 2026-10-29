@@ -22,6 +22,7 @@ duration: Zaklęcie zaczyna działać, gdy dowolna istota wejdzie w dany obszar 
 damageBase: magicalAbilities
 overcast:
   - +1k3 punktów Obrażeń
+publish: tests-pending
 ---
 # Skalista Pułapka
 

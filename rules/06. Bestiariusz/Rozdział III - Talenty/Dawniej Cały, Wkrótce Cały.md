@@ -6,6 +6,7 @@ tags:
   - crimson-cult
 aliases:
   - Dawniej Cały, Wkrótce Cały
+publish: tests-pending
 ---
 Wielki Taumaturg utracił ciało, a jego dusza została rozdarta na strzępy - jednak dzięki działaniom Szkarłatnego Kultu z dnia na dzień odzyskuje coraz więcej swoich mocy.
 

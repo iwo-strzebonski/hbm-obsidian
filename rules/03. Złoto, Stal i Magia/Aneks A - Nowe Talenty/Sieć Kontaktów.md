@@ -5,6 +5,7 @@ tags:
   - talent
 aliases:
   - Sieć Kontaktów
+publish: tests-pending
 ---
 *Wymagania: Przekonywanie (2), Wiedza Ogólna (2)*
 

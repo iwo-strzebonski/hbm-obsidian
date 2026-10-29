@@ -5,6 +5,7 @@ tags:
   - blood-magic
 aliases:
   - Samookaleczenie
+publish: tests-pending
 ---
 - **Koszt**: Akcja
 
