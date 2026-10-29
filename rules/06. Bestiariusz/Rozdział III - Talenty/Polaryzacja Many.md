@@ -1,0 +1,17 @@
+---
+tags:
+  - rule
+  - bestiariusz
+  - npc-talent
+  - golemancy
+aliases:
+  - Polaryzacja Many
+---
+Taumium to żelazo nasycone maną, a taki metal potrafi coś, czego nie umie zwykły: zmienić swoje „ułożenie" względem otaczającej go many i na moment przestać istnieć w jednym miejscu, żeby pojawić się w innym.
+
+Raz na rundę, jako Akcja i za 3 punkty Many, golem z taumium, w którym przebywa dusza golemancera (patrz [Wędrówka Duszy](Wędrówka%20Duszy.md)), może zniknąć i pojawić się w dowolnie wskazanym miejscu, które zna lub widzi. Nie wymaga to Testu, ale oba miejsca muszą spełniać dwa warunki:
+
+- **Dość wolnej many.** W miejscu wyjścia i w miejscu docelowym musi być wystarczająco dużo many w otoczeniu. Mistrz Gry uznaje za takie wszystkie miejsca nasycone magią, na przykład całe terytorium Wschodnioeuropejskiej Szkoły Magii; miejsca wyjałowione (na przykład przez Magię Krwi), puste i oddalone od źródeł magii nie nadają się do tego.
+- **Połączone pole many.** Oba miejsca muszą leżeć w tym samym, ciągłym polu many. Z jednego krańca szkoły na drugi da się przeskoczyć bez trudu, ale ze szkoły do Krakowa już nie, bo nic ich nie łączy.
+
+Golem przenosi tylko siebie i to, co niesie: nikogo ani niczego więcej nie zabierze. Nie może tego zrobić, gdy jest Unieruchomiony ([Chwyt](../../00.%20Podręcznik%20Gry/Rozdział%20V%20-%20Walka%20i%20Magia/Chwyt.md)) lub objęty Neutralizacją, a gdy zabraknie Many na koszt, Talent nie działa.

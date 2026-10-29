@@ -22,6 +22,9 @@ aliases:
 | **Tytuł(y)**            | *Nauczyciel w [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md); stypendysta grantu badawczego (od końca 2026 roku)*                                                                                              |
 | **Charakter**           | *Bystry, ale niezainteresowany teoriami magii; swoją wartość pokazuje w praktyce, zwłaszcza w Golemancji.*                                                                                                                                                |
 
+> [!info] Karta bojowa
+> Statystyki Ignacego (jego ciała i golema z taumium) oraz jego golemów znajdziesz w Bestiariuszu: [Ignacy Strzałkowski](../../rules/06.%20Bestiariusz/Rozdział%20II%20-%20Postacie%20Unikalne/Ignacy%20Strzałkowski.md).
+
 ## Opis
 
 Ignacy Strzałkowski urodził się w 2002 roku, a w 2023 roku trafił do [WeSM](../../locations/Ziemia%20%28Sol-3-1725%29/Wschodnioeuropejska%20Szkoła%20Magii.md). Uczniem był takim, jakiego nauczyciele rzadko wspominają z dumą: oceny miał raczej słabe, szczególnie z egzaminów teoretycznych. Nie wynikało to z braku zdolności, bo był bystry, ale z braku zainteresowania. Teorie magii zwyczajnie go nie obchodziły i nie zamierzał udawać, że jest inaczej.
