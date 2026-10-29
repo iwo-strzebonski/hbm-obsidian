@@ -124,7 +124,7 @@ Jak w Formie I (rzuca je w tej formie tylko wtedy, gdy musi, na przykład żeby 
 ### Taktyka
 
 > [!gm]+ Tylko dla MG
-> W golemie Ignacy jest zupełnie innym przeciwnikiem. Wchodzi w starcie, podchodzi do najgroźniejszego przeciwnika i okłada go pięściami, wydając swoim tańszym golemom proste Rozkazy (Akcja Natychmiastowa): „atakuj tego", „blokuj tamtych". Zaklęć używa niechętnie, bo uważa, że po to ma pięści. Gdy zanosi się na przegraną, nie czeka na zniszczenie golema: Polaryzacją Many znika w innym miejscu szkoły, a golemy zostają, by kupić mu czas. Polaryzacja działa nawet w Chwycie czy w więzach, więc nic jej nie zatrzyma poza [Negacja](../../../spells/academic/necromancy/negation.md) i miejscami bez wolnej many. Dopiero gdy nie ma dokąd uciec (miejsce bez Many, Negacja), wraca do Formy I.
+> W golemie Ignacy jest zupełnie innym przeciwnikiem. Wchodzi w starcie, podchodzi do najgroźniejszego przeciwnika i okłada go pięściami, wydając swoim tańszym golemom proste Rozkazy (Akcja Natychmiastowa): „atakuj tego", „blokuj tamtych". Zaklęć używa niechętnie, bo uważa, że po to ma pięści. Gdy zanosi się na przegraną, nie czeka na zniszczenie golema: Polaryzacją Many znika w innym miejscu szkoły, a golemy zostają, by kupić mu czas. Polaryzacja działa nawet w Chwycie czy w więzach, więc nic jej nie zatrzyma poza [Negacja](../../../spells/academic/necromancy/negation.md), [Neutralizacja](../../../spells/eldritch/neutralization.md) i miejscami bez wolnej many. Dopiero gdy nie ma dokąd uciec (miejsce bez Many, Negacja, Neutralizacja), wraca do Formy I.
 
 ## Świta golemów
 
