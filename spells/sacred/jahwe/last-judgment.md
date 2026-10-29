@@ -5,6 +5,7 @@ tags:
   - jahwe
 castingMode: sacred
 school: sacred
+category: Obrażenia
 deity: jahwe
 sourceBook: ksiega-magii
 manaCost: 8

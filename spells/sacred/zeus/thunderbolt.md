@@ -5,6 +5,7 @@ tags:
   - zeus
 castingMode: sacred
 school: sacred
+category: Obrażenia
 deity: zeus
 sourceBook: ksiega-magii
 manaCost: 6

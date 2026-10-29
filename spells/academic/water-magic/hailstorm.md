@@ -5,6 +5,7 @@ tags:
   - water-magic
 castingMode: standard
 school: elementsWater
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 5
 threshold: 5

@@ -4,6 +4,7 @@ tags:
   - general
 castingMode: standard
 school: general
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 3
 threshold: 5

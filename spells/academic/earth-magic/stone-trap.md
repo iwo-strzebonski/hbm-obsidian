@@ -5,6 +5,7 @@ tags:
   - earth-magic
 castingMode: standard
 school: elementsEarth
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 4
 threshold: 5

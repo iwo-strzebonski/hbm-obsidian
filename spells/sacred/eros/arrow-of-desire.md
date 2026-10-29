@@ -5,6 +5,7 @@ tags:
   - eros
 castingMode: sacred
 school: sacred
+category: Obrażenia
 deity: eros
 sourceBook: ksiega-magii
 manaCost: 3

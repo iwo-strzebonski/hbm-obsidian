@@ -5,6 +5,7 @@ tags:
   - superspells
 castingMode: standard
 school: general
+category: Obrażenia
 sourceBook: crimson-cult
 manaCost: 25
 threshold: 6

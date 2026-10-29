@@ -5,6 +5,7 @@ tags:
   - air-magic
 castingMode: standard
 school: elementsAir
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 2
 threshold: 5

@@ -5,6 +5,7 @@ tags:
   - superspells
 castingMode: standard
 school: general
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 20
 threshold: 6

@@ -4,6 +4,7 @@ tags:
   - eldritch
 castingMode: standard
 school: eldritch
+category: Obrażenia
 sourceBook: klatwa-otchlani
 manaCost: 3
 threshold: 5

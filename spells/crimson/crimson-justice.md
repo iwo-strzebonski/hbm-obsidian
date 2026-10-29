@@ -4,6 +4,7 @@ tags:
   - crimson
 castingMode: standard
 school: crimson
+category: Obrażenia
 sourceBook: crimson-cult
 manaCost: 5
 threshold: 5

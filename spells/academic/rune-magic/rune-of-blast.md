@@ -5,6 +5,7 @@ tags:
   - rune-magic
 castingMode: standard
 school: runic
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 5
 threshold: 5

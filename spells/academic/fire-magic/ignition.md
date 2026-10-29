@@ -5,6 +5,7 @@ tags:
   - fire-magic
 castingMode: standard
 school: elementsFire
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 3
 threshold: 5
