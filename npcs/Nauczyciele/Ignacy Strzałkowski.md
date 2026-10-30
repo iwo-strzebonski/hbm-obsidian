@@ -47,7 +47,7 @@ Wykorzystując swoją pozycję nauczyciela, przekonał obecnego dyrektora, [Pela
 
 ## Relacje
 
-- **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - starsza od niego o rok. Chciała grant badawczy, który dostał Ignacy. Ignacy czasem naśmiewa się z niej, że zaczął uczyć o semestr wcześniej, ale tylko żartem: od pewnego czasu nawet Diana zaczęła zamawiać u niego rzeczy za szkolne pieniądze. Diana może i jest geniuszem, ale nienawidzi księgowości - a Ignacy niewiele rzeczy kocha bardziej niż wpływy na konto i arkusze kalkulacyjne.
+- **[Diana Koniecpolska](../Kult%20Otchłani/Diana%20Koniecpolska.md)** - starsza od niego o rok, choć uczył się rok wyżej niż ona. Poznali się w 2024 roku w półfinale szkolnego turnieju, gdzie walczyli przeciwko sobie, a Ignacy o włos uniknął trafienia artefaktem Diany. Chciała grant badawczy, który dostał Ignacy. Ignacy czasem naśmiewa się z niej, że zaczął uczyć o semestr wcześniej, ale tylko żartem: od pewnego czasu nawet Diana zaczęła zamawiać u niego rzeczy za szkolne pieniądze. Diana może i jest geniuszem, ale nienawidzi księgowości - a Ignacy niewiele rzeczy kocha bardziej niż wpływy na konto i arkusze kalkulacyjne.
 - **[Pelagius Caudex](Pelagius%20Caudex.md)** - dyrektor, który zgodził się przetestować ArtiCAD w szkole jako oprogramowanie „małego polskiego start-upu”.
 - **Dawni nauczyciele** - zaskoczeni i zdezorientowani jego zatrudnieniem, bo pamiętają jego niezbyt dobre oceny.
 - **Uczniowie** - lubią go, choć bywa surowy.
