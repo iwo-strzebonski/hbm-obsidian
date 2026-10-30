@@ -2,10 +2,12 @@
 tags: [concept, entities, lore]
 aliases: [Posłańcy, Istoty Pośredniczące]
 status: draft
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 
-# Posłańcy Otchłani (Harbringers of the Abyss)
+# Posłańcy Otchłani
 
 ## Definicja
 Posłańcy Otchłani to śmiertelnicy wybrani przez jedną z trzech Personifikacji Otchłani - Nil, Mundus lub Tempusa - jako Awatara. Każda Personifikacja Otchłani posiada zawsze dwóch Posłańców, którzy działają jako jej narzędzie, głos i wykonawca w świecie materialnym.

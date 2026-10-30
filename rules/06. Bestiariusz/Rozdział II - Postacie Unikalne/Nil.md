@@ -9,6 +9,8 @@ tags:
 aliases:
   - Nil
 status: draft
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Nil
 
@@ -68,7 +70,7 @@ Jako Ruch, zamiast zwykłego przemieszczania się, Nil może się teleportować 
 - [Zamiar](../Rozdział%20III%20-%20Talenty/Zamiar.md) - swobodnie wybiera właściwości swoich Ataków (niszczenie/ignorowanie Pancerza, Run, Osłon, zerowe Obrażenia, wymuszony Test Obłędu).
 - [Nieuchronność](../Rozdział%20III%20-%20Talenty/Nieuchronność.md) - jej Ataki i zaklęcia są domyślnie Nieunikalne i Nieprzerywalne.
 - [Mackowate Więzy Otchłani](../Rozdział%20III%20-%20Talenty/Mackowate%20Więzy%20Otchłani.md) - jej podstawowy Atak w tej formie (unikalny).
-- [Więcej, Niż Zniesie Śmiertelny Umysł](../Rozdział%20III%20-%20Talenty/Więcej%2C%20Niż%20Zniesie%20Śmiertelny%20Umysł.md) - utrata bardzo dużej ilości punktów Żywotności od jej Ataku może wywołać Punkty Obłędu.
+- [Więcej, Niż Zniesie Śmiertelny Umysł](../Rozdział%20III%20-%20Talenty/Więcej,%20Niż%20Zniesie%20Śmiertelny%20Umysł.md) - utrata bardzo dużej ilości punktów Żywotności od jej Ataku może wywołać Punkty Obłędu.
 - [Nie do Zabicia](../Rozdział%20III%20-%20Talenty/Nie%20do%20Zabicia.md) - podwojona Żywotność.
 
 #### Zaklęcia znane

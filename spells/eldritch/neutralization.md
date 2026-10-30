@@ -14,10 +14,12 @@ targets: '1'
 duration: 2 rundy
 overcast:
   - +1 runda trwania
+publish: tests-pending
+authorship: ai-draft
 ---
 # Neutralizacja
 
-Mag wybiera postać, którą przeszywa dziwna, niezrozummiała energia.
+Mag wybiera postać, którą przeszywa dziwna, niezrozumiała energia.
 
 Cel na końcu swojej tury co turę do końca trwania zaklęcia otrzymuje tyle punktów obrażeń, ile wynosi wartość Atrybutu Umysł celu.
 

@@ -5,6 +5,7 @@ tags:
   - common-prayers
 castingMode: sacred
 school: sacred
+category: Obrażenia
 deity: common
 sourceBook: ksiega-magii
 manaCost: 2
@@ -19,11 +20,13 @@ duration: Instant
 damageBase: magicalAbilities/2
 overcast:
   - +1k2 punktów Obrażeń
+publish: tests-pending
+authorship: ai-draft
 ---
 # Boska Sprawiedliwość
 
 Krótka, pełna żaru modlitwa wzywająca boską sprawiedliwość przeciwko wrogom wiary.
 
-Mag kieruje boski gniew w wybrany przez siebie cel, który otrzymuje ilość obrażeń równą zaokrągloną w górę połowie wartości Zdolności Magiczne lub Oddanie maga. Jeżeli jest innowiercą, otrzymuje dodatkowe 1k6 obrażeń.
+Mag kieruje boski gniew w wybrany przez siebie cel, który otrzymuje ilość obrażeń równą zaokrągloną w górę połowie wartości Umiejętności Zdolności Magiczne lub Oddanie maga. Jeżeli jest innowiercą, otrzymuje dodatkowe 1k6 obrażeń.
 
 ---

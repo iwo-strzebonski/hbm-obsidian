@@ -7,6 +7,8 @@ tags:
   - planet-earth
   - lore
 book: Przewodnik Ludzkości po Magicznym Świecie
+publish: needs-rewrite
+authorship: ai-draft
 ---
 
 | **Zdjęcie**                      | <img src="earth.jpg" width="200" alt="earth.jpg"> |
@@ -59,7 +61,7 @@ Jednakże współpraca ta nie była pozbawiona problemów. Pojawienie się elfó
 W tym nowym, zmagicalizowanym świecie, ludzie musieli nauczyć się nie tylko współżyć z nowymi, potężnymi sąsiadami, ale także zrozumieć złożoność i konsekwencje posiadania magii. Wymiana wiedzy i doświadczeń między elfami a ludźmi otworzyła drzwi do niezbadanych dotąd dziedzin nauki i magii, sugerując, że przyszłość może przynieść jeszcze więcej nieoczekiwanych odkryć i wyzwań.
 ### Pojawienie się Feles i ich wpływ na ekologię
 
-23 stycznia 2024 roku otworzyło nowy rozdział w historii kontaktów międzygatunkowych na Ziemi, kiedy to ludzkość oficjalnie poznała przedstawicieli [Feles](../../races/Feles.md). Ta ukrywająca się dotąd rasa, zamieszkująca lasy Ziemi od tysiącleci, postanowiła ujawnić swoją obecność w obliczu nowych wyzwań i zagrożeń. Motywacją do tego kroku była chęć ochrony środowiska naturalnego przed rosnącym wpływem korporacji i zniszczeniem, któremu lasy były coraz bardziej narażone. 
+23 stycznia 2024 roku otworzył nowy rozdział w historii kontaktów międzygatunkowych na Ziemi, kiedy to ludzkość oficjalnie poznała przedstawicieli [Feles](../../races/Feles.md). Ta ukrywająca się dotąd rasa, zamieszkująca lasy Ziemi od tysiącleci, postanowiła ujawnić swoją obecność w obliczu nowych wyzwań i zagrożeń. Motywacją do tego kroku była chęć ochrony środowiska naturalnego przed rosnącym wpływem korporacji i zniszczeniem, któremu lasy były coraz bardziej narażone. 
 
 > **Feles - rasa pierwotnie ukrywająca się na Ziemi**
 > Ujawnili swoją obecność w odpowiedzi na zagrożenia ekologiczne. Ich magia jest silnie związana z naturą i Ziemią.

@@ -9,6 +9,8 @@ tags:
 aliases:
   - Xillith Isherwood
 status: draft
+publish: needs-rewrite
+authorship: ai-draft
 ---
 # Xillith Isherwood
 
@@ -27,8 +29,8 @@ Ta karta nie przedstawia współczesnego Xillitha - to jego dawna, porzucona for
 | 7 | 5 | 5 | 4 |
 
 | Żywotność | Mana | Pancerz | Runiczny Pancerz | Inicjatywa | Zapał | Szybkość |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 34 | 30 | 1 | - | 2k6+7 | 3 | 10 m |
+| :-------: | :--: | :-----: | :--------------: | :--------: | :---: | :------: |
+|    34     |  30  |    1    |        -         |   2k6+7    |   3   |   10 m   |
 
 #### Umiejętności
 

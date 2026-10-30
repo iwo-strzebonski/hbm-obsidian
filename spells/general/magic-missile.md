@@ -4,6 +4,7 @@ tags:
   - general
 castingMode: standard
 school: general
+category: Obrażenia
 sourceBook: ksiega-magii
 manaCost: 1
 threshold: 4
@@ -12,11 +13,13 @@ symbols:
   - Potentia
 castingTime: Instant
 range: 15 m
-targets: '1'
+targets: "1"
 duration: Instant
 damageBase: magicalAbilities/2
 overcast:
-  - +1 punkt Obrażeń (najwyżej dwa Poziomy Nadczarowania)
+  - +1 punkt Obrażeń
+publish: tests-pending
+authorship: ai-draft
 ---
 # Magiczny Pocisk
 
